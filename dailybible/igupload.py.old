@@ -1,0 +1,226 @@
+#!/usr/bin/env python3
+
+import sys
+import os
+import json
+import time
+import logging
+import requests
+import threading
+import subprocess
+import re
+import socket
+from urllib.parse import quote
+from dotenv import load_dotenv
+from http.server import ThreadingHTTPServer, SimpleHTTPRequestHandler
+
+load_dotenv()
+logging.basicConfig(level=logging.DEBUG, format='%(asctime)s - %(levelname)s - %(message)s')
+
+APP_ID = os.getenv('APP_ID')
+APP_SECRET = os.getenv('APP_SECRET')
+SHORT_LIVED_TOKEN = os.getenv('SHORT_LIVED_TOKEN')
+INSTAGRAM_ACCOUNT_ID = os.getenv('INSTAGRAM_ACCOUNT_ID')
+PUBLIC_IP = os.getenv('PUBLIC_IP', '127.0.0.1')
+BASE_HTTP_PORT = int(os.getenv('HTTP_PORT', '8100'))
+
+TOKEN_RETRIES = 5
+RETRY_BACKOFF = [1, 2, 4, 8, 16]  # seconds
+
+def get_access_token():
+    url = "https://graph.facebook.com/oauth/access_token"
+    params = {
+        "grant_type": "fb_exchange_token",
+        "client_id": APP_ID,
+        "client_secret": APP_SECRET,
+        "fb_exchange_token": SHORT_LIVED_TOKEN
+    }
+    for attempt in range(1, TOKEN_RETRIES + 1):
+        logging.debug(f"Token attempt {attempt}: {url} with params {params}")
+        resp = requests.get(url, params=params)
+        logging.debug(f"Token response status: {resp.status_code}, body: {resp.text}")
+        if resp.status_code == 200:
+            data = resp.json()
+            token = data.get("access_token")
+            if token:
+                return token
+            logging.error(f"No access_token in response: {resp.text}")
+            sys.exit(1)
+        else:
+            err = resp.json().get("error", {})
+            if err.get("is_transient") and attempt < TOKEN_RETRIES:
+                wait = RETRY_BACKOFF[attempt-1]
+                logging.warning(f"Transient error, retrying in {wait}s...")
+                time.sleep(wait)
+                continue
+            logging.error(f"Error fetching token: {resp.text}")
+            sys.exit(1)
+    logging.error("Token fetch failed after retries.")
+    sys.exit(1)
+
+def transcode_for_instagram(input_path):
+    base, ext = os.path.splitext(input_path)
+    output_path = f"{base}_ig.mp4"
+    if os.path.exists(output_path):
+        logging.info(f"Using existing transcoded file: {output_path}")
+        return output_path
+    logging.info(f"Transcoding {input_path} for Instagram compatibility...")
+    cmd = [
+        "ffmpeg", "-i", input_path,
+        "-c:v", "libx264", "-profile:v", "baseline", "-level", "3.0",
+        "-pix_fmt", "yuv420p",
+        "-c:a", "aac", "-b:a", "128k",
+        "-movflags", "+faststart",
+        output_path
+    ]
+    result = subprocess.run(cmd, stdout=subprocess.PIPE, stderr=subprocess.PIPE)
+    if result.returncode != 0:
+        logging.error(f"FFmpeg transcoding failed:\n{result.stderr.decode()}")
+        sys.exit(1)
+    logging.info(f"Transcoding complete: {output_path}")
+    return output_path
+
+class RangeHTTPRequestHandler(SimpleHTTPRequestHandler):
+    def send_head(self):
+        path = self.translate_path(self.path)
+        if os.path.isdir(path):
+            return super().send_head()
+        ctype = self.guess_type(path)
+        try:
+            f = open(path, 'rb')
+        except OSError:
+            self.send_error(404, "File not found")
+            return None
+        fs = os.fstat(f.fileno())
+        size = fs.st_size
+        start, end = 0, size - 1
+        if "Range" in self.headers:
+            m = re.match(r"bytes=(\\d+)-(\\d*)", self.headers["Range"])
+            if m:
+                start = int(m.group(1))
+                if m.group(2):
+                    end = int(m.group(2))
+            if start > end or start < 0 or end >= size:
+                self.send_error(416, "Requested Range Not Satisfiable")
+                return None
+            self.send_response(206)
+            self.send_header("Content-Range", f"bytes {start}-{end}/{size}")
+            length = end - start + 1
+        else:
+            self.send_response(200)
+            length = size
+        self.send_header("Content-Type", ctype)
+        self.send_header("Content-Length", str(length))
+        self.send_header("Accept-Ranges", "bytes")
+        self.end_headers()
+        self.range = (start, end)
+        return f
+
+    def copyfile(self, source, outputfile):
+        start, end = getattr(self, 'range', (0, None))
+        remaining = None if end is None else (end - start + 1)
+        bufsize = 64 * 1024
+        while True:
+            chunk = source.read(bufsize if remaining is None else min(bufsize, remaining))
+            if not chunk:
+                break
+            outputfile.write(chunk)
+            if remaining is not None:
+                remaining -= len(chunk)
+                if remaining <= 0:
+                    break
+
+def find_free_port(start_port):
+    port = start_port
+    while port < start_port + 100:
+        with socket.socket(socket.AF_INET, socket.SOCK_STREAM) as s:
+            try:
+                s.bind(('', port))
+                return port
+            except OSError:
+                port += 1
+    logging.error("No free HTTP ports available.")
+    sys.exit(1)
+
+def upload(json_path):
+    if not all([APP_ID, APP_SECRET, SHORT_LIVED_TOKEN, INSTAGRAM_ACCOUNT_ID]):
+        logging.error("Missing Instagram credentials.")
+        sys.exit(1)
+    if not os.path.exists(json_path):
+        logging.error(f"JSON file not found: {json_path}")
+        sys.exit(1)
+
+    token = get_access_token()
+    with open(json_path, encoding='utf-8') as f:
+        metadata = json.load(f)
+
+    video_file = metadata.get("final_video")
+    video_file = transcode_for_instagram(video_file)
+
+    social = metadata.get("social_media", {})
+    title = social.get("title", "")
+    description = social.get("description", "")
+    tags = social.get("tags", [])
+
+    caption_parts = [title, description]
+    if tags:
+        caption_parts.append(", ".join(tags[:30]))
+    yt_url = next((p for p in description.split() if p.startswith("https://youtu")), None)
+    if yt_url:
+        caption_parts.append(f"Watch on YouTube: {yt_url}")
+
+    caption = "\n\n".join([p for p in caption_parts if p])
+    if len(caption) > 2200:
+        caption = caption[:2197] + "..."
+
+    logging.info(f"Caption length: {len(caption)}")
+
+    dirname, basename = os.path.split(video_file)
+    safe_name = quote(basename)
+    os.chdir(dirname)
+    port = find_free_port(BASE_HTTP_PORT)
+    server_address = ('', port)
+    httpd = ThreadingHTTPServer(server_address, RangeHTTPRequestHandler)
+    thread = threading.Thread(target=httpd.serve_forever)
+    thread.daemon = True
+    thread.start()
+    time.sleep(1)
+    public_url = f"http://{PUBLIC_IP}:{port}/{safe_name}"
+    logging.info(f"Serving video at: {public_url}")
+
+    try:
+        media_url = f"https://graph.facebook.com/v17.0/{INSTAGRAM_ACCOUNT_ID}/media"
+        payload = {
+            "media_type": "REELS",
+            "video_url": public_url,
+            "caption": caption,
+            "access_token": token
+        }
+        logging.debug(f"Media creation payload: {json.dumps(payload)}")
+        resp = requests.post(media_url, json=payload)
+        if resp.status_code != 200:
+            logging.error(f"Media creation failed: {resp.status_code} {resp.text}")
+            sys.exit(1)
+        creation_id = resp.json().get("id")
+        logging.info(f"Media created: {creation_id}")
+
+        publish_url = f"https://graph.facebook.com/v17.0/{INSTAGRAM_ACCOUNT_ID}/media_publish"
+        for attempt in range(1, 16):
+            pr = requests.post(publish_url, data={"creation_id": creation_id, "access_token": token})
+            logging.debug(f"Publish attempt {attempt}: {pr.status_code} {pr.text}")
+            if pr.status_code == 200:
+                logging.info("Instagram upload succeeded.")
+                print(pr.json())
+                return
+            time.sleep(10)
+        logging.error("Publish failed after retries.")
+        sys.exit(1)
+    finally:
+        httpd.shutdown()
+        thread.join()
+
+if __name__ == "__main__":
+    if len(sys.argv) != 2:
+        print("Usage: python igupload.py <path_to_json>")
+        sys.exit(1)
+    upload(sys.argv[1])

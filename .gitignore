@@ -1,0 +1,70 @@
+# =========================
+# Virtual Environments
+# =========================
+.venv/
+**/.venv/
+
+venv/
+**/venv/
+
+env/
+**/env/
+
+# =========================
+# Generated Output Folders
+# =========================
+visuals/
+**/visuals/
+
+ready/
+**/ready/
+
+final/
+**/final/
+
+output/
+**/output/
+
+# =========================
+# Python Cache / Artifacts
+# =========================
+__pycache__/
+**/__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# =========================
+# Logs & Temp Files
+# =========================
+*.log
+*.tmp
+*.swp
+*.bak
+
+# =========================
+# OS junk
+# =========================
+.DS_Store
+Thumbs.db
+
+# =========================
+# HuggingFace / Model Cache (optional but recommended)
+# =========================
+.cache/
+**/.cache/
+hf_cache/
+models/
+**/models/
+
+# =========================
+# Audio / Visual Outputs (optional safety)
+# =========================
+*.wav
+*.mp3
+*.flac
+*.mp4
+*.png
+*.jpg
+*.jpeg
+*.webp

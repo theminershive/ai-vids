@@ -1,0 +1,232 @@
+#!/usr/bin/env python3
+
+"""
+Full video-production pipeline
+"""
+
+import json
+import logging
+import os
+import subprocess
+import re
+from pathlib import Path
+from typing import Optional
+
+# Suppress PIL debug logs
+logging.getLogger("PIL").setLevel(logging.WARNING)
+
+from visuals import (
+    get_model_config_by_style,
+    generate_image,
+    poll_generation_status,
+    extract_image_url,
+    download_content,
+)
+from visuals_and_social import enrich_script, generate_social_media
+from tts import process_tts
+from video_assembler import assemble_video
+import captions
+
+from ytuploader import upload as upload_youtube   # noqa: E402
+from fbupload import upload as upload_facebook   # noqa: E402
+from igupload import upload as upload_instagram  # noqa: E402
+
+# ——— Logging ————————————————————————————————————————————————
+logging.basicConfig(level=logging.INFO, format="[%(levelname)s] %(message)s")
+
+# ——— Directories —————————————————————————————————————————————
+READY_DIR       = Path("ready")
+VISUALS_DIR     = Path("visuals")
+FINAL_VIDEO_DIR = Path("final")
+
+for d in (READY_DIR, VISUALS_DIR, FINAL_VIDEO_DIR):
+    d.mkdir(parents=True, exist_ok=True)
+
+# ——— Helper: sanitize visual prompts ——————————————————————————————————
+def sanitize_visual_prompt(prompt: str) -> str:
+    FILTER_KEYWORDS = {
+        r"\bnaked\b": "wearing fig-leaf coverings",
+        r"\bslain\b": "",
+        r"\bkilled\b": "",
+        r"\bblood\b": "red liquid",
+        r"\bdeath\b": "the act of ending life",
+        r"\binjured\b": "",
+        r"\bwound(?:ed|ing)?\b": "",
+        r"\bhurt(?:ed|ing)?\b": "",
+        r"\bchild\b": "figure",
+        r"\bchildren\b": "figures",
+        r"\bkid\b": "person",
+        r"\bminor\b": "individual",
+        r"\binfant\b": "figure",
+        r"\btoddler\b": "person",
+        r"\bbaby\b": "person",
+        r"\bteen(?:ager)?\b": "young person",
+        r"\byouth\b": "individual",
+        r"\bjuvenile\b": "individual",
+        r"\bunderage\b": "young individual",
+        r"\bchildlike\b": "figurative",
+        r"\bcp\b": "content",
+        r"\bchild\s*porn\b": "content",
+        r"\bincest\b": "content",
+        r"\brape\b": "act",
+        r"\bbeastiality\b": "content",
+        r"\bzoophilia\b": "content",
+        r"\bgore\b": "graphic",
+        r"\bbleeding\b": "graphic",
+        r"\bviolent\b": "aggressive",
+    }
+    sanitized = prompt
+    for pattern, replacement in FILTER_KEYWORDS.items():
+        sanitized = re.sub(pattern, replacement, sanitized, flags=re.IGNORECASE)
+    return sanitized
+
+# ——— Generate and download images ——————————————————————————————————
+def generate_and_download_images(script: dict) -> dict:
+    for section in script.get("sections", []):
+        segs = section.get("segments") or [
+            {
+                "segment_number": idx,
+                "narration": {"text": ns.get("narration", "")},
+                "visual": {"type": "image", "prompt": ns.get("visual_prompt", "")},
+            }
+            for idx, ns in enumerate(section.get("narration_segments", []), start=1)
+        ]
+        section["segments"] = segs
+
+        model_cfg = get_model_config_by_style(
+            script.get("settings", {}).get("image_generation_style", "")
+        )
+        for seg in segs:
+            raw_prompt = seg["visual"].get("prompt", "")
+            if not raw_prompt:
+                continue
+            prompt = sanitize_visual_prompt(raw_prompt)
+            gen_id = generate_image(prompt, model_cfg)
+            if not gen_id:
+                raise RuntimeError(f"Failed to start image generation for prompt: {prompt}")
+            data = poll_generation_status(gen_id)
+            if not data:
+                raise RuntimeError("Image generation did not complete.")
+            url = extract_image_url(data)
+            if not url:
+                raise RuntimeError("Could not extract image URL.")
+            img_file = VISUALS_DIR / f"section_{section.get('section_number',0)}_segment_{seg['segment_number']}.png"
+            download_content(url, str(img_file))
+            seg["visual"]["image_path"] = str(img_file)
+    return script
+
+# ——— Create captions —————————————————————————————————————————————
+def create_captions(video_path: str) -> Optional[list]:
+    try:
+        audio_temp = captions.extract_audio(video_path)
+        transcription = captions.transcribe_audio_whisper(audio_temp)
+        caps = captions.generate_captions_from_whisper(transcription)
+        Path(audio_temp).unlink(missing_ok=True)
+        return caps
+    except Exception as exc:
+        logging.warning(f"Captioning failed: {exc}")
+        return None
+
+# ——— Main pipeline —————————————————————————————————————————————
+def main():
+    logging.info("=== 1. assemble.py ====================================================")
+    subprocess.run(["python3", "assemble.py"], check=True)
+
+    ready_files = sorted(READY_DIR.glob("*.json"), key=lambda p: p.stat().st_mtime)
+    if not ready_files:
+        logging.error("No assembler JSON found in ./ready")
+        return
+    script_path = ready_files[-1]
+    logging.info(f"Using assembler JSON ? {script_path.name}")
+    script = json.loads(script_path.read_text(encoding="utf-8"))
+
+    logging.info("=== 2. Visual generation =============================================")
+    script = generate_and_download_images(script)
+
+    logging.info("=== 2.5 Enrich script ================================================")
+    script = enrich_script(script)
+
+    logging.info("=== 3. TTS generation ================================================")
+    script = process_tts(script)
+    script_path.write_text(json.dumps(script, indent=4), encoding="utf-8")
+
+    logging.info("=== 4. Video assembly ===============================================")
+    assemble_video(str(script_path))
+    assembled = json.loads(script_path.read_text(encoding="utf-8"))
+    final_vid = Path(assembled.get("final_video", ""))
+    if not final_vid.exists():
+        logging.error(f"assemble_video did not produce expected file: {final_vid}")
+        return
+
+    logging.info("=== 5. Whisper captioning ============================================")
+    cap_vid = final_vid.with_name(final_vid.stem + "_cap.mp4")
+    caps = create_captions(str(final_vid))
+    if caps:
+        try:
+            captions.add_captions_to_video(
+                input_video_path=str(final_vid),
+                transcription=caps,
+                output_video_path=str(cap_vid),
+            )
+        except Exception as exc:
+            logging.warning(f"Caption overlay failed: {exc}")
+    if not cap_vid.exists():
+        cap_vid = final_vid
+
+    logging.info("=== 6. Overlay text ==================================================")
+    out_path = FINAL_VIDEO_DIR / f"{script_path.stem}_final.mp4"
+    FINAL_VIDEO_DIR.mkdir(parents=True, exist_ok=True)
+    status = subprocess.run([
+        "python3", "overlay.py",
+        "--input_video", str(cap_vid),
+        "--output_video", str(out_path),
+        "--start_text", script.get("reference", ""),
+        "--end_text", "Thanks for watching! Subscribe!",
+        "--start_font_path", "Bangers-Regular.ttf",
+        "--end_font_path", "Bangers-Regular.ttf",
+        "--start_fontsize", "75",
+        "--end_fontsize", "75",
+        "--fade_in", "--fade_out",
+        str(script_path),
+    ])
+    if status.returncode != 0:
+        logging.error("overlay.py failed")
+        return
+    logging.info(f"Overlay complete ? {out_path}")
+
+    assembled["final_video"] = str(out_path)
+
+    # 7.9 Update title with hook logic via social generator
+    logging.info("=== Updating social title before upload =============================")
+    updated_social = generate_social_media(assembled)
+    assembled["social_media"] = updated_social
+    script_path.write_text(json.dumps(assembled, indent=4), encoding="utf-8")
+
+    # 8. Upload sequence
+    logging.info("=== 7. Uploading =====================================================")
+    try:
+        from oauth_get2 import refresh_token
+        refresh_token()
+        logging.info("OAuth refresh: SUCCESS")
+    except Exception as e:
+        logging.error(f"OAuth refresh failed: {e}")
+    try:
+        yt_url = upload_youtube(str(script_path))
+        logging.info(f"YouTube upload ? {yt_url}")
+    except Exception as exc:
+        logging.error(f"YouTube upload failed: {exc}")
+    try:
+        upload_facebook(str(script_path))
+        logging.info("Facebook upload ?")
+    except Exception as exc:
+        logging.error(f"Facebook upload failed: {exc}")
+    try:
+        upload_instagram(str(script_path))
+        logging.info("Instagram upload ?")
+    except Exception as exc:
+        logging.error(f"Instagram upload failed: {exc}")
+
+    logging.info("=== Pipeline finished successfully ====================================")
+
+if __name__ == "__main__":
+    main()

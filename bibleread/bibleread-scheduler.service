@@ -1,0 +1,28 @@
+[Unit]
+Description=LocalNeuron Scheduler
+After=network.target
+
+[Service]
+Type=simple
+User=trilobyte
+WorkingDirectory=/home/trilobyte/AIBots/BibleRead/
+
+# OPTIONAL: keep your venv up-to-date at each boot
+
+# Point systemd at your venv’s python binary (absolute path required)
+ExecStart=/home/trilobyte/AIBots/aibots/bin/python /home/trilobyte/AIBots/BibleRead/scheduler.py
+
+# ensure all child “python” calls also resolve into the venv
+Environment="VIRTUAL_ENV=/home/trilobyte/AIBots/aibots/"
+Environment="PATH=/home/trilobyte/AIBots/aibots/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin"
+
+# crash recovery
+Restart=always
+RestartSec=5
+
+# log stdout & stderr into the journal
+StandardOutput=journal
+StandardError=journal
+
+[Install]
+WantedBy=multi-user.target

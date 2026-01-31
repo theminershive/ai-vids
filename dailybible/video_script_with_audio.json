@@ -1,0 +1,174 @@
+{
+    "settings": {
+        "video_size": "1080x1920",
+        "use_transitions": true,
+        "use_background_music": true,
+        "background_music_type": "uplifting",
+        "image_generation_style": "Leonardo Phoenix 1.0",
+        "style_selection_reason": "Selected for its warm, respectful, and emotionally resonant style to honor Charlie Kirk."
+    },
+    "sections": [
+        {
+            "original_name": "Opening Tribute",
+            "title": "In Memory of Charlie Kirk",
+            "section_duration": 10,
+            "segments": [
+                {
+                    "segment_number": 1,
+                    "narration": {
+                        "text": "Today we pause in sorrow, remembering Charlie Kirk \u2014 a voice of conviction and faith, taken far too soon.",
+                        "start": 0,
+                        "duration": 10,
+                        "audio_path": "audio/section_1_segment_1.mp3"
+                    },
+                    "visual": {
+                        "type": "image",
+                        "prompt": "Soft sunrise sky over peaceful hills, glowing light symbolizing remembrance and faith. Subtle cross silhouette in the distance with gentle sparkles.",
+                        "start": 0,
+                        "duration": 10,
+                        "image_path": "visuals/section_1_segment_1.png"
+                    },
+                    "sound": {
+                        "transition_effect": "fade_in"
+                    }
+                }
+            ],
+            "section_number": 1
+        },
+        {
+            "original_name": "Psalm 34:18",
+            "title": "Psalm 34:18",
+            "section_duration": 12,
+            "segments": [
+                {
+                    "segment_number": 1,
+                    "narration": {
+                        "text": "The LORD is close to the brokenhearted and saves those who are crushed in spirit.",
+                        "start": 0,
+                        "duration": 12,
+                        "audio_path": "audio/section_2_segment_1.mp3"
+                    },
+                    "visual": {
+                        "type": "image",
+                        "prompt": "Calming woodland clearing with golden light filtering through trees, open Bible resting on a wooden bench, atmosphere of peace and hope.",
+                        "start": 0,
+                        "duration": 12,
+                        "image_path": "visuals/section_2_segment_1.png"
+                    },
+                    "sound": {
+                        "transition_effect": "soft_crossfade"
+                    }
+                }
+            ],
+            "section_number": 2
+        },
+        {
+            "original_name": "Matthew 5:4",
+            "title": "Matthew 5:4",
+            "section_duration": 12,
+            "segments": [
+                {
+                    "segment_number": 1,
+                    "narration": {
+                        "text": "Blessed are those who mourn, for they shall be comforted.",
+                        "start": 0,
+                        "duration": 12,
+                        "audio_path": "audio/section_3_segment_1.mp3"
+                    },
+                    "visual": {
+                        "type": "image",
+                        "prompt": "Quiet hillside at dusk, soft light with gentle doves in the distance, flowers in bloom symbolizing renewal and comfort.",
+                        "start": 0,
+                        "duration": 12,
+                        "image_path": "visuals/section_3_segment_1.png"
+                    },
+                    "sound": {
+                        "transition_effect": "gentle_fade"
+                    }
+                }
+            ],
+            "section_number": 3
+        },
+        {
+            "original_name": "John 14:1-3",
+            "title": "John 14:1-3",
+            "section_duration": 14,
+            "segments": [
+                {
+                    "segment_number": 1,
+                    "narration": {
+                        "text": "Do not let your hearts be troubled. Trust in God; trust also in me. In my Father\u2019s house are many rooms... I go to prepare a place for you.",
+                        "start": 0,
+                        "duration": 14,
+                        "audio_path": "audio/section_4_segment_1.mp3"
+                    },
+                    "visual": {
+                        "type": "image",
+                        "prompt": "Heavenly golden light shining over a peaceful path leading toward a radiant house on a hill, surrounded by blossoms and open skies, symbolic of eternal promise.",
+                        "start": 0,
+                        "duration": 14,
+                        "image_path": "visuals/section_4_segment_1.png"
+                    },
+                    "sound": {
+                        "transition_effect": "fade_in"
+                    }
+                }
+            ],
+            "section_number": 4
+        },
+        {
+            "original_name": "Reflection",
+            "title": "Faith Amid Grief",
+            "section_duration": 15,
+            "segments": [
+                {
+                    "segment_number": 1,
+                    "narration": {
+                        "text": "Though grief weighs heavy, faith reminds us we are never alone. God\u2019s presence comforts us even in the deepest sorrow.",
+                        "start": 0,
+                        "duration": 15,
+                        "audio_path": "audio/section_5_segment_1.mp3"
+                    },
+                    "visual": {
+                        "type": "image",
+                        "prompt": "Group of people in soft silhouette holding hands in prayer, candles glowing, light beams breaking through clouds, conveying hope and unity.",
+                        "start": 0,
+                        "duration": 15,
+                        "image_path": "visuals/section_5_segment_1.png"
+                    },
+                    "sound": {
+                        "transition_effect": "gentle_fade"
+                    }
+                }
+            ],
+            "section_number": 5
+        },
+        {
+            "original_name": "Closing",
+            "title": "Closing Blessing",
+            "section_duration": 10,
+            "segments": [
+                {
+                    "segment_number": 1,
+                    "narration": {
+                        "text": "May God\u2019s peace comfort all who mourn. Let us carry forward Charlie\u2019s faith, love, and courage.",
+                        "start": 0,
+                        "duration": 10,
+                        "audio_path": "audio/section_6_segment_1.mp3"
+                    },
+                    "visual": {
+                        "type": "image",
+                        "prompt": "Dove flying into a radiant sky filled with soft golden light, gentle heart motif glowing in the background, symbolic of peace and eternal hope.",
+                        "start": 0,
+                        "duration": 10,
+                        "image_path": "visuals/section_6_segment_1.png"
+                    },
+                    "sound": {
+                        "transition_effect": "fade_out"
+                    }
+                }
+            ],
+            "section_number": 6
+        }
+    ]
+}

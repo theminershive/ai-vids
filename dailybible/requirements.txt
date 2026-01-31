@@ -1,0 +1,15 @@
+openai==0.28
+python-dotenv
+requests
+moviepy==1.0.3
+numpy
+Pillow
+pysrt
+matplotlib
+requests
+beautifulsoup4
+pytrends
+google-api-python-client
+google-auth
+google-auth-oauthlib
+flask

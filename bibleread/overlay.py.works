@@ -1,0 +1,156 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+overlay_verses.py
+
+Overlay the Bible verse text and its reference name onto a video using assembler JSON.
+Allows independent font, size, position, text color, background color/opacity, padding,
+and custom output path via CLI flags.
+"""
+
+import sys
+import json
+import argparse
+from pathlib import Path
+from moviepy.editor import VideoFileClip, TextClip, CompositeVideoClip
+
+
+def overlay_verses(
+    video_path: Path,
+    json_path: Path,
+    output_path: Path,
+    name_font: str,
+    verse_font: str,
+    name_fontsize: int,
+    verse_fontsize: int,
+    text_color: str,
+    bg_color: tuple,
+    opacity: float,
+    name_pos,
+    verse_pos,
+    padding: int
+):
+    # Load assembler JSON
+    try:
+        config = json.loads(json_path.read_text(encoding='utf-8'))
+    except Exception as e:
+        print(f"Error reading JSON '{json_path}': {e}")
+        sys.exit(1)
+
+    section = config.get('sections', [])[0]
+    original_name = section.get('original_name', '')
+    verse_text = section.get('segments', [])[0].get('narration', {}).get('text', '')
+
+    # Load video
+    try:
+        video = VideoFileClip(str(video_path))
+    except Exception as e:
+        print(f"Error loading video '{video_path}': {e}")
+        sys.exit(1)
+
+    video_w, video_h = video.size
+    duration = video.duration
+
+    # Name overlay
+    name_clip = TextClip(
+        txt=original_name,
+        fontsize=name_fontsize,
+        font=name_font,
+        color=text_color,
+        method='caption',
+        size=(video_w - 2 * padding, None),
+        align='center'
+    )
+    name_bg = name_clip.on_color(
+        size=(name_clip.w + 2 * padding, name_clip.h + 2 * padding),
+        color=bg_color,
+        pos=('center', 'center'),
+        col_opacity=opacity
+    ).set_start(0).set_duration(duration)
+    name_bg = name_bg.set_position(name_pos)
+
+    # Verse overlay
+    verse_clip = TextClip(
+        txt=verse_text,
+        fontsize=verse_fontsize,
+        font=verse_font,
+        color=text_color,
+        method='caption',
+        size=(video_w - 2 * padding, None),
+        align='center'
+    )
+    verse_bg = verse_clip.on_color(
+        size=(verse_clip.w + 2 * padding, verse_clip.h + 2 * padding),
+        color=bg_color,
+        pos=('center', 'center'),
+        col_opacity=opacity
+    ).set_start(0).set_duration(duration)
+    verse_bg = verse_bg.set_position(verse_pos)
+
+    # Composite and write
+    composite = CompositeVideoClip([video, name_bg, verse_bg])
+    print(f"[INFO] Writing final video to: {output_path}")
+    composite.write_videofile(str(output_path), codec='libx264', audio_codec='aac')
+
+    # Update JSON with final video path
+    try:
+        config['final_video'] = str(output_path.resolve())
+        json_path.write_text(json.dumps(config, indent=2), encoding='utf-8')
+        print(f"[INFO] Updated JSON with final video path: {output_path.resolve()}")
+    except Exception as e:
+        print(f"[WARNING] Could not update JSON: {e}")
+
+
+def parse_position(pos_args, default):
+    if pos_args:
+        x, y = pos_args
+        try:
+            x_val = int(x)
+        except ValueError:
+            x_val = x
+        try:
+            y_val = int(y)
+        except ValueError:
+            y_val = y
+        return (x_val, y_val)
+    return default
+
+
+def main():
+    parser = argparse.ArgumentParser(description='Overlay verse text from assembler JSON.')
+    parser.add_argument('--json', '-j', required=True, help='Assembler JSON path')
+    parser.add_argument('--video', '-v', required=True, help='Input video path')
+    parser.add_argument('--output', '-o', required=True, help='Output video path')
+    parser.add_argument('--name_font', default='./BebasNeue-Regular.ttf', help='Font file for name')
+    parser.add_argument('--verse_font', default='./BebasNeue-Regular.ttf', help='Font file for verse')
+    parser.add_argument('--name_fontsize', type=int, default=90, help='Font size for name')
+    parser.add_argument('--verse_fontsize', type=int, default=50, help='Font size for verse')
+    parser.add_argument('--text_color', default='white', help='Text color')
+    parser.add_argument('--bg_color', nargs=3, type=int, default=[0, 0, 0], help='BG box RGB')
+    parser.add_argument('--opacity', type=float, default=0.6, help='BG opacity')
+    parser.add_argument('--padding', type=int, default=10, help='Padding around text')
+    parser.add_argument('--name_pos', nargs=2, metavar=('X', 'Y'), default=['center', '200'], help='Name position X Y')
+    parser.add_argument('--verse_pos', nargs=2, metavar=('X', 'Y'), default=['center', '650'], help='Verse position X Y')
+    args = parser.parse_args()
+
+    name_pos = parse_position(args.name_pos, ('center', args.padding))
+    verse_pos = parse_position(args.verse_pos, ('center', 'center'))
+    overlay_verses(
+        video_path=Path(args.video),
+        json_path=Path(args.json),
+        output_path=Path(args.output),
+        name_font=args.name_font,
+        verse_font=args.verse_font,
+        name_fontsize=args.name_fontsize,
+        verse_fontsize=args.verse_fontsize,
+        text_color=args.text_color,
+        bg_color=tuple(args.bg_color),
+        opacity=args.opacity,
+        name_pos=name_pos,
+        verse_pos=verse_pos,
+        padding=args.padding
+    )
+
+
+if __name__ == '__main__':
+    main()

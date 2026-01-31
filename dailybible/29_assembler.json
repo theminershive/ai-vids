@@ -1,0 +1,138 @@
+{
+  "settings": {
+    "video_size": "1080x1920",
+    "use_transitions": true,
+    "use_background_music": true,
+    "background_music_type": "uplifting",
+    "image_generation_style": "Leonardo Phoenix 1.0",
+    "style_selection_reason": "Selected based on script content."
+  },
+  "sections": [
+    {
+      "section_number": 1,
+      "title": "Genesis 4:20 \u2013 And Adah bare Jabal: he",
+      "section_duration": 10,
+      "segments": [
+        {
+          "segment_number": 1,
+          "narration": {
+            "text": "And Adah bare Jabal: he was the father of such as dwell in tents, and of such as have cattle.",
+            "start": 0,
+            "duration": 10,
+            "audio_path": "audio/section_1_segment_1.mp3"
+          },
+          "visual": {
+            "type": "image",
+            "prompt": "Vivid scene for: And Adah bare Jabal: he was the father of such as dwell in tents, and of such as have cattle.",
+            "start": 0,
+            "duration": 10,
+            "image_path": "visuals_output/29_assembler_1_1.png"
+          },
+          "sound": {
+            "transition_effect": "fade_in"
+          }
+        }
+      ]
+    },
+    {
+      "section_number": 2,
+      "title": "Genesis 4:21 \u2013 And his brother\u2019s name was",
+      "section_duration": 9,
+      "segments": [
+        {
+          "segment_number": 1,
+          "narration": {
+            "text": "And his brother\u2019s name was Jubal: he was the father of all such as handle the harp and organ.",
+            "start": 0,
+            "duration": 9,
+            "audio_path": "audio/section_2_segment_1.mp3"
+          },
+          "visual": {
+            "type": "image",
+            "prompt": "Vivid scene for: And his brother\u2019s name was Jubal: he was the father of all such as handle the harp and organ.",
+            "start": 0,
+            "duration": 9,
+            "image_path": "visuals_output/29_assembler_2_1.png"
+          },
+          "sound": {
+            "transition_effect": "fade_in"
+          }
+        }
+      ]
+    },
+    {
+      "section_number": 3,
+      "title": "Genesis 4:22 \u2013 And Zillah, she also bare",
+      "section_duration": 11,
+      "segments": [
+        {
+          "segment_number": 1,
+          "narration": {
+            "text": "And Zillah, she also bare Tubal\u2013cain, an instructer of every artificer in brass and iron: and the sister of Tubal\u2013cain was Naamah.",
+            "start": 0,
+            "duration": 11,
+            "audio_path": "audio/section_3_segment_1.mp3"
+          },
+          "visual": {
+            "type": "image",
+            "prompt": "Vivid scene for: And Zillah, she also bare Tubal\u2013cain, an instructer of every artificer in brass and iron: and the sister of Tubal\u2013cain was Naamah.",
+            "start": 0,
+            "duration": 11,
+            "image_path": "visuals_output/29_assembler_3_1.png"
+          },
+          "sound": {
+            "transition_effect": "fade_in"
+          }
+        }
+      ]
+    },
+    {
+      "section_number": 4,
+      "title": "Genesis 4:23 \u2013 And Lamech said unto his",
+      "section_duration": 15,
+      "segments": [
+        {
+          "segment_number": 1,
+          "narration": {
+            "text": "And Lamech said unto his wives, Adah and Zillah, Hear my voice; ye wives of Lamech, hearken unto my speech: for I have injured a man to my wounding, and a young man.",
+            "start": 0,
+            "duration": 15,
+            "audio_path": "audio/section_4_segment_1.mp3"
+          },
+          "visual": {
+            "type": "image",
+            "prompt": "Vivid scene for: And Lamech said unto his wives, Adah and Zillah, Hear my voice; ye wives of Lamech, hearken unto my speech: for I have slain a man to my wounding, and a young man to my hurt.",
+            "start": 0,
+            "duration": 15,
+            "image_path": "visuals_output/29_assembler_4_1.png"
+          },
+          "sound": {
+            "transition_effect": "fade_in"
+          }
+        }
+      ]
+    }
+  ],
+  "social_media": {
+    "title": "\ud83d\udcd6 Today's Verses: Genesis 4:20 \u2013 Genesis 4:23",
+    "description": "\ud83d\udcd6 Today's Verses: Genesis 4:20 \u2013 Genesis 4:23\n\n\u271d\ufe0f Welcome to Daily Bible Passages! We post 3 short Bible videos daily, featuring 3\u20135 verses each.\n\nGenesis 4:20 And Adah bare Jabal: he was the father of such as dwell in tents, and of such as have cattle.\n\nGenesis 4:21 And his brother\u2019s name was Jubal: he was the father of all such as handle the harp and organ.\n\nGenesis 4:22 And Zillah, she also bare Tubal\u2013cain, an instructer of every artificer in brass and iron: and the sister of Tubal\u2013cain was Naamah.\n\nGenesis 4:23 And Lamech said unto his wives, Adah and Zillah, Hear my voice; ye wives of Lamech, hearken unto my speech: for I have slain a man to my wounding, and a young man to my hurt.\n\n\ud83d\ude4c Subscribe and join our journey from Genesis to Revelation \u2014 one small passage at a time!\n\n\ud83d\udcd6 Follow Us:\n\u27a1\ufe0f YouTube: www.youtube.com/@biblepassagedaily\n\u27a1\ufe0f Instagram: instagram.com/thebibledailyyt\n\u27a1\ufe0f Facebook: www.facebook.com/profile.php?id=61575301427014\n\n#DailyBiblePassages #DailyScripture #BibleReading #FaithJourney #GenesisToRevelation",
+    "tags": [
+      "DailyBiblePassages",
+      "DailyScripture",
+      "BibleReading",
+      "FaithJourney",
+      "GenesisToRevelation",
+      "BibleVerse",
+      "ChristianContent",
+      "FaithQuotes",
+      "VerseOfTheDay",
+      "GodIsGood"
+    ]
+  },
+  "background_music_type": "uplifting",
+  "background_music_name": "uplifting",
+  "background_music": "uplifting",
+  "reference": "Genesis 4:20 \u2013 Genesis 4:23",
+  "tone": "neutral",
+  "image_style": "Leonardo Phoenix 1.0"
+}

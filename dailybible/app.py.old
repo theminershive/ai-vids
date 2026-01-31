@@ -1,0 +1,225 @@
+#!/usr/bin/env python3
+"""
+Full video-production pipeline
+
+Phases
+------
+1.  assemble.py              – produces the latest “ready” JSON
+2.  Visual generation        – Leonardo / DALL·E, etc.
+3.  TTS generation           – ElevenLabs (process_tts)
+4.  Video assembly           – moviepy in video_assembler.py
+5.  Whisper captions         – captions.py helpers
+6.  Overlay text             – overlay.py CLI
+7.  Multi-platform upload    – YouTube, Facebook Page, Instagram Reels
+"""
+
+import json
+import logging
+import os
+import subprocess
+from pathlib import Path
+from typing import Optional
+import re  # for sanitizing visual prompts
+
+from visuals import (
+    get_model_config_by_style,
+    generate_image,
+    poll_generation_status,
+    extract_image_url,
+    download_content,
+)
+from tts import process_tts
+from video_assembler import assemble_video
+import captions
+
+from ytuploader import upload as upload_youtube   # noqa: E402
+from fbupload import upload as upload_facebook    # noqa: E402
+from igupload import upload as upload_instagram   # noqa: E402
+
+# ——— Logging ————————————————————————————————————————————————
+logging.basicConfig(level=logging.INFO, format="[%(levelname)s] %(message)s")
+
+# ——— Directories —————————————————————————————————————————————
+READY_DIR       = Path("ready")
+VISUALS_DIR     = Path("visuals")
+FINAL_VIDEO_DIR = Path("final")
+
+for d in (READY_DIR, VISUALS_DIR, FINAL_VIDEO_DIR):
+    d.mkdir(parents=True, exist_ok=True)
+
+
+def sanitize_visual_prompt(prompt: str) -> str:
+    """
+    Replace forbidden terms so Leonardo.ai’s moderation filter won’t reject them.
+    """
+    return re.sub(r"\bnaked\b", "wearing fig-leaf coverings", prompt, flags=re.IGNORECASE)
+
+
+def generate_and_download_images(script: dict) -> dict:
+    """Generate images for every segment and download them locally."""
+    for section in script.get("sections", []):
+        # Normalise segments vs. older narration_segments schema
+        if "segments" in section:
+            segs = section["segments"]
+        else:
+            segs = []
+            for idx, ns in enumerate(section.get("narration_segments", []), start=1):
+                segs.append({
+                    "segment_number": idx,
+                    "narration": {"text": ns.get("narration", "")},
+                    "visual":   {"type": "image", "prompt": ns.get("visual_prompt", "")},
+                })
+            section["segments"] = segs
+
+        model_cfg = get_model_config_by_style(
+            script["settings"].get("image_generation_style", "")
+        )
+
+        for seg in section["segments"]:
+            raw_prompt = seg.get("visual", {}).get("prompt")
+            if not raw_prompt:
+                continue
+
+            # sanitize only the visual prompt before sending to Leonardo
+            prompt = sanitize_visual_prompt(raw_prompt)
+            gen_id = generate_image(prompt, model_cfg)
+            if not gen_id:
+                raise RuntimeError(f"Failed to start image generation for: {raw_prompt}")
+
+            data = poll_generation_status(gen_id)
+            if not data:
+                raise RuntimeError("Image generation did not complete.")
+
+            url = extract_image_url(data)
+            if not url:
+                raise RuntimeError("Could not extract image URL.")
+
+            img_file = VISUALS_DIR / f"section_{section.get('section_number',0)}_segment_{seg['segment_number']}.png"
+            download_content(url, str(img_file))
+            seg["visual"]["image_path"] = str(img_file)
+
+    return script  # modified from your original :contentReference[oaicite:1]{index=1}:contentReference[oaicite:2]{index=2}
+
+
+def create_captions(video_path: str) -> Optional[list]:
+    """Return list-of-dict captions or None on failure."""
+    try:
+        audio_temp    = captions.extract_audio(video_path)
+        transcription = captions.transcribe_audio_whisper(audio_temp)
+        caps          = captions.generate_captions_from_whisper(transcription)
+        return caps
+    except Exception as exc:
+        logging.warning(f"Captioning failed: {exc}")
+        return None
+
+
+def main():
+    # 1. Assemble JSON
+    logging.info("=== 1. assemble.py ====================================================")
+    subprocess.run(["python3", "assemble.py"], check=True)
+
+    # 2. Pick newest ready JSON
+    ready_files = sorted(READY_DIR.glob("*.json"), key=os.path.getmtime)
+    if not ready_files:
+        logging.error("No assembler JSON found in ./ready")
+        return
+    script_path = ready_files[-1]
+    logging.info(f"Using assembler JSON ➜ {script_path}")
+
+    # 3. Visual generation
+    logging.info("=== 2. Visual generation =============================================")
+    script = json.loads(script_path.read_text(encoding="utf-8"))
+    script = generate_and_download_images(script)
+
+    # 4. TTS generation
+    logging.info("=== 3. TTS generation ================================================")
+    script = process_tts(script)
+    # persist audio paths
+    script_path.write_text(json.dumps(script, indent=4), encoding="utf-8")
+
+    # 5. Video assembly
+    logging.info("=== 4. Video assembly ===============================================")
+    assemble_video(str(script_path))
+    with open(script_path, encoding="utf-8") as fp:
+        assembled = json.load(fp)
+    final_vid = Path(assembled.get("final_video", ""))
+    if not final_vid.exists():
+        logging.error(f"assemble_video did not produce expected file: {final_vid}")
+        return
+
+    # 6. Whisper captioning
+    logging.info("=== 5. Whisper captioning ============================================")
+    captioned_path = final_vid.with_name(final_vid.stem + "_cap.mp4")
+    caps = create_captions(str(final_vid))
+    if caps:
+        try:
+            captions.add_captions_to_video(
+                input_video_path   = str(final_vid),
+                transcription      = caps,
+                output_video_path  = str(captioned_path),
+            )
+        except Exception as exc:
+            logging.warning(f"Captioning failed: {exc}")
+    if not captioned_path.exists():
+        captioned_path = final_vid
+
+    # 7. Overlay text via CLI
+    logging.info("=== 6. Overlay text ==================================================")
+    reference_text    = script.get("reference", "Reference unavailable.")
+    final_output_path = FINAL_VIDEO_DIR / f"{script_path.stem}_final.mp4"
+    FINAL_VIDEO_DIR.mkdir(parents=True, exist_ok=True)
+    try:
+        subprocess.run([
+            "python3", "overlay.py",
+            "--input_video", str(captioned_path),
+            "--output_video", str(final_output_path),
+            "--start_text", reference_text,
+            "--end_text", "Thanks for watching! Subscribe for more!",
+            "--start_font_path", "Bangers-Regular.ttf",
+            "--end_font_path",   "Bangers-Regular.ttf",
+            "--start_fontsize",  "75",
+            "--end_fontsize",    "75",
+            "--fade_in", "--fade_out",
+            str(script_path),
+        ], check=True)
+    except subprocess.CalledProcessError as exc:
+        logging.error(f"overlay.py failed: {exc}")
+        return
+    logging.info(f"Overlay complete ➜ {final_output_path}")
+
+    # update JSON with final video
+    with open(script_path, encoding="utf-8") as fp:
+        updated = json.load(fp)
+    updated["final_video"] = str(final_output_path)
+    script_path.write_text(json.dumps(updated, indent=4), encoding="utf-8")  # :contentReference[oaicite:3]{index=3}:contentReference[oaicite:4]{index=4}
+
+    # 8. Multi-platform uploads
+    logging.info("=== 7. Uploading =====================================================")
+    try:
+        yt_url = upload_youtube(str(script_path))
+        logging.info(f"YouTube upload ✓  {yt_url}")
+    except Exception as exc:
+        logging.error(f"YouTube upload failed: {exc}")
+        yt_url = None
+
+    # reload in case YouTube updated description
+    with open(script_path, encoding="utf-8") as fp:
+        updated = json.load(fp)
+
+    try:
+        upload_facebook(str(script_path))
+        logging.info("Facebook upload ✓")
+    except Exception as exc:
+        logging.error(f"Facebook upload failed: {exc}")
+
+    try:
+        upload_instagram(str(script_path))
+        logging.info("Instagram upload ✓")
+    except Exception as exc:
+        logging.error(f"Instagram upload failed: {exc}")
+
+    logging.info("=== Pipeline finished successfully ====================================")
+
+
+if __name__ == "__main__":
+    main()

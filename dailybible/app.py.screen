@@ -1,0 +1,211 @@
+#!/usr/bin/env python3
+"""
+Full video-production pipeline
+
+Phases
+------
+1.  assemble.py              – produces the latest "ready" JSON
+2.  Visual generation        – Leonardo / DALL·E, etc.
+3.  TTS generation           – ElevenLabs (process_tts)
+4.  Video assembly           – moviepy in video_assembler.py
+5.  Whisper captions         – captions.py helpers
+6.  Overlay text             – overlay.py
+7.  Multi-platform upload    – YouTube, Facebook Page, Instagram Reels
+"""
+
+import json
+import logging
+import subprocess
+import re
+from pathlib import Path
+from typing import Optional
+
+# Project modules
+from visuals import (
+    get_model_config_by_style,
+    generate_image,
+    poll_generation_status,
+    extract_image_url,
+    download_content,
+)
+from tts import process_tts
+from video_assembler import assemble_video
+import captions
+
+# Uploaders
+from ytuploader import upload as upload_youtube  # noqa: E402
+from fbupload import upload as upload_facebook  # noqa: E402
+from igupload import upload as upload_instagram  # noqa: E402
+
+# Directories
+READY_DIR = Path("ready")
+VISUALS_DIR = Path("visuals")
+FINAL_VIDEO_DIR = Path("final")
+TTS_DIR = Path("tts")
+
+# Ensure directories exist
+for d in (READY_DIR, VISUALS_DIR, FINAL_VIDEO_DIR, TTS_DIR):
+    d.mkdir(parents=True, exist_ok=True)
+
+# Logging configuration
+logging.basicConfig(level=logging.INFO, format="[%(levelname)s] %(message)s")
+
+# Helper to sanitize visual prompts
+
+def sanitize_visual_prompt(prompt: str) -> str:
+    """Replace forbidden keywords in the prompt with safe alternatives."""
+    sanitized = prompt
+    FILTER_KEYWORDS = {
+        r"\bnaked\b": "wearing fig-leaf coverings",
+        r"\bslain\b": "",
+        r"\bkilled\b": "",
+        r"\bblood\b": "red liquid",
+        r"\bdeath\b": "the act of ending life",
+        r"\binjured\b": "",
+        r"\bhurt\b": "",
+        r"\bwound(?:ed|ing)?\b": "",
+        # Minors / age-sensitive
+        r"\bchild\b": "figure",
+        r"\bchildren\b": "figures",
+        r"\bkid\b": "person",
+        r"\bminor\b": "individual",
+        r"\binfant\b": "figure",
+        r"\btoddler\b": "person",
+        r"\bbaby\b": "person",
+        r"\bteen(?:ager)?\b": "young person",
+        r"\byouth\b": "individual",
+        r"\bjuvenile\b": "individual",
+        r"\bunderage\b": "young individual",
+        r"\bchildlike\b": "figurative",
+        # Illegal / extreme content
+        r"\bcp\b": "content",
+        r"\bchild\s*porn\b": "content",
+        r"\bincest\b": "content",
+        r"\brape\b": "act",
+        r"\bbeastiality\b": "content",
+        r"\bzoophilia\b": "content",
+        # Violence / gore
+        r"\bgore\b": "graphic",
+        r"\bbleeding\b": "graphic",
+        r"\bviolent\b": "aggressive",
+    }
+    for pattern, replacement in FILTER_KEYWORDS.items():
+        sanitized = re.sub(pattern, replacement, sanitized, flags=re.IGNORECASE)
+    return sanitized
+
+# Generate and download images
+
+def generate_and_download_images(script: dict) -> dict:
+    for section in script.get("sections", []):
+        # Normalize segments
+        if "segments" in section:
+            segs = section["segments"]
+        else:
+            segs = [
+                {
+                    "segment_number": idx,
+                    "narration": {"text": ns.get("narration", "")},
+                    "visual": {"type": "image", "prompt": ns.get("visual_prompt", "")},
+                }
+                for idx, ns in enumerate(section.get("narration_segments", []), start=1)
+            ]
+        section["segments"] = segs
+
+        model_cfg = get_model_config_by_style(
+            script.get("settings", {}).get("image_generation_style", "")
+        )
+        for seg in segs:
+            raw_prompt = seg["visual"].get("prompt")
+            if not raw_prompt:
+                continue
+            prompt = sanitize_visual_prompt(raw_prompt)
+            gen_id = generate_image(prompt, model_cfg)
+            if not gen_id:
+                raise RuntimeError(f"Failed to start image generation for: {raw_prompt}")
+            data = poll_generation_status(gen_id)
+            if not data:
+                raise RuntimeError("Image generation did not complete.")
+            url = extract_image_url(data)
+            if not url:
+                raise RuntimeError("Could not extract image URL.")
+            img_path = VISUALS_DIR / f"section_{section.get('section_number', 0)}_segment_{seg['segment_number']}.png"
+            download_content(url, str(img_path))
+            seg["visual"]["image_path"] = str(img_path)
+    return script
+
+# Create Whisper captions
+
+def create_captions(video_path: str) -> Optional[list]:
+    try:
+        audio = captions.extract_audio(video_path)
+        return captions.transcribe_with_whisper(audio)
+    except Exception as exc:
+        logging.warning(f"Captioning failed: {exc}")
+        return None
+
+# Overlay text onto video
+
+def overlay_text_on_video(script: dict, video_path: Path) -> Path:
+    from overlay import apply_overlay
+    reference = script.get("reference", "")
+    out_path = FINAL_VIDEO_DIR / f"{video_path.stem}_overlay.mp4"
+    apply_overlay(str(video_path), reference, str(out_path))
+    return out_path
+
+# Main pipeline
+
+def main():
+    logging.info("=== 1. assemble.py ====================================================")
+    subprocess.run(["python3", "assemble.py"], check=True)
+
+    # Load latest script JSON
+    ready_files = sorted(
+        READY_DIR.glob("*_assembler.json"), key=lambda p: p.stat().st_mtime, reverse=True
+    )
+    if not ready_files:
+        logging.error("No ready JSON found.")
+        return
+    script_path = ready_files[0]
+    logging.info(f"Using script: {script_path.name}")
+    script = json.loads(script_path.read_text())
+
+    # Visual generation
+    logging.info("=== 2. Visual generation =============================================")
+    script = generate_and_download_images(script)
+
+    # TTS generation
+    logging.info("=== 3. TTS generation ================================================")
+    for section in script.get("sections", []):
+        for seg in section.get("segments", []):
+            text = seg["narration"]["text"]
+            seg_id = f"section_{section.get('section_number',0)}_seg_{seg['segment_number']}"
+            logging.info(f"[TTS] Generating audio for {seg_id}")
+            audio_bytes = process_tts(text)
+            tts_path = TTS_DIR / f"{seg_id}.mp3"
+            tts_path.write_bytes(audio_bytes)
+            seg["narration"]["audio_path"] = str(tts_path)
+
+    # Video assembly
+    logging.info("=== 4. Video assembly ===============================================")
+    final_video = assemble_video(script, VISUALS_DIR, TTS_DIR, FINAL_VIDEO_DIR)
+
+    # Whisper captions
+    logging.info("=== 5. Whisper captions =============================================")
+    caps = create_captions(str(final_video))
+    if caps:
+        script["captions"] = caps
+        out_json = final_video.with_suffix("_script.json")
+        out_json.write_text(json.dumps(script, indent=2))
+
+    # Overlay text
+    logging.info("=== 6. Overlay text ==================================================")
+    overlayed = overlay_text_on_video(script, final_video)
+
+    # Uploading
+    logging.info("=== 7. Uploading ====================================================")
+    upload_youtube(str(overlayed), script.get("metadata", {}))
+    upload_facebook(str(overlayed), script.get("metadata", {}))
+    upload_instagram(str(overlayed), script.get("metadata", {}))
+
+if __name__ == "__main__":
+    main()

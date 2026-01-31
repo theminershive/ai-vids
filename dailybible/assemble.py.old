@@ -1,0 +1,225 @@
+# === Fully Patched assemble.py (Visual Prompt Split Improved) ===
+
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+import os
+import sys
+import json
+import re
+from pathlib import Path
+from dotenv import load_dotenv
+import openai
+
+# Load environment variables
+load_dotenv()
+openai.api_key = os.getenv("OPENAI_API_KEY")
+MODEL = os.getenv("OPENAI_MODEL", "gpt-4.1")
+
+# Tracking processed inputs
+PROCESSED_FILE = 'processed_files.json'
+# Directories
+INPUT_DIR = Path('bible')
+OUTPUT_DIR = Path('ready')
+
+# Ensure output directory exists
+OUTPUT_DIR.mkdir(exist_ok=True)
+
+def load_processed():
+    if Path(PROCESSED_FILE).exists():
+        try:
+            return set(json.loads(Path(PROCESSED_FILE).read_text()))
+        except Exception:
+            return set()
+    return set()
+
+def save_processed(processed):
+    Path(PROCESSED_FILE).write_text(json.dumps(sorted(processed), indent=2))
+
+def generate_similar_visual_prompt(base_prompt, narration_text):
+    try:
+        response = openai.ChatCompletion.create(
+            model=MODEL,
+            messages=[
+                {"role": "system", "content": "You are a visual creative assistant."},
+                {"role": "user", "content": f"""Create a vivid and descriptive image prompt for the following Bible verse passage, matching the style of this existing prompt: '{base_prompt}'. 
+The new prompt should fit this text:\n\n'{narration_text}'\n\nDo not copy the original prompt. Be creative but stay thematically consistent."""}
+            ],
+            temperature=0.7,
+            max_tokens=150,
+        )
+        new_prompt = response['choices'][0]['message']['content'].strip()
+        return new_prompt
+    except Exception as e:
+        print(f"[ERROR] Failed to generate similar visual prompt: {e}")
+        return base_prompt + " (continued scene)"
+
+def generate_assembler_json(input_path: Path, output_path: Path):
+    data = json.loads(input_path.read_text())
+    base = output_path.stem
+
+    assembler = {
+        "settings": {
+            "video_size": "1080x1920",
+            "use_transitions": True,
+            "use_background_music": True,
+            "background_music_type": "uplifting",
+            "image_generation_style": "Leonardo Phoenix 1.0",
+            "style_selection_reason": "Selected based on script content."
+        },
+        "sections": []
+    }
+
+    for idx, verse in enumerate(data.get('verses', []), start=1):
+        name = verse.get('name', '')
+        text = verse.get('text', '')
+        visual_prompt = verse.get('visual_prompt', f"Vivid scene for: {text}")
+        words = text.split()
+        short = ' '.join(words[:5]).rstrip('.,')
+        title = f"{name} – {short}"
+        duration = min(15, max(5, len(words) // 2))
+
+        segment = {
+            "segment_number": 1,
+            "narration": {
+                "text": text,
+                "start": 0,
+                "duration": duration,
+                "audio_path": f"audio/section_{idx}_segment_1.mp3"
+            },
+            "visual": {
+                "type": "image",
+                "prompt": visual_prompt,
+                "start": 0,
+                "duration": duration,
+                "image_path": f"visuals_output/{base}_{idx}_1.png"
+            },
+            "sound": {
+                "transition_effect": "fade_in"
+            }
+        }
+
+        section = {
+            "section_number": idx,
+            "title": title,
+            "section_duration": duration,
+            "segments": [segment]
+        }
+        assembler['sections'].append(section)
+
+    # --- Ensure at least 4 sections ---
+    while len(assembler['sections']) < 4:
+        longest_section_idx = max(
+            range(len(assembler['sections'])),
+            key=lambda i: len(assembler['sections'][i]['segments'][0]['narration']['text'].split())
+        )
+        longest_section = assembler['sections'].pop(longest_section_idx)
+        narration_text = longest_section['segments'][0]['narration']['text']
+        visual_prompt = longest_section['segments'][0]['visual']['prompt']
+        words = narration_text.split()
+
+        if len(words) < 2:
+            break
+
+        mid = len(words) // 2
+        text1 = ' '.join(words[:mid])
+        text2 = ' '.join(words[mid:])
+
+        visual_prompt2 = generate_similar_visual_prompt(visual_prompt, text2)
+
+        for part_idx, (part_text, prompt_text) in enumerate([(text1, visual_prompt), (text2, visual_prompt2)], start=1):
+            duration = min(15, max(5, len(part_text.split()) // 2))
+            new_section = {
+                "section_number": len(assembler['sections']) + 1,
+                "title": longest_section['title'] + (" (Part 1)" if part_idx == 1 else " (Part 2)"),
+                "section_duration": duration,
+                "segments": [
+                    {
+                        "segment_number": 1,
+                        "narration": {
+                            "text": part_text,
+                            "start": 0,
+                            "duration": duration,
+                            "audio_path": f"audio/section_{len(assembler['sections'])+1}_segment_1.mp3"
+                        },
+                        "visual": {
+                            "type": "image",
+                            "prompt": prompt_text,
+                            "start": 0,
+                            "duration": duration,
+                            "image_path": f"visuals_output/{base}_{len(assembler['sections'])+1}_1.png"
+                        },
+                        "sound": {
+                            "transition_effect": "fade_in"
+                        }
+                    }
+                ]
+            }
+            assembler['sections'].insert(longest_section_idx + part_idx - 1, new_section)
+
+    # Generate reference
+    verses = data.get('verses', [])
+    reference = ""
+    if verses:
+        first = verses[0].get('name', '')
+        last = verses[-1].get('name', '')
+        reference = f"{first} – {last}"
+
+    # Insert full verses text
+    full_verses_text = "\n\n".join([f"{v.get('name', '')} {v.get('text','')}" for v in verses])
+
+    # Build description
+    prefix = f"📖 Today's Verses: {reference}\n\n✝️ Welcome to Daily Bible Passages! We post 3 short Bible videos daily, featuring 3–5 verses each.\n\n"
+    suffix = "\n\n🙌 Subscribe and join our journey from Genesis to Revelation — one small passage at a time!\n\n📖 Follow Us:\n➡️ YouTube: www.youtube.com/@biblepassagedaily\n➡️ Instagram: instagram.com/thebibledailyyt\n➡️ Facebook: www.facebook.com/profile.php?id=61575301427014\n\n#DailyBiblePassages #DailyScripture #BibleReading #FaithJourney #GenesisToRevelation"
+    description = prefix + full_verses_text + suffix
+
+    if len(description) > 2000:
+        description = description[:1997] + "..."
+
+    # Generate better social media metadata
+    tags = [
+        "DailyBiblePassages",
+        "DailyScripture",
+        "BibleReading",
+        "FaithJourney",
+        "GenesisToRevelation",
+        "BibleVerse",
+        "ChristianContent",
+        "FaithQuotes",
+        "VerseOfTheDay",
+        "GodIsGood"
+    ]
+
+    assembler['social_media'] = {
+        "title": f"📖 Today's Verses: {reference}",
+        "description": description,
+        "tags": tags
+    }
+
+    assembler['background_music_type'] = assembler['settings']['background_music_type']
+    assembler['background_music_name'] = assembler['settings']['background_music_type']
+    assembler['background_music'] = assembler['settings']['background_music_type']
+    assembler['reference'] = reference
+    assembler['tone'] = data.get('tone', 'hopeful')
+    assembler['image_style'] = assembler['settings']['image_generation_style']
+
+    output_path.write_text(json.dumps(assembler, indent=2))
+    print(f"Generated script for {input_path} -> {output_path}")
+
+def main():
+    processed = load_processed()
+    files = sorted(INPUT_DIR.glob('script_*.json'), key=lambda p: int(re.search(r"(\d+)", p.stem).group(1)))
+    for input_path in files:
+        if str(input_path) in processed:
+            continue
+        seq = len(processed) + 1
+        output_path = OUTPUT_DIR / f"{seq}_assembler.json"
+        try:
+            generate_assembler_json(input_path, output_path)
+            processed.add(str(input_path))
+        except Exception as e:
+            print(f"[ERROR] {input_path}: {e}")
+        break
+    save_processed(processed)
+
+if __name__ == '__main__':
+    main()

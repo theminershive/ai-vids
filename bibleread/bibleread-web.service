@@ -1,0 +1,19 @@
+[Unit]
+Description=Video Scheduler Web UI Bible
+After=network.target
+
+[Service]
+Type=simple
+User=trilobyte
+WorkingDirectory=/home/trilobyte/AIBots/BibleRead/
+
+# (Optional) keep venv up-to-date:
+# ExecStartPre=/path/to/your/project/venv/bin/pip install -r requirements.txt
+
+ExecStart=/home/trilobyte/AIBots/aibots/bin/python /home/trilobyte/AIBots/BibleRead/webserver.py
+
+Restart=always
+RestartSec=5
+
+[Install]
+WantedBy=multi-user.target
