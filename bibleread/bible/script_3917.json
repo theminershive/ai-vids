@@ -1,0 +1,31 @@
+{
+    "book": "Psalms",
+    "chapter": "Chapter 34",
+    "verses": [
+        {
+            "name": "Psalms 34:1",
+            "text": "I will bless the Lord at all times: his praise shall continually be in my mouth."
+        },
+        {
+            "name": "Psalms 34:2",
+            "text": "My soul shall make her boast in the Lord: the humble shall hear thereof, and be glad."
+        },
+        {
+            "name": "Psalms 34:3",
+            "text": "O magnify the Lord with me, and let us exalt his name together."
+        },
+        {
+            "name": "Psalms 34:4",
+            "text": "I sought the Lord, and he heard me, and delivered me from all my fears."
+        },
+        {
+            "name": "Psalms 34:5",
+            "text": "They looked unto him, and were lightened: and their faces were not ashamed."
+        },
+        {
+            "name": "Psalms 34:6",
+            "text": "This poor man cried, and the Lord heard him, and saved him out of all his troubles."
+        }
+    ],
+    "tone": "praising"
+}

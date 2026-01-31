@@ -1,0 +1,31 @@
+{
+    "book": "Psalms",
+    "chapter": "Chapter 95",
+    "verses": [
+        {
+            "name": "Psalms 95:1",
+            "text": "O come, let us sing unto the Lord: let us make a joyful noise to the rock of our salvation."
+        },
+        {
+            "name": "Psalms 95:2",
+            "text": "Let us come before his presence with thanksgiving, and make a joyful noise unto him with psalms."
+        },
+        {
+            "name": "Psalms 95:3",
+            "text": "For the Lord is a great God, and a great King above all gods."
+        },
+        {
+            "name": "Psalms 95:4",
+            "text": "In his hand are the deep places of the earth: the strength of the hills is his also."
+        },
+        {
+            "name": "Psalms 95:5",
+            "text": "The sea is his, and he made it: and his hands formed the dry land."
+        },
+        {
+            "name": "Psalms 95:6",
+            "text": "O come, let us worship and bow down: let us kneel before the Lord our maker."
+        }
+    ],
+    "tone": "praising"
+}

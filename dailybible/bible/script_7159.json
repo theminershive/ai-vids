@@ -1,0 +1,23 @@
+{
+    "book": "Acts",
+    "chapter": "Chapter 11",
+    "verses": [
+        {
+            "name": "Acts 11:13",
+            "text": "And he shewed us how he had seen an angel in his house, which stood and said unto him, Send men to Joppa, and call for Simon, whose surname is Peter;"
+        },
+        {
+            "name": "Acts 11:14",
+            "text": "Who shall tell thee words, whereby thou and all thy house shall be saved."
+        },
+        {
+            "name": "Acts 11:15",
+            "text": "And as I began to speak, the Holy Ghost fell on them, as on us at the beginning."
+        },
+        {
+            "name": "Acts 11:16",
+            "text": "Then remembered I the word of the Lord, how that he said, John indeed baptized with water; but ye shall be baptized with the Holy Ghost."
+        }
+    ],
+    "tone": "instructional"
+}

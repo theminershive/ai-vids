@@ -1,0 +1,23 @@
+{
+    "book": "Mark",
+    "chapter": "Chapter 14",
+    "verses": [
+        {
+            "name": "Mark 14:4",
+            "text": "And there were some that had indignation within themselves, and said, Why was this waste of the ointment made?"
+        },
+        {
+            "name": "Mark 14:5",
+            "text": "For it might have been sold for more than three hundred pence, and have been given to the poor. And they murmured against her."
+        },
+        {
+            "name": "Mark 14:6",
+            "text": "And Jesus said, Let her alone; why trouble ye her? she hath wrought a good work on me."
+        },
+        {
+            "name": "Mark 14:7",
+            "text": "For ye have the poor with you always, and whensoever ye will ye may do them good: but me ye have not always."
+        }
+    ],
+    "tone": "lamenting"
+}

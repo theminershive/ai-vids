@@ -1,0 +1,19 @@
+{
+    "book": "Ezekiel",
+    "chapter": "Chapter 3",
+    "verses": [
+        {
+            "name": "Ezekiel 3:25",
+            "text": "But thou, O son of man, behold, they shall put bands upon thee, and shall bind thee with them, and thou shalt not go out among them:"
+        },
+        {
+            "name": "Ezekiel 3:26",
+            "text": "And I will make thy tongue cleave to the roof of thy mouth, that thou shalt be dumb, and shalt not be to them a reprover: for they are a rebellious house."
+        },
+        {
+            "name": "Ezekiel 3:27",
+            "text": "But when I speak with thee, I will open thy mouth, and thou shalt say unto them, Thus saith the Lord God; He that heareth, let him hear; and he that forbeareth, let him forbear: for they are a rebellious house. "
+        }
+    ],
+    "tone": "lamenting"
+}

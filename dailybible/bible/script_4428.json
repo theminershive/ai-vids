@@ -1,0 +1,27 @@
+{
+    "book": "Ecclesiastes",
+    "chapter": "Chapter 3",
+    "verses": [
+        {
+            "name": "Ecclesiastes 3:5",
+            "text": "A time to cast away stones, and a time to gather stones together; a time to embrace, and a time to refrain from embracing;"
+        },
+        {
+            "name": "Ecclesiastes 3:6",
+            "text": "A time to get, and a time to lose; a time to keep, and a time to cast away;"
+        },
+        {
+            "name": "Ecclesiastes 3:7",
+            "text": "A time to rend, and a time to sew; a time to keep silence, and a time to speak;"
+        },
+        {
+            "name": "Ecclesiastes 3:8",
+            "text": "A time to love, and a time to hate; a time of war, and a time of peace."
+        },
+        {
+            "name": "Ecclesiastes 3:9",
+            "text": "What profit hath he that worketh in that wherein he laboureth?"
+        }
+    ],
+    "tone": "hopeful"
+}

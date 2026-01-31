@@ -1,0 +1,19 @@
+{
+    "book": "Joshua",
+    "chapter": "Chapter 7",
+    "verses": [
+        {
+            "name": "Joshua 7:16",
+            "text": "So Joshua rose up early in the morning, and brought Israel by their tribes; and the tribe of Judah was taken:"
+        },
+        {
+            "name": "Joshua 7:17",
+            "text": "And he brought the family of Judah; and he took the family of the Zarhites: and he brought the family of the Zarhites man by man; and Zabdi was taken:"
+        },
+        {
+            "name": "Joshua 7:18",
+            "text": "And he brought his household man by man; and Achan, the son of Carmi, the son of Zabdi, the son of Zerah, of the tribe of Judah, was taken."
+        }
+    ],
+    "tone": "neutral"
+}

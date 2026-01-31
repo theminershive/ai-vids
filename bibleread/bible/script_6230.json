@@ -1,0 +1,23 @@
+{
+    "book": "Matthew",
+    "chapter": "Chapter 10",
+    "verses": [
+        {
+            "name": "Matthew 10:18",
+            "text": "And ye shall be brought before governors and kings for my sake, for a testimony against them and the Gentiles."
+        },
+        {
+            "name": "Matthew 10:19",
+            "text": "But when they deliver you up, take no thought how or what ye shall speak: for it shall be given you in that same hour what ye shall speak."
+        },
+        {
+            "name": "Matthew 10:20",
+            "text": "For it is not ye that speak, but the Spirit of your Father which speaketh in you."
+        },
+        {
+            "name": "Matthew 10:21",
+            "text": "And the brother shall deliver up the brother to death, and the father the child: and the children shall rise up against their parents, and cause them to be put to death."
+        }
+    ],
+    "tone": "lamenting"
+}

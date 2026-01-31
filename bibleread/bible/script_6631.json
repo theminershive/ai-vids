@@ -1,0 +1,19 @@
+{
+    "book": "Luke",
+    "chapter": "Chapter 5",
+    "verses": [
+        {
+            "name": "Luke 5:12",
+            "text": "And it came to pass, when he was in a certain city, behold a man full of leprosy: who seeing Jesus fell on his face, and besought him, saying, Lord, if thou wilt, thou canst make me clean."
+        },
+        {
+            "name": "Luke 5:13",
+            "text": "And he put forth his hand, and touched him, saying, I will: be thou clean. And immediately the leprosy departed from him."
+        },
+        {
+            "name": "Luke 5:14",
+            "text": "And he charged him to tell no man: but go, and shew thyself to the priest, and offer for thy cleansing, according as Moses commanded, for a testimony unto them."
+        }
+    ],
+    "tone": "hopeful"
+}

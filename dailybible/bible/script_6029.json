@@ -1,0 +1,23 @@
+{
+    "book": "Nahum",
+    "chapter": "Chapter 1",
+    "verses": [
+        {
+            "name": "Nahum 1:8",
+            "text": "But with an overrunning flood he will make an utter end of the place thereof, and darkness shall pursue his enemies."
+        },
+        {
+            "name": "Nahum 1:9",
+            "text": "What do ye imagine against the Lord? he will make an utter end: affliction shall not rise up the second time."
+        },
+        {
+            "name": "Nahum 1:10",
+            "text": "For while they be folden together as thorns, and while they are drunken as drunkards, they shall be devoured as stubble fully dry."
+        },
+        {
+            "name": "Nahum 1:11",
+            "text": "There is one come out of thee, that imagineth evil against the Lord, a wicked counsellor."
+        }
+    ],
+    "tone": "instructional"
+}

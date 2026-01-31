@@ -1,0 +1,27 @@
+{
+    "book": "2 Samuel",
+    "chapter": "Chapter 1",
+    "verses": [
+        {
+            "name": "2 Samuel 1:15",
+            "text": "And David called one of the young men, and said, Go near, and fall upon him. And he smote him that he died."
+        },
+        {
+            "name": "2 Samuel 1:16",
+            "text": "And David said unto him, Thy blood be upon thy head; for thy mouth hath testified against thee, saying, I have slain the Lord\u2019s anointed."
+        },
+        {
+            "name": "2 Samuel 1:17",
+            "text": "And David lamented with this lamentation over Saul and over Jonathan his son:"
+        },
+        {
+            "name": "2 Samuel 1:18",
+            "text": "(Also he bade them teach the children of Judah the use of the bow: behold, it is written in the book of Jasher.)"
+        },
+        {
+            "name": "2 Samuel 1:19",
+            "text": "The beauty of Israel is slain upon thy high places: how are the mighty fallen!"
+        }
+    ],
+    "tone": "instructional"
+}

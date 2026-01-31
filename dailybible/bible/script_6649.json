@@ -1,0 +1,19 @@
+{
+    "book": "Luke",
+    "chapter": "Chapter 6",
+    "verses": [
+        {
+            "name": "Luke 6:38",
+            "text": "Give, and it shall be given unto you; good measure, pressed down, and shaken together, and running over, shall men give into your bosom. For with the same measure that ye mete withal it shall be measured to you again."
+        },
+        {
+            "name": "Luke 6:39",
+            "text": "And he spake a parable unto them, Can the blind lead the blind? shall they not both fall into the ditch?"
+        },
+        {
+            "name": "Luke 6:40",
+            "text": "The disciple is not above his master: but every one that is perfect shall be as his master."
+        }
+    ],
+    "tone": "hopeful"
+}

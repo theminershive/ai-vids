@@ -1,0 +1,23 @@
+{
+    "book": "Exodus",
+    "chapter": "Chapter 21",
+    "verses": [
+        {
+            "name": "Exodus 21:8",
+            "text": "If she please not her master, who hath betrothed her to himself, then shall he let her be redeemed: to sell her unto a strange nation he shall have no power, seeing he hath dealt deceitfully with her."
+        },
+        {
+            "name": "Exodus 21:9",
+            "text": "And if he have betrothed her unto his son, he shall deal with her after the manner of daughters."
+        },
+        {
+            "name": "Exodus 21:10",
+            "text": "If he take him another wife; her food, her raiment, and her duty of marriage, shall he not diminish."
+        },
+        {
+            "name": "Exodus 21:11",
+            "text": "And if he do not these three unto her, then shall she go out free without money."
+        }
+    ],
+    "tone": "hopeful"
+}

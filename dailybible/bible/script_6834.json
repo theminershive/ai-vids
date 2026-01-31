@@ -1,0 +1,27 @@
+{
+    "book": "Luke",
+    "chapter": "Chapter 22",
+    "verses": [
+        {
+            "name": "Luke 22:64",
+            "text": "And when they had blindfolded him, they struck him on the face, and asked him, saying, Prophesy, who is it that smote thee?"
+        },
+        {
+            "name": "Luke 22:65",
+            "text": "And many other things blasphemously spake they against him."
+        },
+        {
+            "name": "Luke 22:66",
+            "text": "And as soon as it was day, the elders of the people and the chief priests and the scribes came together, and led him into their council, saying,"
+        },
+        {
+            "name": "Luke 22:67",
+            "text": "Art thou the Christ? tell us. And he said unto them, If I tell you, ye will not believe:"
+        },
+        {
+            "name": "Luke 22:68",
+            "text": "And if I also ask you, ye will not answer me, nor let me go."
+        }
+    ],
+    "tone": "neutral"
+}

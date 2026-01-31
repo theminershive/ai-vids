@@ -1,0 +1,27 @@
+{
+    "book": "Romans",
+    "chapter": "Chapter 15",
+    "verses": [
+        {
+            "name": "Romans 15:1",
+            "text": "We then that are strong ought to bear the infirmities of the weak, and not to please ourselves."
+        },
+        {
+            "name": "Romans 15:2",
+            "text": "Let every one of us please his neighbour for his good to edification."
+        },
+        {
+            "name": "Romans 15:3",
+            "text": "For even Christ pleased not himself; but, as it is written, The reproaches of them that reproached thee fell on me."
+        },
+        {
+            "name": "Romans 15:4",
+            "text": "For whatsoever things were written aforetime were written for our learning, that we through patience and comfort of the scriptures might have hope."
+        },
+        {
+            "name": "Romans 15:5",
+            "text": "Now the God of patience and consolation grant you to be likeminded one toward another according to Christ Jesus:"
+        }
+    ],
+    "tone": "hopeful"
+}

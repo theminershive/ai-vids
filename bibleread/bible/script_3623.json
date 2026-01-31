@@ -1,0 +1,19 @@
+{
+    "book": "Esther",
+    "chapter": "Chapter 6",
+    "verses": [
+        {
+            "name": "Esther 6:1",
+            "text": "On that night could not the king sleep, and he commanded to bring the book of records of the chronicles; and they were read before the king."
+        },
+        {
+            "name": "Esther 6:2",
+            "text": "And it was found written, that Mordecai had told of Bigthana and Teresh, two of the king\u2019s chamberlains, the keepers of the door, who sought to lay hand on the king Ahasuerus."
+        },
+        {
+            "name": "Esther 6:3",
+            "text": "And the king said, What honour and dignity hath been done to Mordecai for this? Then said the king\u2019s servants that ministered unto him, There is nothing done for him."
+        }
+    ],
+    "tone": "neutral"
+}

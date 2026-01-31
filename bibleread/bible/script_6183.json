@@ -1,0 +1,23 @@
+{
+    "book": "Matthew",
+    "chapter": "Chapter 5",
+    "verses": [
+        {
+            "name": "Matthew 5:9",
+            "text": "Blessed are the peacemakers: for they shall be called the children of God."
+        },
+        {
+            "name": "Matthew 5:10",
+            "text": "Blessed are they which are persecuted for righteousness\u2019 sake: for theirs is the kingdom of heaven."
+        },
+        {
+            "name": "Matthew 5:11",
+            "text": "Blessed are ye, when men shall revile you, and persecute you, and shall say all manner of evil against you falsely, for my sake."
+        },
+        {
+            "name": "Matthew 5:12",
+            "text": "Rejoice, and be exceeding glad: for great is your reward in heaven: for so persecuted they the prophets which were before you."
+        }
+    ],
+    "tone": "instructional"
+}

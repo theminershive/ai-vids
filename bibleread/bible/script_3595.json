@@ -1,0 +1,19 @@
+{
+    "book": "Esther",
+    "chapter": "Chapter 1",
+    "verses": [
+        {
+            "name": "Esther 1:14",
+            "text": "And the next unto him was Carshena, Shethar, Admatha, Tarshish, Meres, Marsena, and Memucan, the seven princes of Persia and Media, which saw the king\u2019s face, and which sat the first in the kingdom;)"
+        },
+        {
+            "name": "Esther 1:15",
+            "text": "What shall we do unto the queen Vashti according to law, because she hath not performed the commandment of the king Ahasuerus by the chamberlains?"
+        },
+        {
+            "name": "Esther 1:16",
+            "text": "And Memucan answered before the king and the princes, Vashti the queen hath not done wrong to the king only, but also to all the princes, and to all the people that are in all the provinces of the king Ahasuerus."
+        }
+    ],
+    "tone": "neutral"
+}

@@ -1,0 +1,19 @@
+{
+    "book": "Daniel",
+    "chapter": "Chapter 11",
+    "verses": [
+        {
+            "name": "Daniel 11:42",
+            "text": "He shall stretch forth his hand also upon the countries: and the land of Egypt shall not escape."
+        },
+        {
+            "name": "Daniel 11:43",
+            "text": "But he shall have power over the treasures of gold and of silver, and over all the precious things of Egypt: and the Libyans and the Ethiopians shall be at his steps."
+        },
+        {
+            "name": "Daniel 11:44",
+            "text": "But tidings out of the east and out of the north shall trouble him: therefore he shall go forth with great fury to destroy, and utterly to make away many."
+        }
+    ],
+    "tone": "neutral"
+}

@@ -1,0 +1,27 @@
+{
+    "book": "Acts",
+    "chapter": "Chapter 15",
+    "verses": [
+        {
+            "name": "Acts 15:37",
+            "text": "And Barnabas determined to take with them John, whose surname was Mark."
+        },
+        {
+            "name": "Acts 15:38",
+            "text": "But Paul thought not good to take him with them, who departed from them from Pamphylia, and went not with them to the work."
+        },
+        {
+            "name": "Acts 15:39",
+            "text": "And the contention was so sharp between them, that they departed asunder one from the other: and so Barnabas took Mark, and sailed unto Cyprus;"
+        },
+        {
+            "name": "Acts 15:40",
+            "text": "And Paul chose Silas, and departed, being recommended by the brethren unto the grace of God."
+        },
+        {
+            "name": "Acts 15:41",
+            "text": "And he went through Syria and Cilicia, confirming the churches. "
+        }
+    ],
+    "tone": "neutral"
+}

@@ -1,0 +1,19 @@
+{
+    "book": "Ruth",
+    "chapter": "Chapter 1",
+    "verses": [
+        {
+            "name": "Ruth 1:7",
+            "text": "Wherefore she went forth out of the place where she was, and her two daughters in law with her; and they went on the way to return unto the land of Judah."
+        },
+        {
+            "name": "Ruth 1:8",
+            "text": "And Naomi said unto her two daughters in law, Go, return each to her mother\u2019s house: the Lord deal kindly with you, as ye have dealt with the dead, and with me."
+        },
+        {
+            "name": "Ruth 1:9",
+            "text": "The Lord grant you that ye may find rest, each of you in the house of her husband. Then she kissed them; and they lifted up their voice, and wept."
+        }
+    ],
+    "tone": "neutral"
+}

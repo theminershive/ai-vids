@@ -1,0 +1,27 @@
+{
+    "book": "John",
+    "chapter": "Chapter 9",
+    "verses": [
+        {
+            "name": "John 9:10",
+            "text": "Therefore said they unto him, How were thine eyes opened?"
+        },
+        {
+            "name": "John 9:11",
+            "text": "He answered and said, A man that is called Jesus made clay, and anointed mine eyes, and said unto me, Go to the pool of Siloam, and wash: and I went and washed, and I received sight."
+        },
+        {
+            "name": "John 9:12",
+            "text": "Then said they unto him, Where is he? He said, I know not."
+        },
+        {
+            "name": "John 9:13",
+            "text": "They brought to the Pharisees him that aforetime was blind."
+        },
+        {
+            "name": "John 9:14",
+            "text": "And it was the sabbath day when Jesus made the clay, and opened his eyes."
+        }
+    ],
+    "tone": "neutral"
+}

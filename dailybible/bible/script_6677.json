@@ -1,0 +1,19 @@
+{
+    "book": "Luke",
+    "chapter": "Chapter 8",
+    "verses": [
+        {
+            "name": "Luke 8:38",
+            "text": "Now the man out of whom the devils were departed besought him that he might be with him: but Jesus sent him away, saying,"
+        },
+        {
+            "name": "Luke 8:39",
+            "text": "Return to thine own house, and shew how great things God hath done unto thee. And he went his way, and published throughout the whole city how great things Jesus had done unto him."
+        },
+        {
+            "name": "Luke 8:40",
+            "text": "And it came to pass, that, when Jesus was returned, the people gladly received him: for they were all waiting for him."
+        }
+    ],
+    "tone": "neutral"
+}

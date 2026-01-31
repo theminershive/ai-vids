@@ -1,0 +1,23 @@
+{
+    "book": "1 John",
+    "chapter": "Chapter 4",
+    "verses": [
+        {
+            "name": "1 John 4:13",
+            "text": "Hereby know we that we dwell in him, and he in us, because he hath given us of his Spirit."
+        },
+        {
+            "name": "1 John 4:14",
+            "text": "And we have seen and do testify that the Father sent the Son to be the Saviour of the world."
+        },
+        {
+            "name": "1 John 4:15",
+            "text": "Whosoever shall confess that Jesus is the Son of God, God dwelleth in him, and he in God."
+        },
+        {
+            "name": "1 John 4:16",
+            "text": "And we have known and believed the love that God hath to us. God is love; and he that dwelleth in love dwelleth in God, and God in him."
+        }
+    ],
+    "tone": "hopeful"
+}

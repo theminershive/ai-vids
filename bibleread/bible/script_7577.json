@@ -1,0 +1,19 @@
+{
+    "book": "2 Corinthians",
+    "chapter": "Chapter 12",
+    "verses": [
+        {
+            "name": "2 Corinthians 12:5",
+            "text": "Of such an one will I glory: yet of myself I will not glory, but in mine infirmities."
+        },
+        {
+            "name": "2 Corinthians 12:6",
+            "text": "For though I would desire to glory, I shall not be a fool; for I will say the truth: but now I forbear, lest any man should think of me above that which he seeth me to be, or that he heareth of me."
+        },
+        {
+            "name": "2 Corinthians 12:7",
+            "text": "And lest I should be exalted above measure through the abundance of the revelations, there was given to me a thorn in the flesh, the messenger of Satan to buffet me, lest I should be exalted above measure."
+        }
+    ],
+    "tone": "hopeful"
+}

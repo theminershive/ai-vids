@@ -1,0 +1,23 @@
+{
+    "book": "2 Peter",
+    "chapter": "Chapter 3",
+    "verses": [
+        {
+            "name": "2 Peter 3:1",
+            "text": "This second epistle, beloved, I now write unto you; in both which I stir up your pure minds by way of remembrance:"
+        },
+        {
+            "name": "2 Peter 3:2",
+            "text": "That ye may be mindful of the words which were spoken before by the holy prophets, and of the commandment of us the apostles of the Lord and Saviour:"
+        },
+        {
+            "name": "2 Peter 3:3",
+            "text": "Knowing this first, that there shall come in the last days scoffers, walking after their own lusts,"
+        },
+        {
+            "name": "2 Peter 3:4",
+            "text": "And saying, Where is the promise of his coming? for since the fathers fell asleep, all things continue as they were from the beginning of the creation."
+        }
+    ],
+    "tone": "instructional"
+}

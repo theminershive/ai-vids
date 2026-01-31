@@ -1,0 +1,19 @@
+{
+    "book": "Micah",
+    "chapter": "Chapter 2",
+    "verses": [
+        {
+            "name": "Micah 2:1",
+            "text": "Woe to them that devise iniquity, and work evil upon their beds! when the morning is light, they practise it, because it is in the power of their hand."
+        },
+        {
+            "name": "Micah 2:2",
+            "text": "And they covet fields, and take them by violence; and houses, and take them away: so they oppress a man and his house, even a man and his heritage."
+        },
+        {
+            "name": "Micah 2:3",
+            "text": "Therefore thus saith the Lord; Behold, against this family do I devise an evil, from which ye shall not remove your necks; neither shall ye go haughtily: for this time is evil."
+        }
+    ],
+    "tone": "lamenting"
+}

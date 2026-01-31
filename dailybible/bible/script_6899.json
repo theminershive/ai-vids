@@ -1,0 +1,23 @@
+{
+    "book": "John",
+    "chapter": "Chapter 5",
+    "verses": [
+        {
+            "name": "John 5:21",
+            "text": "For as the Father raiseth up the dead, and quickeneth them; even so the Son quickeneth whom he will."
+        },
+        {
+            "name": "John 5:22",
+            "text": "For the Father judgeth no man, but hath committed all judgment unto the Son:"
+        },
+        {
+            "name": "John 5:23",
+            "text": "That all men should honour the Son, even as they honour the Father. He that honoureth not the Son honoureth not the Father which hath sent him."
+        },
+        {
+            "name": "John 5:24",
+            "text": "Verily, verily, I say unto you, He that heareth my word, and believeth on him that sent me, hath everlasting life, and shall not come into condemnation; but is passed from death unto life."
+        }
+    ],
+    "tone": "lamenting"
+}

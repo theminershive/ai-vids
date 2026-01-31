@@ -1,0 +1,19 @@
+{
+    "book": "Acts",
+    "chapter": "Chapter 5",
+    "verses": [
+        {
+            "name": "Acts 5:8",
+            "text": "And Peter answered unto her, Tell me whether ye sold the land for so much? And she said, Yea, for so much."
+        },
+        {
+            "name": "Acts 5:9",
+            "text": "Then Peter said unto her, How is it that ye have agreed together to tempt the Spirit of the Lord? behold, the feet of them which have buried thy husband are at the door, and shall carry thee out."
+        },
+        {
+            "name": "Acts 5:10",
+            "text": "Then fell she down straightway at his feet, and yielded up the ghost: and the young men came in, and found her dead, and, carrying her forth, buried her by her husband."
+        }
+    ],
+    "tone": "neutral"
+}

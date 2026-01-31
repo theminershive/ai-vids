@@ -1,0 +1,27 @@
+{
+    "book": "John",
+    "chapter": "Chapter 4",
+    "verses": [
+        {
+            "name": "John 4:18",
+            "text": "For thou hast had five husbands; and he whom thou now hast is not thy husband: in that saidst thou truly."
+        },
+        {
+            "name": "John 4:19",
+            "text": "The woman saith unto him, Sir, I perceive that thou art a prophet."
+        },
+        {
+            "name": "John 4:20",
+            "text": "Our fathers worshipped in this mountain; and ye say, that in Jerusalem is the place where men ought to worship."
+        },
+        {
+            "name": "John 4:21",
+            "text": "Jesus saith unto her, Woman, believe me, the hour cometh, when ye shall neither in this mountain, nor yet at Jerusalem, worship the Father."
+        },
+        {
+            "name": "John 4:22",
+            "text": "Ye worship ye know not what: we know what we worship: for salvation is of the Jews."
+        }
+    ],
+    "tone": "praising"
+}

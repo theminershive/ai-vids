@@ -1,0 +1,15 @@
+{
+    "book": "Joshua",
+    "chapter": "Chapter 24",
+    "verses": [
+        {
+            "name": "Joshua 24:1",
+            "text": "And Joshua gathered all the tribes of Israel to Shechem, and called for the elders of Israel, and for their heads, and for their judges, and for their officers; and they presented themselves before God."
+        },
+        {
+            "name": "Joshua 24:2",
+            "text": "And Joshua said unto all the people, Thus saith the Lord God of Israel, Your fathers dwelt on the other side of the flood in old time, even Terah, the father of Abraham, and the father of Nachor: and they served other gods."
+        }
+    ],
+    "tone": "neutral"
+}

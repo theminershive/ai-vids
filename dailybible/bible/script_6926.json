@@ -1,0 +1,23 @@
+{
+    "book": "John",
+    "chapter": "Chapter 7",
+    "verses": [
+        {
+            "name": "John 7:21",
+            "text": "Jesus answered and said unto them, I have done one work, and ye all marvel."
+        },
+        {
+            "name": "John 7:22",
+            "text": "Moses therefore gave unto you circumcision; (not because it is of Moses, but of the fathers;) and ye on the sabbath day circumcise a man."
+        },
+        {
+            "name": "John 7:23",
+            "text": "If a man on the sabbath day receive circumcision, that the law of Moses should not be broken; are ye angry at me, because I have made a man every whit whole on the sabbath day?"
+        },
+        {
+            "name": "John 7:24",
+            "text": "Judge not according to the appearance, but judge righteous judgment."
+        }
+    ],
+    "tone": "neutral"
+}

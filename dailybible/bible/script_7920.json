@@ -1,0 +1,15 @@
+{
+    "book": "1 John",
+    "chapter": "Chapter 2",
+    "verses": [
+        {
+            "name": "1 John 2:13",
+            "text": "I write unto you, fathers, because ye have known him that is from the beginning. I write unto you, young men, because ye have overcome the wicked one. I write unto you, little children, because ye have known the Father."
+        },
+        {
+            "name": "1 John 2:14",
+            "text": "I have written unto you, fathers, because ye have known him that is from the beginning. I have written unto you, young men, because ye are strong, and the word of God abideth in you, and ye have overcome the wicked one."
+        }
+    ],
+    "tone": "lamenting"
+}

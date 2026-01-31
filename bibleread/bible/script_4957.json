@@ -1,0 +1,19 @@
+{
+    "book": "Jeremiah",
+    "chapter": "Chapter 9",
+    "verses": [
+        {
+            "name": "Jeremiah 9:12",
+            "text": "Who is the wise man, that may understand this? and who is he to whom the mouth of the Lord hath spoken, that he may declare it, for what the land perisheth and is burned up like a wilderness, that none passeth through?"
+        },
+        {
+            "name": "Jeremiah 9:13",
+            "text": "And the Lord saith, Because they have forsaken my law which I set before them, and have not obeyed my voice, neither walked therein;"
+        },
+        {
+            "name": "Jeremiah 9:14",
+            "text": "But have walked after the imagination of their own heart, and after Baalim, which their fathers taught them:"
+        }
+    ],
+    "tone": "instructional"
+}

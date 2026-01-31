@@ -1,0 +1,27 @@
+{
+    "book": "Luke",
+    "chapter": "Chapter 19",
+    "verses": [
+        {
+            "name": "Luke 19:17",
+            "text": "And he said unto him, Well, thou good servant: because thou hast been faithful in a very little, have thou authority over ten cities."
+        },
+        {
+            "name": "Luke 19:18",
+            "text": "And the second came, saying, Lord, thy pound hath gained five pounds."
+        },
+        {
+            "name": "Luke 19:19",
+            "text": "And he said likewise to him, Be thou also over five cities."
+        },
+        {
+            "name": "Luke 19:20",
+            "text": "And another came, saying, Lord, behold, here is thy pound, which I have kept laid up in a napkin:"
+        },
+        {
+            "name": "Luke 19:21",
+            "text": "For I feared thee, because thou art an austere man: thou takest up that thou layedst not down, and reapest that thou didst not sow."
+        }
+    ],
+    "tone": "neutral"
+}

@@ -1,0 +1,23 @@
+{
+    "book": "Hebrews",
+    "chapter": "Chapter 11",
+    "verses": [
+        {
+            "name": "Hebrews 11:32",
+            "text": "And what shall I more say? for the time would fail me to tell of Gedeon, and of Barak, and of Samson, and of Jephthae; of David also, and Samuel, and of the prophets:"
+        },
+        {
+            "name": "Hebrews 11:33",
+            "text": "Who through faith subdued kingdoms, wrought righteousness, obtained promises, stopped the mouths of lions,"
+        },
+        {
+            "name": "Hebrews 11:34",
+            "text": "Quenched the violence of fire, escaped the edge of the sword, out of weakness were made strong, waxed valiant in fight, turned to flight the armies of the aliens."
+        },
+        {
+            "name": "Hebrews 11:35",
+            "text": "Women received their dead raised to life again: and others were tortured, not accepting deliverance; that they might obtain a better resurrection:"
+        }
+    ],
+    "tone": "hopeful"
+}

@@ -1,0 +1,23 @@
+{
+    "book": "Ecclesiastes",
+    "chapter": "Chapter 12",
+    "verses": [
+        {
+            "name": "Ecclesiastes 12:6",
+            "text": "Or ever the silver cord be loosed, or the golden bowl be broken, or the pitcher be broken at the fountain, or the wheel broken at the cistern."
+        },
+        {
+            "name": "Ecclesiastes 12:7",
+            "text": "Then shall the dust return to the earth as it was: and the spirit shall return unto God who gave it."
+        },
+        {
+            "name": "Ecclesiastes 12:8",
+            "text": "Vanity of vanities, saith the preacher; all is vanity."
+        },
+        {
+            "name": "Ecclesiastes 12:9",
+            "text": "And moreover, because the preacher was wise, he still taught the people knowledge; yea, he gave good heed, and sought out, and set in order many proverbs."
+        }
+    ],
+    "tone": "neutral"
+}

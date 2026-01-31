@@ -1,0 +1,15 @@
+{
+    "book": "Zephaniah",
+    "chapter": "Chapter 1",
+    "verses": [
+        {
+            "name": "Zephaniah 1:12",
+            "text": "And it shall come to pass at that time, that I will search Jerusalem with candles, and punish the men that are settled on their lees: that say in their heart, The Lord will not do good, neither will he do evil."
+        },
+        {
+            "name": "Zephaniah 1:13",
+            "text": "Therefore their goods shall become a booty, and their houses a desolation: they shall also build houses, but not inhabit them; and they shall plant vineyards, but not drink the wine thereof."
+        }
+    ],
+    "tone": "lamenting"
+}

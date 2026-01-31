@@ -1,0 +1,23 @@
+{
+    "book": "Hebrews",
+    "chapter": "Chapter 5",
+    "verses": [
+        {
+            "name": "Hebrews 5:5",
+            "text": "So also Christ glorified not himself to be made an high priest; but he that said unto him, Thou art my Son, to day have I begotten thee."
+        },
+        {
+            "name": "Hebrews 5:6",
+            "text": "As he saith also in another place, Thou art a priest for ever after the order of Melchisedec."
+        },
+        {
+            "name": "Hebrews 5:7",
+            "text": "Who in the days of his flesh, when he had offered up prayers and supplications with strong crying and tears unto him that was able to save him from death, and was heard in that he feared;"
+        },
+        {
+            "name": "Hebrews 5:8",
+            "text": "Though he were a Son, yet learned he obedience by the things which he suffered;"
+        }
+    ],
+    "tone": "neutral"
+}

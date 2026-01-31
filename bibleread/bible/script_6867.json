@@ -1,0 +1,23 @@
+{
+    "book": "John",
+    "chapter": "Chapter 1",
+    "verses": [
+        {
+            "name": "John 1:45",
+            "text": "Philip findeth Nathanael, and saith unto him, We have found him, of whom Moses in the law, and the prophets, did write, Jesus of Nazareth, the son of Joseph."
+        },
+        {
+            "name": "John 1:46",
+            "text": "And Nathanael said unto him, Can there any good thing come out of Nazareth? Philip saith unto him, Come and see."
+        },
+        {
+            "name": "John 1:47",
+            "text": "Jesus saw Nathanael coming to him, and saith of him, Behold an Israelite indeed, in whom is no guile!"
+        },
+        {
+            "name": "John 1:48",
+            "text": "Nathanael saith unto him, Whence knowest thou me? Jesus answered and said unto him, Before that Philip called thee, when thou wast under the fig tree, I saw thee."
+        }
+    ],
+    "tone": "neutral"
+}

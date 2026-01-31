@@ -1,0 +1,19 @@
+{
+    "book": "Luke",
+    "chapter": "Chapter 19",
+    "verses": [
+        {
+            "name": "Luke 19:14",
+            "text": "But his citizens hated him, and sent a message after him, saying, We will not have this man to reign over us."
+        },
+        {
+            "name": "Luke 19:15",
+            "text": "And it came to pass, that when he was returned, having received the kingdom, then he commanded these servants to be called unto him, to whom he had given the money, that he might know how much every man had gained by trading."
+        },
+        {
+            "name": "Luke 19:16",
+            "text": "Then came the first, saying, Lord, thy pound hath gained ten pounds."
+        }
+    ],
+    "tone": "neutral"
+}

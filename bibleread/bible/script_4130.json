@@ -1,0 +1,31 @@
+{
+    "book": "Psalms",
+    "chapter": "Chapter 104",
+    "verses": [
+        {
+            "name": "Psalms 104:17",
+            "text": "Where the birds make their nests: as for the stork, the fir trees are her house."
+        },
+        {
+            "name": "Psalms 104:18",
+            "text": "The high hills are a refuge for the wild goats; and the rocks for the conies."
+        },
+        {
+            "name": "Psalms 104:19",
+            "text": "He appointed the moon for seasons: the sun knoweth his going down."
+        },
+        {
+            "name": "Psalms 104:20",
+            "text": "Thou makest darkness, and it is night: wherein all the beasts of the forest do creep forth."
+        },
+        {
+            "name": "Psalms 104:21",
+            "text": "The young lions roar after their prey, and seek their meat from God."
+        },
+        {
+            "name": "Psalms 104:22",
+            "text": "The sun ariseth, they gather themselves together, and lay them down in their dens."
+        }
+    ],
+    "tone": "neutral"
+}

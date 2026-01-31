@@ -1,0 +1,19 @@
+{
+    "book": "Jeremiah",
+    "chapter": "Chapter 23",
+    "verses": [
+        {
+            "name": "Jeremiah 23:1",
+            "text": "Woe be unto the pastors that destroy and scatter the sheep of my pasture! saith the Lord."
+        },
+        {
+            "name": "Jeremiah 23:2",
+            "text": "Therefore thus saith the Lord God of Israel against the pastors that feed my people; Ye have scattered my flock, and driven them away, and have not visited them: behold, I will visit upon you the evil of your doings, saith the Lord."
+        },
+        {
+            "name": "Jeremiah 23:3",
+            "text": "And I will gather the remnant of my flock out of all countries whither I have driven them, and will bring them again to their folds; and they shall be fruitful and increase."
+        }
+    ],
+    "tone": "lamenting"
+}

@@ -1,0 +1,19 @@
+{
+    "book": "Jeremiah",
+    "chapter": "Chapter 6",
+    "verses": [
+        {
+            "name": "Jeremiah 6:24",
+            "text": "We have heard the fame thereof: our hands wax feeble: anguish hath taken hold of us, and pain, as of a woman in travail."
+        },
+        {
+            "name": "Jeremiah 6:25",
+            "text": "Go not forth into the field, nor walk by the way; for the sword of the enemy and fear is on every side."
+        },
+        {
+            "name": "Jeremiah 6:26",
+            "text": "O daughter of my people, gird thee with sackcloth, and wallow thyself in ashes: make thee mourning, as for an only son, most bitter lamentation: for the spoiler shall suddenly come upon us."
+        }
+    ],
+    "tone": "lamenting"
+}

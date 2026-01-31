@@ -1,0 +1,23 @@
+{
+    "book": "Deuteronomy",
+    "chapter": "Chapter 5",
+    "verses": [
+        {
+            "name": "Deuteronomy 5:5",
+            "text": "(I stood between the Lord and you at that time, to shew you the word of the Lord: for ye were afraid by reason of the fire, and went not up into the mount;) saying,"
+        },
+        {
+            "name": "Deuteronomy 5:6",
+            "text": "I am the Lord thy God, which brought thee out of the land of Egypt, from the house of bondage."
+        },
+        {
+            "name": "Deuteronomy 5:7",
+            "text": "Thou shalt have none other gods before me."
+        },
+        {
+            "name": "Deuteronomy 5:8",
+            "text": "Thou shalt not make thee any graven image, or any likeness of any thing that is in heaven above, or that is in the earth beneath, or that is in the waters beneath the earth:"
+        }
+    ],
+    "tone": "neutral"
+}

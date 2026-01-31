@@ -1,0 +1,19 @@
+{
+    "book": "Luke",
+    "chapter": "Chapter 1",
+    "verses": [
+        {
+            "name": "Luke 1:20",
+            "text": "And, behold, thou shalt be dumb, and not able to speak, until the day that these things shall be performed, because thou believest not my words, which shall be fulfilled in their season."
+        },
+        {
+            "name": "Luke 1:21",
+            "text": "And the people waited for Zacharias, and marvelled that he tarried so long in the temple."
+        },
+        {
+            "name": "Luke 1:22",
+            "text": "And when he came out, he could not speak unto them: and they perceived that he had seen a vision in the temple: for he beckoned unto them, and remained speechless."
+        }
+    ],
+    "tone": "neutral"
+}

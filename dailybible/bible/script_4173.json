@@ -1,0 +1,31 @@
+{
+    "book": "Psalms",
+    "chapter": "Chapter 116",
+    "verses": [
+        {
+            "name": "Psalms 116:1",
+            "text": "I love the Lord, because he hath heard my voice and my supplications."
+        },
+        {
+            "name": "Psalms 116:2",
+            "text": "Because he hath inclined his ear unto me, therefore will I call upon him as long as I live."
+        },
+        {
+            "name": "Psalms 116:3",
+            "text": "The sorrows of death compassed me, and the pains of hell gat hold upon me: I found trouble and sorrow."
+        },
+        {
+            "name": "Psalms 116:4",
+            "text": "Then called I upon the name of the Lord; O Lord, I beseech thee, deliver my soul."
+        },
+        {
+            "name": "Psalms 116:5",
+            "text": "Gracious is the Lord, and righteous; yea, our God is merciful."
+        },
+        {
+            "name": "Psalms 116:6",
+            "text": "The Lord preserveth the simple: I was brought low, and he helped me."
+        }
+    ],
+    "tone": "hopeful"
+}

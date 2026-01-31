@@ -1,0 +1,23 @@
+{
+    "book": "Exodus",
+    "chapter": "Chapter 21",
+    "verses": [
+        {
+            "name": "Exodus 21:30",
+            "text": "If there be laid on him a sum of money, then he shall give for the ransom of his life whatsoever is laid upon him."
+        },
+        {
+            "name": "Exodus 21:31",
+            "text": "Whether he have gored a son, or have gored a daughter, according to this judgment shall it be done unto him."
+        },
+        {
+            "name": "Exodus 21:32",
+            "text": "If the ox shall push a manservant or a maidservant; he shall give unto their master thirty shekels of silver, and the ox shall be stoned."
+        },
+        {
+            "name": "Exodus 21:33",
+            "text": "And if a man shall open a pit, or if a man shall dig a pit, and not cover it, and an ox or an ass fall therein;"
+        }
+    ],
+    "tone": "lamenting"
+}

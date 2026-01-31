@@ -1,0 +1,19 @@
+{
+    "book": "John",
+    "chapter": "Chapter 5",
+    "verses": [
+        {
+            "name": "John 5:18",
+            "text": "Therefore the Jews sought the more to kill him, because he not only had broken the sabbath, but said also that God was his Father, making himself equal with God."
+        },
+        {
+            "name": "John 5:19",
+            "text": "Then answered Jesus and said unto them, Verily, verily, I say unto you, The Son can do nothing of himself, but what he seeth the Father do: for what things soever he doeth, these also doeth the Son likewise."
+        },
+        {
+            "name": "John 5:20",
+            "text": "For the Father loveth the Son, and sheweth him all things that himself doeth: and he will shew him greater works than these, that ye may marvel."
+        }
+    ],
+    "tone": "neutral"
+}

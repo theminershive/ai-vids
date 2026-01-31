@@ -1,0 +1,27 @@
+{
+    "book": "Philemon",
+    "chapter": "Chapter 1",
+    "verses": [
+        {
+            "name": "Philemon 1:7",
+            "text": "For we have great joy and consolation in thy love, because the bowels of the saints are refreshed by thee, brother."
+        },
+        {
+            "name": "Philemon 1:8",
+            "text": "Wherefore, though I might be much bold in Christ to enjoin thee that which is convenient,"
+        },
+        {
+            "name": "Philemon 1:9",
+            "text": "Yet for love\u2019s sake I rather beseech thee, being such an one as Paul the aged, and now also a prisoner of Jesus Christ."
+        },
+        {
+            "name": "Philemon 1:10",
+            "text": "I beseech thee for my son Onesimus, whom I have begotten in my bonds:"
+        },
+        {
+            "name": "Philemon 1:11",
+            "text": "Which in time past was to thee unprofitable, but now profitable to thee and to me:"
+        }
+    ],
+    "tone": "hopeful"
+}

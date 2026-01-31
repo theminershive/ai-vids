@@ -1,0 +1,23 @@
+{
+    "book": "1 John",
+    "chapter": "Chapter 4",
+    "verses": [
+        {
+            "name": "1 John 4:17",
+            "text": "Herein is our love made perfect, that we may have boldness in the day of judgment: because as he is, so are we in this world."
+        },
+        {
+            "name": "1 John 4:18",
+            "text": "There is no fear in love; but perfect love casteth out fear: because fear hath torment. He that feareth is not made perfect in love."
+        },
+        {
+            "name": "1 John 4:19",
+            "text": "We love him, because he first loved us."
+        },
+        {
+            "name": "1 John 4:20",
+            "text": "If a man say, I love God, and hateth his brother, he is a liar: for he that loveth not his brother whom he hath seen, how can he love God whom he hath not seen?"
+        }
+    ],
+    "tone": "hopeful"
+}

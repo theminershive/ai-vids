@@ -1,0 +1,19 @@
+{
+    "book": "Jeremiah",
+    "chapter": "Chapter 7",
+    "verses": [
+        {
+            "name": "Jeremiah 7:25",
+            "text": "Since the day that your fathers came forth out of the land of Egypt unto this day I have even sent unto you all my servants the prophets, daily rising up early and sending them:"
+        },
+        {
+            "name": "Jeremiah 7:26",
+            "text": "Yet they hearkened not unto me, nor inclined their ear, but hardened their neck: they did worse than their fathers."
+        },
+        {
+            "name": "Jeremiah 7:27",
+            "text": "Therefore thou shalt speak all these words unto them; but they will not hearken to thee: thou shalt also call unto them; but they will not answer thee."
+        }
+    ],
+    "tone": "neutral"
+}

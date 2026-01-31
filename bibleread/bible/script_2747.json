@@ -1,0 +1,19 @@
+{
+    "book": "2 Kings",
+    "chapter": "Chapter 3",
+    "verses": [
+        {
+            "name": "2 Kings 3:19",
+            "text": "And ye shall smite every fenced city, and every choice city, and shall fell every good tree, and stop all wells of water, and mar every good piece of land with stones."
+        },
+        {
+            "name": "2 Kings 3:20",
+            "text": "And it came to pass in the morning, when the meat offering was offered, that, behold, there came water by the way of Edom, and the country was filled with water."
+        },
+        {
+            "name": "2 Kings 3:21",
+            "text": "And when all the Moabites heard that the kings were come up to fight against them, they gathered all that were able to put on armour, and upward, and stood in the border."
+        }
+    ],
+    "tone": "neutral"
+}

@@ -1,0 +1,23 @@
+{
+    "book": "2 Samuel",
+    "chapter": "Chapter 5",
+    "verses": [
+        {
+            "name": "2 Samuel 5:4",
+            "text": "David was thirty years old when he began to reign, and he reigned forty years."
+        },
+        {
+            "name": "2 Samuel 5:5",
+            "text": "In Hebron he reigned over Judah seven years and six months: and in Jerusalem he reigned thirty and three years over all Israel and Judah."
+        },
+        {
+            "name": "2 Samuel 5:6",
+            "text": "And the king and his men went to Jerusalem unto the Jebusites, the inhabitants of the land: which spake unto David, saying, Except thou take away the blind and the lame, thou shalt not come in hither: thinking, David cannot come in hither."
+        },
+        {
+            "name": "2 Samuel 5:7",
+            "text": "Nevertheless David took the strong hold of Zion: the same is the city of David."
+        }
+    ],
+    "tone": "neutral"
+}

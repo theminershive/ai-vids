@@ -1,0 +1,23 @@
+{
+    "book": "Luke",
+    "chapter": "Chapter 12",
+    "verses": [
+        {
+            "name": "Luke 12:48",
+            "text": "But he that knew not, and did commit things worthy of stripes, shall be beaten with few stripes. For unto whomsoever much is given, of him shall be much required: and to whom men have committed much, of him they will ask the more."
+        },
+        {
+            "name": "Luke 12:49",
+            "text": "I am come to send fire on the earth; and what will I, if it be already kindled?"
+        },
+        {
+            "name": "Luke 12:50",
+            "text": "But I have a baptism to be baptized with; and how am I straitened till it be accomplished!"
+        },
+        {
+            "name": "Luke 12:51",
+            "text": "Suppose ye that I am come to give peace on earth? I tell you, Nay; but rather division:"
+        }
+    ],
+    "tone": "hopeful"
+}

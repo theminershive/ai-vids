@@ -1,0 +1,19 @@
+{
+    "book": "2 Samuel",
+    "chapter": "Chapter 1",
+    "verses": [
+        {
+            "name": "2 Samuel 1:4",
+            "text": "And David said unto him, How went the matter? I pray thee, tell me. And he answered, That the people are fled from the battle, and many of the people also are fallen and dead; and Saul and Jonathan his son are dead also."
+        },
+        {
+            "name": "2 Samuel 1:5",
+            "text": "And David said unto the young man that told him, How knowest thou that Saul and Jonathan his son be dead?"
+        },
+        {
+            "name": "2 Samuel 1:6",
+            "text": "And the young man that told him said, As I happened by chance upon mount Gilboa, behold, Saul leaned upon his spear; and, lo, the chariots and horsemen followed hard after him."
+        }
+    ],
+    "tone": "neutral"
+}

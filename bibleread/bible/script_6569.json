@@ -1,0 +1,23 @@
+{
+    "book": "Mark",
+    "chapter": "Chapter 15",
+    "verses": [
+        {
+            "name": "Mark 15:32",
+            "text": "Let Christ the King of Israel descend now from the cross, that we may see and believe. And they that were crucified with him reviled him."
+        },
+        {
+            "name": "Mark 15:33",
+            "text": "And when the sixth hour was come, there was darkness over the whole land until the ninth hour."
+        },
+        {
+            "name": "Mark 15:34",
+            "text": "And at the ninth hour Jesus cried with a loud voice, saying, Eloi, Eloi, lama sabachthani? which is, being interpreted, My God, my God, why hast thou forsaken me?"
+        },
+        {
+            "name": "Mark 15:35",
+            "text": "And some of them that stood by, when they heard it, said, Behold, he calleth Elias."
+        }
+    ],
+    "tone": "neutral"
+}

@@ -1,0 +1,19 @@
+{
+    "book": "Daniel",
+    "chapter": "Chapter 3",
+    "verses": [
+        {
+            "name": "Daniel 3:3",
+            "text": "Then the princes, the governors, and captains, the judges, the treasurers, the counsellors, the sheriffs, and all the rulers of the provinces, were gathered together unto the dedication of the image that Nebuchadnezzar the king had set up; and they stood before the image that Nebuchadnezzar had set up."
+        },
+        {
+            "name": "Daniel 3:4",
+            "text": "Then an herald cried aloud, To you it is commanded, O people, nations, and languages,"
+        },
+        {
+            "name": "Daniel 3:5",
+            "text": "That at what time ye hear the sound of the cornet, flute, harp, sackbut, psaltery, dulcimer, and all kinds of musick, ye fall down and worship the golden image that Nebuchadnezzar the king hath set up:"
+        }
+    ],
+    "tone": "neutral"
+}

@@ -1,0 +1,23 @@
+{
+    "book": "Luke",
+    "chapter": "Chapter 11",
+    "verses": [
+        {
+            "name": "Luke 11:46",
+            "text": "And he said, Woe unto you also, ye lawyers! for ye lade men with burdens grievous to be borne, and ye yourselves touch not the burdens with one of your fingers."
+        },
+        {
+            "name": "Luke 11:47",
+            "text": "Woe unto you! for ye build the sepulchres of the prophets, and your fathers killed them."
+        },
+        {
+            "name": "Luke 11:48",
+            "text": "Truly ye bear witness that ye allow the deeds of your fathers: for they indeed killed them, and ye build their sepulchres."
+        },
+        {
+            "name": "Luke 11:49",
+            "text": "Therefore also said the wisdom of God, I will send them prophets and apostles, and some of them they shall slay and persecute:"
+        }
+    ],
+    "tone": "lamenting"
+}

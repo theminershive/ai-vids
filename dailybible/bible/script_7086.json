@@ -1,0 +1,23 @@
+{
+    "book": "Acts",
+    "chapter": "Chapter 4",
+    "verses": [
+        {
+            "name": "Acts 4:13",
+            "text": "Now when they saw the boldness of Peter and John, and perceived that they were unlearned and ignorant men, they marvelled; and they took knowledge of them, that they had been with Jesus."
+        },
+        {
+            "name": "Acts 4:14",
+            "text": "And beholding the man which was healed standing with them, they could say nothing against it."
+        },
+        {
+            "name": "Acts 4:15",
+            "text": "But when they had commanded them to go aside out of the council, they conferred among themselves,"
+        },
+        {
+            "name": "Acts 4:16",
+            "text": "Saying, What shall we do to these men? for that indeed a notable miracle hath been done by them is manifest to all them that dwell in Jerusalem; and we cannot deny it."
+        }
+    ],
+    "tone": "hopeful"
+}

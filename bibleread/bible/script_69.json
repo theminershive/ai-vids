@@ -1,0 +1,35 @@
+{
+    "book": "Genesis",
+    "chapter": "Chapter 11",
+    "verses": [
+        {
+            "name": "Genesis 11:11",
+            "text": "And Shem lived after he begat Arphaxad five hundred years, and begat sons and daughters."
+        },
+        {
+            "name": "Genesis 11:12",
+            "text": "And Arphaxad lived five and thirty years, and begat Salah:"
+        },
+        {
+            "name": "Genesis 11:13",
+            "text": "And Arphaxad lived after he begat Salah four hundred and three years, and begat sons and daughters."
+        },
+        {
+            "name": "Genesis 11:14",
+            "text": "And Salah lived thirty years, and begat Eber:"
+        },
+        {
+            "name": "Genesis 11:15",
+            "text": "And Salah lived after he begat Eber four hundred and three years, and begat sons and daughters."
+        },
+        {
+            "name": "Genesis 11:16",
+            "text": "And Eber lived four and thirty years, and begat Peleg:"
+        },
+        {
+            "name": "Genesis 11:17",
+            "text": "And Eber lived after he begat Peleg four hundred and thirty years, and begat sons and daughters."
+        }
+    ],
+    "tone": "neutral"
+}

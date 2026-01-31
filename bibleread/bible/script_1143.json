@@ -1,0 +1,19 @@
+{
+    "book": "Numbers",
+    "chapter": "Chapter 15",
+    "verses": [
+        {
+            "name": "Numbers 15:28",
+            "text": "And the priest shall make an atonement for the soul that sinneth ignorantly, when he sinneth by ignorance before the Lord, to make an atonement for him; and it shall be forgiven him."
+        },
+        {
+            "name": "Numbers 15:29",
+            "text": "Ye shall have one law for him that sinneth through ignorance, both for him that is born among the children of Israel, and for the stranger that sojourneth among them."
+        },
+        {
+            "name": "Numbers 15:30",
+            "text": "But the soul that doeth ought presumptuously, whether he be born in the land, or a stranger, the same reproacheth the Lord; and that soul shall be cut off from among his people."
+        }
+    ],
+    "tone": "instructional"
+}

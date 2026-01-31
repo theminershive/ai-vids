@@ -1,0 +1,19 @@
+{
+    "book": "Ezekiel",
+    "chapter": "Chapter 11",
+    "verses": [
+        {
+            "name": "Ezekiel 11:1",
+            "text": "Moreover the spirit lifted me up, and brought me unto the east gate of the Lord\u2019s house, which looketh eastward: and behold at the door of the gate five and twenty men; among whom I saw Jaazaniah the son of Azur, and Pelatiah the son of Benaiah, princes of the people."
+        },
+        {
+            "name": "Ezekiel 11:2",
+            "text": "Then said he unto me, Son of man, these are the men that devise mischief, and give wicked counsel in this city:"
+        },
+        {
+            "name": "Ezekiel 11:3",
+            "text": "Which say, It is not near; let us build houses: this city is the caldron, and we be the flesh."
+        }
+    ],
+    "tone": "neutral"
+}

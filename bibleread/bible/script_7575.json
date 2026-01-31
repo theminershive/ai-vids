@@ -1,0 +1,23 @@
+{
+    "book": "2 Corinthians",
+    "chapter": "Chapter 11",
+    "verses": [
+        {
+            "name": "2 Corinthians 11:30",
+            "text": "If I must needs glory, I will glory of the things which concern mine infirmities."
+        },
+        {
+            "name": "2 Corinthians 11:31",
+            "text": "The God and Father of our Lord Jesus Christ, which is blessed for evermore, knoweth that I lie not."
+        },
+        {
+            "name": "2 Corinthians 11:32",
+            "text": "In Damascus the governor under Aretas the king kept the city of the Damascenes with a garrison, desirous to apprehend me:"
+        },
+        {
+            "name": "2 Corinthians 11:33",
+            "text": "And through a window in a basket was I let down by the wall, and escaped his hands. "
+        }
+    ],
+    "tone": "neutral"
+}

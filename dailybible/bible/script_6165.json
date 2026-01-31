@@ -1,0 +1,35 @@
+{
+    "book": "Matthew",
+    "chapter": "Chapter 1",
+    "verses": [
+        {
+            "name": "Matthew 1:7",
+            "text": "And Solomon begat Roboam; and Roboam begat Abia; and Abia begat Asa;"
+        },
+        {
+            "name": "Matthew 1:8",
+            "text": "And Asa begat Josaphat; and Josaphat begat Joram; and Joram begat Ozias;"
+        },
+        {
+            "name": "Matthew 1:9",
+            "text": "And Ozias begat Joatham; and Joatham begat Achaz; and Achaz begat Ezekias;"
+        },
+        {
+            "name": "Matthew 1:10",
+            "text": "And Ezekias begat Manasses; and Manasses begat Amon; and Amon begat Josias;"
+        },
+        {
+            "name": "Matthew 1:11",
+            "text": "And Josias begat Jechonias and his brethren, about the time they were carried away to Babylon:"
+        },
+        {
+            "name": "Matthew 1:12",
+            "text": "And after they were brought to Babylon, Jechonias begat Salathiel; and Salathiel begat Zorobabel;"
+        },
+        {
+            "name": "Matthew 1:13",
+            "text": "And Zorobabel begat Abiud; and Abiud begat Eliakim; and Eliakim begat Azor;"
+        }
+    ],
+    "tone": "neutral"
+}

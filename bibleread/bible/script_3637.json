@@ -1,0 +1,31 @@
+{
+    "book": "Esther",
+    "chapter": "Chapter 9",
+    "verses": [
+        {
+            "name": "Esther 9:5",
+            "text": "Thus the Jews smote all their enemies with the stroke of the sword, and slaughter, and destruction, and did what they would unto those that hated them."
+        },
+        {
+            "name": "Esther 9:6",
+            "text": "And in Shushan the palace the Jews slew and destroyed five hundred men."
+        },
+        {
+            "name": "Esther 9:7",
+            "text": "And Parshandatha, and Dalphon, and Aspatha,"
+        },
+        {
+            "name": "Esther 9:8",
+            "text": "And Poratha, and Adalia, and Aridatha,"
+        },
+        {
+            "name": "Esther 9:9",
+            "text": "And Parmashta, and Arisai, and Aridai, and Vajezatha,"
+        },
+        {
+            "name": "Esther 9:10",
+            "text": "The ten sons of Haman the son of Hammedatha, the enemy of the Jews, slew they; but on the spoil laid they not their hand."
+        }
+    ],
+    "tone": "lamenting"
+}

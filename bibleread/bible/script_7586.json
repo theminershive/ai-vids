@@ -1,0 +1,27 @@
+{
+    "book": "Galatians",
+    "chapter": "Chapter 1",
+    "verses": [
+        {
+            "name": "Galatians 1:1",
+            "text": "Paul, an apostle, (not of men, neither by man, but by Jesus Christ, and God the Father, who raised him from the dead;)"
+        },
+        {
+            "name": "Galatians 1:2",
+            "text": "And all the brethren which are with me, unto the churches of Galatia:"
+        },
+        {
+            "name": "Galatians 1:3",
+            "text": "Grace be to you and peace from God the Father, and from our Lord Jesus Christ,"
+        },
+        {
+            "name": "Galatians 1:4",
+            "text": "Who gave himself for our sins, that he might deliver us from this present evil world, according to the will of God and our Father:"
+        },
+        {
+            "name": "Galatians 1:5",
+            "text": "To whom be glory for ever and ever. Amen."
+        }
+    ],
+    "tone": "hopeful"
+}

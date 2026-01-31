@@ -1,0 +1,23 @@
+{
+    "book": "Leviticus",
+    "chapter": "Chapter 24",
+    "verses": [
+        {
+            "name": "Leviticus 24:15",
+            "text": "And thou shalt speak unto the children of Israel, saying, Whosoever curseth his God shall bear his sin."
+        },
+        {
+            "name": "Leviticus 24:16",
+            "text": "And he that blasphemeth the name of the Lord, he shall surely be put to death, and all the congregation shall certainly stone him: as well the stranger, as he that is born in the land, when he blasphemeth the name of the Lord, shall be put to death."
+        },
+        {
+            "name": "Leviticus 24:17",
+            "text": "And he that killeth any man shall surely be put to death."
+        },
+        {
+            "name": "Leviticus 24:18",
+            "text": "And he that killeth a beast shall make it good; beast for beast."
+        }
+    ],
+    "tone": "lamenting"
+}

@@ -1,0 +1,19 @@
+{
+    "book": "Ecclesiastes",
+    "chapter": "Chapter 3",
+    "verses": [
+        {
+            "name": "Ecclesiastes 3:14",
+            "text": "I know that, whatsoever God doeth, it shall be for ever: nothing can be put to it, nor any thing taken from it: and God doeth it, that men should fear before him."
+        },
+        {
+            "name": "Ecclesiastes 3:15",
+            "text": "That which hath been is now; and that which is to be hath already been; and God requireth that which is past."
+        },
+        {
+            "name": "Ecclesiastes 3:16",
+            "text": "And moreover I saw under the sun the place of judgment, that wickedness was there; and the place of righteousness, that iniquity was there."
+        }
+    ],
+    "tone": "neutral"
+}

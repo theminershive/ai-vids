@@ -1,0 +1,19 @@
+{
+    "book": "Daniel",
+    "chapter": "Chapter 9",
+    "verses": [
+        {
+            "name": "Daniel 9:4",
+            "text": "And I prayed unto the Lord my God, and made my confession, and said, O Lord, the great and dreadful God, keeping the covenant and mercy to them that love him, and to them that keep his commandments;"
+        },
+        {
+            "name": "Daniel 9:5",
+            "text": "We have sinned, and have committed iniquity, and have done wickedly, and have rebelled, even by departing from thy precepts and from thy judgments:"
+        },
+        {
+            "name": "Daniel 9:6",
+            "text": "Neither have we hearkened unto thy servants the prophets, which spake in thy name to our kings, our princes, and our fathers, and to all the people of the land."
+        }
+    ],
+    "tone": "hopeful"
+}

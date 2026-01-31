@@ -1,0 +1,27 @@
+{
+    "book": "Luke",
+    "chapter": "Chapter 23",
+    "verses": [
+        {
+            "name": "Luke 23:9",
+            "text": "Then he questioned with him in many words; but he answered him nothing."
+        },
+        {
+            "name": "Luke 23:10",
+            "text": "And the chief priests and scribes stood and vehemently accused him."
+        },
+        {
+            "name": "Luke 23:11",
+            "text": "And Herod with his men of war set him at nought, and mocked him, and arrayed him in a gorgeous robe, and sent him again to Pilate."
+        },
+        {
+            "name": "Luke 23:12",
+            "text": "And the same day Pilate and Herod were made friends together: for before they were at enmity between themselves."
+        },
+        {
+            "name": "Luke 23:13",
+            "text": "And Pilate, when he had called together the chief priests and the rulers and the people,"
+        }
+    ],
+    "tone": "neutral"
+}

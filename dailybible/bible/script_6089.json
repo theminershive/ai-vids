@@ -1,0 +1,19 @@
+{
+    "book": "Zechariah",
+    "chapter": "Chapter 1",
+    "verses": [
+        {
+            "name": "Zechariah 1:14",
+            "text": "So the angel that communed with me said unto me, Cry thou, saying, Thus saith the Lord of hosts; I am jealous for Jerusalem and for Zion with a great jealousy."
+        },
+        {
+            "name": "Zechariah 1:15",
+            "text": "And I am very sore displeased with the heathen that are at ease: for I was but a little displeased, and they helped forward the affliction."
+        },
+        {
+            "name": "Zechariah 1:16",
+            "text": "Therefore thus saith the Lord; I am returned to Jerusalem with mercies: my house shall be built in it, saith the Lord of hosts, and a line shall be stretched forth upon Jerusalem."
+        }
+    ],
+    "tone": "lamenting"
+}

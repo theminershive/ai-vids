@@ -1,0 +1,23 @@
+{
+    "book": "Isaiah",
+    "chapter": "Chapter 40",
+    "verses": [
+        {
+            "name": "Isaiah 40:1",
+            "text": "Comfort ye, comfort ye my people, saith your God."
+        },
+        {
+            "name": "Isaiah 40:2",
+            "text": "Speak ye comfortably to Jerusalem, and cry unto her, that her warfare is accomplished, that her iniquity is pardoned: for she hath received of the Lord\u2019s hand double for all her sins."
+        },
+        {
+            "name": "Isaiah 40:3",
+            "text": "The voice of him that crieth in the wilderness, Prepare ye the way of the Lord, make straight in the desert a highway for our God."
+        },
+        {
+            "name": "Isaiah 40:4",
+            "text": "Every valley shall be exalted, and every mountain and hill shall be made low: and the crooked shall be made straight, and the rough places plain:"
+        }
+    ],
+    "tone": "hopeful"
+}

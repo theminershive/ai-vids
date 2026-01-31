@@ -1,0 +1,23 @@
+{
+    "book": "Leviticus",
+    "chapter": "Chapter 18",
+    "verses": [
+        {
+            "name": "Leviticus 18:25",
+            "text": "And the land is defiled: therefore I do visit the iniquity thereof upon it, and the land itself vomiteth out her inhabitants."
+        },
+        {
+            "name": "Leviticus 18:26",
+            "text": "Ye shall therefore keep my statutes and my judgments, and shall not commit any of these abominations; neither any of your own nation, nor any stranger that sojourneth among you:"
+        },
+        {
+            "name": "Leviticus 18:27",
+            "text": "(For all these abominations have the men of the land done, which were before you, and the land is defiled;)"
+        },
+        {
+            "name": "Leviticus 18:28",
+            "text": "That the land spue not you out also, when ye defile it, as it spued out the nations that were before you."
+        }
+    ],
+    "tone": "neutral"
+}

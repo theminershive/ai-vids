@@ -1,0 +1,19 @@
+{
+    "book": "1 Corinthians",
+    "chapter": "Chapter 14",
+    "verses": [
+        {
+            "name": "1 Corinthians 14:20",
+            "text": "Brethren, be not children in understanding: howbeit in malice be ye children, but in understanding be men."
+        },
+        {
+            "name": "1 Corinthians 14:21",
+            "text": "In the law it is written, With men of other tongues and other lips will I speak unto this people; and yet for all that will they not hear me, saith the Lord."
+        },
+        {
+            "name": "1 Corinthians 14:22",
+            "text": "Wherefore tongues are for a sign, not to them that believe, but to them that believe not: but prophesying serveth not for them that believe not, but for them which believe."
+        }
+    ],
+    "tone": "instructional"
+}

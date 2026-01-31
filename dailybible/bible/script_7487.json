@@ -1,0 +1,23 @@
+{
+    "book": "1 Corinthians",
+    "chapter": "Chapter 12",
+    "verses": [
+        {
+            "name": "1 Corinthians 12:12",
+            "text": "For as the body is one, and hath many members, and all the members of that one body, being many, are one body: so also is Christ."
+        },
+        {
+            "name": "1 Corinthians 12:13",
+            "text": "For by one Spirit are we all baptized into one body, whether we be Jews or Gentiles, whether we be bond or free; and have been all made to drink into one Spirit."
+        },
+        {
+            "name": "1 Corinthians 12:14",
+            "text": "For the body is not one member, but many."
+        },
+        {
+            "name": "1 Corinthians 12:15",
+            "text": "If the foot shall say, Because I am not the hand, I am not of the body; is it therefore not of the body?"
+        }
+    ],
+    "tone": "neutral"
+}

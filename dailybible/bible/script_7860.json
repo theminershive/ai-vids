@@ -1,0 +1,23 @@
+{
+    "book": "James",
+    "chapter": "Chapter 2",
+    "verses": [
+        {
+            "name": "James 2:14",
+            "text": "What doth it profit, my brethren, though a man say he hath faith, and have not works? can faith save him?"
+        },
+        {
+            "name": "James 2:15",
+            "text": "If a brother or sister be naked, and destitute of daily food,"
+        },
+        {
+            "name": "James 2:16",
+            "text": "And one of you say unto them, Depart in peace, be ye warmed and filled; notwithstanding ye give them not those things which are needful to the body; what doth it profit?"
+        },
+        {
+            "name": "James 2:17",
+            "text": "Even so faith, if it hath not works, is dead, being alone."
+        }
+    ],
+    "tone": "hopeful"
+}

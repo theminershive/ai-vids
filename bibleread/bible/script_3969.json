@@ -1,0 +1,27 @@
+{
+    "book": "Psalms",
+    "chapter": "Chapter 50",
+    "verses": [
+        {
+            "name": "Psalms 50:11",
+            "text": "I know all the fowls of the mountains: and the wild beasts of the field are mine."
+        },
+        {
+            "name": "Psalms 50:12",
+            "text": "If I were hungry, I would not tell thee: for the world is mine, and the fulness thereof."
+        },
+        {
+            "name": "Psalms 50:13",
+            "text": "Will I eat the flesh of bulls, or drink the blood of goats?"
+        },
+        {
+            "name": "Psalms 50:14",
+            "text": "Offer unto God thanksgiving; and pay thy vows unto the most High:"
+        },
+        {
+            "name": "Psalms 50:15",
+            "text": "And call upon me in the day of trouble: I will deliver thee, and thou shalt glorify me."
+        }
+    ],
+    "tone": "praising"
+}

@@ -1,0 +1,19 @@
+{
+    "book": "2 Kings",
+    "chapter": "Chapter 13",
+    "verses": [
+        {
+            "name": "2 Kings 13:10",
+            "text": "In the thirty and seventh year of Joash king of Judah began Jehoash the son of Jehoahaz to reign over Israel in Samaria, and reigned sixteen years."
+        },
+        {
+            "name": "2 Kings 13:11",
+            "text": "And he did that which was evil in the sight of the Lord; he departed not from all the sins of Jeroboam the son of Nebat, who made Israel sin: but he walked therein."
+        },
+        {
+            "name": "2 Kings 13:12",
+            "text": "And the rest of the acts of Joash, and all that he did, and his might wherewith he fought against Amaziah king of Judah, are they not written in the book of the chronicles of the kings of Israel?"
+        }
+    ],
+    "tone": "neutral"
+}

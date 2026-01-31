@@ -1,0 +1,19 @@
+{
+    "book": "Matthew",
+    "chapter": "Chapter 13",
+    "verses": [
+        {
+            "name": "Matthew 13:32",
+            "text": "Which indeed is the least of all seeds: but when it is grown, it is the greatest among herbs, and becometh a tree, so that the birds of the air come and lodge in the branches thereof."
+        },
+        {
+            "name": "Matthew 13:33",
+            "text": "Another parable spake he unto them; The kingdom of heaven is like unto leaven, which a woman took, and hid in three measures of meal, till the whole was leavened."
+        },
+        {
+            "name": "Matthew 13:34",
+            "text": "All these things spake Jesus unto the multitude in parables; and without a parable spake he not unto them:"
+        }
+    ],
+    "tone": "hopeful"
+}

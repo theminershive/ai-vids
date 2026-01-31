@@ -1,0 +1,23 @@
+{
+    "book": "1 Corinthians",
+    "chapter": "Chapter 6",
+    "verses": [
+        {
+            "name": "1 Corinthians 6:5",
+            "text": "I speak to your shame. Is it so, that there is not a wise man among you? no, not one that shall be able to judge between his brethren?"
+        },
+        {
+            "name": "1 Corinthians 6:6",
+            "text": "But brother goeth to law with brother, and that before the unbelievers."
+        },
+        {
+            "name": "1 Corinthians 6:7",
+            "text": "Now therefore there is utterly a fault among you, because ye go to law one with another. Why do ye not rather take wrong? why do ye not rather suffer yourselves to be defrauded?"
+        },
+        {
+            "name": "1 Corinthians 6:8",
+            "text": "Nay, ye do wrong, and defraud, and that your brethren."
+        }
+    ],
+    "tone": "instructional"
+}

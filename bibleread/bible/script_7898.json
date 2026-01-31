@@ -1,0 +1,23 @@
+{
+    "book": "1 Peter",
+    "chapter": "Chapter 5",
+    "verses": [
+        {
+            "name": "1 Peter 5:9",
+            "text": "Whom resist stedfast in the faith, knowing that the same afflictions are accomplished in your brethren that are in the world."
+        },
+        {
+            "name": "1 Peter 5:10",
+            "text": "But the God of all grace, who hath called us unto his eternal glory by Christ Jesus, after that ye have suffered a while, make you perfect, stablish, strengthen, settle you."
+        },
+        {
+            "name": "1 Peter 5:11",
+            "text": "To him be glory and dominion for ever and ever. Amen."
+        },
+        {
+            "name": "1 Peter 5:12",
+            "text": "By Silvanus, a faithful brother unto you, as I suppose, I have written briefly, exhorting, and testifying that this is the true grace of God wherein ye stand."
+        }
+    ],
+    "tone": "hopeful"
+}

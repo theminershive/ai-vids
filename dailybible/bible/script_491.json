@@ -1,0 +1,15 @@
+{
+    "book": "Exodus",
+    "chapter": "Chapter 12",
+    "verses": [
+        {
+            "name": "Exodus 12:22",
+            "text": "And ye shall take a bunch of hyssop, and dip it in the blood that is in the bason, and strike the lintel and the two side posts with the blood that is in the bason; and none of you shall go out at the door of his house until the morning."
+        },
+        {
+            "name": "Exodus 12:23",
+            "text": "For the Lord will pass through to smite the Egyptians; and when he seeth the blood upon the lintel, and on the two side posts, the Lord will pass over the door, and will not suffer the destroyer to come in unto your houses to smite you."
+        }
+    ],
+    "tone": "hopeful"
+}

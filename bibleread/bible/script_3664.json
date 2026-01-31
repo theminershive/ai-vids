@@ -1,0 +1,27 @@
+{
+    "book": "Job",
+    "chapter": "Chapter 5",
+    "verses": [
+        {
+            "name": "Job 5:1",
+            "text": "Call now, if there be any that will answer thee; and to which of the saints wilt thou turn?"
+        },
+        {
+            "name": "Job 5:2",
+            "text": "For wrath killeth the foolish man, and envy slayeth the silly one."
+        },
+        {
+            "name": "Job 5:3",
+            "text": "I have seen the foolish taking root: but suddenly I cursed his habitation."
+        },
+        {
+            "name": "Job 5:4",
+            "text": "His children are far from safety, and they are crushed in the gate, neither is there any to deliver them."
+        },
+        {
+            "name": "Job 5:5",
+            "text": "Whose harvest the hungry eateth up, and taketh it even out of the thorns, and the robber swalloweth up their substance."
+        }
+    ],
+    "tone": "lamenting"
+}

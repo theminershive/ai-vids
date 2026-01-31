@@ -1,0 +1,27 @@
+{
+    "book": "Matthew",
+    "chapter": "Chapter 17",
+    "verses": [
+        {
+            "name": "Matthew 17:13",
+            "text": "Then the disciples understood that he spake unto them of John the Baptist."
+        },
+        {
+            "name": "Matthew 17:14",
+            "text": "And when they were come to the multitude, there came to him a certain man, kneeling down to him, and saying,"
+        },
+        {
+            "name": "Matthew 17:15",
+            "text": "Lord, have mercy on my son: for he is lunatick, and sore vexed: for ofttimes he falleth into the fire, and oft into the water."
+        },
+        {
+            "name": "Matthew 17:16",
+            "text": "And I brought him to thy disciples, and they could not cure him."
+        },
+        {
+            "name": "Matthew 17:17",
+            "text": "Then Jesus answered and said, O faithless and perverse generation, how long shall I be with you? how long shall I suffer you? bring him hither to me."
+        }
+    ],
+    "tone": "lamenting"
+}

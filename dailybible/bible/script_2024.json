@@ -1,0 +1,15 @@
+{
+    "book": "Ruth",
+    "chapter": "Chapter 4",
+    "verses": [
+        {
+            "name": "Ruth 4:9",
+            "text": "And Boaz said unto the elders, and unto all the people, Ye are witnesses this day, that I have bought all that was Elimelech\u2019s, and all that was Chilion\u2019s and Mahlon\u2019s, of the hand of Naomi."
+        },
+        {
+            "name": "Ruth 4:10",
+            "text": "Moreover Ruth the Moabitess, the wife of Mahlon, have I purchased to be my wife, to raise up the name of the dead upon his inheritance, that the name of the dead be not cut off from among his brethren, and from the gate of his place: ye are witnesses this day."
+        }
+    ],
+    "tone": "neutral"
+}

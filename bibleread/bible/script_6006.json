@@ -1,0 +1,19 @@
+{
+    "book": "Micah",
+    "chapter": "Chapter 3",
+    "verses": [
+        {
+            "name": "Micah 3:9",
+            "text": "Hear this, I pray you, ye heads of the house of Jacob, and princes of the house of Israel, that abhor judgment, and pervert all equity."
+        },
+        {
+            "name": "Micah 3:10",
+            "text": "They build up Zion with blood, and Jerusalem with iniquity."
+        },
+        {
+            "name": "Micah 3:11",
+            "text": "The heads thereof judge for reward, and the priests thereof teach for hire, and the prophets thereof divine for money: yet will they lean upon the Lord, and say, Is not the Lord among us? none evil can come upon us."
+        }
+    ],
+    "tone": "instructional"
+}

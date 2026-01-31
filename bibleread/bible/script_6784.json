@@ -1,0 +1,23 @@
+{
+    "book": "Luke",
+    "chapter": "Chapter 18",
+    "verses": [
+        {
+            "name": "Luke 18:22",
+            "text": "Now when Jesus heard these things, he said unto him, Yet lackest thou one thing: sell all that thou hast, and distribute unto the poor, and thou shalt have treasure in heaven: and come, follow me."
+        },
+        {
+            "name": "Luke 18:23",
+            "text": "And when he heard this, he was very sorrowful: for he was very rich."
+        },
+        {
+            "name": "Luke 18:24",
+            "text": "And when Jesus saw that he was very sorrowful, he said, How hardly shall they that have riches enter into the kingdom of God!"
+        },
+        {
+            "name": "Luke 18:25",
+            "text": "For it is easier for a camel to go through a needle\u2019s eye, than for a rich man to enter into the kingdom of God."
+        }
+    ],
+    "tone": "neutral"
+}

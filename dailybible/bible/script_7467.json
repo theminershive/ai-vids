@@ -1,0 +1,19 @@
+{
+    "book": "1 Corinthians",
+    "chapter": "Chapter 9",
+    "verses": [
+        {
+            "name": "1 Corinthians 9:16",
+            "text": "For though I preach the gospel, I have nothing to glory of: for necessity is laid upon me; yea, woe is unto me, if I preach not the gospel!"
+        },
+        {
+            "name": "1 Corinthians 9:17",
+            "text": "For if I do this thing willingly, I have a reward: but if against my will, a dispensation of the gospel is committed unto me."
+        },
+        {
+            "name": "1 Corinthians 9:18",
+            "text": "What is my reward then? Verily that, when I preach the gospel, I may make the gospel of Christ without charge, that I abuse not my power in the gospel."
+        }
+    ],
+    "tone": "hopeful"
+}

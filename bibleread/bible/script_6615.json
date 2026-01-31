@@ -1,0 +1,19 @@
+{
+    "book": "Luke",
+    "chapter": "Chapter 3",
+    "verses": [
+        {
+            "name": "Luke 3:31",
+            "text": "Which was the son of Melea, which was the son of Menan, which was the son of Mattatha, which was the son of Nathan, which was the son of David,"
+        },
+        {
+            "name": "Luke 3:32",
+            "text": "Which was the son of Jesse, which was the son of Obed, which was the son of Booz, which was the son of Salmon, which was the son of Naasson,"
+        },
+        {
+            "name": "Luke 3:33",
+            "text": "Which was the son of Aminadab, which was the son of Aram, which was the son of Esrom, which was the son of Phares, which was the son of Juda,"
+        }
+    ],
+    "tone": "neutral"
+}

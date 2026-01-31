@@ -1,0 +1,23 @@
+{
+    "book": "Jeremiah",
+    "chapter": "Chapter 4",
+    "verses": [
+        {
+            "name": "Jeremiah 4:13",
+            "text": "Behold, he shall come up as clouds, and his chariots shall be as a whirlwind: his horses are swifter than eagles. Woe unto us! for we are spoiled."
+        },
+        {
+            "name": "Jeremiah 4:14",
+            "text": "O Jerusalem, wash thine heart from wickedness, that thou mayest be saved. How long shall thy vain thoughts lodge within thee?"
+        },
+        {
+            "name": "Jeremiah 4:15",
+            "text": "For a voice declareth from Dan, and publisheth affliction from mount Ephraim."
+        },
+        {
+            "name": "Jeremiah 4:16",
+            "text": "Make ye mention to the nations; behold, publish against Jerusalem, that watchers come from a far country, and give out their voice against the cities of Judah."
+        }
+    ],
+    "tone": "lamenting"
+}

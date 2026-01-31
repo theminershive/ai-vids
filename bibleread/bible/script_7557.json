@@ -1,0 +1,23 @@
+{
+    "book": "2 Corinthians",
+    "chapter": "Chapter 8",
+    "verses": [
+        {
+            "name": "2 Corinthians 8:12",
+            "text": "For if there be first a willing mind, it is accepted according to that a man hath, and not according to that he hath not."
+        },
+        {
+            "name": "2 Corinthians 8:13",
+            "text": "For I mean not that other men be eased, and ye burdened:"
+        },
+        {
+            "name": "2 Corinthians 8:14",
+            "text": "But by an equality, that now at this time your abundance may be a supply for their want, that their abundance also may be a supply for your want: that there may be equality:"
+        },
+        {
+            "name": "2 Corinthians 8:15",
+            "text": "As it is written, He that had gathered much had nothing over; and he that had gathered little had no lack."
+        }
+    ],
+    "tone": "lamenting"
+}

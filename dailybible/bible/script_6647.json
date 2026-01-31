@@ -1,0 +1,23 @@
+{
+    "book": "Luke",
+    "chapter": "Chapter 6",
+    "verses": [
+        {
+            "name": "Luke 6:31",
+            "text": "And as ye would that men should do to you, do ye also to them likewise."
+        },
+        {
+            "name": "Luke 6:32",
+            "text": "For if ye love them which love you, what thank have ye? for sinners also love those that love them."
+        },
+        {
+            "name": "Luke 6:33",
+            "text": "And if ye do good to them which do good to you, what thank have ye? for sinners also do even the same."
+        },
+        {
+            "name": "Luke 6:34",
+            "text": "And if ye lend to them of whom ye hope to receive, what thank have ye? for sinners also lend to sinners, to receive as much again."
+        }
+    ],
+    "tone": "hopeful"
+}

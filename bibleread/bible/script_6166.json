@@ -1,0 +1,23 @@
+{
+    "book": "Matthew",
+    "chapter": "Chapter 1",
+    "verses": [
+        {
+            "name": "Matthew 1:14",
+            "text": "And Azor begat Sadoc; and Sadoc begat Achim; and Achim begat Eliud;"
+        },
+        {
+            "name": "Matthew 1:15",
+            "text": "And Eliud begat Eleazar; and Eleazar begat Matthan; and Matthan begat Jacob;"
+        },
+        {
+            "name": "Matthew 1:16",
+            "text": "And Jacob begat Joseph the husband of Mary, of whom was born Jesus, who is called Christ."
+        },
+        {
+            "name": "Matthew 1:17",
+            "text": "So all the generations from Abraham to David are fourteen generations; and from David until the carrying away into Babylon are fourteen generations; and from the carrying away into Babylon unto Christ are fourteen generations."
+        }
+    ],
+    "tone": "neutral"
+}

@@ -1,0 +1,19 @@
+{
+    "book": "Galatians",
+    "chapter": "Chapter 3",
+    "verses": [
+        {
+            "name": "Galatians 3:13",
+            "text": "Christ hath redeemed us from the curse of the law, being made a curse for us: for it is written, Cursed is every one that hangeth on a tree:"
+        },
+        {
+            "name": "Galatians 3:14",
+            "text": "That the blessing of Abraham might come on the Gentiles through Jesus Christ; that we might receive the promise of the Spirit through faith."
+        },
+        {
+            "name": "Galatians 3:15",
+            "text": "Brethren, I speak after the manner of men; Though it be but a man\u2019s covenant, yet if it be confirmed, no man disannulleth, or addeth thereto."
+        }
+    ],
+    "tone": "neutral"
+}

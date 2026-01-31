@@ -1,0 +1,15 @@
+{
+    "book": "Exodus",
+    "chapter": "Chapter 10",
+    "verses": [
+        {
+            "name": "Exodus 10:12",
+            "text": "And the Lord said unto Moses, Stretch out thine hand over the land of Egypt for the locusts, that they may come up upon the land of Egypt, and eat every herb of the land, even all that the hail hath left."
+        },
+        {
+            "name": "Exodus 10:13",
+            "text": "And Moses stretched forth his rod over the land of Egypt, and the Lord brought an east wind upon the land all that day, and all that night; and when it was morning, the east wind brought the locusts."
+        }
+    ],
+    "tone": "neutral"
+}

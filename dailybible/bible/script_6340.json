@@ -1,0 +1,27 @@
+{
+    "book": "Matthew",
+    "chapter": "Chapter 22",
+    "verses": [
+        {
+            "name": "Matthew 22:11",
+            "text": "And when the king came in to see the guests, he saw there a man which had not on a wedding garment:"
+        },
+        {
+            "name": "Matthew 22:12",
+            "text": "And he saith unto him, Friend, how camest thou in hither not having a wedding garment? And he was speechless."
+        },
+        {
+            "name": "Matthew 22:13",
+            "text": "Then said the king to the servants, Bind him hand and foot, and take him away, and cast him into outer darkness; there shall be weeping and gnashing of teeth."
+        },
+        {
+            "name": "Matthew 22:14",
+            "text": "For many are called, but few are chosen."
+        },
+        {
+            "name": "Matthew 22:15",
+            "text": "Then went the Pharisees, and took counsel how they might entangle him in his talk."
+        }
+    ],
+    "tone": "neutral"
+}

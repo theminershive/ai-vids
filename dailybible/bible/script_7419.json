@@ -1,0 +1,23 @@
+{
+    "book": "Romans",
+    "chapter": "Chapter 16",
+    "verses": [
+        {
+            "name": "Romans 16:22",
+            "text": "I Tertius, who wrote this epistle, salute you in the Lord."
+        },
+        {
+            "name": "Romans 16:23",
+            "text": "Gaius mine host, and of the whole church, saluteth you. Erastus the chamberlain of the city saluteth you, and Quartus a brother."
+        },
+        {
+            "name": "Romans 16:24",
+            "text": "The grace of our Lord Jesus Christ be with you all. Amen."
+        },
+        {
+            "name": "Romans 16:25",
+            "text": "Now to him that is of power to stablish you according to my gospel, and the preaching of Jesus Christ, according to the revelation of the mystery, which was kept secret since the world began,"
+        }
+    ],
+    "tone": "praising"
+}

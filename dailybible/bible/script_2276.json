@@ -1,0 +1,19 @@
+{
+    "book": "2 Samuel",
+    "chapter": "Chapter 1",
+    "verses": [
+        {
+            "name": "2 Samuel 1:12",
+            "text": "And they mourned, and wept, and fasted until even, for Saul, and for Jonathan his son, and for the people of the Lord, and for the house of Israel; because they were fallen by the sword."
+        },
+        {
+            "name": "2 Samuel 1:13",
+            "text": "And David said unto the young man that told him, Whence art thou? And he answered, I am the son of a stranger, an Amalekite."
+        },
+        {
+            "name": "2 Samuel 1:14",
+            "text": "And David said unto him, How wast thou not afraid to stretch forth thine hand to destroy the Lord\u2019s anointed?"
+        }
+    ],
+    "tone": "neutral"
+}

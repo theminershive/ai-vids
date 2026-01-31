@@ -1,0 +1,23 @@
+{
+    "book": "Exodus",
+    "chapter": "Chapter 4",
+    "verses": [
+        {
+            "name": "Exodus 4:22",
+            "text": "And thou shalt say unto Pharaoh, Thus saith the Lord, Israel is my son, even my firstborn:"
+        },
+        {
+            "name": "Exodus 4:23",
+            "text": "And I say unto thee, Let my son go, that he may serve me: and if thou refuse to let him go, behold, I will slay thy son, even thy firstborn."
+        },
+        {
+            "name": "Exodus 4:24",
+            "text": "And it came to pass by the way in the inn, that the Lord met him, and sought to kill him."
+        },
+        {
+            "name": "Exodus 4:25",
+            "text": "Then Zipporah took a sharp stone, and cut off the foreskin of her son, and cast it at his feet, and said, Surely a bloody husband art thou to me."
+        }
+    ],
+    "tone": "lamenting"
+}

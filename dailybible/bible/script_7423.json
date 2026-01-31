@@ -1,0 +1,27 @@
+{
+    "book": "1 Corinthians",
+    "chapter": "Chapter 1",
+    "verses": [
+        {
+            "name": "1 Corinthians 1:13",
+            "text": "Is Christ divided? was Paul crucified for you? or were ye baptized in the name of Paul?"
+        },
+        {
+            "name": "1 Corinthians 1:14",
+            "text": "I thank God that I baptized none of you, but Crispus and Gaius;"
+        },
+        {
+            "name": "1 Corinthians 1:15",
+            "text": "Lest any should say that I had baptized in mine own name."
+        },
+        {
+            "name": "1 Corinthians 1:16",
+            "text": "And I baptized also the household of Stephanas: besides, I know not whether I baptized any other."
+        },
+        {
+            "name": "1 Corinthians 1:17",
+            "text": "For Christ sent me not to baptize, but to preach the gospel: not with wisdom of words, lest the cross of Christ should be made of none effect."
+        }
+    ],
+    "tone": "instructional"
+}

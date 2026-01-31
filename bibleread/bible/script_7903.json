@@ -1,0 +1,19 @@
+{
+    "book": "2 Peter",
+    "chapter": "Chapter 1",
+    "verses": [
+        {
+            "name": "2 Peter 1:17",
+            "text": "For he received from God the Father honour and glory, when there came such a voice to him from the excellent glory, This is my beloved Son, in whom I am well pleased."
+        },
+        {
+            "name": "2 Peter 1:18",
+            "text": "And this voice which came from heaven we heard, when we were with him in the holy mount."
+        },
+        {
+            "name": "2 Peter 1:19",
+            "text": "We have also a more sure word of prophecy; whereunto ye do well that ye take heed, as unto a light that shineth in a dark place, until the day dawn, and the day star arise in your hearts:"
+        }
+    ],
+    "tone": "neutral"
+}

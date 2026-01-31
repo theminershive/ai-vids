@@ -1,0 +1,31 @@
+{
+    "book": "Matthew",
+    "chapter": "Chapter 13",
+    "verses": [
+        {
+            "name": "Matthew 13:6",
+            "text": "And when the sun was up, they were scorched; and because they had no root, they withered away."
+        },
+        {
+            "name": "Matthew 13:7",
+            "text": "And some fell among thorns; and the thorns sprung up, and choked them:"
+        },
+        {
+            "name": "Matthew 13:8",
+            "text": "But other fell into good ground, and brought forth fruit, some an hundredfold, some sixtyfold, some thirtyfold."
+        },
+        {
+            "name": "Matthew 13:9",
+            "text": "Who hath ears to hear, let him hear."
+        },
+        {
+            "name": "Matthew 13:10",
+            "text": "And the disciples came, and said unto him, Why speakest thou unto them in parables?"
+        },
+        {
+            "name": "Matthew 13:11",
+            "text": "He answered and said unto them, Because it is given unto you to know the mysteries of the kingdom of heaven, but to them it is not given."
+        }
+    ],
+    "tone": "neutral"
+}

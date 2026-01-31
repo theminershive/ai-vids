@@ -1,0 +1,19 @@
+{
+    "book": "Exodus",
+    "chapter": "Chapter 13",
+    "verses": [
+        {
+            "name": "Exodus 13:19",
+            "text": "And Moses took the bones of Joseph with him: for he had straitly sworn the children of Israel, saying, God will surely visit you; and ye shall carry up my bones away hence with you."
+        },
+        {
+            "name": "Exodus 13:20",
+            "text": "And they took their journey from Succoth, and encamped in Etham, in the edge of the wilderness."
+        },
+        {
+            "name": "Exodus 13:21",
+            "text": "And the Lord went before them by day in a pillar of a cloud, to lead them the way; and by night in a pillar of fire, to give them light; to go by day and night:"
+        }
+    ],
+    "tone": "neutral"
+}

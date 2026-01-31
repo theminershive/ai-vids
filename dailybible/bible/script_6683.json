@@ -1,0 +1,23 @@
+{
+    "book": "Luke",
+    "chapter": "Chapter 9",
+    "verses": [
+        {
+            "name": "Luke 9:6",
+            "text": "And they departed, and went through the towns, preaching the gospel, and healing every where."
+        },
+        {
+            "name": "Luke 9:7",
+            "text": "Now Herod the tetrarch heard of all that was done by him: and he was perplexed, because that it was said of some, that John was risen from the dead;"
+        },
+        {
+            "name": "Luke 9:8",
+            "text": "And of some, that Elias had appeared; and of others, that one of the old prophets was risen again."
+        },
+        {
+            "name": "Luke 9:9",
+            "text": "And Herod said, John have I beheaded: but who is this, of whom I hear such things? And he desired to see him."
+        }
+    ],
+    "tone": "neutral"
+}

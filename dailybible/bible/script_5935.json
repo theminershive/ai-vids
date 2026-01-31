@@ -1,0 +1,19 @@
+{
+    "book": "Amos",
+    "chapter": "Chapter 1",
+    "verses": [
+        {
+            "name": "Amos 1:6",
+            "text": "Thus saith the Lord; For three transgressions of Gaza, and for four, I will not turn away the punishment thereof; because they carried away captive the whole captivity, to deliver them up to Edom:"
+        },
+        {
+            "name": "Amos 1:7",
+            "text": "But I will send a fire on the wall of Gaza, which shall devour the palaces thereof:"
+        },
+        {
+            "name": "Amos 1:8",
+            "text": "And I will cut off the inhabitant from Ashdod, and him that holdeth the sceptre from Ashkelon, and I will turn mine hand against Ekron: and the remnant of the Philistines shall perish, saith the Lord God."
+        }
+    ],
+    "tone": "neutral"
+}

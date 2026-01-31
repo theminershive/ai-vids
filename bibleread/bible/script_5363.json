@@ -1,0 +1,23 @@
+{
+    "book": "Ezekiel",
+    "chapter": "Chapter 3",
+    "verses": [
+        {
+            "name": "Ezekiel 3:1",
+            "text": "Moreover he said unto me, Son of man, eat that thou findest; eat this roll, and go speak unto the house of Israel."
+        },
+        {
+            "name": "Ezekiel 3:2",
+            "text": "So I opened my mouth, and he caused me to eat that roll."
+        },
+        {
+            "name": "Ezekiel 3:3",
+            "text": "And he said unto me, Son of man, cause thy belly to eat, and fill thy bowels with this roll that I give thee. Then did I eat it; and it was in my mouth as honey for sweetness."
+        },
+        {
+            "name": "Ezekiel 3:4",
+            "text": "And he said unto me, Son of man, go, get thee unto the house of Israel, and speak with my words unto them."
+        }
+    ],
+    "tone": "neutral"
+}

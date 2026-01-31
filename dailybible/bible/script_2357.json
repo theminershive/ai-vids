@@ -1,0 +1,19 @@
+{
+    "book": "2 Samuel",
+    "chapter": "Chapter 12",
+    "verses": [
+        {
+            "name": "2 Samuel 12:11",
+            "text": "Thus saith the Lord, Behold, I will raise up evil against thee out of thine own house, and I will take thy wives before thine eyes, and give them unto thy neighbour, and he shall lie with thy wives in the sight of this sun."
+        },
+        {
+            "name": "2 Samuel 12:12",
+            "text": "For thou didst it secretly: but I will do this thing before all Israel, and before the sun."
+        },
+        {
+            "name": "2 Samuel 12:13",
+            "text": "And David said unto Nathan, I have sinned against the Lord. And Nathan said unto David, The Lord also hath put away thy sin; thou shalt not die."
+        }
+    ],
+    "tone": "neutral"
+}

@@ -1,0 +1,23 @@
+{
+    "book": "Acts",
+    "chapter": "Chapter 8",
+    "verses": [
+        {
+            "name": "Acts 8:9",
+            "text": "But there was a certain man, called Simon, which beforetime in the same city used sorcery, and bewitched the people of Samaria, giving out that himself was some great one:"
+        },
+        {
+            "name": "Acts 8:10",
+            "text": "To whom they all gave heed, from the least to the greatest, saying, This man is the great power of God."
+        },
+        {
+            "name": "Acts 8:11",
+            "text": "And to him they had regard, because that of long time he had bewitched them with sorceries."
+        },
+        {
+            "name": "Acts 8:12",
+            "text": "But when they believed Philip preaching the things concerning the kingdom of God, and the name of Jesus Christ, they were baptized, both men and women."
+        }
+    ],
+    "tone": "neutral"
+}

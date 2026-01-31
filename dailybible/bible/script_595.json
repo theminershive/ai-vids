@@ -1,0 +1,23 @@
+{
+    "book": "Exodus",
+    "chapter": "Chapter 25",
+    "verses": [
+        {
+            "name": "Exodus 25:11",
+            "text": "And thou shalt overlay it with pure gold, within and without shalt thou overlay it, and shalt make upon it a crown of gold round about."
+        },
+        {
+            "name": "Exodus 25:12",
+            "text": "And thou shalt cast four rings of gold for it, and put them in the four corners thereof; and two rings shall be in the one side of it, and two rings in the other side of it."
+        },
+        {
+            "name": "Exodus 25:13",
+            "text": "And thou shalt make staves of shittim wood, and overlay them with gold."
+        },
+        {
+            "name": "Exodus 25:14",
+            "text": "And thou shalt put the staves into the rings by the sides of the ark, that the ark may be borne with them."
+        }
+    ],
+    "tone": "neutral"
+}

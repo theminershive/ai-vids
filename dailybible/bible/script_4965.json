@@ -1,0 +1,19 @@
+{
+    "book": "Jeremiah",
+    "chapter": "Chapter 10",
+    "verses": [
+        {
+            "name": "Jeremiah 10:11",
+            "text": "Thus shall ye say unto them, The gods that have not made the heavens and the earth, even they shall perish from the earth, and from under these heavens."
+        },
+        {
+            "name": "Jeremiah 10:12",
+            "text": "He hath made the earth by his power, he hath established the world by his wisdom, and hath stretched out the heavens by his discretion."
+        },
+        {
+            "name": "Jeremiah 10:13",
+            "text": "When he uttereth his voice, there is a multitude of waters in the heavens, and he causeth the vapours to ascend from the ends of the earth; he maketh lightnings with rain, and bringeth forth the wind out of his treasures."
+        }
+    ],
+    "tone": "lamenting"
+}

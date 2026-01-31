@@ -1,0 +1,27 @@
+{
+    "book": "1 Corinthians",
+    "chapter": "Chapter 1",
+    "verses": [
+        {
+            "name": "1 Corinthians 1:5",
+            "text": "That in every thing ye are enriched by him, in all utterance, and in all knowledge;"
+        },
+        {
+            "name": "1 Corinthians 1:6",
+            "text": "Even as the testimony of Christ was confirmed in you:"
+        },
+        {
+            "name": "1 Corinthians 1:7",
+            "text": "So that ye come behind in no gift; waiting for the coming of our Lord Jesus Christ:"
+        },
+        {
+            "name": "1 Corinthians 1:8",
+            "text": "Who shall also confirm you unto the end, that ye may be blameless in the day of our Lord Jesus Christ."
+        },
+        {
+            "name": "1 Corinthians 1:9",
+            "text": "God is faithful, by whom ye were called unto the fellowship of his Son Jesus Christ our Lord."
+        }
+    ],
+    "tone": "neutral"
+}

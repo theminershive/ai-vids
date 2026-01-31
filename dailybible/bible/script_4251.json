@@ -1,0 +1,35 @@
+{
+    "book": "Psalms",
+    "chapter": "Chapter 147",
+    "verses": [
+        {
+            "name": "Psalms 147:1",
+            "text": "Praise ye the Lord: for it is good to sing praises unto our God; for it is pleasant; and praise is comely."
+        },
+        {
+            "name": "Psalms 147:2",
+            "text": "The Lord doth build up Jerusalem: he gathereth together the outcasts of Israel."
+        },
+        {
+            "name": "Psalms 147:3",
+            "text": "He healeth the broken in heart, and bindeth up their wounds."
+        },
+        {
+            "name": "Psalms 147:4",
+            "text": "He telleth the number of the stars; he calleth them all by their names."
+        },
+        {
+            "name": "Psalms 147:5",
+            "text": "Great is our Lord, and of great power: his understanding is infinite."
+        },
+        {
+            "name": "Psalms 147:6",
+            "text": "The Lord lifteth up the meek: he casteth the wicked down to the ground."
+        },
+        {
+            "name": "Psalms 147:7",
+            "text": "Sing unto the Lord with thanksgiving; sing praise upon the harp unto our God:"
+        }
+    ],
+    "tone": "praising"
+}

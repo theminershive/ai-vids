@@ -1,0 +1,23 @@
+{
+    "book": "1 John",
+    "chapter": "Chapter 5",
+    "verses": [
+        {
+            "name": "1 John 5:1",
+            "text": "Whosoever believeth that Jesus is the Christ is born of God: and every one that loveth him that begat loveth him also that is begotten of him."
+        },
+        {
+            "name": "1 John 5:2",
+            "text": "By this we know that we love the children of God, when we love God, and keep his commandments."
+        },
+        {
+            "name": "1 John 5:3",
+            "text": "For this is the love of God, that we keep his commandments: and his commandments are not grievous."
+        },
+        {
+            "name": "1 John 5:4",
+            "text": "For whatsoever is born of God overcometh the world: and this is the victory that overcometh the world, even our faith."
+        }
+    ],
+    "tone": "hopeful"
+}

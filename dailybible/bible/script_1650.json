@@ -1,0 +1,15 @@
+{
+    "book": "Joshua",
+    "chapter": "Chapter 3",
+    "verses": [
+        {
+            "name": "Joshua 3:13",
+            "text": "And it shall come to pass, as soon as the soles of the feet of the priests that bear the ark of the Lord, the Lord of all the earth, shall rest in the waters of Jordan, that the waters of Jordan shall be cut off from the waters that come down from above; and they shall stand upon an heap."
+        },
+        {
+            "name": "Joshua 3:14",
+            "text": "And it came to pass, when the people removed from their tents, to pass over Jordan, and the priests bearing the ark of the covenant before the people;"
+        }
+    ],
+    "tone": "neutral"
+}

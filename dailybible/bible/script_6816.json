@@ -1,0 +1,19 @@
+{
+    "book": "Luke",
+    "chapter": "Chapter 21",
+    "verses": [
+        {
+            "name": "Luke 21:24",
+            "text": "And they shall fall by the edge of the sword, and shall be led away captive into all nations: and Jerusalem shall be trodden down of the Gentiles, until the times of the Gentiles be fulfilled."
+        },
+        {
+            "name": "Luke 21:25",
+            "text": "And there shall be signs in the sun, and in the moon, and in the stars; and upon the earth distress of nations, with perplexity; the sea and the waves roaring;"
+        },
+        {
+            "name": "Luke 21:26",
+            "text": "Men\u2019s hearts failing them for fear, and for looking after those things which are coming on the earth: for the powers of heaven shall be shaken."
+        }
+    ],
+    "tone": "lamenting"
+}

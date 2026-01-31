@@ -1,0 +1,35 @@
+{
+    "book": "Lamentations",
+    "chapter": "Chapter 3",
+    "verses": [
+        {
+            "name": "Lamentations 3:8",
+            "text": "Also when I cry and shout, he shutteth out my prayer."
+        },
+        {
+            "name": "Lamentations 3:9",
+            "text": "He hath inclosed my ways with hewn stone, he hath made my paths crooked."
+        },
+        {
+            "name": "Lamentations 3:10",
+            "text": "He was unto me as a bear lying in wait, and as a lion in secret places."
+        },
+        {
+            "name": "Lamentations 3:11",
+            "text": "He hath turned aside my ways, and pulled me in pieces: he hath made me desolate."
+        },
+        {
+            "name": "Lamentations 3:12",
+            "text": "He hath bent his bow, and set me as a mark for the arrow."
+        },
+        {
+            "name": "Lamentations 3:13",
+            "text": "He hath caused the arrows of his quiver to enter into my reins."
+        },
+        {
+            "name": "Lamentations 3:14",
+            "text": "I was a derision to all my people; and their song all the day."
+        }
+    ],
+    "tone": "lamenting"
+}

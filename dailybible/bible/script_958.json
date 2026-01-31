@@ -1,0 +1,23 @@
+{
+    "book": "Leviticus",
+    "chapter": "Chapter 25",
+    "verses": [
+        {
+            "name": "Leviticus 25:1",
+            "text": "And the Lord spake unto Moses in mount Sinai, saying,"
+        },
+        {
+            "name": "Leviticus 25:2",
+            "text": "Speak unto the children of Israel, and say unto them, When ye come into the land which I give you, then shall the land keep a sabbath unto the Lord."
+        },
+        {
+            "name": "Leviticus 25:3",
+            "text": "Six years thou shalt sow thy field, and six years thou shalt prune thy vineyard, and gather in the fruit thereof;"
+        },
+        {
+            "name": "Leviticus 25:4",
+            "text": "But in the seventh year shall be a sabbath of rest unto the land, a sabbath for the Lord: thou shalt neither sow thy field, nor prune thy vineyard."
+        }
+    ],
+    "tone": "neutral"
+}

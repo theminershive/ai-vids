@@ -1,0 +1,35 @@
+{
+    "book": "Leviticus",
+    "chapter": "Chapter 11",
+    "verses": [
+        {
+            "name": "Leviticus 11:12",
+            "text": "Whatsoever hath no fins nor scales in the waters, that shall be an abomination unto you."
+        },
+        {
+            "name": "Leviticus 11:13",
+            "text": "And these are they which ye shall have in abomination among the fowls; they shall not be eaten, they are an abomination: the eagle, and the ossifrage, and the ospray,"
+        },
+        {
+            "name": "Leviticus 11:14",
+            "text": "And the vulture, and the kite after his kind;"
+        },
+        {
+            "name": "Leviticus 11:15",
+            "text": "Every raven after his kind;"
+        },
+        {
+            "name": "Leviticus 11:16",
+            "text": "And the owl, and the night hawk, and the cuckow, and the hawk after his kind,"
+        },
+        {
+            "name": "Leviticus 11:17",
+            "text": "And the little owl, and the cormorant, and the great owl,"
+        },
+        {
+            "name": "Leviticus 11:18",
+            "text": "And the swan, and the pelican, and the gier eagle,"
+        }
+    ],
+    "tone": "hopeful"
+}

@@ -1,0 +1,23 @@
+{
+    "book": "Numbers",
+    "chapter": "Chapter 14",
+    "verses": [
+        {
+            "name": "Numbers 14:41",
+            "text": "And Moses said, Wherefore now do ye transgress the commandment of the Lord? but it shall not prosper."
+        },
+        {
+            "name": "Numbers 14:42",
+            "text": "Go not up, for the Lord is not among you; that ye be not smitten before your enemies."
+        },
+        {
+            "name": "Numbers 14:43",
+            "text": "For the Amalekites and the Canaanites are there before you, and ye shall fall by the sword: because ye are turned away from the Lord, therefore the Lord will not be with you."
+        },
+        {
+            "name": "Numbers 14:44",
+            "text": "But they presumed to go up unto the hill top: nevertheless the ark of the covenant of the Lord, and Moses, departed not out of the camp."
+        }
+    ],
+    "tone": "lamenting"
+}

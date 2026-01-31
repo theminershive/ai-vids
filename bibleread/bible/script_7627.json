@@ -1,0 +1,19 @@
+{
+    "book": "Ephesians",
+    "chapter": "Chapter 2",
+    "verses": [
+        {
+            "name": "Ephesians 2:10",
+            "text": "For we are his workmanship, created in Christ Jesus unto good works, which God hath before ordained that we should walk in them."
+        },
+        {
+            "name": "Ephesians 2:11",
+            "text": "Wherefore remember, that ye being in time past Gentiles in the flesh, who are called Uncircumcision by that which is called the Circumcision in the flesh made by hands;"
+        },
+        {
+            "name": "Ephesians 2:12",
+            "text": "That at that time ye were without Christ, being aliens from the commonwealth of Israel, and strangers from the covenants of promise, having no hope, and without God in the world:"
+        }
+    ],
+    "tone": "hopeful"
+}

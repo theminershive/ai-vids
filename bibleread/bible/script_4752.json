@@ -1,0 +1,23 @@
+{
+    "book": "Isaiah",
+    "chapter": "Chapter 43",
+    "verses": [
+        {
+            "name": "Isaiah 43:24",
+            "text": "Thou hast bought me no sweet cane with money, neither hast thou filled me with the fat of thy sacrifices: but thou hast made me to serve with thy sins, thou hast wearied me with thine iniquities."
+        },
+        {
+            "name": "Isaiah 43:25",
+            "text": "I, even I, am he that blotteth out thy transgressions for mine own sake, and will not remember thy sins."
+        },
+        {
+            "name": "Isaiah 43:26",
+            "text": "Put me in remembrance: let us plead together: declare thou, that thou mayest be justified."
+        },
+        {
+            "name": "Isaiah 43:27",
+            "text": "Thy first father hath sinned, and thy teachers have transgressed against me."
+        }
+    ],
+    "tone": "lamenting"
+}

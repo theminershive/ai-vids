@@ -1,0 +1,23 @@
+{
+    "book": "Mark",
+    "chapter": "Chapter 9",
+    "verses": [
+        {
+            "name": "Mark 9:21",
+            "text": "And he asked his father, How long is it ago since this came unto him? And he said, Of a child."
+        },
+        {
+            "name": "Mark 9:22",
+            "text": "And ofttimes it hath cast him into the fire, and into the waters, to destroy him: but if thou canst do any thing, have compassion on us, and help us."
+        },
+        {
+            "name": "Mark 9:23",
+            "text": "Jesus said unto him, If thou canst believe, all things are possible to him that believeth."
+        },
+        {
+            "name": "Mark 9:24",
+            "text": "And straightway the father of the child cried out, and said with tears, Lord, I believe; help thou mine unbelief."
+        }
+    ],
+    "tone": "neutral"
+}

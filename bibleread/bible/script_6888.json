@@ -1,0 +1,31 @@
+{
+    "book": "John",
+    "chapter": "Chapter 4",
+    "verses": [
+        {
+            "name": "John 4:27",
+            "text": "And upon this came his disciples, and marvelled that he talked with the woman: yet no man said, What seekest thou? or, Why talkest thou with her?"
+        },
+        {
+            "name": "John 4:28",
+            "text": "The woman then left her waterpot, and went her way into the city, and saith to the men,"
+        },
+        {
+            "name": "John 4:29",
+            "text": "Come, see a man, which told me all things that ever I did: is not this the Christ?"
+        },
+        {
+            "name": "John 4:30",
+            "text": "Then they went out of the city, and came unto him."
+        },
+        {
+            "name": "John 4:31",
+            "text": "In the mean while his disciples prayed him, saying, Master, eat."
+        },
+        {
+            "name": "John 4:32",
+            "text": "But he said unto them, I have meat to eat that ye know not of."
+        }
+    ],
+    "tone": "neutral"
+}

@@ -1,0 +1,23 @@
+{
+    "book": "Philemon",
+    "chapter": "Chapter 1",
+    "verses": [
+        {
+            "name": "Philemon 1:12",
+            "text": "Whom I have sent again: thou therefore receive him, that is, mine own bowels:"
+        },
+        {
+            "name": "Philemon 1:13",
+            "text": "Whom I would have retained with me, that in thy stead he might have ministered unto me in the bonds of the gospel:"
+        },
+        {
+            "name": "Philemon 1:14",
+            "text": "But without thy mind would I do nothing; that thy benefit should not be as it were of necessity, but willingly."
+        },
+        {
+            "name": "Philemon 1:15",
+            "text": "For perhaps he therefore departed for a season, that thou shouldest receive him for ever;"
+        }
+    ],
+    "tone": "lamenting"
+}

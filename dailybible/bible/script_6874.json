@@ -1,0 +1,19 @@
+{
+    "book": "John",
+    "chapter": "Chapter 3",
+    "verses": [
+        {
+            "name": "John 3:1",
+            "text": "There was a man of the Pharisees, named Nicodemus, a ruler of the Jews:"
+        },
+        {
+            "name": "John 3:2",
+            "text": "The same came to Jesus by night, and said unto him, Rabbi, we know that thou art a teacher come from God: for no man can do these miracles that thou doest, except God be with him."
+        },
+        {
+            "name": "John 3:3",
+            "text": "Jesus answered and said unto him, Verily, verily, I say unto thee, Except a man be born again, he cannot see the kingdom of God."
+        }
+    ],
+    "tone": "neutral"
+}

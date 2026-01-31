@@ -1,0 +1,19 @@
+{
+    "book": "Genesis",
+    "chapter": "Chapter 12",
+    "verses": [
+        {
+            "name": "Genesis 12:1",
+            "text": "Now the Lord had said unto Abram, Get thee out of thy country, and from thy kindred, and from thy father\u2019s house, unto a land that I will shew thee:"
+        },
+        {
+            "name": "Genesis 12:2",
+            "text": "And I will make of thee a great nation, and I will bless thee, and make thy name great; and thou shalt be a blessing:"
+        },
+        {
+            "name": "Genesis 12:3",
+            "text": "And I will bless them that bless thee, and curse him that curseth thee: and in thee shall all families of the earth be blessed."
+        }
+    ],
+    "tone": "praising"
+}

@@ -1,0 +1,19 @@
+{
+    "book": "Acts",
+    "chapter": "Chapter 9",
+    "verses": [
+        {
+            "name": "Acts 9:26",
+            "text": "And when Saul was come to Jerusalem, he assayed to join himself to the disciples: but they were all afraid of him, and believed not that he was a disciple."
+        },
+        {
+            "name": "Acts 9:27",
+            "text": "But Barnabas took him, and brought him to the apostles, and declared unto them how he had seen the Lord in the way, and that he had spoken to him, and how he had preached boldly at Damascus in the name of Jesus."
+        },
+        {
+            "name": "Acts 9:28",
+            "text": "And he was with them coming in and going out at Jerusalem."
+        }
+    ],
+    "tone": "hopeful"
+}

@@ -1,0 +1,27 @@
+{
+    "book": "John",
+    "chapter": "Chapter 4",
+    "verses": [
+        {
+            "name": "John 4:37",
+            "text": "And herein is that saying true, One soweth, and another reapeth."
+        },
+        {
+            "name": "John 4:38",
+            "text": "I sent you to reap that whereon ye bestowed no labour: other men laboured, and ye are entered into their labours."
+        },
+        {
+            "name": "John 4:39",
+            "text": "And many of the Samaritans of that city believed on him for the saying of the woman, which testified, He told me all that ever I did."
+        },
+        {
+            "name": "John 4:40",
+            "text": "So when the Samaritans were come unto him, they besought him that he would tarry with them: and he abode there two days."
+        },
+        {
+            "name": "John 4:41",
+            "text": "And many more believed because of his own word;"
+        }
+    ],
+    "tone": "neutral"
+}

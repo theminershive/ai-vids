@@ -1,0 +1,27 @@
+{
+    "book": "Joshua",
+    "chapter": "Chapter 21",
+    "verses": [
+        {
+            "name": "Joshua 21:12",
+            "text": "But the fields of the city, and the villages thereof, gave they to Caleb the son of Jephunneh for his possession."
+        },
+        {
+            "name": "Joshua 21:13",
+            "text": "Thus they gave to the children of Aaron the priest Hebron with her suburbs, to be a city of refuge for the slayer; and Libnah with her suburbs,"
+        },
+        {
+            "name": "Joshua 21:14",
+            "text": "And Jattir with her suburbs, and Eshtemoa with her suburbs,"
+        },
+        {
+            "name": "Joshua 21:15",
+            "text": "And Holon with her suburbs, and Debir with her suburbs,"
+        },
+        {
+            "name": "Joshua 21:16",
+            "text": "And Ain with her suburbs, and Juttah with her suburbs, and Beth\u2013shemesh with her suburbs; nine cities out of those two tribes."
+        }
+    ],
+    "tone": "neutral"
+}

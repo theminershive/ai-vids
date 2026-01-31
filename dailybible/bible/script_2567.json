@@ -1,0 +1,19 @@
+{
+    "book": "1 Kings",
+    "chapter": "Chapter 8",
+    "verses": [
+        {
+            "name": "1 Kings 8:21",
+            "text": "And I have set there a place for the ark, wherein is the covenant of the Lord, which he made with our fathers, when he brought them out of the land of Egypt."
+        },
+        {
+            "name": "1 Kings 8:22",
+            "text": "And Solomon stood before the altar of the Lord in the presence of all the congregation of Israel, and spread forth his hands toward heaven:"
+        },
+        {
+            "name": "1 Kings 8:23",
+            "text": "And he said, Lord God of Israel, there is no God like thee, in heaven above, or on earth beneath, who keepest covenant and mercy with thy servants that walk before thee with all their heart:"
+        }
+    ],
+    "tone": "neutral"
+}

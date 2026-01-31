@@ -1,0 +1,23 @@
+{
+    "book": "John",
+    "chapter": "Chapter 9",
+    "verses": [
+        {
+            "name": "John 9:22",
+            "text": "These words spake his parents, because they feared the Jews: for the Jews had agreed already, that if any man did confess that he was Christ, he should be put out of the synagogue."
+        },
+        {
+            "name": "John 9:23",
+            "text": "Therefore said his parents, He is of age; ask him."
+        },
+        {
+            "name": "John 9:24",
+            "text": "Then again called they the man that was blind, and said unto him, Give God the praise: we know that this man is a sinner."
+        },
+        {
+            "name": "John 9:25",
+            "text": "He answered and said, Whether he be a sinner or no, I know not: one thing I know, that, whereas I was blind, now I see."
+        }
+    ],
+    "tone": "neutral"
+}

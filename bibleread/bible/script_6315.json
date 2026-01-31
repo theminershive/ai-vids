@@ -1,0 +1,19 @@
+{
+    "book": "Matthew",
+    "chapter": "Chapter 19",
+    "verses": [
+        {
+            "name": "Matthew 19:27",
+            "text": "Then answered Peter and said unto him, Behold, we have forsaken all, and followed thee; what shall we have therefore?"
+        },
+        {
+            "name": "Matthew 19:28",
+            "text": "And Jesus said unto them, Verily I say unto you, That ye which have followed me, in the regeneration when the Son of man shall sit in the throne of his glory, ye also shall sit upon twelve thrones, judging the twelve tribes of Israel."
+        },
+        {
+            "name": "Matthew 19:29",
+            "text": "And every one that hath forsaken houses, or brethren, or sisters, or father, or mother, or wife, or children, or lands, for my name\u2019s sake, shall receive an hundredfold, and shall inherit everlasting life."
+        }
+    ],
+    "tone": "neutral"
+}

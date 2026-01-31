@@ -1,0 +1,15 @@
+{
+    "book": "2 Peter",
+    "chapter": "Chapter 3",
+    "verses": [
+        {
+            "name": "2 Peter 3:9",
+            "text": "The Lord is not slack concerning his promise, as some men count slackness; but is longsuffering to us-ward, not willing that any should perish, but that all should come to repentance."
+        },
+        {
+            "name": "2 Peter 3:10",
+            "text": "But the day of the Lord will come as a thief in the night; in the which the heavens shall pass away with a great noise, and the elements shall melt with fervent heat, the earth also and the works that are therein shall be burned up."
+        }
+    ],
+    "tone": "neutral"
+}

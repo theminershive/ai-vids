@@ -1,0 +1,23 @@
+{
+    "book": "Luke",
+    "chapter": "Chapter 5",
+    "verses": [
+        {
+            "name": "Luke 5:25",
+            "text": "And immediately he rose up before them, and took up that whereon he lay, and departed to his own house, glorifying God."
+        },
+        {
+            "name": "Luke 5:26",
+            "text": "And they were all amazed, and they glorified God, and were filled with fear, saying, We have seen strange things to day."
+        },
+        {
+            "name": "Luke 5:27",
+            "text": "And after these things he went forth, and saw a publican, named Levi, sitting at the receipt of custom: and he said unto him, Follow me."
+        },
+        {
+            "name": "Luke 5:28",
+            "text": "And he left all, rose up, and followed him."
+        }
+    ],
+    "tone": "neutral"
+}

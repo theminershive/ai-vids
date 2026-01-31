@@ -1,0 +1,23 @@
+{
+    "book": "Matthew",
+    "chapter": "Chapter 5",
+    "verses": [
+        {
+            "name": "Matthew 5:45",
+            "text": "That ye may be the children of your Father which is in heaven: for he maketh his sun to rise on the evil and on the good, and sendeth rain on the just and on the unjust."
+        },
+        {
+            "name": "Matthew 5:46",
+            "text": "For if ye love them which love you, what reward have ye? do not even the publicans the same?"
+        },
+        {
+            "name": "Matthew 5:47",
+            "text": "And if ye salute your brethren only, what do ye more than others? do not even the publicans so?"
+        },
+        {
+            "name": "Matthew 5:48",
+            "text": "Be ye therefore perfect, even as your Father which is in heaven is perfect. "
+        }
+    ],
+    "tone": "hopeful"
+}

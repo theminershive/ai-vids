@@ -1,0 +1,19 @@
+{
+    "book": "Genesis",
+    "chapter": "Chapter 22",
+    "verses": [
+        {
+            "name": "Genesis 22:6",
+            "text": "And Abraham took the wood of the burnt offering, and laid it upon Isaac his son; and he took the fire in his hand, and a knife; and they went both of them together."
+        },
+        {
+            "name": "Genesis 22:7",
+            "text": "And Isaac spake unto Abraham his father, and said, My father: and he said, Here am I, my son. And he said, Behold the fire and the wood: but where is the lamb for a burnt offering?"
+        },
+        {
+            "name": "Genesis 22:8",
+            "text": "And Abraham said, My son, God will provide himself a lamb for a burnt offering: so they went both of them together."
+        }
+    ],
+    "tone": "neutral"
+}

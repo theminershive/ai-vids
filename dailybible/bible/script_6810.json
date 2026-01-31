@@ -1,0 +1,31 @@
+{
+    "book": "Luke",
+    "chapter": "Chapter 20",
+    "verses": [
+        {
+            "name": "Luke 20:42",
+            "text": "And David himself saith in the book of Psalms, The Lord said unto my Lord, Sit thou on my right hand,"
+        },
+        {
+            "name": "Luke 20:43",
+            "text": "Till I make thine enemies thy footstool."
+        },
+        {
+            "name": "Luke 20:44",
+            "text": "David therefore calleth him Lord, how is he then his son?"
+        },
+        {
+            "name": "Luke 20:45",
+            "text": "Then in the audience of all the people he said unto his disciples,"
+        },
+        {
+            "name": "Luke 20:46",
+            "text": "Beware of the scribes, which desire to walk in long robes, and love greetings in the markets, and the highest seats in the synagogues, and the chief rooms at feasts;"
+        },
+        {
+            "name": "Luke 20:47",
+            "text": "Which devour widows\u2019 houses, and for a shew make long prayers: the same shall receive greater damnation. "
+        }
+    ],
+    "tone": "neutral"
+}

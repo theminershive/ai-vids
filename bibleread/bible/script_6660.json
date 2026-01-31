@@ -1,0 +1,23 @@
+{
+    "book": "Luke",
+    "chapter": "Chapter 7",
+    "verses": [
+        {
+            "name": "Luke 7:27",
+            "text": "This is he, of whom it is written, Behold, I send my messenger before thy face, which shall prepare thy way before thee."
+        },
+        {
+            "name": "Luke 7:28",
+            "text": "For I say unto you, Among those that are born of women there is not a greater prophet than John the Baptist: but he that is least in the kingdom of God is greater than he."
+        },
+        {
+            "name": "Luke 7:29",
+            "text": "And all the people that heard him, and the publicans, justified God, being baptized with the baptism of John."
+        },
+        {
+            "name": "Luke 7:30",
+            "text": "But the Pharisees and lawyers rejected the counsel of God against themselves, being not baptized of him."
+        }
+    ],
+    "tone": "neutral"
+}

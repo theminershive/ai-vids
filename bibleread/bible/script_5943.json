@@ -1,0 +1,23 @@
+{
+    "book": "Amos",
+    "chapter": "Chapter 3",
+    "verses": [
+        {
+            "name": "Amos 3:5",
+            "text": "Can a bird fall in a snare upon the earth, where no gin is for him? shall one take up a snare from the earth, and have taken nothing at all?"
+        },
+        {
+            "name": "Amos 3:6",
+            "text": "Shall a trumpet be blown in the city, and the people not be afraid? shall there be evil in a city, and the Lord hath not done it?"
+        },
+        {
+            "name": "Amos 3:7",
+            "text": "Surely the Lord God will do nothing, but he revealeth his secret unto his servants the prophets."
+        },
+        {
+            "name": "Amos 3:8",
+            "text": "The lion hath roared, who will not fear? the Lord God hath spoken, who can but prophesy?"
+        }
+    ],
+    "tone": "instructional"
+}

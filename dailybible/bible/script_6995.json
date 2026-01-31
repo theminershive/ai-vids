@@ -1,0 +1,27 @@
+{
+    "book": "John",
+    "chapter": "Chapter 13",
+    "verses": [
+        {
+            "name": "John 13:21",
+            "text": "When Jesus had thus said, he was troubled in spirit, and testified, and said, Verily, verily, I say unto you, that one of you shall betray me."
+        },
+        {
+            "name": "John 13:22",
+            "text": "Then the disciples looked one on another, doubting of whom he spake."
+        },
+        {
+            "name": "John 13:23",
+            "text": "Now there was leaning on Jesus\u2019 bosom one of his disciples, whom Jesus loved."
+        },
+        {
+            "name": "John 13:24",
+            "text": "Simon Peter therefore beckoned to him, that he should ask who it should be of whom he spake."
+        },
+        {
+            "name": "John 13:25",
+            "text": "He then lying on Jesus\u2019 breast saith unto him, Lord, who is it?"
+        }
+    ],
+    "tone": "lamenting"
+}

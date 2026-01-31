@@ -1,0 +1,19 @@
+{
+    "book": "2 Kings",
+    "chapter": "Chapter 9",
+    "verses": [
+        {
+            "name": "2 Kings 9:11",
+            "text": "Then Jehu came forth to the servants of his lord: and one said unto him, Is all well? wherefore came this mad fellow to thee? And he said unto them, Ye know the man, and his communication."
+        },
+        {
+            "name": "2 Kings 9:12",
+            "text": "And they said, It is false; tell us now. And he said, Thus and thus spake he to me, saying, Thus saith the Lord, I have anointed thee king over Israel."
+        },
+        {
+            "name": "2 Kings 9:13",
+            "text": "Then they hasted, and took every man his garment, and put it under him on the top of the stairs, and blew with trumpets, saying, Jehu is king."
+        }
+    ],
+    "tone": "neutral"
+}

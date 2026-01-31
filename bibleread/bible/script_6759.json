@@ -1,0 +1,23 @@
+{
+    "book": "Luke",
+    "chapter": "Chapter 15",
+    "verses": [
+        {
+            "name": "Luke 15:17",
+            "text": "And when he came to himself, he said, How many hired servants of my father\u2019s have bread enough and to spare, and I perish with hunger!"
+        },
+        {
+            "name": "Luke 15:18",
+            "text": "I will arise and go to my father, and will say unto him, Father, I have sinned against heaven, and before thee,"
+        },
+        {
+            "name": "Luke 15:19",
+            "text": "And am no more worthy to be called thy son: make me as one of thy hired servants."
+        },
+        {
+            "name": "Luke 15:20",
+            "text": "And he arose, and came to his father. But when he was yet a great way off, his father saw him, and had compassion, and ran, and fell on his neck, and kissed him."
+        }
+    ],
+    "tone": "lamenting"
+}

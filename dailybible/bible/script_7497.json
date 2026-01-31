@@ -1,0 +1,23 @@
+{
+    "book": "1 Corinthians",
+    "chapter": "Chapter 14",
+    "verses": [
+        {
+            "name": "1 Corinthians 14:16",
+            "text": "Else when thou shalt bless with the spirit, how shall he that occupieth the room of the unlearned say Amen at thy giving of thanks, seeing he understandeth not what thou sayest?"
+        },
+        {
+            "name": "1 Corinthians 14:17",
+            "text": "For thou verily givest thanks well, but the other is not edified."
+        },
+        {
+            "name": "1 Corinthians 14:18",
+            "text": "I thank my God, I speak with tongues more than ye all:"
+        },
+        {
+            "name": "1 Corinthians 14:19",
+            "text": "Yet in the church I had rather speak five words with my understanding, that by my voice I might teach others also, than ten thousand words in an unknown tongue."
+        }
+    ],
+    "tone": "instructional"
+}

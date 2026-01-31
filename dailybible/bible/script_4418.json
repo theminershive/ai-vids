@@ -1,0 +1,23 @@
+{
+    "book": "Ecclesiastes",
+    "chapter": "Chapter 1",
+    "verses": [
+        {
+            "name": "Ecclesiastes 1:10",
+            "text": "Is there any thing whereof it may be said, See, this is new? it hath been already of old time, which was before us."
+        },
+        {
+            "name": "Ecclesiastes 1:11",
+            "text": "There is no remembrance of former things; neither shall there be any remembrance of things that are to come with those that shall come after."
+        },
+        {
+            "name": "Ecclesiastes 1:12",
+            "text": "I the Preacher was king over Israel in Jerusalem."
+        },
+        {
+            "name": "Ecclesiastes 1:13",
+            "text": "And I gave my heart to seek and search out by wisdom concerning all things that are done under heaven: this sore travail hath God given to the sons of man to be exercised therewith."
+        }
+    ],
+    "tone": "instructional"
+}

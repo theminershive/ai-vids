@@ -1,0 +1,19 @@
+{
+    "book": "Leviticus",
+    "chapter": "Chapter 3",
+    "verses": [
+        {
+            "name": "Leviticus 3:13",
+            "text": "And he shall lay his hand upon the head of it, and kill it before the tabernacle of the congregation: and the sons of Aaron shall sprinkle the blood thereof upon the altar round about."
+        },
+        {
+            "name": "Leviticus 3:14",
+            "text": "And he shall offer thereof his offering, even an offering made by fire unto the Lord; the fat that covereth the inwards, and all the fat that is upon the inwards,"
+        },
+        {
+            "name": "Leviticus 3:15",
+            "text": "And the two kidneys, and the fat that is upon them, which is by the flanks, and the caul above the liver, with the kidneys, it shall he take away."
+        }
+    ],
+    "tone": "lamenting"
+}

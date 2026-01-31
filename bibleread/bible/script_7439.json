@@ -1,0 +1,23 @@
+{
+    "book": "1 Corinthians",
+    "chapter": "Chapter 4",
+    "verses": [
+        {
+            "name": "1 Corinthians 4:10",
+            "text": "We are fools for Christ\u2019s sake, but ye are wise in Christ; we are weak, but ye are strong; ye are honourable, but we are despised."
+        },
+        {
+            "name": "1 Corinthians 4:11",
+            "text": "Even unto this present hour we both hunger, and thirst, and are naked, and are buffeted, and have no certain dwellingplace;"
+        },
+        {
+            "name": "1 Corinthians 4:12",
+            "text": "And labour, working with our own hands: being reviled, we bless; being persecuted, we suffer it:"
+        },
+        {
+            "name": "1 Corinthians 4:13",
+            "text": "Being defamed, we intreat: we are made as the filth of the world, and are the offscouring of all things unto this day."
+        }
+    ],
+    "tone": "lamenting"
+}

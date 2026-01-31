@@ -1,0 +1,27 @@
+{
+    "book": "John",
+    "chapter": "Chapter 14",
+    "verses": [
+        {
+            "name": "John 14:13",
+            "text": "And whatsoever ye shall ask in my name, that will I do, that the Father may be glorified in the Son."
+        },
+        {
+            "name": "John 14:14",
+            "text": "If ye shall ask any thing in my name, I will do it."
+        },
+        {
+            "name": "John 14:15",
+            "text": "If ye love me, keep my commandments."
+        },
+        {
+            "name": "John 14:16",
+            "text": "And I will pray the Father, and he shall give you another Comforter, that he may abide with you for ever;"
+        },
+        {
+            "name": "John 14:17",
+            "text": "Even the Spirit of truth; whom the world cannot receive, because it seeth him not, neither knoweth him: but ye know him; for he dwelleth with you, and shall be in you."
+        }
+    ],
+    "tone": "hopeful"
+}

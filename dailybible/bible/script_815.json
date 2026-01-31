@@ -1,0 +1,19 @@
+{
+    "book": "Leviticus",
+    "chapter": "Chapter 10",
+    "verses": [
+        {
+            "name": "Leviticus 10:1",
+            "text": "And Nadab and Abihu, the sons of Aaron, took either of them his censer, and put fire therein, and put incense thereon, and offered strange fire before the Lord, which he commanded them not."
+        },
+        {
+            "name": "Leviticus 10:2",
+            "text": "And there went out fire from the Lord, and devoured them, and they died before the Lord."
+        },
+        {
+            "name": "Leviticus 10:3",
+            "text": "Then Moses said unto Aaron, This is it that the Lord spake, saying, I will be sanctified in them that come nigh me, and before all the people I will be glorified. And Aaron held his peace."
+        }
+    ],
+    "tone": "neutral"
+}

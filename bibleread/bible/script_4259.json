@@ -1,0 +1,31 @@
+{
+    "book": "Proverbs",
+    "chapter": "Chapter 1",
+    "verses": [
+        {
+            "name": "Proverbs 1:8",
+            "text": "My son, hear the instruction of thy father, and forsake not the law of thy mother:"
+        },
+        {
+            "name": "Proverbs 1:9",
+            "text": "For they shall be an ornament of grace unto thy head, and chains about thy neck."
+        },
+        {
+            "name": "Proverbs 1:10",
+            "text": "My son, if sinners entice thee, consent thou not."
+        },
+        {
+            "name": "Proverbs 1:11",
+            "text": "If they say, Come with us, let us lay wait for blood, let us lurk privily for the innocent without cause:"
+        },
+        {
+            "name": "Proverbs 1:12",
+            "text": "Let us swallow them up alive as the grave; and whole, as those that go down into the pit:"
+        },
+        {
+            "name": "Proverbs 1:13",
+            "text": "We shall find all precious substance, we shall fill our houses with spoil:"
+        }
+    ],
+    "tone": "instructional"
+}

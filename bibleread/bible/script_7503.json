@@ -1,0 +1,27 @@
+{
+    "book": "1 Corinthians",
+    "chapter": "Chapter 15",
+    "verses": [
+        {
+            "name": "1 Corinthians 15:1",
+            "text": "Moreover, brethren, I declare unto you the gospel which I preached unto you, which also ye have received, and wherein ye stand;"
+        },
+        {
+            "name": "1 Corinthians 15:2",
+            "text": "By which also ye are saved, if ye keep in memory what I preached unto you, unless ye have believed in vain."
+        },
+        {
+            "name": "1 Corinthians 15:3",
+            "text": "For I delivered unto you first of all that which I also received, how that Christ died for our sins according to the scriptures;"
+        },
+        {
+            "name": "1 Corinthians 15:4",
+            "text": "And that he was buried, and that he rose again the third day according to the scriptures:"
+        },
+        {
+            "name": "1 Corinthians 15:5",
+            "text": "And that he was seen of Cephas, then of the twelve:"
+        }
+    ],
+    "tone": "neutral"
+}

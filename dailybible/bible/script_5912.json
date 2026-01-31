@@ -1,0 +1,23 @@
+{
+    "book": "Joel",
+    "chapter": "Chapter 1",
+    "verses": [
+        {
+            "name": "Joel 1:5",
+            "text": "Awake, ye drunkards, and weep; and howl, all ye drinkers of wine, because of the new wine; for it is cut off from your mouth."
+        },
+        {
+            "name": "Joel 1:6",
+            "text": "For a nation is come up upon my land, strong, and without number, whose teeth are the teeth of a lion, and he hath the cheek teeth of a great lion."
+        },
+        {
+            "name": "Joel 1:7",
+            "text": "He hath laid my vine waste, and barked my fig tree: he hath made it clean bare, and cast it away; the branches thereof are made white."
+        },
+        {
+            "name": "Joel 1:8",
+            "text": "Lament like a virgin girded with sackcloth for the husband of her youth."
+        }
+    ],
+    "tone": "lamenting"
+}

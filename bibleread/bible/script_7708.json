@@ -1,0 +1,23 @@
+{
+    "book": "1 Thessalonians",
+    "chapter": "Chapter 4",
+    "verses": [
+        {
+            "name": "1 Thessalonians 4:10",
+            "text": "And indeed ye do it toward all the brethren which are in all Macedonia: but we beseech you, brethren, that ye increase more and more;"
+        },
+        {
+            "name": "1 Thessalonians 4:11",
+            "text": "And that ye study to be quiet, and to do your own business, and to work with your own hands, as we commanded you;"
+        },
+        {
+            "name": "1 Thessalonians 4:12",
+            "text": "That ye may walk honestly toward them that are without, and that ye may have lack of nothing."
+        },
+        {
+            "name": "1 Thessalonians 4:13",
+            "text": "But I would not have you to be ignorant, brethren, concerning them which are asleep, that ye sorrow not, even as others which have no hope."
+        }
+    ],
+    "tone": "lamenting"
+}

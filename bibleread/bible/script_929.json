@@ -1,0 +1,19 @@
+{
+    "book": "Leviticus",
+    "chapter": "Chapter 22",
+    "verses": [
+        {
+            "name": "Leviticus 22:1",
+            "text": "And the Lord spake unto Moses, saying,"
+        },
+        {
+            "name": "Leviticus 22:2",
+            "text": "Speak unto Aaron and to his sons, that they separate themselves from the holy things of the children of Israel, and that they profane not my holy name in those things which they hallow unto me: I am the Lord."
+        },
+        {
+            "name": "Leviticus 22:3",
+            "text": "Say unto them, Whosoever he be of all your seed among your generations, that goeth unto the holy things, which the children of Israel hallow unto the Lord, having his uncleanness upon him, that soul shall be cut off from my presence: I am the Lord."
+        }
+    ],
+    "tone": "instructional"
+}

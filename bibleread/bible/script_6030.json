@@ -1,0 +1,19 @@
+{
+    "book": "Nahum",
+    "chapter": "Chapter 1",
+    "verses": [
+        {
+            "name": "Nahum 1:12",
+            "text": "Thus saith the Lord; Though they be quiet, and likewise many, yet thus shall they be cut down, when he shall pass through. Though I have afflicted thee, I will afflict thee no more."
+        },
+        {
+            "name": "Nahum 1:13",
+            "text": "For now will I break his yoke from off thee, and will burst thy bonds in sunder."
+        },
+        {
+            "name": "Nahum 1:14",
+            "text": "And the Lord hath given a commandment concerning thee, that no more of thy name be sown: out of the house of thy gods will I cut off the graven image and the molten image: I will make thy grave; for thou art vile."
+        }
+    ],
+    "tone": "lamenting"
+}

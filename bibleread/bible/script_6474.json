@@ -1,0 +1,23 @@
+{
+    "book": "Mark",
+    "chapter": "Chapter 7",
+    "verses": [
+        {
+            "name": "Mark 7:1",
+            "text": "Then came together unto him the Pharisees, and certain of the scribes, which came from Jerusalem."
+        },
+        {
+            "name": "Mark 7:2",
+            "text": "And when they saw some of his disciples eat bread with defiled, that is to say, with unwashen, hands, they found fault."
+        },
+        {
+            "name": "Mark 7:3",
+            "text": "For the Pharisees, and all the Jews, except they wash their hands oft, eat not, holding the tradition of the elders."
+        },
+        {
+            "name": "Mark 7:4",
+            "text": "And when they come from the market, except they wash, they eat not. And many other things there be, which they have received to hold, as the washing of cups, and pots, brasen vessels, and of tables."
+        }
+    ],
+    "tone": "neutral"
+}

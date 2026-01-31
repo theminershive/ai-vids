@@ -1,0 +1,31 @@
+{
+    "book": "Proverbs",
+    "chapter": "Chapter 13",
+    "verses": [
+        {
+            "name": "Proverbs 13:1",
+            "text": "A wise son heareth his father\u2019s instruction: but a scorner heareth not rebuke."
+        },
+        {
+            "name": "Proverbs 13:2",
+            "text": "A man shall eat good by the fruit of his mouth: but the soul of the transgressors shall eat violence."
+        },
+        {
+            "name": "Proverbs 13:3",
+            "text": "He that keepeth his mouth keepeth his life: but he that openeth wide his lips shall have destruction."
+        },
+        {
+            "name": "Proverbs 13:4",
+            "text": "The soul of the sluggard desireth, and hath nothing: but the soul of the diligent shall be made fat."
+        },
+        {
+            "name": "Proverbs 13:5",
+            "text": "A righteous man hateth lying: but a wicked man is loathsome, and cometh to shame."
+        },
+        {
+            "name": "Proverbs 13:6",
+            "text": "Righteousness keepeth him that is upright in the way: but wickedness overthroweth the sinner."
+        }
+    ],
+    "tone": "instructional"
+}

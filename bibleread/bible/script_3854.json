@@ -1,0 +1,23 @@
+{
+    "book": "Psalms",
+    "chapter": "Chapter 10",
+    "verses": [
+        {
+            "name": "Psalms 10:15",
+            "text": "Break thou the arm of the wicked and the evil man: seek out his wickedness till thou find none."
+        },
+        {
+            "name": "Psalms 10:16",
+            "text": "The Lord is King for ever and ever: the heathen are perished out of his land."
+        },
+        {
+            "name": "Psalms 10:17",
+            "text": "Lord, thou hast heard the desire of the humble: thou wilt prepare their heart, thou wilt cause thine ear to hear:"
+        },
+        {
+            "name": "Psalms 10:18",
+            "text": "To judge the fatherless and the oppressed, that the man of the earth may no more oppress. "
+        }
+    ],
+    "tone": "instructional"
+}

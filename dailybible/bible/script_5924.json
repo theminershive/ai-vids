@@ -1,0 +1,19 @@
+{
+    "book": "Joel",
+    "chapter": "Chapter 2",
+    "verses": [
+        {
+            "name": "Joel 2:24",
+            "text": "And the floors shall be full of wheat, and the fats shall overflow with wine and oil."
+        },
+        {
+            "name": "Joel 2:25",
+            "text": "And I will restore to you the years that the locust hath eaten, the cankerworm, and the caterpiller, and the palmerworm, my great army which I sent among you."
+        },
+        {
+            "name": "Joel 2:26",
+            "text": "And ye shall eat in plenty, and be satisfied, and praise the name of the Lord your God, that hath dealt wondrously with you: and my people shall never be ashamed."
+        }
+    ],
+    "tone": "praising"
+}

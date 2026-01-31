@@ -1,0 +1,19 @@
+{
+    "book": "Joshua",
+    "chapter": "Chapter 12",
+    "verses": [
+        {
+            "name": "Joshua 12:3",
+            "text": "And from the plain to the sea of Chinneroth on the east, and unto the sea of the plain, even the salt sea on the east, the way to Beth\u2013jeshimoth; and from the south, under Ashdoth\u2013pisgah:"
+        },
+        {
+            "name": "Joshua 12:4",
+            "text": "And the coast of Og king of Bashan, which was of the remnant of the giants, that dwelt at Ashtaroth and at Edrei,"
+        },
+        {
+            "name": "Joshua 12:5",
+            "text": "And reigned in mount Hermon, and in Salcah, and in all Bashan, unto the border of the Geshurites and the Maachathites, and half Gilead, the border of Sihon king of Heshbon."
+        }
+    ],
+    "tone": "neutral"
+}

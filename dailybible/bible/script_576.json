@@ -1,0 +1,31 @@
+{
+    "book": "Exodus",
+    "chapter": "Chapter 22",
+    "verses": [
+        {
+            "name": "Exodus 22:18",
+            "text": "Thou shalt not suffer a witch to live."
+        },
+        {
+            "name": "Exodus 22:19",
+            "text": "Whosoever lieth with a beast shall surely be put to death."
+        },
+        {
+            "name": "Exodus 22:20",
+            "text": "He that sacrificeth unto any god, save unto the Lord only, he shall be utterly destroyed."
+        },
+        {
+            "name": "Exodus 22:21",
+            "text": "Thou shalt neither vex a stranger, nor oppress him: for ye were strangers in the land of Egypt."
+        },
+        {
+            "name": "Exodus 22:22",
+            "text": "Ye shall not afflict any widow, or fatherless child."
+        },
+        {
+            "name": "Exodus 22:23",
+            "text": "If thou afflict them in any wise, and they cry at all unto me, I will surely hear their cry;"
+        }
+    ],
+    "tone": "lamenting"
+}

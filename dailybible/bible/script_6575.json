@@ -1,0 +1,23 @@
+{
+    "book": "Mark",
+    "chapter": "Chapter 16",
+    "verses": [
+        {
+            "name": "Mark 16:8",
+            "text": "And they went out quickly, and fled from the sepulchre; for they trembled and were amazed: neither said they any thing to any man; for they were afraid."
+        },
+        {
+            "name": "Mark 16:9",
+            "text": "Now when Jesus was risen early the first day of the week, he appeared first to Mary Magdalene, out of whom he had cast seven devils."
+        },
+        {
+            "name": "Mark 16:10",
+            "text": "And she went and told them that had been with him, as they mourned and wept."
+        },
+        {
+            "name": "Mark 16:11",
+            "text": "And they, when they had heard that he was alive, and had been seen of her, believed not."
+        }
+    ],
+    "tone": "neutral"
+}

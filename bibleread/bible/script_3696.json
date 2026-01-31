@@ -1,0 +1,35 @@
+{
+    "book": "Job",
+    "chapter": "Chapter 12",
+    "verses": [
+        {
+            "name": "Job 12:11",
+            "text": "Doth not the ear try words? and the mouth taste his meat?"
+        },
+        {
+            "name": "Job 12:12",
+            "text": "With the ancient is wisdom; and in length of days understanding."
+        },
+        {
+            "name": "Job 12:13",
+            "text": "With him is wisdom and strength, he hath counsel and understanding."
+        },
+        {
+            "name": "Job 12:14",
+            "text": "Behold, he breaketh down, and it cannot be built again: he shutteth up a man, and there can be no opening."
+        },
+        {
+            "name": "Job 12:15",
+            "text": "Behold, he withholdeth the waters, and they dry up: also he sendeth them out, and they overturn the earth."
+        },
+        {
+            "name": "Job 12:16",
+            "text": "With him is strength and wisdom: the deceived and the deceiver are his."
+        },
+        {
+            "name": "Job 12:17",
+            "text": "He leadeth counsellors away spoiled, and maketh the judges fools."
+        }
+    ],
+    "tone": "instructional"
+}

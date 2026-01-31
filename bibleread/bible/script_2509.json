@@ -1,0 +1,19 @@
+{
+    "book": "1 Kings",
+    "chapter": "Chapter 2",
+    "verses": [
+        {
+            "name": "1 Kings 2:36",
+            "text": "And the king sent and called for Shimei, and said unto him, Build thee an house in Jerusalem, and dwell there, and go not forth thence any whither."
+        },
+        {
+            "name": "1 Kings 2:37",
+            "text": "For it shall be, that on the day thou goest out, and passest over the brook Kidron, thou shalt know for certain that thou shalt surely die: thy blood shall be upon thine own head."
+        },
+        {
+            "name": "1 Kings 2:38",
+            "text": "And Shimei said unto the king, The saying is good: as my lord the king hath said, so will thy servant do. And Shimei dwelt in Jerusalem many days."
+        }
+    ],
+    "tone": "neutral"
+}

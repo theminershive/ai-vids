@@ -1,0 +1,23 @@
+{
+    "book": "Ecclesiastes",
+    "chapter": "Chapter 9",
+    "verses": [
+        {
+            "name": "Ecclesiastes 9:13",
+            "text": "This wisdom have I seen also under the sun, and it seemed great unto me:"
+        },
+        {
+            "name": "Ecclesiastes 9:14",
+            "text": "There was a little city, and few men within it; and there came a great king against it, and besieged it, and built great bulwarks against it:"
+        },
+        {
+            "name": "Ecclesiastes 9:15",
+            "text": "Now there was found in it a poor wise man, and he by his wisdom delivered the city; yet no man remembered that same poor man."
+        },
+        {
+            "name": "Ecclesiastes 9:16",
+            "text": "Then said I, Wisdom is better than strength: nevertheless the poor man\u2019s wisdom is despised, and his words are not heard."
+        }
+    ],
+    "tone": "instructional"
+}

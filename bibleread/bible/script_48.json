@@ -1,0 +1,23 @@
+{
+    "book": "Genesis",
+    "chapter": "Chapter 7",
+    "verses": [
+        {
+            "name": "Genesis 7:19",
+            "text": "And the waters prevailed exceedingly upon the earth; and all the high hills, that were under the whole heaven, were covered."
+        },
+        {
+            "name": "Genesis 7:20",
+            "text": "Fifteen cubits upward did the waters prevail; and the mountains were covered."
+        },
+        {
+            "name": "Genesis 7:21",
+            "text": "And all flesh died that moved upon the earth, both of fowl, and of cattle, and of beast, and of every creeping thing that creepeth upon the earth, and every man:"
+        },
+        {
+            "name": "Genesis 7:22",
+            "text": "All in whose nostrils was the breath of life, of all that was in the dry land, died."
+        }
+    ],
+    "tone": "lamenting"
+}

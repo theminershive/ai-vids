@@ -1,0 +1,23 @@
+{
+    "book": "Luke",
+    "chapter": "Chapter 14",
+    "verses": [
+        {
+            "name": "Luke 14:32",
+            "text": "Or else, while the other is yet a great way off, he sendeth an ambassage, and desireth conditions of peace."
+        },
+        {
+            "name": "Luke 14:33",
+            "text": "So likewise, whosoever he be of you that forsaketh not all that he hath, he cannot be my disciple."
+        },
+        {
+            "name": "Luke 14:34",
+            "text": "Salt is good: but if the salt have lost his savour, wherewith shall it be seasoned?"
+        },
+        {
+            "name": "Luke 14:35",
+            "text": "It is neither fit for the land, nor yet for the dunghill; but men cast it out. He that hath ears to hear, let him hear. "
+        }
+    ],
+    "tone": "neutral"
+}

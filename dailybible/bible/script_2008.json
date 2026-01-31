@@ -1,0 +1,19 @@
+{
+    "book": "Ruth",
+    "chapter": "Chapter 2",
+    "verses": [
+        {
+            "name": "Ruth 2:1",
+            "text": "And Naomi had a kinsman of her husband\u2019s, a mighty man of wealth, of the family of Elimelech; and his name was Boaz."
+        },
+        {
+            "name": "Ruth 2:2",
+            "text": "And Ruth the Moabitess said unto Naomi, Let me now go to the field, and glean ears of corn after him in whose sight I shall find grace. And she said unto her, Go, my daughter."
+        },
+        {
+            "name": "Ruth 2:3",
+            "text": "And she went, and came, and gleaned in the field after the reapers: and her hap was to light on a part of the field belonging unto Boaz, who was of the kindred of Elimelech."
+        }
+    ],
+    "tone": "neutral"
+}

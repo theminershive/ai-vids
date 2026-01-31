@@ -1,0 +1,23 @@
+{
+    "book": "Romans",
+    "chapter": "Chapter 6",
+    "verses": [
+        {
+            "name": "Romans 6:18",
+            "text": "Being then made free from sin, ye became the servants of righteousness."
+        },
+        {
+            "name": "Romans 6:19",
+            "text": "I speak after the manner of men because of the infirmity of your flesh: for as ye have yielded your members servants to uncleanness and to iniquity unto iniquity; even so now yield your members servants to righteousness unto holiness."
+        },
+        {
+            "name": "Romans 6:20",
+            "text": "For when ye were the servants of sin, ye were free from righteousness."
+        },
+        {
+            "name": "Romans 6:21",
+            "text": "What fruit had ye then in those things whereof ye are now ashamed? for the end of those things is death."
+        }
+    ],
+    "tone": "instructional"
+}

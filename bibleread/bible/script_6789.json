@@ -1,0 +1,27 @@
+{
+    "book": "Luke",
+    "chapter": "Chapter 19",
+    "verses": [
+        {
+            "name": "Luke 19:1",
+            "text": "And Jesus entered and passed through Jericho."
+        },
+        {
+            "name": "Luke 19:2",
+            "text": "And, behold, there was a man named Zaccheus, which was the chief among the publicans, and he was rich."
+        },
+        {
+            "name": "Luke 19:3",
+            "text": "And he sought to see Jesus who he was; and could not for the press, because he was little of stature."
+        },
+        {
+            "name": "Luke 19:4",
+            "text": "And he ran before, and climbed up into a sycomore tree to see him: for he was to pass that way. "
+        },
+        {
+            "name": "Luke 19:5",
+            "text": "And when Jesus came to the place, he looked up, and saw him, and said unto him, Zaccheus, make haste, and come down; for to day I must abide at thy house."
+        }
+    ],
+    "tone": "neutral"
+}

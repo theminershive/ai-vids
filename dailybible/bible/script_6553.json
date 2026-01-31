@@ -1,0 +1,23 @@
+{
+    "book": "Mark",
+    "chapter": "Chapter 14",
+    "verses": [
+        {
+            "name": "Mark 14:31",
+            "text": "But he spake the more vehemently, If I should die with thee, I will not deny thee in any wise. Likewise also said they all."
+        },
+        {
+            "name": "Mark 14:32",
+            "text": "And they came to a place which was named Gethsemane: and he saith to his disciples, Sit ye here, while I shall pray."
+        },
+        {
+            "name": "Mark 14:33",
+            "text": "And he taketh with him Peter and James and John, and began to be sore amazed, and to be very heavy;"
+        },
+        {
+            "name": "Mark 14:34",
+            "text": "And saith unto them, My soul is exceeding sorrowful unto death: tarry ye here, and watch."
+        }
+    ],
+    "tone": "neutral"
+}

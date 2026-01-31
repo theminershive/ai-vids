@@ -1,0 +1,23 @@
+{
+    "book": "Isaiah",
+    "chapter": "Chapter 52",
+    "verses": [
+        {
+            "name": "Isaiah 52:1",
+            "text": "Awake, awake; put on thy strength, O Zion; put on thy beautiful garments, O Jerusalem, the holy city: for henceforth there shall no more come into thee the uncircumcised and the unclean."
+        },
+        {
+            "name": "Isaiah 52:2",
+            "text": "Shake thyself from the dust; arise, and sit down, O Jerusalem: loose thyself from the bands of thy neck, O captive daughter of Zion."
+        },
+        {
+            "name": "Isaiah 52:3",
+            "text": "For thus saith the Lord, Ye have sold yourselves for nought; and ye shall be redeemed without money."
+        },
+        {
+            "name": "Isaiah 52:4",
+            "text": "For thus saith the Lord God, My people went down aforetime into Egypt to sojourn there; and the Assyrian oppressed them without cause."
+        }
+    ],
+    "tone": "neutral"
+}

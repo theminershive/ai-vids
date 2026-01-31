@@ -1,0 +1,23 @@
+{
+    "book": "Deuteronomy",
+    "chapter": "Chapter 6",
+    "verses": [
+        {
+            "name": "Deuteronomy 6:13",
+            "text": "Thou shalt fear the Lord thy God, and serve him, and shalt swear by his name."
+        },
+        {
+            "name": "Deuteronomy 6:14",
+            "text": "Ye shall not go after other gods, of the gods of the people which are round about you;"
+        },
+        {
+            "name": "Deuteronomy 6:15",
+            "text": "(For the Lord thy God is a jealous God among you) lest the anger of the Lord thy God be kindled against thee, and destroy thee from off the face of the earth."
+        },
+        {
+            "name": "Deuteronomy 6:16",
+            "text": "Ye shall not tempt the Lord your God, as ye tempted him in Massah."
+        }
+    ],
+    "tone": "neutral"
+}

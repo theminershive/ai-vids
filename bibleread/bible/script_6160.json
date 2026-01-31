@@ -1,0 +1,23 @@
+{
+    "book": "Malachi",
+    "chapter": "Chapter 3",
+    "verses": [
+        {
+            "name": "Malachi 3:12",
+            "text": "And all nations shall call you blessed: for ye shall be a delightsome land, saith the Lord of hosts."
+        },
+        {
+            "name": "Malachi 3:13",
+            "text": "Your words have been stout against me, saith the Lord. Yet ye say, What have we spoken so much against thee?"
+        },
+        {
+            "name": "Malachi 3:14",
+            "text": "Ye have said, It is vain to serve God: and what profit is it that we have kept his ordinance, and that we have walked mournfully before the Lord of hosts?"
+        },
+        {
+            "name": "Malachi 3:15",
+            "text": "And now we call the proud happy; yea, they that work wickedness are set up; yea, they that tempt God are even delivered."
+        }
+    ],
+    "tone": "hopeful"
+}

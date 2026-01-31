@@ -1,0 +1,19 @@
+{
+    "book": "Leviticus",
+    "chapter": "Chapter 19",
+    "verses": [
+        {
+            "name": "Leviticus 19:16",
+            "text": "Thou shalt not go up and down as a talebearer among thy people: neither shalt thou stand against the blood of thy neighbour: I am the Lord."
+        },
+        {
+            "name": "Leviticus 19:17",
+            "text": "Thou shalt not hate thy brother in thine heart: thou shalt in any wise rebuke thy neighbour, and not suffer sin upon him."
+        },
+        {
+            "name": "Leviticus 19:18",
+            "text": "Thou shalt not avenge, nor bear any grudge against the children of thy people, but thou shalt love thy neighbour as thyself: I am the Lord."
+        }
+    ],
+    "tone": "hopeful"
+}

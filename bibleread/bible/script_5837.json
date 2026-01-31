@@ -1,0 +1,19 @@
+{
+    "book": "Daniel",
+    "chapter": "Chapter 10",
+    "verses": [
+        {
+            "name": "Daniel 10:16",
+            "text": "And, behold, one like the similitude of the sons of men touched my lips: then I opened my mouth, and spake, and said unto him that stood before me, O my lord, by the vision my sorrows are turned upon me, and I have retained no strength."
+        },
+        {
+            "name": "Daniel 10:17",
+            "text": "For how can the servant of this my lord talk with this my lord? for as for me, straightway there remained no strength in me, neither is there breath left in me."
+        },
+        {
+            "name": "Daniel 10:18",
+            "text": "Then there came again and touched me one like the appearance of a man, and he strengthened me,"
+        }
+    ],
+    "tone": "neutral"
+}

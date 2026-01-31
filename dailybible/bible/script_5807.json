@@ -1,0 +1,19 @@
+{
+    "book": "Daniel",
+    "chapter": "Chapter 7",
+    "verses": [
+        {
+            "name": "Daniel 7:13",
+            "text": "I saw in the night visions, and, behold, one like the Son of man came with the clouds of heaven, and came to the Ancient of days, and they brought him near before him."
+        },
+        {
+            "name": "Daniel 7:14",
+            "text": "And there was given him dominion, and glory, and a kingdom, that all people, nations, and languages, should serve him: his dominion is an everlasting dominion, which shall not pass away, and his kingdom that which shall not be destroyed."
+        },
+        {
+            "name": "Daniel 7:15",
+            "text": "I Daniel was grieved in my spirit in the midst of my body, and the visions of my head troubled me."
+        }
+    ],
+    "tone": "hopeful"
+}

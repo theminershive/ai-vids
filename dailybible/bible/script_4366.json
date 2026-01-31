@@ -1,0 +1,31 @@
+{
+    "book": "Proverbs",
+    "chapter": "Chapter 23",
+    "verses": [
+        {
+            "name": "Proverbs 23:1",
+            "text": "When thou sittest to eat with a ruler, consider diligently what is before thee:"
+        },
+        {
+            "name": "Proverbs 23:2",
+            "text": "And put a knife to thy throat, if thou be a man given to appetite."
+        },
+        {
+            "name": "Proverbs 23:3",
+            "text": "Be not desirous of his dainties: for they are deceitful meat."
+        },
+        {
+            "name": "Proverbs 23:4",
+            "text": "Labour not to be rich: cease from thine own wisdom."
+        },
+        {
+            "name": "Proverbs 23:5",
+            "text": "Wilt thou set thine eyes upon that which is not? for riches certainly make themselves wings; they fly away as an eagle toward heaven."
+        },
+        {
+            "name": "Proverbs 23:6",
+            "text": "Eat thou not the bread of him that hath an evil eye, neither desire thou his dainty meats:"
+        }
+    ],
+    "tone": "instructional"
+}

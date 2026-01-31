@@ -1,0 +1,19 @@
+{
+    "book": "Luke",
+    "chapter": "Chapter 3",
+    "verses": [
+        {
+            "name": "Luke 3:28",
+            "text": "Which was the son of Melchi, which was the son of Addi, which was the son of Cosam, which was the son of Elmodam, which was the son of Er,"
+        },
+        {
+            "name": "Luke 3:29",
+            "text": "Which was the son of Jose, which was the son of Eliezer, which was the son of Jorim, which was the son of Matthat, which was the son of Levi,"
+        },
+        {
+            "name": "Luke 3:30",
+            "text": "Which was the son of Simeon, which was the son of Juda, which was the son of Joseph, which was the son of Jonan, which was the son of Eliakim,"
+        }
+    ],
+    "tone": "neutral"
+}

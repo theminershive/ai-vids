@@ -1,0 +1,19 @@
+{
+    "book": "Daniel",
+    "chapter": "Chapter 9",
+    "verses": [
+        {
+            "name": "Daniel 9:7",
+            "text": "O Lord, righteousness belongeth unto thee, but unto us confusion of faces, as at this day; to the men of Judah, and to the inhabitants of Jerusalem, and unto all Israel, that are near, and that are far off, through all the countries whither thou hast driven them, because of their trespass that they have trespassed against thee."
+        },
+        {
+            "name": "Daniel 9:8",
+            "text": "O Lord, to us belongeth confusion of face, to our kings, to our princes, and to our fathers, because we have sinned against thee."
+        },
+        {
+            "name": "Daniel 9:9",
+            "text": "To the Lord our God belong mercies and forgivenesses, though we have rebelled against him;"
+        }
+    ],
+    "tone": "instructional"
+}

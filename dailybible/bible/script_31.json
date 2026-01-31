@@ -1,0 +1,23 @@
+{
+    "book": "Genesis",
+    "chapter": "Chapter 5",
+    "verses": [
+        {
+            "name": "Genesis 5:1",
+            "text": "This is the book of the generations of Adam. In the day that God created man, in the likeness of God made he him;"
+        },
+        {
+            "name": "Genesis 5:2",
+            "text": "Male and female created he them; and blessed them, and called their name Adam, in the day when they were created."
+        },
+        {
+            "name": "Genesis 5:3",
+            "text": "And Adam lived an hundred and thirty years, and begat a son in his own likeness, after his image; and called his name Seth:"
+        },
+        {
+            "name": "Genesis 5:4",
+            "text": "And the days of Adam after he had begotten Seth were eight hundred years: and he begat sons and daughters:"
+        }
+    ],
+    "tone": "neutral"
+}

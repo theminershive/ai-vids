@@ -1,0 +1,31 @@
+{
+    "book": "Song of Solomon",
+    "chapter": "Chapter 2",
+    "verses": [
+        {
+            "name": "Song of Songs 2:1",
+            "text": "I am the rose of Sharon, and the lily of the valleys."
+        },
+        {
+            "name": "Song of Songs 2:2",
+            "text": "As the lily among thorns, so is my love among the daughters."
+        },
+        {
+            "name": "Song of Songs 2:3",
+            "text": "As the apple tree among the trees of the wood, so is my beloved among the sons. I sat down under his shadow with great delight, and his fruit was sweet to my taste."
+        },
+        {
+            "name": "Song of Songs 2:4",
+            "text": "He brought me to the banqueting house, and his banner over me was love."
+        },
+        {
+            "name": "Song of Songs 2:5",
+            "text": "Stay me with flagons, comfort me with apples: for I am sick of love."
+        },
+        {
+            "name": "Song of Songs 2:6",
+            "text": "His left hand is under my head, and his right hand doth embrace me."
+        }
+    ],
+    "tone": "hopeful"
+}

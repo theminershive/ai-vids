@@ -1,0 +1,23 @@
+{
+    "book": "1 Samuel",
+    "chapter": "Chapter 15",
+    "verses": [
+        {
+            "name": "1 Samuel 15:4",
+            "text": "And Saul gathered the people together, and numbered them in Telaim, two hundred thousand footmen, and ten thousand men of Judah."
+        },
+        {
+            "name": "1 Samuel 15:5",
+            "text": "And Saul came to a city of Amalek, and laid wait in the valley."
+        },
+        {
+            "name": "1 Samuel 15:6",
+            "text": "And Saul said unto the Kenites, Go, depart, get you down from among the Amalekites, lest I destroy you with them: for ye shewed kindness to all the children of Israel, when they came up out of Egypt. So the Kenites departed from among the Amalekites."
+        },
+        {
+            "name": "1 Samuel 15:7",
+            "text": "And Saul smote the Amalekites from Havilah until thou comest to Shur, that is over against Egypt."
+        }
+    ],
+    "tone": "neutral"
+}

@@ -1,0 +1,19 @@
+{
+    "book": "Exodus",
+    "chapter": "Chapter 20",
+    "verses": [
+        {
+            "name": "Exodus 20:10",
+            "text": "But the seventh day is the sabbath of the Lord thy God: in it thou shalt not do any work, thou, nor thy son, nor thy daughter, thy manservant, nor thy maidservant, nor thy cattle, nor thy stranger that is within thy gates:"
+        },
+        {
+            "name": "Exodus 20:11",
+            "text": "For in six days the Lord made heaven and earth, the sea, and all that in them is, and rested the seventh day: wherefore the Lord blessed the sabbath day, and hallowed it."
+        },
+        {
+            "name": "Exodus 20:12",
+            "text": "Honour thy father and thy mother: that thy days may be long upon the land which the Lord thy God giveth thee."
+        }
+    ],
+    "tone": "neutral"
+}

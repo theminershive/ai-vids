@@ -1,0 +1,27 @@
+{
+    "book": "Hebrews",
+    "chapter": "Chapter 12",
+    "verses": [
+        {
+            "name": "Hebrews 12:4",
+            "text": "Ye have not yet resisted unto blood, striving against sin."
+        },
+        {
+            "name": "Hebrews 12:5",
+            "text": "And ye have forgotten the exhortation which speaketh unto you as unto children, My son, despise not thou the chastening of the Lord, nor faint when thou art rebuked of him:"
+        },
+        {
+            "name": "Hebrews 12:6",
+            "text": "For whom the Lord loveth he chasteneth, and scourgeth every son whom he receiveth."
+        },
+        {
+            "name": "Hebrews 12:7",
+            "text": "If ye endure chastening, God dealeth with you as with sons; for what son is he whom the father chasteneth not?"
+        },
+        {
+            "name": "Hebrews 12:8",
+            "text": "But if ye be without chastisement, whereof all are partakers, then are ye bastards, and not sons."
+        }
+    ],
+    "tone": "lamenting"
+}

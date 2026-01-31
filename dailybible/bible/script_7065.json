@@ -1,0 +1,23 @@
+{
+    "book": "Acts",
+    "chapter": "Chapter 1",
+    "verses": [
+        {
+            "name": "Acts 1:14",
+            "text": "These all continued with one accord in prayer and supplication, with the women, and Mary the mother of Jesus, and with his brethren."
+        },
+        {
+            "name": "Acts 1:15",
+            "text": "And in those days Peter stood up in the midst of the disciples, and said, (the number of names together were about an hundred and twenty,)"
+        },
+        {
+            "name": "Acts 1:16",
+            "text": "Men and brethren, this scripture must needs have been fulfilled, which the Holy Ghost by the mouth of David spake before concerning Judas, which was guide to them that took Jesus."
+        },
+        {
+            "name": "Acts 1:17",
+            "text": "For he was numbered with us, and had obtained part of this ministry."
+        }
+    ],
+    "tone": "instructional"
+}

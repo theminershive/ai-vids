@@ -1,0 +1,23 @@
+{
+    "book": "Exodus",
+    "chapter": "Chapter 25",
+    "verses": [
+        {
+            "name": "Exodus 25:15",
+            "text": "The staves shall be in the rings of the ark: they shall not be taken from it."
+        },
+        {
+            "name": "Exodus 25:16",
+            "text": "And thou shalt put into the ark the testimony which I shall give thee."
+        },
+        {
+            "name": "Exodus 25:17",
+            "text": "And thou shalt make a mercy seat of pure gold: two cubits and a half shall be the length thereof, and a cubit and a half the breadth thereof."
+        },
+        {
+            "name": "Exodus 25:18",
+            "text": "And thou shalt make two cherubims of gold, of beaten work shalt thou make them, in the two ends of the mercy seat."
+        }
+    ],
+    "tone": "hopeful"
+}

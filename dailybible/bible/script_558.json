@@ -1,0 +1,31 @@
+{
+    "book": "Exodus",
+    "chapter": "Chapter 20",
+    "verses": [
+        {
+            "name": "Exodus 20:13",
+            "text": "Thou shalt not kill."
+        },
+        {
+            "name": "Exodus 20:14",
+            "text": "Thou shalt not commit adultery."
+        },
+        {
+            "name": "Exodus 20:15",
+            "text": "Thou shalt not steal."
+        },
+        {
+            "name": "Exodus 20:16",
+            "text": "Thou shalt not bear false witness against thy neighbour."
+        },
+        {
+            "name": "Exodus 20:17",
+            "text": "Thou shalt not covet thy neighbour\u2019s house, thou shalt not covet thy neighbour\u2019s wife, nor his manservant, nor his maidservant, nor his ox, nor his ass, nor any thing that is thy neighbour\u2019s."
+        },
+        {
+            "name": "Exodus 20:18",
+            "text": "And all the people saw the thunderings, and the lightnings, and the noise of the trumpet, and the mountain smoking: and when the people saw it, they removed, and stood afar off."
+        }
+    ],
+    "tone": "neutral"
+}

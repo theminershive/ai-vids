@@ -1,0 +1,19 @@
+{
+    "book": "Esther",
+    "chapter": "Chapter 3",
+    "verses": [
+        {
+            "name": "Esther 3:9",
+            "text": "If it please the king, let it be written that they may be destroyed: and I will pay ten thousand talents of silver to the hands of those that have the charge of the business, to bring it into the king\u2019s treasuries."
+        },
+        {
+            "name": "Esther 3:10",
+            "text": "And the king took his ring from his hand, and gave it unto Haman the son of Hammedatha the Agagite, the Jews\u2019 enemy."
+        },
+        {
+            "name": "Esther 3:11",
+            "text": "And the king said unto Haman, The silver is given to thee, the people also, to do with them as it seemeth good to thee."
+        }
+    ],
+    "tone": "neutral"
+}

@@ -1,0 +1,27 @@
+{
+    "book": "Song of Solomon",
+    "chapter": "Chapter 5",
+    "verses": [
+        {
+            "name": "Song of Songs 5:9",
+            "text": "What is thy beloved more than another beloved, O thou fairest among women? what is thy beloved more than another beloved, that thou dost so charge us?"
+        },
+        {
+            "name": "Song of Songs 5:10",
+            "text": "My beloved is white and ruddy, the chiefest among ten thousand."
+        },
+        {
+            "name": "Song of Songs 5:11",
+            "text": "His head is as the most fine gold, his locks are bushy, and black as a raven."
+        },
+        {
+            "name": "Song of Songs 5:12",
+            "text": "His eyes are as the eyes of doves by the rivers of waters, washed with milk, and fitly set."
+        },
+        {
+            "name": "Song of Songs 5:13",
+            "text": "His cheeks are as a bed of spices, as sweet flowers: his lips like lilies, dropping sweet smelling myrrh."
+        }
+    ],
+    "tone": "hopeful"
+}

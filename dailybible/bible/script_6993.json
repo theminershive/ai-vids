@@ -1,0 +1,27 @@
+{
+    "book": "John",
+    "chapter": "Chapter 13",
+    "verses": [
+        {
+            "name": "John 13:13",
+            "text": "Ye call me Master and Lord: and ye say well; for so I am."
+        },
+        {
+            "name": "John 13:14",
+            "text": "If I then, your Lord and Master, have washed your feet; ye also ought to wash one another\u2019s feet."
+        },
+        {
+            "name": "John 13:15",
+            "text": "For I have given you an example, that ye should do as I have done to you."
+        },
+        {
+            "name": "John 13:16",
+            "text": "Verily, verily, I say unto you, The servant is not greater than his lord; neither he that is sent greater than he that sent him."
+        },
+        {
+            "name": "John 13:17",
+            "text": "If ye know these things, happy are ye if ye do them."
+        }
+    ],
+    "tone": "hopeful"
+}

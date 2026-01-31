@@ -1,0 +1,19 @@
+{
+    "book": "Deuteronomy",
+    "chapter": "Chapter 11",
+    "verses": [
+        {
+            "name": "Deuteronomy 11:1",
+            "text": "Therefore thou shalt love the Lord thy God, and keep his charge, and his statutes, and his judgments, and his commandments, alway."
+        },
+        {
+            "name": "Deuteronomy 11:2",
+            "text": "And know ye this day: for I speak not with your children which have not known, and which have not seen the chastisement of the Lord your God, his greatness, his mighty hand, and his stretched out arm,"
+        },
+        {
+            "name": "Deuteronomy 11:3",
+            "text": "And his miracles, and his acts, which he did in the midst of Egypt unto Pharaoh the king of Egypt, and unto all his land;"
+        }
+    ],
+    "tone": "hopeful"
+}

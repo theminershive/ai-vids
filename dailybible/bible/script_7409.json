@@ -1,0 +1,23 @@
+{
+    "book": "Romans",
+    "chapter": "Chapter 15",
+    "verses": [
+        {
+            "name": "Romans 15:11",
+            "text": "And again, Praise the Lord, all ye Gentiles; and laud him, all ye people."
+        },
+        {
+            "name": "Romans 15:12",
+            "text": "And again, Esaias saith, There shall be a root of Jesse, and he that shall rise to reign over the Gentiles; in him shall the Gentiles trust."
+        },
+        {
+            "name": "Romans 15:13",
+            "text": "Now the God of hope fill you with all joy and peace in believing, that ye may abound in hope, through the power of the Holy Ghost."
+        },
+        {
+            "name": "Romans 15:14",
+            "text": "And I myself also am persuaded of you, my brethren, that ye also are full of goodness, filled with all knowledge, able also to admonish one another."
+        }
+    ],
+    "tone": "hopeful"
+}

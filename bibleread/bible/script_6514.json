@@ -1,0 +1,23 @@
+{
+    "book": "Mark",
+    "chapter": "Chapter 10",
+    "verses": [
+        {
+            "name": "Mark 10:42",
+            "text": "But Jesus called them to him, and saith unto them, Ye know that they which are accounted to rule over the Gentiles exercise lordship over them; and their great ones exercise authority upon them."
+        },
+        {
+            "name": "Mark 10:43",
+            "text": "But so shall it not be among you: but whosoever will be great among you, shall be your minister:"
+        },
+        {
+            "name": "Mark 10:44",
+            "text": "And whosoever of you will be the chiefest, shall be servant of all."
+        },
+        {
+            "name": "Mark 10:45",
+            "text": "For even the Son of man came not to be ministered unto, but to minister, and to give his life a ransom for many."
+        }
+    ],
+    "tone": "hopeful"
+}

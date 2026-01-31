@@ -1,0 +1,15 @@
+{
+    "book": "2 Kings",
+    "chapter": "Chapter 1",
+    "verses": [
+        {
+            "name": "2 Kings 1:15",
+            "text": "And the angel of the Lord said unto Elijah, Go down with him: be not afraid of him. And he arose, and went down with him unto the king."
+        },
+        {
+            "name": "2 Kings 1:16",
+            "text": "And he said unto him, Thus saith the Lord, Forasmuch as thou hast sent messengers to enquire of Baal\u2013zebub the god of Ekron, is it not because there is no God in Israel to enquire of his word? therefore thou shalt not come down off that bed on which thou art gone up, but shalt surely die."
+        }
+    ],
+    "tone": "neutral"
+}

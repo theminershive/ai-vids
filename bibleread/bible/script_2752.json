@@ -1,0 +1,19 @@
+{
+    "book": "2 Kings",
+    "chapter": "Chapter 4",
+    "verses": [
+        {
+            "name": "2 Kings 4:10",
+            "text": "Let us make a little chamber, I pray thee, on the wall; and let us set for him there a bed, and a table, and a stool, and a candlestick: and it shall be, when he cometh to us, that he shall turn in thither."
+        },
+        {
+            "name": "2 Kings 4:11",
+            "text": "And it fell on a day, that he came thither, and he turned into the chamber, and lay there."
+        },
+        {
+            "name": "2 Kings 4:12",
+            "text": "And he said to Gehazi his servant, Call this Shunammite. And when he had called her, she stood before him."
+        }
+    ],
+    "tone": "neutral"
+}

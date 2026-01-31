@@ -1,0 +1,23 @@
+{
+    "book": "Numbers",
+    "chapter": "Chapter 22",
+    "verses": [
+        {
+            "name": "Numbers 22:8",
+            "text": "And he said unto them, Lodge here this night, and I will bring you word again, as the Lord shall speak unto me: and the princes of Moab abode with Balaam."
+        },
+        {
+            "name": "Numbers 22:9",
+            "text": "And God came unto Balaam, and said, What men are these with thee?"
+        },
+        {
+            "name": "Numbers 22:10",
+            "text": "And Balaam said unto God, Balak the son of Zippor, king of Moab, hath sent unto me, saying,"
+        },
+        {
+            "name": "Numbers 22:11",
+            "text": "Behold, there is a people come out of Egypt, which covereth the face of the earth: come now, curse me them; peradventure I shall be able to overcome them, and drive them out."
+        }
+    ],
+    "tone": "neutral"
+}

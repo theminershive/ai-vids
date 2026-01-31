@@ -1,0 +1,23 @@
+{
+    "book": "Exodus",
+    "chapter": "Chapter 7",
+    "verses": [
+        {
+            "name": "Exodus 7:4",
+            "text": "But Pharaoh shall not hearken unto you, that I may lay my hand upon Egypt, and bring forth mine armies, and my people the children of Israel, out of the land of Egypt by great judgments."
+        },
+        {
+            "name": "Exodus 7:5",
+            "text": "And the Egyptians shall know that I am the Lord, when I stretch forth mine hand upon Egypt, and bring out the children of Israel from among them."
+        },
+        {
+            "name": "Exodus 7:6",
+            "text": "And Moses and Aaron did as the Lord commanded them, so did they."
+        },
+        {
+            "name": "Exodus 7:7",
+            "text": "And Moses was fourscore years old, and Aaron fourscore and three years old, when they spake unto Pharaoh."
+        }
+    ],
+    "tone": "neutral"
+}

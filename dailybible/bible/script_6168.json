@@ -1,0 +1,23 @@
+{
+    "book": "Matthew",
+    "chapter": "Chapter 2",
+    "verses": [
+        {
+            "name": "Matthew 2:1",
+            "text": "Now when Jesus was born in Bethlehem of Judea in the days of Herod the king, behold, there came wise men from the east to Jerusalem,"
+        },
+        {
+            "name": "Matthew 2:2",
+            "text": "Saying, Where is he that is born King of the Jews? for we have seen his star in the east, and are come to worship him."
+        },
+        {
+            "name": "Matthew 2:3",
+            "text": "When Herod the king had heard these things, he was troubled, and all Jerusalem with him."
+        },
+        {
+            "name": "Matthew 2:4",
+            "text": "And when he had gathered all the chief priests and scribes of the people together, he demanded of them where Christ should be born."
+        }
+    ],
+    "tone": "neutral"
+}

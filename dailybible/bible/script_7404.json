@@ -1,0 +1,23 @@
+{
+    "book": "Romans",
+    "chapter": "Chapter 14",
+    "verses": [
+        {
+            "name": "Romans 14:12",
+            "text": "So then every one of us shall give account of himself to God."
+        },
+        {
+            "name": "Romans 14:13",
+            "text": "Let us not therefore judge one another any more: but judge this rather, that no man put a stumblingblock or an occasion to fall in his brother\u2019s way."
+        },
+        {
+            "name": "Romans 14:14",
+            "text": "I know, and am persuaded by the Lord Jesus, that there is nothing unclean of itself: but to him that esteemeth any thing to be unclean, to him it is unclean."
+        },
+        {
+            "name": "Romans 14:15",
+            "text": "But if thy brother be grieved with thy meat, now walkest thou not charitably. Destroy not him with thy meat, for whom Christ died."
+        }
+    ],
+    "tone": "lamenting"
+}

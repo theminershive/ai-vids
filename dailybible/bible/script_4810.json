@@ -1,0 +1,19 @@
+{
+    "book": "Isaiah",
+    "chapter": "Chapter 53",
+    "verses": [
+        {
+            "name": "Isaiah 53:4",
+            "text": "Surely he hath borne our griefs, and carried our sorrows: yet we did esteem him stricken, smitten of God, and afflicted."
+        },
+        {
+            "name": "Isaiah 53:5",
+            "text": "But he was wounded for our transgressions, he was bruised for our iniquities: the chastisement of our peace was upon him; and with his stripes we are healed."
+        },
+        {
+            "name": "Isaiah 53:6",
+            "text": "All we like sheep have gone astray; we have turned every one to his own way; and the Lord hath laid on him the iniquity of us all."
+        }
+    ],
+    "tone": "hopeful"
+}

@@ -1,0 +1,31 @@
+{
+    "book": "Psalms",
+    "chapter": "Chapter 130",
+    "verses": [
+        {
+            "name": "Psalms 130:1",
+            "text": "Out of the depths have I cried unto thee, O Lord."
+        },
+        {
+            "name": "Psalms 130:2",
+            "text": "Lord, hear my voice: let thine ears be attentive to the voice of my supplications."
+        },
+        {
+            "name": "Psalms 130:3",
+            "text": "If thou, Lord, shouldest mark iniquities, O Lord, who shall stand?"
+        },
+        {
+            "name": "Psalms 130:4",
+            "text": "But there is forgiveness with thee, that thou mayest be feared."
+        },
+        {
+            "name": "Psalms 130:5",
+            "text": "I wait for the Lord, my soul doth wait, and in his word do I hope."
+        },
+        {
+            "name": "Psalms 130:6",
+            "text": "My soul waiteth for the Lord more than they that watch for the morning: I say, more than they that watch for the morning."
+        }
+    ],
+    "tone": "neutral"
+}

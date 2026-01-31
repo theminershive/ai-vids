@@ -1,0 +1,23 @@
+{
+    "book": "John",
+    "chapter": "Chapter 8",
+    "verses": [
+        {
+            "name": "John 8:16",
+            "text": "And yet if I judge, my judgment is true: for I am not alone, but I and the Father that sent me."
+        },
+        {
+            "name": "John 8:17",
+            "text": "It is also written in your law, that the testimony of two men is true."
+        },
+        {
+            "name": "John 8:18",
+            "text": "I am one that bear witness of myself, and the Father that sent me beareth witness of me."
+        },
+        {
+            "name": "John 8:19",
+            "text": "Then said they unto him, Where is thy Father? Jesus answered, Ye neither know me, nor my Father: if ye had known me, ye should have known my Father also."
+        }
+    ],
+    "tone": "lamenting"
+}

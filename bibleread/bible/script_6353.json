@@ -1,0 +1,23 @@
+{
+    "book": "Matthew",
+    "chapter": "Chapter 23",
+    "verses": [
+        {
+            "name": "Matthew 23:26",
+            "text": "Thou blind Pharisee, cleanse first that which is within the cup and platter, that the outside of them may be clean also."
+        },
+        {
+            "name": "Matthew 23:27",
+            "text": "Woe unto you, scribes and Pharisees, hypocrites! for ye are like unto whited sepulchres, which indeed appear beautiful outward, but are within full of dead men\u2019s bones, and of all uncleanness."
+        },
+        {
+            "name": "Matthew 23:28",
+            "text": "Even so ye also outwardly appear righteous unto men, but within ye are full of hypocrisy and iniquity."
+        },
+        {
+            "name": "Matthew 23:29",
+            "text": "Woe unto you, scribes and Pharisees, hypocrites! because ye build the tombs of the prophets, and garnish the sepulchres of the righteous,"
+        }
+    ],
+    "tone": "lamenting"
+}

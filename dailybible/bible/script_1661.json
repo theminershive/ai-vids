@@ -1,0 +1,15 @@
+{
+    "book": "Joshua",
+    "chapter": "Chapter 5",
+    "verses": [
+        {
+            "name": "Joshua 5:6",
+            "text": "For the children of Israel walked forty years in the wilderness, till all the people that were men of war, which came out of Egypt, were consumed, because they obeyed not the voice of the Lord: unto whom the Lord sware that he would not shew them the land, which the Lord sware unto their fathers that he would give us, a land that floweth with milk and honey."
+        },
+        {
+            "name": "Joshua 5:7",
+            "text": "And their children, whom he raised up in their stead, them Joshua circumcised: for they were uncircumcised, because they had not circumcised them by the way."
+        }
+    ],
+    "tone": "neutral"
+}

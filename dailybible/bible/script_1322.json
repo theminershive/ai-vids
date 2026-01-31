@@ -1,0 +1,23 @@
+{
+    "book": "Numbers",
+    "chapter": "Chapter 35",
+    "verses": [
+        {
+            "name": "Numbers 35:11",
+            "text": "Then ye shall appoint you cities to be cities of refuge for you; that the slayer may flee thither, which killeth any person at unawares."
+        },
+        {
+            "name": "Numbers 35:12",
+            "text": "And they shall be unto you cities for refuge from the avenger; that the manslayer die not, until he stand before the congregation in judgment."
+        },
+        {
+            "name": "Numbers 35:13",
+            "text": "And of these cities which ye shall give six cities shall ye have for refuge."
+        },
+        {
+            "name": "Numbers 35:14",
+            "text": "Ye shall give three cities on this side Jordan, and three cities shall ye give in the land of Canaan, which shall be cities of refuge."
+        }
+    ],
+    "tone": "neutral"
+}

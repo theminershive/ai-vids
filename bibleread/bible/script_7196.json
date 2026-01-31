@@ -1,0 +1,23 @@
+{
+    "book": "Acts",
+    "chapter": "Chapter 15",
+    "verses": [
+        {
+            "name": "Acts 15:14",
+            "text": "Simeon hath declared how God at the first did visit the Gentiles, to take out of them a people for his name."
+        },
+        {
+            "name": "Acts 15:15",
+            "text": "And to this agree the words of the prophets; as it is written,"
+        },
+        {
+            "name": "Acts 15:16",
+            "text": "After this I will return, and will build again the tabernacle of David, which is fallen down; and I will build again the ruins thereof, and I will set it up:"
+        },
+        {
+            "name": "Acts 15:17",
+            "text": "That the residue of men might seek after the Lord, and all the Gentiles, upon whom my name is called, saith the Lord, who doeth all these things."
+        }
+    ],
+    "tone": "neutral"
+}

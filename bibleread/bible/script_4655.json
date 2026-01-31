@@ -1,0 +1,19 @@
+{
+    "book": "Isaiah",
+    "chapter": "Chapter 29",
+    "verses": [
+        {
+            "name": "Isaiah 29:10",
+            "text": "For the Lord hath poured out upon you the spirit of deep sleep, and hath closed your eyes: the prophets and your rulers, the seers hath he covered."
+        },
+        {
+            "name": "Isaiah 29:11",
+            "text": "And the vision of all is become unto you as the words of a book that is sealed, which men deliver to one that is learned, saying, Read this, I pray thee: and he saith, I cannot; for it is sealed:"
+        },
+        {
+            "name": "Isaiah 29:12",
+            "text": "And the book is delivered to him that is not learned, saying, Read this, I pray thee: and he saith, I am not learned."
+        }
+    ],
+    "tone": "hopeful"
+}

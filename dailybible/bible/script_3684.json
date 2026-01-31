@@ -1,0 +1,27 @@
+{
+    "book": "Job",
+    "chapter": "Chapter 9",
+    "verses": [
+        {
+            "name": "Job 9:19",
+            "text": "If I speak of strength, lo, he is strong: and if of judgment, who shall set me a time to plead?"
+        },
+        {
+            "name": "Job 9:20",
+            "text": "If I justify myself, mine own mouth shall condemn me: if I say, I am perfect, it shall also prove me perverse."
+        },
+        {
+            "name": "Job 9:21",
+            "text": "Though I were perfect, yet would I not know my soul: I would despise my life."
+        },
+        {
+            "name": "Job 9:22",
+            "text": "This is one thing, therefore I said it, He destroyeth the perfect and the wicked."
+        },
+        {
+            "name": "Job 9:23",
+            "text": "If the scourge slay suddenly, he will laugh at the trial of the innocent."
+        }
+    ],
+    "tone": "neutral"
+}

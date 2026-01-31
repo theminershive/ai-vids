@@ -1,0 +1,19 @@
+{
+    "book": "Acts",
+    "chapter": "Chapter 22",
+    "verses": [
+        {
+            "name": "Acts 22:4",
+            "text": "And I persecuted this way unto the death, binding and delivering into prisons both men and women."
+        },
+        {
+            "name": "Acts 22:5",
+            "text": "As also the high priest doth bear me witness, and all the estate of the elders: from whom also I received letters unto the brethren, and went to Damascus, to bring them which were there bound unto Jerusalem, for to be punished."
+        },
+        {
+            "name": "Acts 22:6",
+            "text": "And it came to pass, that, as I made my journey, and was come nigh unto Damascus about noon, suddenly there shone from heaven a great light round about me."
+        }
+    ],
+    "tone": "neutral"
+}

@@ -1,0 +1,19 @@
+{
+    "book": "Leviticus",
+    "chapter": "Chapter 16",
+    "verses": [
+        {
+            "name": "Leviticus 16:1",
+            "text": "And the Lord spake unto Moses after the death of the two sons of Aaron, when they offered before the Lord, and died;"
+        },
+        {
+            "name": "Leviticus 16:2",
+            "text": "And the Lord said unto Moses, Speak unto Aaron thy brother, that he come not at all times into the holy place within the vail before the mercy seat, which is upon the ark; that he die not: for I will appear in the cloud upon the mercy seat."
+        },
+        {
+            "name": "Leviticus 16:3",
+            "text": "Thus shall Aaron come into the holy place: with a young bullock for a sin offering, and a ram for a burnt offering."
+        }
+    ],
+    "tone": "instructional"
+}

@@ -1,0 +1,27 @@
+{
+    "book": "Luke",
+    "chapter": "Chapter 4",
+    "verses": [
+        {
+            "name": "Luke 4:29",
+            "text": "And rose up, and thrust him out of the city, and led him unto the brow of the hill whereon their city was built, that they might cast him down headlong."
+        },
+        {
+            "name": "Luke 4:30",
+            "text": "But he passing through the midst of them went his way,"
+        },
+        {
+            "name": "Luke 4:31",
+            "text": "And came down to Capernaum, a city of Galilee, and taught them on the sabbath days."
+        },
+        {
+            "name": "Luke 4:32",
+            "text": "And they were astonished at his doctrine: for his word was with power."
+        },
+        {
+            "name": "Luke 4:33",
+            "text": "And in the synagogue there was a man, which had a spirit of an unclean devil, and cried out with a loud voice,"
+        }
+    ],
+    "tone": "neutral"
+}

@@ -1,0 +1,27 @@
+{
+    "book": "Psalms",
+    "chapter": "Chapter 46",
+    "verses": [
+        {
+            "name": "Psalms 46:1",
+            "text": "God is our refuge and strength, a very present help in trouble."
+        },
+        {
+            "name": "Psalms 46:2",
+            "text": "Therefore will not we fear, though the earth be removed, and though the mountains be carried into the midst of the sea;"
+        },
+        {
+            "name": "Psalms 46:3",
+            "text": "Though the waters thereof roar and be troubled, though the mountains shake with the swelling thereof. Selah."
+        },
+        {
+            "name": "Psalms 46:4",
+            "text": "There is a river, the streams whereof shall make glad the city of God, the holy place of the tabernacles of the most High."
+        },
+        {
+            "name": "Psalms 46:5",
+            "text": "God is in the midst of her; she shall not be moved: God shall help her, and that right early."
+        }
+    ],
+    "tone": "neutral"
+}

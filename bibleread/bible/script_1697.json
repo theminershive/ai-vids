@@ -1,0 +1,19 @@
+{
+    "book": "Joshua",
+    "chapter": "Chapter 9",
+    "verses": [
+        {
+            "name": "Joshua 9:12",
+            "text": "This our bread we took hot for our provision out of our houses on the day we came forth to go unto you; but now, behold, it is dry, and it is mouldy:"
+        },
+        {
+            "name": "Joshua 9:13",
+            "text": "And these bottles of wine, which we filled, were new; and, behold, they be rent: and these our garments and our shoes are become old by reason of the very long journey."
+        },
+        {
+            "name": "Joshua 9:14",
+            "text": "And the men took of their victuals, and asked not counsel at the mouth of the Lord."
+        }
+    ],
+    "tone": "neutral"
+}

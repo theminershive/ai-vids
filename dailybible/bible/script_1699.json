@@ -1,0 +1,19 @@
+{
+    "book": "Joshua",
+    "chapter": "Chapter 9",
+    "verses": [
+        {
+            "name": "Joshua 9:18",
+            "text": "And the children of Israel smote them not, because the princes of the congregation had sworn unto them by the Lord God of Israel. And all the congregation murmured against the princes."
+        },
+        {
+            "name": "Joshua 9:19",
+            "text": "But all the princes said unto all the congregation, We have sworn unto them by the Lord God of Israel: now therefore we may not touch them."
+        },
+        {
+            "name": "Joshua 9:20",
+            "text": "This we will do to them; we will even let them live, lest wrath be upon us, because of the oath which we sware unto them."
+        }
+    ],
+    "tone": "lamenting"
+}

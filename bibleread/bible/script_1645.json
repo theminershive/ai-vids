@@ -1,0 +1,19 @@
+{
+    "book": "Joshua",
+    "chapter": "Chapter 2",
+    "verses": [
+        {
+            "name": "Joshua 2:20",
+            "text": "And if thou utter this our business, then we will be quit of thine oath which thou hast made us to swear."
+        },
+        {
+            "name": "Joshua 2:21",
+            "text": "And she said, According unto your words, so be it. And she sent them away, and they departed: and she bound the scarlet line in the window."
+        },
+        {
+            "name": "Joshua 2:22",
+            "text": "And they went, and came unto the mountain, and abode there three days, until the pursuers were returned: and the pursuers sought them throughout all the way, but found them not."
+        }
+    ],
+    "tone": "neutral"
+}

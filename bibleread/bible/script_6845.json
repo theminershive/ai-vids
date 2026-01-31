@@ -1,0 +1,23 @@
+{
+    "book": "Luke",
+    "chapter": "Chapter 23",
+    "verses": [
+        {
+            "name": "Luke 23:47",
+            "text": "Now when the centurion saw what was done, he glorified God, saying, Certainly this was a righteous man."
+        },
+        {
+            "name": "Luke 23:48",
+            "text": "And all the people that came together to that sight, beholding the things which were done, smote their breasts, and returned."
+        },
+        {
+            "name": "Luke 23:49",
+            "text": "And all his acquaintance, and the women that followed him from Galilee, stood afar off, beholding these things."
+        },
+        {
+            "name": "Luke 23:50",
+            "text": "And, behold, there was a man named Joseph, a counsellor; and he was a good man, and a just:"
+        }
+    ],
+    "tone": "neutral"
+}

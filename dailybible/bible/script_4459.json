@@ -1,0 +1,23 @@
+{
+    "book": "Ecclesiastes",
+    "chapter": "Chapter 9",
+    "verses": [
+        {
+            "name": "Ecclesiastes 9:5",
+            "text": "For the living know that they shall die: but the dead know not any thing, neither have they any more a reward; for the memory of them is forgotten."
+        },
+        {
+            "name": "Ecclesiastes 9:6",
+            "text": "Also their love, and their hatred, and their envy, is now perished; neither have they any more a portion for ever in any thing that is done under the sun."
+        },
+        {
+            "name": "Ecclesiastes 9:7",
+            "text": "Go thy way, eat thy bread with joy, and drink thy wine with a merry heart; for God now accepteth thy works."
+        },
+        {
+            "name": "Ecclesiastes 9:8",
+            "text": "Let thy garments be always white; and let thy head lack no ointment."
+        }
+    ],
+    "tone": "hopeful"
+}

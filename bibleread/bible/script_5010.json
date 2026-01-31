@@ -1,0 +1,19 @@
+{
+    "book": "Jeremiah",
+    "chapter": "Chapter 17",
+    "verses": [
+        {
+            "name": "Jeremiah 17:7",
+            "text": "Blessed is the man that trusteth in the Lord, and whose hope the Lord is."
+        },
+        {
+            "name": "Jeremiah 17:8",
+            "text": "For he shall be as a tree planted by the waters, and that spreadeth out her roots by the river, and shall not see when heat cometh, but her leaf shall be green; and shall not be careful in the year of drought, neither shall cease from yielding fruit."
+        },
+        {
+            "name": "Jeremiah 17:9",
+            "text": "The heart is deceitful above all things, and desperately wicked: who can know it?"
+        }
+    ],
+    "tone": "hopeful"
+}

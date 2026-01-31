@@ -1,0 +1,19 @@
+{
+    "book": "Romans",
+    "chapter": "Chapter 13",
+    "verses": [
+        {
+            "name": "Romans 13:7",
+            "text": "Render therefore to all their dues: tribute to whom tribute is due; custom to whom custom; fear to whom fear; honour to whom honour."
+        },
+        {
+            "name": "Romans 13:8",
+            "text": "Owe no man any thing, but to love one another: for he that loveth another hath fulfilled the law."
+        },
+        {
+            "name": "Romans 13:9",
+            "text": "For this, Thou shalt not commit adultery, Thou shalt not kill, Thou shalt not steal, Thou shalt not bear false witness, Thou shalt not covet; and if there be any other commandment, it is briefly comprehended in this saying, namely, Thou shalt love thy neighbour as thyself."
+        }
+    ],
+    "tone": "hopeful"
+}

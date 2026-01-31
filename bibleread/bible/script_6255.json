@@ -1,0 +1,23 @@
+{
+    "book": "Matthew",
+    "chapter": "Chapter 12",
+    "verses": [
+        {
+            "name": "Matthew 12:45",
+            "text": "Then goeth he, and taketh with himself seven other spirits more wicked than himself, and they enter in and dwell there: and the last state of that man is worse than the first. Even so shall it be also unto this wicked generation."
+        },
+        {
+            "name": "Matthew 12:46",
+            "text": "While he yet talked to the people, behold, his mother and his brethren stood without, desiring to speak with him."
+        },
+        {
+            "name": "Matthew 12:47",
+            "text": "Then one said unto him, Behold, thy mother and thy brethren stand without, desiring to speak with thee."
+        },
+        {
+            "name": "Matthew 12:48",
+            "text": "But he answered and said unto him that told him, Who is my mother? and who are my brethren?"
+        }
+    ],
+    "tone": "neutral"
+}

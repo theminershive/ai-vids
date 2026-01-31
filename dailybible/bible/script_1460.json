@@ -1,0 +1,19 @@
+{
+    "book": "Deuteronomy",
+    "chapter": "Chapter 15",
+    "verses": [
+        {
+            "name": "Deuteronomy 15:1",
+            "text": "At the end of every seven years thou shalt make a release."
+        },
+        {
+            "name": "Deuteronomy 15:2",
+            "text": "And this is the manner of the release: Every creditor that lendeth ought unto his neighbour shall release it; he shall not exact it of his neighbour, or of his brother; because it is called the Lord\u2019s release."
+        },
+        {
+            "name": "Deuteronomy 15:3",
+            "text": "Of a foreigner thou mayest exact it again: but that which is thine with thy brother thine hand shall release;"
+        }
+    ],
+    "tone": "hopeful"
+}

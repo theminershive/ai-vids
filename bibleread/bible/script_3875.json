@@ -1,0 +1,27 @@
+{
+    "book": "Psalms",
+    "chapter": "Chapter 19",
+    "verses": [
+        {
+            "name": "Psalms 19:1",
+            "text": "The heavens declare the glory of God; and the firmament sheweth his handywork."
+        },
+        {
+            "name": "Psalms 19:2",
+            "text": "Day unto day uttereth speech, and night unto night sheweth knowledge."
+        },
+        {
+            "name": "Psalms 19:3",
+            "text": "There is no speech nor language, where their voice is not heard."
+        },
+        {
+            "name": "Psalms 19:4",
+            "text": "Their line is gone out through all the earth, and their words to the end of the world. In them hath he set a tabernacle for the sun,"
+        },
+        {
+            "name": "Psalms 19:5",
+            "text": "Which is as a bridegroom coming out of his chamber, and rejoiceth as a strong man to run a race."
+        }
+    ],
+    "tone": "neutral"
+}

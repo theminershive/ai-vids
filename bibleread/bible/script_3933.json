@@ -1,0 +1,31 @@
+{
+    "book": "Psalms",
+    "chapter": "Chapter 37",
+    "verses": [
+        {
+            "name": "Psalms 37:28",
+            "text": "For the Lord loveth judgment, and forsaketh not his saints; they are preserved for ever: but the seed of the wicked shall be cut off."
+        },
+        {
+            "name": "Psalms 37:29",
+            "text": "The righteous shall inherit the land, and dwell therein for ever."
+        },
+        {
+            "name": "Psalms 37:30",
+            "text": "The mouth of the righteous speaketh wisdom, and his tongue talketh of judgment."
+        },
+        {
+            "name": "Psalms 37:31",
+            "text": "The law of his God is in his heart; none of his steps shall slide."
+        },
+        {
+            "name": "Psalms 37:32",
+            "text": "The wicked watcheth the righteous, and seeketh to slay him."
+        },
+        {
+            "name": "Psalms 37:33",
+            "text": "The Lord will not leave him in his hand, nor condemn him when he is judged."
+        }
+    ],
+    "tone": "instructional"
+}

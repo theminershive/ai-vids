@@ -1,0 +1,19 @@
+{
+    "book": "Revelation",
+    "chapter": "Chapter 1",
+    "verses": [
+        {
+            "name": "Revelation 1:4",
+            "text": "John to the seven churches which are in Asia: Grace be unto you, and peace, from him which is, and which was, and which is to come; and from the seven Spirits which are before his throne;"
+        },
+        {
+            "name": "Revelation 1:5",
+            "text": "And from Jesus Christ, who is the faithful witness, and the first begotten of the dead, and the prince of the kings of the earth. Unto him that loved us, and washed us from our sins in his own blood,"
+        },
+        {
+            "name": "Revelation 1:6",
+            "text": "And hath made us kings and priests unto God and his Father; to him be glory and dominion for ever and ever. Amen."
+        }
+    ],
+    "tone": "hopeful"
+}

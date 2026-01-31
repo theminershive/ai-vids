@@ -1,0 +1,23 @@
+{
+    "book": "Romans",
+    "chapter": "Chapter 11",
+    "verses": [
+        {
+            "name": "Romans 11:7",
+            "text": "What then? Israel hath not obtained that which he seeketh for; but the election hath obtained it, and the rest were blinded"
+        },
+        {
+            "name": "Romans 11:8",
+            "text": "(According as it is written, God hath given them the spirit of slumber, eyes that they should not see, and ears that they should not hear;) unto this day."
+        },
+        {
+            "name": "Romans 11:9",
+            "text": "And David saith, Let their table be made a snare, and a trap, and a stumblingblock, and a recompence unto them:"
+        },
+        {
+            "name": "Romans 11:10",
+            "text": "Let their eyes be darkened, that they may not see, and bow down their back alway."
+        }
+    ],
+    "tone": "neutral"
+}

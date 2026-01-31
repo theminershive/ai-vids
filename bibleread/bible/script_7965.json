@@ -1,0 +1,19 @@
+{
+    "book": "Revelation",
+    "chapter": "Chapter 2",
+    "verses": [
+        {
+            "name": "Revelation 2:18",
+            "text": "And unto the angel of the church in Thyatira write; These things saith the Son of God, who hath his eyes like unto a flame of fire, and his feet are like fine brass;"
+        },
+        {
+            "name": "Revelation 2:19",
+            "text": "I know thy works, and charity, and service, and faith, and thy patience, and thy works; and the last to be more than the first."
+        },
+        {
+            "name": "Revelation 2:20",
+            "text": "Notwithstanding I have a few things against thee, because thou sufferest that woman Jezebel, which calleth herself a prophetess, to teach and to seduce my servants to commit fornication, and to eat things sacrificed unto idols."
+        }
+    ],
+    "tone": "instructional"
+}

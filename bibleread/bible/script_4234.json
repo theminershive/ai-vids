@@ -1,0 +1,31 @@
+{
+    "book": "Psalms",
+    "chapter": "Chapter 139",
+    "verses": [
+        {
+            "name": "Psalms 139:17",
+            "text": "How precious also are thy thoughts unto me, O God! how great is the sum of them!"
+        },
+        {
+            "name": "Psalms 139:18",
+            "text": "If I should count them, they are more in number than the sand: when I awake, I am still with thee."
+        },
+        {
+            "name": "Psalms 139:19",
+            "text": "Surely thou wilt slay the wicked, O God: depart from me therefore, ye bloody men."
+        },
+        {
+            "name": "Psalms 139:20",
+            "text": "For they speak against thee wickedly, and thine enemies take thy name in vain."
+        },
+        {
+            "name": "Psalms 139:21",
+            "text": "Do not I hate them, O Lord, that hate thee? and am not I grieved with those that rise up against thee?"
+        },
+        {
+            "name": "Psalms 139:22",
+            "text": "I hate them with perfect hatred: I count them mine enemies."
+        }
+    ],
+    "tone": "hopeful"
+}

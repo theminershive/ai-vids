@@ -1,0 +1,23 @@
+{
+    "book": "Romans",
+    "chapter": "Chapter 9",
+    "verses": [
+        {
+            "name": "Romans 9:19",
+            "text": "Thou wilt say then unto me, Why doth he yet find fault? For who hath resisted his will?"
+        },
+        {
+            "name": "Romans 9:20",
+            "text": "Nay but, O man, who art thou that repliest against God? Shall the thing formed say to him that formed it, Why hast thou made me thus?"
+        },
+        {
+            "name": "Romans 9:21",
+            "text": "Hath not the potter power over the clay, of the same lump to make one vessel unto honour, and another unto dishonour?"
+        },
+        {
+            "name": "Romans 9:22",
+            "text": "What if God, willing to shew his wrath, and to make his power known, endured with much longsuffering the vessels of wrath fitted to destruction:"
+        }
+    ],
+    "tone": "lamenting"
+}

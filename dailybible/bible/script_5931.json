@@ -1,0 +1,19 @@
+{
+    "book": "Joel",
+    "chapter": "Chapter 3",
+    "verses": [
+        {
+            "name": "Joel 3:14",
+            "text": "Multitudes, multitudes in the valley of decision: for the day of the Lord is near in the valley of decision."
+        },
+        {
+            "name": "Joel 3:15",
+            "text": "The sun and the moon shall be darkened, and the stars shall withdraw their shining."
+        },
+        {
+            "name": "Joel 3:16",
+            "text": "The Lord also shall roar out of Zion, and utter his voice from Jerusalem; and the heavens and the earth shall shake: but the Lord will be the hope of his people, and the strength of the children of Israel."
+        }
+    ],
+    "tone": "hopeful"
+}

@@ -1,0 +1,23 @@
+{
+    "book": "Acts",
+    "chapter": "Chapter 18",
+    "verses": [
+        {
+            "name": "Acts 18:20",
+            "text": "When they desired him to tarry longer time with them, he consented not;"
+        },
+        {
+            "name": "Acts 18:21",
+            "text": "But bade them farewell, saying, I must by all means keep this feast that cometh in Jerusalem: but I will return again unto you, if God will. And he sailed from Ephesus."
+        },
+        {
+            "name": "Acts 18:22",
+            "text": "And when he had landed at Cesarea, and gone up, and saluted the church, he went down to Antioch."
+        },
+        {
+            "name": "Acts 18:23",
+            "text": "And after he had spent some time there, he departed, and went over all the country of Galatia and Phrygia in order, strengthening all the disciples."
+        }
+    ],
+    "tone": "neutral"
+}

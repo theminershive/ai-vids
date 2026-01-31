@@ -1,0 +1,23 @@
+{
+    "book": "Joel",
+    "chapter": "Chapter 1",
+    "verses": [
+        {
+            "name": "Joel 1:14",
+            "text": "Sanctify ye a fast, call a solemn assembly, gather the elders and all the inhabitants of the land into the house of the Lord your God, and cry unto the Lord,"
+        },
+        {
+            "name": "Joel 1:15",
+            "text": "Alas for the day! for the day of the Lord is at hand, and as a destruction from the Almighty shall it come."
+        },
+        {
+            "name": "Joel 1:16",
+            "text": "Is not the meat cut off before our eyes, yea, joy and gladness from the house of our God?"
+        },
+        {
+            "name": "Joel 1:17",
+            "text": "The seed is rotten under their clods, the garners are laid desolate, the barns are broken down; for the corn is withered."
+        }
+    ],
+    "tone": "neutral"
+}

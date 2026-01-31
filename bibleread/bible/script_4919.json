@@ -1,0 +1,19 @@
+{
+    "book": "Jeremiah",
+    "chapter": "Chapter 5",
+    "verses": [
+        {
+            "name": "Jeremiah 5:1",
+            "text": "Run ye to and fro through the streets of Jerusalem, and see now, and know, and seek in the broad places thereof, if ye can find a man, if there be any that executeth judgment, that seeketh the truth; and I will pardon it."
+        },
+        {
+            "name": "Jeremiah 5:2",
+            "text": "And though they say, The Lord liveth; surely they swear falsely."
+        },
+        {
+            "name": "Jeremiah 5:3",
+            "text": "O Lord, are not thine eyes upon the truth? thou hast stricken them, but they have not grieved; thou hast consumed them, but they have refused to receive correction: they have made their faces harder than a rock; they have refused to return."
+        }
+    ],
+    "tone": "neutral"
+}

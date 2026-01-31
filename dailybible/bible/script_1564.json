@@ -1,0 +1,23 @@
+{
+    "book": "Deuteronomy",
+    "chapter": "Chapter 28",
+    "verses": [
+        {
+            "name": "Deuteronomy 28:36",
+            "text": "The Lord shall bring thee, and thy king which thou shalt set over thee, unto a nation which neither thou nor thy fathers have known; and there shalt thou serve other gods, wood and stone."
+        },
+        {
+            "name": "Deuteronomy 28:37",
+            "text": "And thou shalt become an astonishment, a proverb, and a byword, among all nations whither the Lord shall lead thee."
+        },
+        {
+            "name": "Deuteronomy 28:38",
+            "text": "Thou shalt carry much seed out into the field, and shalt gather but little in; for the locust shall consume it."
+        },
+        {
+            "name": "Deuteronomy 28:39",
+            "text": "Thou shalt plant vineyards, and dress them, but shalt neither drink of the wine, nor gather the grapes; for the worms shall eat them."
+        }
+    ],
+    "tone": "neutral"
+}

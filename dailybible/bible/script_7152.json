@@ -1,0 +1,19 @@
+{
+    "book": "Acts",
+    "chapter": "Chapter 10",
+    "verses": [
+        {
+            "name": "Acts 10:30",
+            "text": "And Cornelius said, Four days ago I was fasting until this hour; and at the ninth hour I prayed in my house, and, behold, a man stood before me in bright clothing,"
+        },
+        {
+            "name": "Acts 10:31",
+            "text": "And said, Cornelius, thy prayer is heard, and thine alms are had in remembrance in the sight of God."
+        },
+        {
+            "name": "Acts 10:32",
+            "text": "Send therefore to Joppa, and call hither Simon, whose surname is Peter; he is lodged in the house of one Simon a tanner by the sea side: who, when he cometh, shall speak unto thee."
+        }
+    ],
+    "tone": "hopeful"
+}

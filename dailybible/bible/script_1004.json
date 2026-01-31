@@ -1,0 +1,15 @@
+{
+    "book": "Numbers",
+    "chapter": "Chapter 1",
+    "verses": [
+        {
+            "name": "Numbers 1:50",
+            "text": "But thou shalt appoint the Levites over the tabernacle of testimony, and over all the vessels thereof, and over all things that belong to it: they shall bear the tabernacle, and all the vessels thereof; and they shall minister unto it, and shall encamp round about the tabernacle."
+        },
+        {
+            "name": "Numbers 1:51",
+            "text": "And when the tabernacle setteth forward, the Levites shall take it down: and when the tabernacle is to be pitched, the Levites shall set it up: and the stranger that cometh nigh shall be put to death."
+        }
+    ],
+    "tone": "lamenting"
+}

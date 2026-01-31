@@ -1,0 +1,19 @@
+{
+    "book": "Numbers",
+    "chapter": "Chapter 3",
+    "verses": [
+        {
+            "name": "Numbers 3:24",
+            "text": "And the chief of the house of the father of the Gershonites shall be Eliasaph the son of Lael."
+        },
+        {
+            "name": "Numbers 3:25",
+            "text": "And the charge of the sons of Gershon in the tabernacle of the congregation shall be the tabernacle, and the tent, the covering thereof, and the hanging for the door of the tabernacle of the congregation,"
+        },
+        {
+            "name": "Numbers 3:26",
+            "text": "And the hangings of the court, and the curtain for the door of the court, which is by the tabernacle, and by the altar round about, and the cords of it for all the service thereof."
+        }
+    ],
+    "tone": "neutral"
+}

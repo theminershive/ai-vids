@@ -1,0 +1,19 @@
+{
+    "book": "Joshua",
+    "chapter": "Chapter 11",
+    "verses": [
+        {
+            "name": "Joshua 11:8",
+            "text": "And the Lord delivered them into the hand of Israel, who smote them, and chased them unto great Zidon, and unto Misrephoth\u2013maim, and unto the valley of Mizpeh eastward; and they smote them, until they left them none remaining."
+        },
+        {
+            "name": "Joshua 11:9",
+            "text": "And Joshua did unto them as the Lord bade him: he houghed their horses, and burnt their chariots with fire."
+        },
+        {
+            "name": "Joshua 11:10",
+            "text": "And Joshua at that time turned back, and took Hazor, and smote the king thereof with the sword: for Hazor beforetime was the head of all those kingdoms."
+        }
+    ],
+    "tone": "neutral"
+}

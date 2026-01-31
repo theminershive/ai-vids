@@ -1,0 +1,23 @@
+{
+    "book": "Matthew",
+    "chapter": "Chapter 17",
+    "verses": [
+        {
+            "name": "Matthew 17:18",
+            "text": "And Jesus rebuked the devil; and he departed out of him: and the child was cured from that very hour."
+        },
+        {
+            "name": "Matthew 17:19",
+            "text": "Then came the disciples to Jesus apart, and said, Why could not we cast him out?"
+        },
+        {
+            "name": "Matthew 17:20",
+            "text": "And Jesus said unto them, Because of your unbelief: for verily I say unto you, If ye have faith as a grain of mustard seed, ye shall say unto this mountain, Remove hence to yonder place; and it shall remove; and nothing shall be impossible unto you."
+        },
+        {
+            "name": "Matthew 17:21",
+            "text": "Howbeit this kind goeth not out but by prayer and fasting."
+        }
+    ],
+    "tone": "hopeful"
+}

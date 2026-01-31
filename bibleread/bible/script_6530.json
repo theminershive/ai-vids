@@ -1,0 +1,27 @@
+{
+    "book": "Mark",
+    "chapter": "Chapter 12",
+    "verses": [
+        {
+            "name": "Mark 12:20",
+            "text": "Now there were seven brethren: and the first took a wife, and dying left no seed."
+        },
+        {
+            "name": "Mark 12:21",
+            "text": "And the second took her, and died, neither left he any seed: and the third likewise."
+        },
+        {
+            "name": "Mark 12:22",
+            "text": "And the seven had her, and left no seed: last of all the woman died also."
+        },
+        {
+            "name": "Mark 12:23",
+            "text": "In the resurrection therefore, when they shall rise, whose wife shall she be of them? for the seven had her to wife."
+        },
+        {
+            "name": "Mark 12:24",
+            "text": "And Jesus answering said unto them, Do ye not therefore err, because ye know not the scriptures, neither the power of God?"
+        }
+    ],
+    "tone": "neutral"
+}

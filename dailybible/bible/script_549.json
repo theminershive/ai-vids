@@ -1,0 +1,19 @@
+{
+    "book": "Exodus",
+    "chapter": "Chapter 19",
+    "verses": [
+        {
+            "name": "Exodus 19:4",
+            "text": "Ye have seen what I did unto the Egyptians, and how I bare you on eagles\u2019 wings, and brought you unto myself."
+        },
+        {
+            "name": "Exodus 19:5",
+            "text": "Now therefore, if ye will obey my voice indeed, and keep my covenant, then ye shall be a peculiar treasure unto me above all people: for all the earth is mine:"
+        },
+        {
+            "name": "Exodus 19:6",
+            "text": "And ye shall be unto me a kingdom of priests, and an holy nation. These are the words which thou shalt speak unto the children of Israel."
+        }
+    ],
+    "tone": "instructional"
+}

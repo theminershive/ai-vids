@@ -1,0 +1,23 @@
+{
+    "book": "Psalms",
+    "chapter": "Chapter 142",
+    "verses": [
+        {
+            "name": "Psalms 142:1",
+            "text": "I cried unto the Lord with my voice; with my voice unto the Lord did I make my supplication."
+        },
+        {
+            "name": "Psalms 142:2",
+            "text": "I poured out my complaint before him; I shewed before him my trouble."
+        },
+        {
+            "name": "Psalms 142:3",
+            "text": "When my spirit was overwhelmed within me, then thou knewest my path. In the way wherein I walked have they privily laid a snare for me."
+        },
+        {
+            "name": "Psalms 142:4",
+            "text": "I looked on my right hand, and beheld, but there was no man that would know me: refuge failed me; no man cared for my soul."
+        }
+    ],
+    "tone": "lamenting"
+}

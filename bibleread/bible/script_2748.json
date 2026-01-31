@@ -1,0 +1,19 @@
+{
+    "book": "2 Kings",
+    "chapter": "Chapter 3",
+    "verses": [
+        {
+            "name": "2 Kings 3:22",
+            "text": "And they rose up early in the morning, and the sun shone upon the water, and the Moabites saw the water on the other side as red as blood:"
+        },
+        {
+            "name": "2 Kings 3:23",
+            "text": "And they said, This is blood: the kings are surely slain, and they have smitten one another: now therefore, Moab, to the spoil."
+        },
+        {
+            "name": "2 Kings 3:24",
+            "text": "And when they came to the camp of Israel, the Israelites rose up and smote the Moabites, so that they fled before them: but they went forward smiting the Moabites, even in their country."
+        }
+    ],
+    "tone": "neutral"
+}

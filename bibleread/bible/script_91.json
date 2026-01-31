@@ -1,0 +1,19 @@
+{
+    "book": "Genesis",
+    "chapter": "Chapter 15",
+    "verses": [
+        {
+            "name": "Genesis 15:1",
+            "text": "After these things the word of the Lord came unto Abram in a vision, saying, Fear not, Abram: I am thy shield, and thy exceeding great reward."
+        },
+        {
+            "name": "Genesis 15:2",
+            "text": "And Abram said, Lord God, what wilt thou give me, seeing I go childless, and the steward of my house is this Eliezer of Damascus?"
+        },
+        {
+            "name": "Genesis 15:3",
+            "text": "And Abram said, Behold, to me thou hast given no seed: and, lo, one born in my house is mine heir."
+        }
+    ],
+    "tone": "hopeful"
+}

@@ -1,0 +1,23 @@
+{
+    "book": "Ezra",
+    "chapter": "Chapter 1",
+    "verses": [
+        {
+            "name": "Ezra 1:7",
+            "text": "Also Cyrus the king brought forth the vessels of the house of the Lord, which Nebuchadnezzar had brought forth out of Jerusalem, and had put them in the house of his gods;"
+        },
+        {
+            "name": "Ezra 1:8",
+            "text": "Even those did Cyrus king of Persia bring forth by the hand of Mithredath the treasurer, and numbered them unto Sheshbazzar, the prince of Judah."
+        },
+        {
+            "name": "Ezra 1:9",
+            "text": "And this is the number of them: thirty chargers of gold, a thousand chargers of silver, nine and twenty knives,"
+        },
+        {
+            "name": "Ezra 1:10",
+            "text": "Thirty basons of gold, silver basons of a second sort four hundred and ten, and other vessels a thousand."
+        }
+    ],
+    "tone": "neutral"
+}

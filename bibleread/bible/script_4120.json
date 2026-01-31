@@ -1,0 +1,31 @@
+{
+    "book": "Psalms",
+    "chapter": "Chapter 102",
+    "verses": [
+        {
+            "name": "Psalms 102:6",
+            "text": "I am like a pelican of the wilderness: I am like an owl of the desert."
+        },
+        {
+            "name": "Psalms 102:7",
+            "text": "I watch, and am as a sparrow alone upon the house top."
+        },
+        {
+            "name": "Psalms 102:8",
+            "text": "Mine enemies reproach me all the day; and they that are mad against me are sworn against me."
+        },
+        {
+            "name": "Psalms 102:9",
+            "text": "For I have eaten ashes like bread, and mingled my drink with weeping,"
+        },
+        {
+            "name": "Psalms 102:10",
+            "text": "Because of thine indignation and thy wrath: for thou hast lifted me up, and cast me down."
+        },
+        {
+            "name": "Psalms 102:11",
+            "text": "My days are like a shadow that declineth; and I am withered like grass."
+        }
+    ],
+    "tone": "lamenting"
+}

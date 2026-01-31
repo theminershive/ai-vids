@@ -1,0 +1,19 @@
+{
+    "book": "Mark",
+    "chapter": "Chapter 10",
+    "verses": [
+        {
+            "name": "Mark 10:36",
+            "text": "And he said unto them, What would ye that I should do for you?"
+        },
+        {
+            "name": "Mark 10:37",
+            "text": "They said unto him, Grant unto us that we may sit, one on thy right hand, and the other on thy left hand, in thy glory."
+        },
+        {
+            "name": "Mark 10:38",
+            "text": "But Jesus said unto them, Ye know not what ye ask: can ye drink of the cup that I drink of? and be baptized with the baptism that I am baptized with?"
+        }
+    ],
+    "tone": "neutral"
+}

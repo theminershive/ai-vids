@@ -1,0 +1,19 @@
+{
+    "book": "2 Corinthians",
+    "chapter": "Chapter 1",
+    "verses": [
+        {
+            "name": "2 Corinthians 1:11",
+            "text": "Ye also helping together by prayer for us, that for the gift bestowed upon us by the means of many persons thanks may be given by many on our behalf."
+        },
+        {
+            "name": "2 Corinthians 1:12",
+            "text": "For our rejoicing is this, the testimony of our conscience, that in simplicity and godly sincerity, not with fleshly wisdom, but by the grace of God, we have had our conversation in the world, and more abundantly to you-ward."
+        },
+        {
+            "name": "2 Corinthians 1:13",
+            "text": "For we write none other things unto you, than what ye read or acknowledge; and I trust ye shall acknowledge even to the end;"
+        }
+    ],
+    "tone": "hopeful"
+}

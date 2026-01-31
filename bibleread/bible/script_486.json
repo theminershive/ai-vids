@@ -1,0 +1,19 @@
+{
+    "book": "Exodus",
+    "chapter": "Chapter 12",
+    "verses": [
+        {
+            "name": "Exodus 12:7",
+            "text": "And they shall take of the blood, and strike it on the two side posts and on the upper door post of the houses, wherein they shall eat it."
+        },
+        {
+            "name": "Exodus 12:8",
+            "text": "And they shall eat the flesh in that night, roast with fire, and unleavened bread; and with bitter herbs they shall eat it."
+        },
+        {
+            "name": "Exodus 12:9",
+            "text": "Eat not of it raw, nor sodden at all with water, but roast with fire; his head with his legs, and with the purtenance thereof."
+        }
+    ],
+    "tone": "lamenting"
+}

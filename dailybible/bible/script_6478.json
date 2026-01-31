@@ -1,0 +1,27 @@
+{
+    "book": "Mark",
+    "chapter": "Chapter 7",
+    "verses": [
+        {
+            "name": "Mark 7:17",
+            "text": "And when he was entered into the house from the people, his disciples asked him concerning the parable."
+        },
+        {
+            "name": "Mark 7:18",
+            "text": "And he saith unto them, Are ye so without understanding also? Do ye not perceive, that whatsoever thing from without entereth into the man, it cannot defile him;"
+        },
+        {
+            "name": "Mark 7:19",
+            "text": "Because it entereth not into his heart, but into the belly, and goeth out into the draught, purging all meats?"
+        },
+        {
+            "name": "Mark 7:20",
+            "text": "And he said, That which cometh out of the man, that defileth the man."
+        },
+        {
+            "name": "Mark 7:21",
+            "text": "For from within, out of the heart of men, proceed evil thoughts, adulteries, fornications, murders,"
+        }
+    ],
+    "tone": "instructional"
+}

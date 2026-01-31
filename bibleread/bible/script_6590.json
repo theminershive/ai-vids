@@ -1,0 +1,27 @@
+{
+    "book": "Luke",
+    "chapter": "Chapter 1",
+    "verses": [
+        {
+            "name": "Luke 1:56",
+            "text": "And Mary abode with her about three months, and returned to her own house."
+        },
+        {
+            "name": "Luke 1:57",
+            "text": "Now Elisabeth\u2019s full time came that she should be delivered; and she brought forth a son."
+        },
+        {
+            "name": "Luke 1:58",
+            "text": "And her neighbours and her cousins heard how the Lord had shewed great mercy upon her; and they rejoiced with her."
+        },
+        {
+            "name": "Luke 1:59",
+            "text": "And it came to pass, that on the eighth day they came to circumcise the child; and they called him Zacharias, after the name of his father."
+        },
+        {
+            "name": "Luke 1:60",
+            "text": "And his mother answered and said, Not so; but he shall be called John."
+        }
+    ],
+    "tone": "neutral"
+}

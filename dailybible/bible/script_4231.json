@@ -1,0 +1,35 @@
+{
+    "book": "Psalms",
+    "chapter": "Chapter 139",
+    "verses": [
+        {
+            "name": "Psalms 139:1",
+            "text": "O Lord, thou hast searched me, and known me."
+        },
+        {
+            "name": "Psalms 139:2",
+            "text": "Thou knowest my downsitting and mine uprising, thou understandest my thought afar off."
+        },
+        {
+            "name": "Psalms 139:3",
+            "text": "Thou compassest my path and my lying down, and art acquainted with all my ways."
+        },
+        {
+            "name": "Psalms 139:4",
+            "text": "For there is not a word in my tongue, but, lo, O Lord, thou knowest it altogether."
+        },
+        {
+            "name": "Psalms 139:5",
+            "text": "Thou hast beset me behind and before, and laid thine hand upon me."
+        },
+        {
+            "name": "Psalms 139:6",
+            "text": "Such knowledge is too wonderful for me; it is high, I cannot attain unto it."
+        },
+        {
+            "name": "Psalms 139:7",
+            "text": "Whither shall I go from thy spirit? or whither shall I flee from thy presence?"
+        }
+    ],
+    "tone": "hopeful"
+}

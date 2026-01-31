@@ -1,0 +1,23 @@
+{
+    "book": "1 Corinthians",
+    "chapter": "Chapter 3",
+    "verses": [
+        {
+            "name": "1 Corinthians 3:10",
+            "text": "According to the grace of God which is given unto me, as a wise masterbuilder, I have laid the foundation, and another buildeth thereon. But let every man take heed how he buildeth thereupon."
+        },
+        {
+            "name": "1 Corinthians 3:11",
+            "text": "For other foundation can no man lay than that is laid, which is Jesus Christ."
+        },
+        {
+            "name": "1 Corinthians 3:12",
+            "text": "Now if any man build upon this foundation gold, silver, precious stones, wood, hay, stubble;"
+        },
+        {
+            "name": "1 Corinthians 3:13",
+            "text": "Every man\u2019s work shall be made manifest: for the day shall declare it, because it shall be revealed by fire; and the fire shall try every man\u2019s work of what sort it is."
+        }
+    ],
+    "tone": "praising"
+}

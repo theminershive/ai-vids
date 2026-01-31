@@ -1,0 +1,23 @@
+{
+    "book": "Mark",
+    "chapter": "Chapter 5",
+    "verses": [
+        {
+            "name": "Mark 5:1",
+            "text": "And they came over unto the other side of the sea, into the country of the Gadarenes."
+        },
+        {
+            "name": "Mark 5:2",
+            "text": "And when he was come out of the ship, immediately there met him out of the tombs a man with an unclean spirit,"
+        },
+        {
+            "name": "Mark 5:3",
+            "text": "Who had his dwelling among the tombs; and no man could bind him, no, not with chains:"
+        },
+        {
+            "name": "Mark 5:4",
+            "text": "Because that he had been often bound with fetters and chains, and the chains had been plucked asunder by him, and the fetters broken in pieces: neither could any man tame him."
+        }
+    ],
+    "tone": "lamenting"
+}

@@ -1,0 +1,15 @@
+{
+    "book": "1 Samuel",
+    "chapter": "Chapter 10",
+    "verses": [
+        {
+            "name": "1 Samuel 10:1",
+            "text": "Then Samuel took a vial of oil, and poured it upon his head, and kissed him, and said, Is it not because the Lord hath anointed thee to be captain over his inheritance?"
+        },
+        {
+            "name": "1 Samuel 10:2",
+            "text": "When thou art departed from me to day, then thou shalt find two men by Rachel\u2019s sepulchre in the border of Benjamin at Zelzah; and they will say unto thee, The asses which thou wentest to seek are found: and, lo, thy father hath left the care of the asses, and sorroweth for you, saying, What shall I do for my son?"
+        }
+    ],
+    "tone": "hopeful"
+}

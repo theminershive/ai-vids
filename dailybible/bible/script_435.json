@@ -1,0 +1,19 @@
+{
+    "book": "Exodus",
+    "chapter": "Chapter 5",
+    "verses": [
+        {
+            "name": "Exodus 5:14",
+            "text": "And the officers of the children of Israel, which Pharaoh\u2019s taskmasters had set over them, were beaten, and demanded, Wherefore have ye not fulfilled your task in making brick both yesterday and to day, as heretofore?"
+        },
+        {
+            "name": "Exodus 5:15",
+            "text": "Then the officers of the children of Israel came and cried unto Pharaoh, saying, Wherefore dealest thou thus with thy servants?"
+        },
+        {
+            "name": "Exodus 5:16",
+            "text": "There is no straw given unto thy servants, and they say to us, Make brick: and, behold, thy servants are beaten; but the fault is in thine own people."
+        }
+    ],
+    "tone": "lamenting"
+}

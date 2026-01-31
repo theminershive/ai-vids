@@ -1,0 +1,23 @@
+{
+    "book": "Matthew",
+    "chapter": "Chapter 26",
+    "verses": [
+        {
+            "name": "Matthew 26:35",
+            "text": "Peter said unto him, Though I should die with thee, yet will I not deny thee. Likewise also said all the disciples."
+        },
+        {
+            "name": "Matthew 26:36",
+            "text": "Then cometh Jesus with them unto a place called Gethsemane, and saith unto the disciples, Sit ye here, while I go and pray yonder."
+        },
+        {
+            "name": "Matthew 26:37",
+            "text": "And he took with him Peter and the two sons of Zebedee, and began to be sorrowful and very heavy."
+        },
+        {
+            "name": "Matthew 26:38",
+            "text": "Then saith he unto them, My soul is exceeding sorrowful, even unto death: tarry ye here, and watch with me."
+        }
+    ],
+    "tone": "neutral"
+}

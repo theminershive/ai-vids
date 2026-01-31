@@ -1,0 +1,27 @@
+{
+    "book": "John",
+    "chapter": "Chapter 3",
+    "verses": [
+        {
+            "name": "John 3:23",
+            "text": "And John also was baptizing in \u00c6non near to Salim, because there was much water there: and they came, and were baptized."
+        },
+        {
+            "name": "John 3:24",
+            "text": "For John was not yet cast into prison."
+        },
+        {
+            "name": "John 3:25",
+            "text": "Then there arose a question between some of John\u2019s disciples and the Jews about purifying."
+        },
+        {
+            "name": "John 3:26",
+            "text": "And they came unto John, and said unto him, Rabbi, he that was with thee beyond Jordan, to whom thou barest witness, behold, the same baptizeth, and all men come to him."
+        },
+        {
+            "name": "John 3:27",
+            "text": "John answered and said, A man can receive nothing, except it be given him from heaven."
+        }
+    ],
+    "tone": "neutral"
+}

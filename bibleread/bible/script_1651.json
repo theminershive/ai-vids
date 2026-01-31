@@ -1,0 +1,15 @@
+{
+    "book": "Joshua",
+    "chapter": "Chapter 3",
+    "verses": [
+        {
+            "name": "Joshua 3:15",
+            "text": "And as they that bare the ark were come unto Jordan, and the feet of the priests that bare the ark were dipped in the brim of the water, (for Jordan overfloweth all his banks all the time of harvest,)"
+        },
+        {
+            "name": "Joshua 3:16",
+            "text": "That the waters which came down from above stood and rose up upon an heap very far from the city Adam, that is beside Zaretan: and those that came down toward the sea of the plain, even the salt sea, failed, and were cut off: and the people passed over right against Jericho."
+        }
+    ],
+    "tone": "neutral"
+}

@@ -1,0 +1,19 @@
+{
+    "book": "2 Chronicles",
+    "chapter": "Chapter 3",
+    "verses": [
+        {
+            "name": "2 Chronicles 3:1",
+            "text": "Then Solomon began to build the house of the Lord at Jerusalem in mount Moriah, where the Lord appeared unto David his father, in the place that David had prepared in the threshingfloor of Ornan the Jebusite."
+        },
+        {
+            "name": "2 Chronicles 3:2",
+            "text": "And he began to build in the second day of the second month, in the fourth year of his reign."
+        },
+        {
+            "name": "2 Chronicles 3:3",
+            "text": "Now these are the things wherein Solomon was instructed for the building of the house of God. The length by cubits after the first measure was threescore cubits, and the breadth twenty cubits."
+        }
+    ],
+    "tone": "neutral"
+}

@@ -1,0 +1,31 @@
+{
+    "book": "Psalms",
+    "chapter": "Chapter 115",
+    "verses": [
+        {
+            "name": "Psalms 115:1",
+            "text": "Not unto us, O Lord, not unto us, but unto thy name give glory, for thy mercy, and for thy truth\u2019s sake."
+        },
+        {
+            "name": "Psalms 115:2",
+            "text": "Wherefore should the heathen say, Where is now their God?"
+        },
+        {
+            "name": "Psalms 115:3",
+            "text": "But our God is in the heavens: he hath done whatsoever he hath pleased."
+        },
+        {
+            "name": "Psalms 115:4",
+            "text": "Their idols are silver and gold, the work of men\u2019s hands."
+        },
+        {
+            "name": "Psalms 115:5",
+            "text": "They have mouths, but they speak not: eyes have they, but they see not:"
+        },
+        {
+            "name": "Psalms 115:6",
+            "text": "They have ears, but they hear not: noses have they, but they smell not:"
+        }
+    ],
+    "tone": "hopeful"
+}

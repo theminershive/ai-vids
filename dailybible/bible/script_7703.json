@@ -1,0 +1,23 @@
+{
+    "book": "1 Thessalonians",
+    "chapter": "Chapter 3",
+    "verses": [
+        {
+            "name": "1 Thessalonians 3:1",
+            "text": "Wherefore when we could no longer forbear, we thought it good to be left at Athens alone;"
+        },
+        {
+            "name": "1 Thessalonians 3:2",
+            "text": "And sent Timotheus, our brother, and minister of God, and our fellowlabourer in the gospel of Christ, to establish you, and to comfort you concerning your faith:"
+        },
+        {
+            "name": "1 Thessalonians 3:3",
+            "text": "That no man should be moved by these afflictions: for yourselves know that we are appointed thereunto."
+        },
+        {
+            "name": "1 Thessalonians 3:4",
+            "text": "For verily, when we were with you, we told you before that we should suffer tribulation; even as it came to pass, and ye know."
+        }
+    ],
+    "tone": "hopeful"
+}

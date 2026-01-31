@@ -1,0 +1,19 @@
+{
+    "book": "Leviticus",
+    "chapter": "Chapter 11",
+    "verses": [
+        {
+            "name": "Leviticus 11:33",
+            "text": "And every earthen vessel, whereinto any of them falleth, whatsoever is in it shall be unclean; and ye shall break it."
+        },
+        {
+            "name": "Leviticus 11:34",
+            "text": "Of all meat which may be eaten, that on which such water cometh shall be unclean: and all drink that may be drunk in every such vessel shall be unclean."
+        },
+        {
+            "name": "Leviticus 11:35",
+            "text": "And every thing whereupon any part of their carcase falleth shall be unclean; whether it be oven, or ranges for pots, they shall be broken down: for they are unclean, and shall be unclean unto you."
+        }
+    ],
+    "tone": "lamenting"
+}

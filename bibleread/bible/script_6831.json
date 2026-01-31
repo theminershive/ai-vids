@@ -1,0 +1,23 @@
+{
+    "book": "Luke",
+    "chapter": "Chapter 22",
+    "verses": [
+        {
+            "name": "Luke 22:51",
+            "text": "And Jesus answered and said, Suffer ye thus far. And he touched his ear, and healed him."
+        },
+        {
+            "name": "Luke 22:52",
+            "text": "Then Jesus said unto the chief priests, and captains of the temple, and the elders, which were come to him, Be ye come out, as against a thief, with swords and staves?"
+        },
+        {
+            "name": "Luke 22:53",
+            "text": "When I was daily with you in the temple, ye stretched forth no hands against me: but this is your hour, and the power of darkness."
+        },
+        {
+            "name": "Luke 22:54",
+            "text": "Then took they him, and led him, and brought him into the high priest\u2019s house. And Peter followed afar off."
+        }
+    ],
+    "tone": "neutral"
+}

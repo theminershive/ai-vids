@@ -1,0 +1,23 @@
+{
+    "book": "Luke",
+    "chapter": "Chapter 18",
+    "verses": [
+        {
+            "name": "Luke 18:31",
+            "text": "Then he took unto him the twelve, and said unto them, Behold, we go up to Jerusalem, and all things that are written by the prophets concerning the Son of man shall be accomplished."
+        },
+        {
+            "name": "Luke 18:32",
+            "text": "For he shall be delivered unto the Gentiles, and shall be mocked, and spitefully entreated, and spitted on:"
+        },
+        {
+            "name": "Luke 18:33",
+            "text": "And they shall scourge him, and put him to death: and the third day he shall rise again."
+        },
+        {
+            "name": "Luke 18:34",
+            "text": "And they understood none of these things: and this saying was hid from them, neither knew they the things which were spoken."
+        }
+    ],
+    "tone": "neutral"
+}

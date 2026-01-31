@@ -1,0 +1,19 @@
+{
+    "book": "1 Kings",
+    "chapter": "Chapter 2",
+    "verses": [
+        {
+            "name": "1 Kings 2:20",
+            "text": "Then she said, I desire one small petition of thee; I pray thee, say me not nay. And the king said unto her, Ask on, my mother: for I will not say thee nay."
+        },
+        {
+            "name": "1 Kings 2:21",
+            "text": "And she said, Let Abishag the Shunammite be given to Adonijah thy brother to wife."
+        },
+        {
+            "name": "1 Kings 2:22",
+            "text": "And king Solomon answered and said unto his mother, And why dost thou ask Abishag the Shunammite for Adonijah? ask for him the kingdom also; for he is mine elder brother; even for him, and for Abiathar the priest, and for Joab the son of Zeruiah."
+        }
+    ],
+    "tone": "neutral"
+}

@@ -1,0 +1,31 @@
+{
+    "book": "Luke",
+    "chapter": "Chapter 1",
+    "verses": [
+        {
+            "name": "Luke 1:50",
+            "text": "And his mercy is on them that fear him from generation to generation."
+        },
+        {
+            "name": "Luke 1:51",
+            "text": "He hath shewed strength with his arm; he hath scattered the proud in the imagination of their hearts."
+        },
+        {
+            "name": "Luke 1:52",
+            "text": "He hath put down the mighty from their seats, and exalted them of low degree."
+        },
+        {
+            "name": "Luke 1:53",
+            "text": "He hath filled the hungry with good things; and the rich he hath sent empty away."
+        },
+        {
+            "name": "Luke 1:54",
+            "text": "He hath holpen his servant Israel, in remembrance of his mercy;"
+        },
+        {
+            "name": "Luke 1:55",
+            "text": "As he spake to our fathers, to Abraham, and to his seed for ever."
+        }
+    ],
+    "tone": "hopeful"
+}

@@ -1,0 +1,19 @@
+{
+    "book": "Ruth",
+    "chapter": "Chapter 3",
+    "verses": [
+        {
+            "name": "Ruth 3:10",
+            "text": "And he said, Blessed be thou of the Lord, my daughter: for thou hast shewed more kindness in the latter end than at the beginning, inasmuch as thou followedst not young men, whether poor or rich."
+        },
+        {
+            "name": "Ruth 3:11",
+            "text": "And now, my daughter, fear not; I will do to thee all that thou requirest: for all the city of my people doth know that thou art a virtuous woman."
+        },
+        {
+            "name": "Ruth 3:12",
+            "text": "And now it is true that I am thy near kinsman: howbeit there is a kinsman nearer than I."
+        }
+    ],
+    "tone": "neutral"
+}

@@ -1,0 +1,27 @@
+{
+    "book": "Mark",
+    "chapter": "Chapter 12",
+    "verses": [
+        {
+            "name": "Mark 12:4",
+            "text": "And again he sent unto them another servant; and at him they cast stones, and wounded him in the head, and sent him away shamefully handled."
+        },
+        {
+            "name": "Mark 12:5",
+            "text": "And again he sent another; and him they killed, and many others; beating some, and killing some."
+        },
+        {
+            "name": "Mark 12:6",
+            "text": "Having yet therefore one son, his wellbeloved, he sent him also last unto them, saying, They will reverence my son."
+        },
+        {
+            "name": "Mark 12:7",
+            "text": "But those husbandmen said among themselves, This is the heir; come, let us kill him, and the inheritance shall be ours."
+        },
+        {
+            "name": "Mark 12:8",
+            "text": "And they took him, and killed him, and cast him out of the vineyard."
+        }
+    ],
+    "tone": "neutral"
+}

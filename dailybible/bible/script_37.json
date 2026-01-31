@@ -1,0 +1,19 @@
+{
+    "book": "Genesis",
+    "chapter": "Chapter 6",
+    "verses": [
+        {
+            "name": "Genesis 6:4",
+            "text": "There were giants in the earth in those days; and also after that, when the sons of God came in unto the daughters of men, and they bare children to them, the same became mighty men which were of old, men of renown."
+        },
+        {
+            "name": "Genesis 6:5",
+            "text": "And God saw that the wickedness of man was great in the earth, and that every imagination of the thoughts of his heart was only evil continually."
+        },
+        {
+            "name": "Genesis 6:6",
+            "text": "And it repented the Lord that he had made man on the earth, and it grieved him at his heart."
+        }
+    ],
+    "tone": "instructional"
+}

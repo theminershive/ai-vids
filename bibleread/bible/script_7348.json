@@ -1,0 +1,23 @@
+{
+    "book": "Romans",
+    "chapter": "Chapter 5",
+    "verses": [
+        {
+            "name": "Romans 5:11",
+            "text": "And not only so, but we also joy in God through our Lord Jesus Christ, by whom we have now received the atonement."
+        },
+        {
+            "name": "Romans 5:12",
+            "text": "Wherefore, as by one man sin entered into the world, and death by sin; and so death passed upon all men, for that all have sinned:"
+        },
+        {
+            "name": "Romans 5:13",
+            "text": "(For until the law sin was in the world: but sin is not imputed when there is no law."
+        },
+        {
+            "name": "Romans 5:14",
+            "text": "Nevertheless death reigned from Adam to Moses, even over them that had not sinned after the similitude of Adam\u2019s transgression, who is the figure of him that was to come."
+        }
+    ],
+    "tone": "lamenting"
+}

@@ -1,0 +1,23 @@
+{
+    "book": "Galatians",
+    "chapter": "Chapter 3",
+    "verses": [
+        {
+            "name": "Galatians 3:1",
+            "text": "O foolish Galatians, who hath bewitched you, that ye should not obey the truth, before whose eyes Jesus Christ hath been evidently set forth, crucified among you?"
+        },
+        {
+            "name": "Galatians 3:2",
+            "text": "This only would I learn of you, Received ye the Spirit by the works of the law, or by the hearing of faith?"
+        },
+        {
+            "name": "Galatians 3:3",
+            "text": "Are ye so foolish? having begun in the Spirit, are ye now made perfect by the flesh?"
+        },
+        {
+            "name": "Galatians 3:4",
+            "text": "Have ye suffered so many things in vain? if it be yet in vain."
+        }
+    ],
+    "tone": "instructional"
+}

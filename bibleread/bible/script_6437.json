@@ -1,0 +1,27 @@
+{
+    "book": "Mark",
+    "chapter": "Chapter 3",
+    "verses": [
+        {
+            "name": "Mark 3:18",
+            "text": "And Andrew, and Philip, and Bartholomew, and Matthew, and Thomas, and James the son of Alpheus, and Thaddeus, and Simon the Canaanite,"
+        },
+        {
+            "name": "Mark 3:19",
+            "text": "And Judas Iscariot, which also betrayed him: and they went into an house."
+        },
+        {
+            "name": "Mark 3:20",
+            "text": "And the multitude cometh together again, so that they could not so much as eat bread."
+        },
+        {
+            "name": "Mark 3:21",
+            "text": "And when his friends heard of it, they went out to lay hold on him: for they said, He is beside himself."
+        },
+        {
+            "name": "Mark 3:22",
+            "text": "And the scribes which came down from Jerusalem said, He hath Beelzebub, and by the prince of the devils casteth he out devils."
+        }
+    ],
+    "tone": "neutral"
+}

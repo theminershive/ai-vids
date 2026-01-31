@@ -1,0 +1,15 @@
+{
+    "book": "Exodus",
+    "chapter": "Chapter 3",
+    "verses": [
+        {
+            "name": "Exodus 3:12",
+            "text": "And he said, Certainly I will be with thee; and this shall be a token unto thee, that I have sent thee: When thou hast brought forth the people out of Egypt, ye shall serve God upon this mountain."
+        },
+        {
+            "name": "Exodus 3:13",
+            "text": "And Moses said unto God, Behold, when I come unto the children of Israel, and shall say unto them, The God of your fathers hath sent me unto you; and they shall say to me, What is his name? what shall I say unto them?"
+        }
+    ],
+    "tone": "neutral"
+}

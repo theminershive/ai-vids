@@ -1,0 +1,19 @@
+{
+    "book": "2 Samuel",
+    "chapter": "Chapter 3",
+    "verses": [
+        {
+            "name": "2 Samuel 3:26",
+            "text": "And when Joab was come out from David, he sent messengers after Abner, which brought him again from the well of Sirah: but David knew it not."
+        },
+        {
+            "name": "2 Samuel 3:27",
+            "text": "And when Abner was returned to Hebron, Joab took him aside in the gate to speak with him quietly, and smote him there under the fifth rib, that he died, for the blood of Asahel his brother."
+        },
+        {
+            "name": "2 Samuel 3:28",
+            "text": "And afterward when David heard it, he said, I and my kingdom are guiltless before the Lord for ever from the blood of Abner the son of Ner:"
+        }
+    ],
+    "tone": "lamenting"
+}

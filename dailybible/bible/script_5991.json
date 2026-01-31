@@ -1,0 +1,19 @@
+{
+    "book": "Jonah",
+    "chapter": "Chapter 3",
+    "verses": [
+        {
+            "name": "Jonah 3:5",
+            "text": "So the people of Nineveh believed God, and proclaimed a fast, and put on sackcloth, from the greatest of them even to the least of them."
+        },
+        {
+            "name": "Jonah 3:6",
+            "text": "For word came unto the king of Nineveh, and he arose from his throne, and he laid his robe from him, and covered him with sackcloth, and sat in ashes."
+        },
+        {
+            "name": "Jonah 3:7",
+            "text": "And he caused it to be proclaimed and published through Nineveh by the decree of the king and his nobles, saying, Let neither man nor beast, herd nor flock, taste any thing: let them not feed, nor drink water:"
+        }
+    ],
+    "tone": "neutral"
+}

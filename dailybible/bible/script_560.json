@@ -1,0 +1,19 @@
+{
+    "book": "Exodus",
+    "chapter": "Chapter 20",
+    "verses": [
+        {
+            "name": "Exodus 20:23",
+            "text": "Ye shall not make with me gods of silver, neither shall ye make unto you gods of gold."
+        },
+        {
+            "name": "Exodus 20:24",
+            "text": "An altar of earth thou shalt make unto me, and shalt sacrifice thereon thy burnt offerings, and thy peace offerings, thy sheep, and thine oxen: in all places where I record my name I will come unto thee, and I will bless thee."
+        },
+        {
+            "name": "Exodus 20:25",
+            "text": "And if thou wilt make me an altar of stone, thou shalt not build it of hewn stone: for if thou lift up thy tool upon it, thou hast polluted it."
+        }
+    ],
+    "tone": "hopeful"
+}

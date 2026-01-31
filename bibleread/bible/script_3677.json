@@ -1,0 +1,27 @@
+{
+    "book": "Job",
+    "chapter": "Chapter 7",
+    "verses": [
+        {
+            "name": "Job 7:16",
+            "text": "I loathe it; I would not live alway: let me alone; for my days are vanity."
+        },
+        {
+            "name": "Job 7:17",
+            "text": "What is man, that thou shouldest magnify him? and that thou shouldest set thine heart upon him?"
+        },
+        {
+            "name": "Job 7:18",
+            "text": "And that thou shouldest visit him every morning, and try him every moment?"
+        },
+        {
+            "name": "Job 7:19",
+            "text": "How long wilt thou not depart from me, nor let me alone till I swallow down my spittle?"
+        },
+        {
+            "name": "Job 7:20",
+            "text": "I have sinned; what shall I do unto thee, O thou preserver of men? why hast thou set me as a mark against thee, so that I am a burden to myself?"
+        }
+    ],
+    "tone": "lamenting"
+}

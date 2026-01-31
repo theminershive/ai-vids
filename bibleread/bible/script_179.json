@@ -1,0 +1,27 @@
+{
+    "book": "Genesis",
+    "chapter": "Chapter 25",
+    "verses": [
+        {
+            "name": "Genesis 25:29",
+            "text": "And Jacob sod pottage: and Esau came from the field, and he was faint:"
+        },
+        {
+            "name": "Genesis 25:30",
+            "text": "And Esau said to Jacob, Feed me, I pray thee, with that same red pottage; for I am faint: therefore was his name called Edom."
+        },
+        {
+            "name": "Genesis 25:31",
+            "text": "And Jacob said, Sell me this day thy birthright."
+        },
+        {
+            "name": "Genesis 25:32",
+            "text": "And Esau said, Behold, I am at the point to die: and what profit shall this birthright do to me?"
+        },
+        {
+            "name": "Genesis 25:33",
+            "text": "And Jacob said, Swear to me this day; and he sware unto him: and he sold his birthright unto Jacob."
+        }
+    ],
+    "tone": "neutral"
+}

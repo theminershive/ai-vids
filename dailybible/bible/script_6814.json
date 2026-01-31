@@ -1,0 +1,35 @@
+{
+    "book": "Luke",
+    "chapter": "Chapter 21",
+    "verses": [
+        {
+            "name": "Luke 21:13",
+            "text": "And it shall turn to you for a testimony."
+        },
+        {
+            "name": "Luke 21:14",
+            "text": "Settle it therefore in your hearts, not to meditate before what ye shall answer:"
+        },
+        {
+            "name": "Luke 21:15",
+            "text": "For I will give you a mouth and wisdom, which all your adversaries shall not be able to gainsay nor resist."
+        },
+        {
+            "name": "Luke 21:16",
+            "text": "And ye shall be betrayed both by parents, and brethren, and kinsfolks, and friends; and some of you shall they cause to be put to death."
+        },
+        {
+            "name": "Luke 21:17",
+            "text": "And ye shall be hated of all men for my name\u2019s sake."
+        },
+        {
+            "name": "Luke 21:18",
+            "text": "But there shall not an hair of your head perish."
+        },
+        {
+            "name": "Luke 21:19",
+            "text": "In your patience possess ye your souls."
+        }
+    ],
+    "tone": "lamenting"
+}

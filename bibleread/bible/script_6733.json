@@ -1,0 +1,19 @@
+{
+    "book": "Luke",
+    "chapter": "Chapter 12",
+    "verses": [
+        {
+            "name": "Luke 12:45",
+            "text": "But and if that servant say in his heart, My lord delayeth his coming; and shall begin to beat the menservants and maidens, and to eat and drink, and to be drunken;"
+        },
+        {
+            "name": "Luke 12:46",
+            "text": "The lord of that servant will come in a day when he looketh not for him, and at an hour when he is not aware, and will cut him in sunder, and will appoint him his portion with the unbelievers."
+        },
+        {
+            "name": "Luke 12:47",
+            "text": "And that servant, which knew his lord\u2019s will, and prepared not himself, neither did according to his will, shall be beaten with many stripes."
+        }
+    ],
+    "tone": "neutral"
+}

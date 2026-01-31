@@ -1,0 +1,23 @@
+{
+    "book": "Luke",
+    "chapter": "Chapter 1",
+    "verses": [
+        {
+            "name": "Luke 1:13",
+            "text": "But the angel said unto him, Fear not, Zacharias: for thy prayer is heard; and thy wife Elisabeth shall bear thee a son, and thou shalt call his name John."
+        },
+        {
+            "name": "Luke 1:14",
+            "text": "And thou shalt have joy and gladness; and many shall rejoice at his birth."
+        },
+        {
+            "name": "Luke 1:15",
+            "text": "For he shall be great in the sight of the Lord, and shall drink neither wine nor strong drink; and he shall be filled with the Holy Ghost, even from his mother\u2019s womb."
+        },
+        {
+            "name": "Luke 1:16",
+            "text": "And many of the children of Israel shall he turn to the Lord their God."
+        }
+    ],
+    "tone": "hopeful"
+}

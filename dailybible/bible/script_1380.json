@@ -1,0 +1,23 @@
+{
+    "book": "Deuteronomy",
+    "chapter": "Chapter 5",
+    "verses": [
+        {
+            "name": "Deuteronomy 5:1",
+            "text": "And Moses called all Israel, and said unto them, Hear, O Israel, the statutes and judgments which I speak in your ears this day, that ye may learn them, and keep, and do them."
+        },
+        {
+            "name": "Deuteronomy 5:2",
+            "text": "The Lord our God made a covenant with us in Horeb."
+        },
+        {
+            "name": "Deuteronomy 5:3",
+            "text": "The Lord made not this covenant with our fathers, but with us, even us, who are all of us here alive this day."
+        },
+        {
+            "name": "Deuteronomy 5:4",
+            "text": "The Lord talked with you face to face in the mount out of the midst of the fire,"
+        }
+    ],
+    "tone": "neutral"
+}

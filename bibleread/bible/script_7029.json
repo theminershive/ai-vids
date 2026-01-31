@@ -1,0 +1,23 @@
+{
+    "book": "John",
+    "chapter": "Chapter 18",
+    "verses": [
+        {
+            "name": "John 18:17",
+            "text": "Then saith the damsel that kept the door unto Peter, Art not thou also one of this man\u2019s disciples? He saith, I am not."
+        },
+        {
+            "name": "John 18:18",
+            "text": "And the servants and officers stood there, who had made a fire of coals; for it was cold: and they warmed themselves: and Peter stood with them, and warmed himself."
+        },
+        {
+            "name": "John 18:19",
+            "text": "The high priest then asked Jesus of his disciples, and of his doctrine."
+        },
+        {
+            "name": "John 18:20",
+            "text": "Jesus answered him, I spake openly to the world; I ever taught in the synagogue, and in the temple, whither the Jews always resort; and in secret have I said nothing."
+        }
+    ],
+    "tone": "neutral"
+}

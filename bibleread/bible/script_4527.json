@@ -1,0 +1,23 @@
+{
+    "book": "Isaiah",
+    "chapter": "Chapter 5",
+    "verses": [
+        {
+            "name": "Isaiah 5:17",
+            "text": "Then shall the lambs feed after their manner, and the waste places of the fat ones shall strangers eat."
+        },
+        {
+            "name": "Isaiah 5:18",
+            "text": "Woe unto them that draw iniquity with cords of vanity, and sin as it were with a cart rope:"
+        },
+        {
+            "name": "Isaiah 5:19",
+            "text": "That say, Let him make speed, and hasten his work, that we may see it: and let the counsel of the Holy One of Israel draw nigh and come, that we may know it!"
+        },
+        {
+            "name": "Isaiah 5:20",
+            "text": "Woe unto them that call evil good, and good evil; that put darkness for light, and light for darkness; that put bitter for sweet, and sweet for bitter!"
+        }
+    ],
+    "tone": "lamenting"
+}

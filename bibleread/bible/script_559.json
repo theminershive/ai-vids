@@ -1,0 +1,23 @@
+{
+    "book": "Exodus",
+    "chapter": "Chapter 20",
+    "verses": [
+        {
+            "name": "Exodus 20:19",
+            "text": "And they said unto Moses, Speak thou with us, and we will hear: but let not God speak with us, lest we die."
+        },
+        {
+            "name": "Exodus 20:20",
+            "text": "And Moses said unto the people, Fear not: for God is come to prove you, and that his fear may be before your faces, that ye sin not."
+        },
+        {
+            "name": "Exodus 20:21",
+            "text": "And the people stood afar off, and Moses drew near unto the thick darkness where God was."
+        },
+        {
+            "name": "Exodus 20:22",
+            "text": "And the Lord said unto Moses, Thus thou shalt say unto the children of Israel, Ye have seen that I have talked with you from heaven."
+        }
+    ],
+    "tone": "neutral"
+}

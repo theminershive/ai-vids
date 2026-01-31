@@ -1,0 +1,23 @@
+{
+    "book": "Luke",
+    "chapter": "Chapter 8",
+    "verses": [
+        {
+            "name": "Luke 8:48",
+            "text": "And he said unto her, Daughter, be of good comfort: thy faith hath made thee whole; go in peace."
+        },
+        {
+            "name": "Luke 8:49",
+            "text": "While he yet spake, there cometh one from the ruler of the synagogue\u2019s house, saying to him, Thy daughter is dead; trouble not the Master."
+        },
+        {
+            "name": "Luke 8:50",
+            "text": "But when Jesus heard it, he answered him, saying, Fear not: believe only, and she shall be made whole."
+        },
+        {
+            "name": "Luke 8:51",
+            "text": "And when he came into the house, he suffered no man to go in, save Peter, and James, and John, and the father and the mother of the maiden."
+        }
+    ],
+    "tone": "hopeful"
+}

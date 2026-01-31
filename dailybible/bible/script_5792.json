@@ -1,0 +1,31 @@
+{
+    "book": "Daniel",
+    "chapter": "Chapter 5",
+    "verses": [
+        {
+            "name": "Daniel 5:25",
+            "text": "And this is the writing that was written, MENE, MENE, TEKEL, UPHARSIN."
+        },
+        {
+            "name": "Daniel 5:26",
+            "text": "This is the interpretation of the thing: MENE; God hath numbered thy kingdom, and finished it."
+        },
+        {
+            "name": "Daniel 5:27",
+            "text": "TEKEL; Thou art weighed in the balances, and art found wanting."
+        },
+        {
+            "name": "Daniel 5:28",
+            "text": "PERES; Thy kingdom is divided, and given to the Medes and Persians."
+        },
+        {
+            "name": "Daniel 5:29",
+            "text": "Then commanded Belshazzar, and they clothed Daniel with scarlet, and put a chain of gold about his neck, and made a proclamation concerning him, that he should be the third ruler in the kingdom."
+        },
+        {
+            "name": "Daniel 5:30",
+            "text": "In that night was Belshazzar the king of the Chaldeans slain."
+        }
+    ],
+    "tone": "neutral"
+}

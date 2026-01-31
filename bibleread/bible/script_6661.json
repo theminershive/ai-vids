@@ -1,0 +1,23 @@
+{
+    "book": "Luke",
+    "chapter": "Chapter 7",
+    "verses": [
+        {
+            "name": "Luke 7:31",
+            "text": "And the Lord said, Whereunto then shall I liken the men of this generation? and to what are they like?"
+        },
+        {
+            "name": "Luke 7:32",
+            "text": "They are like unto children sitting in the marketplace, and calling one to another, and saying, We have piped unto you, and ye have not danced; we have mourned to you, and ye have not wept."
+        },
+        {
+            "name": "Luke 7:33",
+            "text": "For John the Baptist came neither eating bread nor drinking wine; and ye say, He hath a devil."
+        },
+        {
+            "name": "Luke 7:34",
+            "text": "The Son of man is come eating and drinking; and ye say, Behold a gluttonous man, and a winebibber, a friend of publicans and sinners!"
+        }
+    ],
+    "tone": "hopeful"
+}

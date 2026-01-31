@@ -1,0 +1,23 @@
+{
+    "book": "Exodus",
+    "chapter": "Chapter 2",
+    "verses": [
+        {
+            "name": "Exodus 2:17",
+            "text": "And the shepherds came and drove them away: but Moses stood up and helped them, and watered their flock."
+        },
+        {
+            "name": "Exodus 2:18",
+            "text": "And when they came to Reuel their father, he said, How is it that ye are come so soon to day?"
+        },
+        {
+            "name": "Exodus 2:19",
+            "text": "And they said, An Egyptian delivered us out of the hand of the shepherds, and also drew water enough for us, and watered the flock."
+        },
+        {
+            "name": "Exodus 2:20",
+            "text": "And he said unto his daughters, And where is he? why is it that ye have left the man? call him, that he may eat bread."
+        }
+    ],
+    "tone": "neutral"
+}

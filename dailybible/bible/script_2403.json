@@ -1,0 +1,19 @@
+{
+    "book": "2 Samuel",
+    "chapter": "Chapter 16",
+    "verses": [
+        {
+            "name": "2 Samuel 16:16",
+            "text": "And it came to pass, when Hushai the Archite, David\u2019s friend, was come unto Absalom, that Hushai said unto Absalom, God save the king, God save the king."
+        },
+        {
+            "name": "2 Samuel 16:17",
+            "text": "And Absalom said to Hushai, Is this thy kindness to thy friend? why wentest thou not with thy friend?"
+        },
+        {
+            "name": "2 Samuel 16:18",
+            "text": "And Hushai said unto Absalom, Nay; but whom the Lord, and this people, and all the men of Israel, choose, his will I be, and with him will I abide."
+        }
+    ],
+    "tone": "neutral"
+}

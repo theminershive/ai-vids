@@ -1,0 +1,23 @@
+{
+    "book": "John",
+    "chapter": "Chapter 17",
+    "verses": [
+        {
+            "name": "John 17:1",
+            "text": "These words spake Jesus, and lifted up his eyes to heaven, and said, Father, the hour is come; glorify thy Son, that thy Son also may glorify thee:"
+        },
+        {
+            "name": "John 17:2",
+            "text": "As thou hast given him power over all flesh, that he should give eternal life to as many as thou hast given him."
+        },
+        {
+            "name": "John 17:3",
+            "text": "And this is life eternal, that they might know thee the only true God, and Jesus Christ, whom thou hast sent."
+        },
+        {
+            "name": "John 17:4",
+            "text": "I have glorified thee on the earth: I have finished the work which thou gavest me to do."
+        }
+    ],
+    "tone": "praising"
+}

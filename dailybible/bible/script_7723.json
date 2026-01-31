@@ -1,0 +1,27 @@
+{
+    "book": "2 Thessalonians",
+    "chapter": "Chapter 3",
+    "verses": [
+        {
+            "name": "2 Thessalonians 3:10",
+            "text": "For even when we were with you, this we commanded you, that if any would not work, neither should he eat."
+        },
+        {
+            "name": "2 Thessalonians 3:11",
+            "text": "For we hear that there are some which walk among you disorderly, working not at all, but are busybodies."
+        },
+        {
+            "name": "2 Thessalonians 3:12",
+            "text": "Now them that are such we command and exhort by our Lord Jesus Christ, that with quietness they work, and eat their own bread."
+        },
+        {
+            "name": "2 Thessalonians 3:13",
+            "text": "But ye, brethren, be not weary in well doing."
+        },
+        {
+            "name": "2 Thessalonians 3:14",
+            "text": "And if any man obey not our word by this epistle, note that man, and have no company with him, that he may be ashamed."
+        }
+    ],
+    "tone": "instructional"
+}

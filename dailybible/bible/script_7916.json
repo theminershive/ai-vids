@@ -1,0 +1,23 @@
+{
+    "book": "1 John",
+    "chapter": "Chapter 1",
+    "verses": [
+        {
+            "name": "1 John 1:4",
+            "text": "And these things write we unto you, that your joy may be full."
+        },
+        {
+            "name": "1 John 1:5",
+            "text": "This then is the message which we have heard of him, and declare unto you, that God is light, and in him is no darkness at all."
+        },
+        {
+            "name": "1 John 1:6",
+            "text": "If we say that we have fellowship with him, and walk in darkness, we lie, and do not the truth:"
+        },
+        {
+            "name": "1 John 1:7",
+            "text": "But if we walk in the light, as he is in the light, we have fellowship one with another, and the blood of Jesus Christ his Son cleanseth us from all sin."
+        }
+    ],
+    "tone": "lamenting"
+}

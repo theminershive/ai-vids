@@ -1,0 +1,19 @@
+{
+    "book": "Exodus",
+    "chapter": "Chapter 24",
+    "verses": [
+        {
+            "name": "Exodus 24:1",
+            "text": "And he said unto Moses, Come up unto the Lord, thou, and Aaron, Nadab, and Abihu, and seventy of the elders of Israel; and worship ye afar off."
+        },
+        {
+            "name": "Exodus 24:2",
+            "text": "And Moses alone shall come near the Lord: but they shall not come nigh; neither shall the people go up with him."
+        },
+        {
+            "name": "Exodus 24:3",
+            "text": "And Moses came and told the people all the words of the Lord, and all the judgments: and all the people answered with one voice, and said, All the words which the Lord hath said will we do."
+        }
+    ],
+    "tone": "neutral"
+}

@@ -1,0 +1,19 @@
+{
+    "book": "1 Samuel",
+    "chapter": "Chapter 9",
+    "verses": [
+        {
+            "name": "1 Samuel 9:17",
+            "text": "And when Samuel saw Saul, the Lord said unto him, Behold the man whom I spake to thee of! this same shall reign over my people."
+        },
+        {
+            "name": "1 Samuel 9:18",
+            "text": "Then Saul drew near to Samuel in the gate, and said, Tell me, I pray thee, where the seer\u2019s house is."
+        },
+        {
+            "name": "1 Samuel 9:19",
+            "text": "And Samuel answered Saul, and said, I am the seer: go up before me unto the high place; for ye shall eat with me to day, and to morrow I will let thee go, and will tell thee all that is in thine heart."
+        }
+    ],
+    "tone": "neutral"
+}

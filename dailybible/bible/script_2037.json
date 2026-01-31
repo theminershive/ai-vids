@@ -1,0 +1,23 @@
+{
+    "book": "1 Samuel",
+    "chapter": "Chapter 2",
+    "verses": [
+        {
+            "name": "1 Samuel 2:1",
+            "text": "And Hannah prayed, and said, My heart rejoiceth in the Lord, mine horn is exalted in the Lord: my mouth is enlarged over mine enemies; because I rejoice in thy salvation."
+        },
+        {
+            "name": "1 Samuel 2:2",
+            "text": "There is none holy as the Lord: for there is none beside thee: neither is there any rock like our God."
+        },
+        {
+            "name": "1 Samuel 2:3",
+            "text": "Talk no more so exceeding proudly; let not arrogancy come out of your mouth: for the Lord is a God of knowledge, and by him actions are weighed."
+        },
+        {
+            "name": "1 Samuel 2:4",
+            "text": "The bows of the mighty men are broken, and they that stumbled are girded with strength."
+        }
+    ],
+    "tone": "hopeful"
+}

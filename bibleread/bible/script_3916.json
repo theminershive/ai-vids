@@ -1,0 +1,27 @@
+{
+    "book": "Psalms",
+    "chapter": "Chapter 33",
+    "verses": [
+        {
+            "name": "Psalms 33:18",
+            "text": "Behold, the eye of the Lord is upon them that fear him, upon them that hope in his mercy;"
+        },
+        {
+            "name": "Psalms 33:19",
+            "text": "To deliver their soul from death, and to keep them alive in famine."
+        },
+        {
+            "name": "Psalms 33:20",
+            "text": "Our soul waiteth for the Lord: he is our help and our shield."
+        },
+        {
+            "name": "Psalms 33:21",
+            "text": "For our heart shall rejoice in him, because we have trusted in his holy name."
+        },
+        {
+            "name": "Psalms 33:22",
+            "text": "Let thy mercy, O Lord, be upon us, according as we hope in thee. "
+        }
+    ],
+    "tone": "hopeful"
+}

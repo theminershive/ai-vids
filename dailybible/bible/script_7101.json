@@ -1,0 +1,19 @@
+{
+    "book": "Acts",
+    "chapter": "Chapter 5",
+    "verses": [
+        {
+            "name": "Acts 5:34",
+            "text": "Then stood there up one in the council, a Pharisee, named Gamaliel, a doctor of the law, had in reputation among all the people, and commanded to put the apostles forth a little space;"
+        },
+        {
+            "name": "Acts 5:35",
+            "text": "And said unto them, Ye men of Israel, take heed to yourselves what ye intend to do as touching these men."
+        },
+        {
+            "name": "Acts 5:36",
+            "text": "For before these days rose up Theudas, boasting himself to be somebody; to whom a number of men, about four hundred, joined themselves: who was slain; and all, as many as obeyed him, were scattered, and brought to nought."
+        }
+    ],
+    "tone": "neutral"
+}

@@ -1,0 +1,23 @@
+{
+    "book": "Acts",
+    "chapter": "Chapter 9",
+    "verses": [
+        {
+            "name": "Acts 9:22",
+            "text": "But Saul increased the more in strength, and confounded the Jews which dwelt at Damascus, proving that this is very Christ."
+        },
+        {
+            "name": "Acts 9:23",
+            "text": "And after that many days were fulfilled, the Jews took counsel to kill him:"
+        },
+        {
+            "name": "Acts 9:24",
+            "text": "But their laying await was known of Saul. And they watched the gates day and night to kill him."
+        },
+        {
+            "name": "Acts 9:25",
+            "text": "Then the disciples took him by night, and let him down by the wall in a basket."
+        }
+    ],
+    "tone": "neutral"
+}

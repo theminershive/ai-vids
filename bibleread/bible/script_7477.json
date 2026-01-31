@@ -1,0 +1,23 @@
+{
+    "book": "1 Corinthians",
+    "chapter": "Chapter 11",
+    "verses": [
+        {
+            "name": "1 Corinthians 11:1",
+            "text": "Be ye followers of me, even as I also am of Christ."
+        },
+        {
+            "name": "1 Corinthians 11:2",
+            "text": "Now I praise you, brethren, that ye remember me in all things, and keep the ordinances, as I delivered them to you."
+        },
+        {
+            "name": "1 Corinthians 11:3",
+            "text": "But I would have you know, that the head of every man is Christ; and the head of the woman is the man; and the head of Christ is God."
+        },
+        {
+            "name": "1 Corinthians 11:4",
+            "text": "Every man praying or prophesying, having his head covered, dishonoureth his head."
+        }
+    ],
+    "tone": "praising"
+}

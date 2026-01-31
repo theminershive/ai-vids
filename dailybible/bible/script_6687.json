@@ -1,0 +1,19 @@
+{
+    "book": "Luke",
+    "chapter": "Chapter 9",
+    "verses": [
+        {
+            "name": "Luke 9:26",
+            "text": "For whosoever shall be ashamed of me and of my words, of him shall the Son of man be ashamed, when he shall come in his own glory, and in his Father\u2019s, and of the holy angels."
+        },
+        {
+            "name": "Luke 9:27",
+            "text": "But I tell you of a truth, there be some standing here, which shall not taste of death, till they see the kingdom of God."
+        },
+        {
+            "name": "Luke 9:28",
+            "text": "And it came to pass about an eight days after these sayings, he took Peter and John and James, and went up into a mountain to pray."
+        }
+    ],
+    "tone": "instructional"
+}

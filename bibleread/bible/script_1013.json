@@ -1,0 +1,23 @@
+{
+    "book": "Numbers",
+    "chapter": "Chapter 2",
+    "verses": [
+        {
+            "name": "Numbers 2:26",
+            "text": "And his host, and those that were numbered of them, were threescore and two thousand and seven hundred."
+        },
+        {
+            "name": "Numbers 2:27",
+            "text": "And those that encamp by him shall be the tribe of Asher: and the captain of the children of Asher shall be Pagiel the son of Ocran."
+        },
+        {
+            "name": "Numbers 2:28",
+            "text": "And his host, and those that were numbered of them, were forty and one thousand and five hundred."
+        },
+        {
+            "name": "Numbers 2:29",
+            "text": "Then the tribe of Naphtali: and the captain of the children of Naphtali shall be Ahira the son of Enan."
+        }
+    ],
+    "tone": "neutral"
+}

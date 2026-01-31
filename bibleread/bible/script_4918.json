@@ -1,0 +1,15 @@
+{
+    "book": "Jeremiah",
+    "chapter": "Chapter 4",
+    "verses": [
+        {
+            "name": "Jeremiah 4:30",
+            "text": "And when thou art spoiled, what wilt thou do? Though thou clothest thyself with crimson, though thou deckest thee with ornaments of gold, though thou rentest thy face with painting, in vain shalt thou make thyself fair; thy lovers will despise thee, they will seek thy life."
+        },
+        {
+            "name": "Jeremiah 4:31",
+            "text": "For I have heard a voice as of a woman in travail, and the anguish as of her that bringeth forth her first child, the voice of the daughter of Zion, that bewaileth herself, that spreadeth her hands, saying, Woe is me now! for my soul is wearied because of murderers. "
+        }
+    ],
+    "tone": "lamenting"
+}

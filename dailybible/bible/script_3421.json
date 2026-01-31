@@ -1,0 +1,31 @@
+{
+    "book": "Ezra",
+    "chapter": "Chapter 2",
+    "verses": [
+        {
+            "name": "Ezra 2:36",
+            "text": "The priests: the children of Jedaiah, of the house of Jeshua, nine hundred seventy and three."
+        },
+        {
+            "name": "Ezra 2:37",
+            "text": "The children of Immer, a thousand fifty and two."
+        },
+        {
+            "name": "Ezra 2:38",
+            "text": "The children of Pashur, a thousand two hundred forty and seven."
+        },
+        {
+            "name": "Ezra 2:39",
+            "text": "The children of Harim, a thousand and seventeen."
+        },
+        {
+            "name": "Ezra 2:40",
+            "text": "The Levites: the children of Jeshua and Kadmiel, of the children of Hodaviah, seventy and four."
+        },
+        {
+            "name": "Ezra 2:41",
+            "text": "The singers: the children of Asaph, an hundred twenty and eight."
+        }
+    ],
+    "tone": "neutral"
+}

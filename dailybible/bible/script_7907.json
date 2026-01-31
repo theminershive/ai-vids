@@ -1,0 +1,19 @@
+{
+    "book": "2 Peter",
+    "chapter": "Chapter 2",
+    "verses": [
+        {
+            "name": "2 Peter 2:12",
+            "text": "But these, as natural brute beasts, made to be taken and destroyed, speak evil of the things that they understand not; and shall utterly perish in their own corruption;"
+        },
+        {
+            "name": "2 Peter 2:13",
+            "text": "And shall receive the reward of unrighteousness, as they that count it pleasure to riot in the day time. Spots they are and blemishes, sporting themselves with their own deceivings while they feast with you;"
+        },
+        {
+            "name": "2 Peter 2:14",
+            "text": "Having eyes full of adultery, and that cannot cease from sin; beguiling unstable souls: an heart they have exercised with covetous practices; cursed children:"
+        }
+    ],
+    "tone": "lamenting"
+}

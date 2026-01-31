@@ -1,0 +1,19 @@
+{
+    "book": "Genesis",
+    "chapter": "Chapter 2",
+    "verses": [
+        {
+            "name": "Genesis 2:5",
+            "text": "And every plant of the field before it was in the earth, and every herb of the field before it grew: for the Lord God had not caused it to rain upon the earth, and there was not a man to till the ground."
+        },
+        {
+            "name": "Genesis 2:6",
+            "text": "But there went up a mist from the earth, and watered the whole face of the ground."
+        },
+        {
+            "name": "Genesis 2:7",
+            "text": "And the Lord God formed man of the dust of the ground, and breathed into his nostrils the breath of life; and man became a living soul."
+        }
+    ],
+    "tone": "neutral"
+}

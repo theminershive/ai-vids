@@ -1,0 +1,19 @@
+{
+    "book": "1 Samuel",
+    "chapter": "Chapter 9",
+    "verses": [
+        {
+            "name": "1 Samuel 9:9",
+            "text": "(Beforetime in Israel, when a man went to enquire of God, thus he spake, Come, and let us go to the seer: for he that is now called a Prophet was beforetime called a Seer.)"
+        },
+        {
+            "name": "1 Samuel 9:10",
+            "text": "Then said Saul to his servant, Well said; come, let us go. So they went unto the city where the man of God was."
+        },
+        {
+            "name": "1 Samuel 9:11",
+            "text": "And as they went up the hill to the city, they found young maidens going out to draw water, and said unto them, Is the seer here?"
+        }
+    ],
+    "tone": "neutral"
+}

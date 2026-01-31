@@ -1,0 +1,15 @@
+{
+    "book": "Luke",
+    "chapter": "Chapter 13",
+    "verses": [
+        {
+            "name": "Luke 13:14",
+            "text": "And the ruler of the synagogue answered with indignation, because that Jesus had healed on the sabbath day, and said unto the people, There are six days in which men ought to work: in them therefore come and be healed, and not on the sabbath day."
+        },
+        {
+            "name": "Luke 13:15",
+            "text": "The Lord then answered him, and said, Thou hypocrite, doth not each one of you on the sabbath loose his ox or his ass from the stall, and lead him away to watering?"
+        }
+    ],
+    "tone": "neutral"
+}

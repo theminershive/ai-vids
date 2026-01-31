@@ -1,0 +1,27 @@
+{
+    "book": "Numbers",
+    "chapter": "Chapter 34",
+    "verses": [
+        {
+            "name": "Numbers 34:24",
+            "text": "And the prince of the tribe of the children of Ephraim, Kemuel the son of Shiphtan."
+        },
+        {
+            "name": "Numbers 34:25",
+            "text": "And the prince of the tribe of the children of Zebulun, Elizaphan the son of Parnach."
+        },
+        {
+            "name": "Numbers 34:26",
+            "text": "And the prince of the tribe of the children of Issachar, Paltiel the son of Azzan."
+        },
+        {
+            "name": "Numbers 34:27",
+            "text": "And the prince of the tribe of the children of Asher, Ahihud the son of Shelomi."
+        },
+        {
+            "name": "Numbers 34:28",
+            "text": "And the prince of the tribe of the children of Naphtali, Pedahel the son of Ammihud."
+        }
+    ],
+    "tone": "neutral"
+}

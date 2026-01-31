@@ -1,0 +1,19 @@
+{
+    "book": "Joshua",
+    "chapter": "Chapter 2",
+    "verses": [
+        {
+            "name": "Joshua 2:1",
+            "text": "And Joshua the son of Nun sent out of Shittim two men to spy secretly, saying, Go view the land, even Jericho. And they went, and came into an harlot\u2019s house, named Rahab, and lodged there."
+        },
+        {
+            "name": "Joshua 2:2",
+            "text": "And it was told the king of Jericho, saying, Behold, there came men in hither to night of the children of Israel to search out the country."
+        },
+        {
+            "name": "Joshua 2:3",
+            "text": "And the king of Jericho sent unto Rahab, saying, Bring forth the men that are come to thee, which are entered into thine house: for they be come to search out all the country."
+        }
+    ],
+    "tone": "neutral"
+}

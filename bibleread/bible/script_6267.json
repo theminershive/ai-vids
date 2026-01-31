@@ -1,0 +1,23 @@
+{
+    "book": "Matthew",
+    "chapter": "Chapter 13",
+    "verses": [
+        {
+            "name": "Matthew 13:46",
+            "text": "Who, when he had found one pearl of great price, went and sold all that he had, and bought it."
+        },
+        {
+            "name": "Matthew 13:47",
+            "text": "Again, the kingdom of heaven is like unto a net, that was cast into the sea, and gathered of every kind:"
+        },
+        {
+            "name": "Matthew 13:48",
+            "text": "Which, when it was full, they drew to shore, and sat down, and gathered the good into vessels, but cast the bad away."
+        },
+        {
+            "name": "Matthew 13:49",
+            "text": "So shall it be at the end of the world: the angels shall come forth, and sever the wicked from among the just,"
+        }
+    ],
+    "tone": "neutral"
+}

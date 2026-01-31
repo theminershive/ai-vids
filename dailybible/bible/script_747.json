@@ -1,0 +1,23 @@
+{
+    "book": "Leviticus",
+    "chapter": "Chapter 1",
+    "verses": [
+        {
+            "name": "Leviticus 1:4",
+            "text": "And he shall put his hand upon the head of the burnt offering; and it shall be accepted for him to make atonement for him."
+        },
+        {
+            "name": "Leviticus 1:5",
+            "text": "And he shall kill the bullock before the Lord: and the priests, Aaron\u2019s sons, shall bring the blood, and sprinkle the blood round about upon the altar that is by the door of the tabernacle of the congregation."
+        },
+        {
+            "name": "Leviticus 1:6",
+            "text": "And he shall flay the burnt offering, and cut it into his pieces."
+        },
+        {
+            "name": "Leviticus 1:7",
+            "text": "And the sons of Aaron the priest shall put fire upon the altar, and lay the wood in order upon the fire:"
+        }
+    ],
+    "tone": "lamenting"
+}

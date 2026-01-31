@@ -1,0 +1,23 @@
+{
+    "book": "Mark",
+    "chapter": "Chapter 13",
+    "verses": [
+        {
+            "name": "Mark 13:5",
+            "text": "And Jesus answering them began to say, Take heed lest any man deceive you:"
+        },
+        {
+            "name": "Mark 13:6",
+            "text": "For many shall come in my name, saying, I am Christ; and shall deceive many."
+        },
+        {
+            "name": "Mark 13:7",
+            "text": "And when ye shall hear of wars and rumours of wars, be ye not troubled: for such things must needs be; but the end shall not be yet."
+        },
+        {
+            "name": "Mark 13:8",
+            "text": "For nation shall rise against nation, and kingdom against kingdom: and there shall be earthquakes in divers places, and there shall be famines and troubles: these are the beginnings of sorrows."
+        }
+    ],
+    "tone": "lamenting"
+}

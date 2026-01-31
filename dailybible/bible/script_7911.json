@@ -1,0 +1,23 @@
+{
+    "book": "2 Peter",
+    "chapter": "Chapter 3",
+    "verses": [
+        {
+            "name": "2 Peter 3:5",
+            "text": "For this they willingly are ignorant of, that by the word of God the heavens were of old, and the earth standing out of the water and in the water:"
+        },
+        {
+            "name": "2 Peter 3:6",
+            "text": "Whereby the world that then was, being overflowed with water, perished:"
+        },
+        {
+            "name": "2 Peter 3:7",
+            "text": "But the heavens and the earth, which are now, by the same word are kept in store, reserved unto fire against the day of judgment and perdition of ungodly men."
+        },
+        {
+            "name": "2 Peter 3:8",
+            "text": "But, beloved, be not ignorant of this one thing, that one day is with the Lord as a thousand years, and a thousand years as one day."
+        }
+    ],
+    "tone": "neutral"
+}

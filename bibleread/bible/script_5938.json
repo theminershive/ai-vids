@@ -1,0 +1,19 @@
+{
+    "book": "Amos",
+    "chapter": "Chapter 2",
+    "verses": [
+        {
+            "name": "Amos 2:1",
+            "text": "Thus saith the Lord; For three transgressions of Moab, and for four, I will not turn away the punishment thereof; because he burned the bones of the king of Edom into lime:"
+        },
+        {
+            "name": "Amos 2:2",
+            "text": "But I will send a fire upon Moab, and it shall devour the palaces of Kerioth: and Moab shall die with tumult, with shouting, and with the sound of the trumpet:"
+        },
+        {
+            "name": "Amos 2:3",
+            "text": "And I will cut off the judge from the midst thereof, and will slay all the princes thereof with him, saith the Lord."
+        }
+    ],
+    "tone": "neutral"
+}

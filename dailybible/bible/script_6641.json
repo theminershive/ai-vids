@@ -1,0 +1,19 @@
+{
+    "book": "Luke",
+    "chapter": "Chapter 6",
+    "verses": [
+        {
+            "name": "Luke 6:7",
+            "text": "And the scribes and Pharisees watched him, whether he would heal on the sabbath day; that they might find an accusation against him."
+        },
+        {
+            "name": "Luke 6:8",
+            "text": "But he knew their thoughts, and said to the man which had the withered hand, Rise up, and stand forth in the midst. And he arose and stood forth."
+        },
+        {
+            "name": "Luke 6:9",
+            "text": "Then said Jesus unto them, I will ask you one thing; Is it lawful on the sabbath days to do good, or to do evil? to save life, or to destroy it?"
+        }
+    ],
+    "tone": "neutral"
+}

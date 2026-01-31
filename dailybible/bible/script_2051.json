@@ -1,0 +1,19 @@
+{
+    "book": "1 Samuel",
+    "chapter": "Chapter 3",
+    "verses": [
+        {
+            "name": "1 Samuel 3:11",
+            "text": "And the Lord said to Samuel, Behold, I will do a thing in Israel, at which both the ears of every one that heareth it shall tingle."
+        },
+        {
+            "name": "1 Samuel 3:12",
+            "text": "In that day I will perform against Eli all things which I have spoken concerning his house: when I begin, I will also make an end."
+        },
+        {
+            "name": "1 Samuel 3:13",
+            "text": "For I have told him that I will judge his house for ever for the iniquity which he knoweth; because his sons made themselves vile, and he restrained them not."
+        }
+    ],
+    "tone": "neutral"
+}

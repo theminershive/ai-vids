@@ -1,0 +1,19 @@
+{
+    "book": "Exodus",
+    "chapter": "Chapter 13",
+    "verses": [
+        {
+            "name": "Exodus 13:7",
+            "text": "Unleavened bread shall be eaten seven days; and there shall no leavened bread be seen with thee, neither shall there be leaven seen with thee in all thy quarters."
+        },
+        {
+            "name": "Exodus 13:8",
+            "text": "And thou shalt shew thy son in that day, saying, This is done because of that which the Lord did unto me when I came forth out of Egypt."
+        },
+        {
+            "name": "Exodus 13:9",
+            "text": "And it shall be for a sign unto thee upon thine hand, and for a memorial between thine eyes, that the Lord\u2019s law may be in thy mouth: for with a strong hand hath the Lord brought thee out of Egypt."
+        }
+    ],
+    "tone": "instructional"
+}

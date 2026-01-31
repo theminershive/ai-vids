@@ -1,0 +1,27 @@
+{
+    "book": "Luke",
+    "chapter": "Chapter 13",
+    "verses": [
+        {
+            "name": "Luke 13:19",
+            "text": "It is like a grain of mustard seed, which a man took, and cast into his garden; and it grew, and waxed a great tree; and the fowls of the air lodged in the branches of it."
+        },
+        {
+            "name": "Luke 13:20",
+            "text": "And again he said, Whereunto shall I liken the kingdom of God?"
+        },
+        {
+            "name": "Luke 13:21",
+            "text": "It is like leaven, which a woman took and hid in three measures of meal, till the whole was leavened."
+        },
+        {
+            "name": "Luke 13:22",
+            "text": "And he went through the cities and villages, teaching, and journeying toward Jerusalem."
+        },
+        {
+            "name": "Luke 13:23",
+            "text": "Then said one unto him, Lord, are there few that be saved? And he said unto them,"
+        }
+    ],
+    "tone": "neutral"
+}

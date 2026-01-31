@@ -1,0 +1,19 @@
+{
+    "book": "Numbers",
+    "chapter": "Chapter 1",
+    "verses": [
+        {
+            "name": "Numbers 1:37",
+            "text": "Those that were numbered of them, even of the tribe of Benjamin, were thirty and five thousand and four hundred."
+        },
+        {
+            "name": "Numbers 1:38",
+            "text": "Of the children of Dan, by their generations, after their families, by the house of their fathers, according to the number of the names, from twenty years old and upward, all that were able to go forth to war;"
+        },
+        {
+            "name": "Numbers 1:39",
+            "text": "Those that were numbered of them, even of the tribe of Dan, were threescore and two thousand and seven hundred."
+        }
+    ],
+    "tone": "lamenting"
+}

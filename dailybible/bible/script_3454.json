@@ -1,0 +1,19 @@
+{
+    "book": "Ezra",
+    "chapter": "Chapter 7",
+    "verses": [
+        {
+            "name": "Ezra 7:6",
+            "text": "This Ezra went up from Babylon; and he was a ready scribe in the law of Moses, which the Lord God of Israel had given: and the king granted him all his request, according to the hand of the Lord his God upon him."
+        },
+        {
+            "name": "Ezra 7:7",
+            "text": "And there went up some of the children of Israel, and of the priests, and the Levites, and the singers, and the porters, and the Nethinims, unto Jerusalem, in the seventh year of Artaxerxes the king."
+        },
+        {
+            "name": "Ezra 7:8",
+            "text": "And he came to Jerusalem in the fifth month, which was in the seventh year of the king."
+        }
+    ],
+    "tone": "neutral"
+}

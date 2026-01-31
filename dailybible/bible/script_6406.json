@@ -1,0 +1,23 @@
+{
+    "book": "Matthew",
+    "chapter": "Chapter 27",
+    "verses": [
+        {
+            "name": "Matthew 27:44",
+            "text": "The thieves also, which were crucified with him, cast the same in his teeth."
+        },
+        {
+            "name": "Matthew 27:45",
+            "text": "Now from the sixth hour there was darkness over all the land unto the ninth hour."
+        },
+        {
+            "name": "Matthew 27:46",
+            "text": "And about the ninth hour Jesus cried with a loud voice, saying, Eli, Eli, lama sabachthani? that is to say, My God, my God, why hast thou forsaken me?"
+        },
+        {
+            "name": "Matthew 27:47",
+            "text": "Some of them that stood there, when they heard that, said, This man calleth for Elias."
+        }
+    ],
+    "tone": "neutral"
+}

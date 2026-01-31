@@ -1,0 +1,15 @@
+{
+    "book": "2 Kings",
+    "chapter": "Chapter 1",
+    "verses": [
+        {
+            "name": "2 Kings 1:6",
+            "text": "And they said unto him, There came a man up to meet us, and said unto us, Go, turn again unto the king that sent you, and say unto him, Thus saith the Lord, Is it not because there is not a God in Israel, that thou sendest to enquire of Baal\u2013zebub the god of Ekron? therefore thou shalt not come down from that bed on which thou art gone up, but shalt surely die."
+        },
+        {
+            "name": "2 Kings 1:7",
+            "text": "And he said unto them, What manner of man was he which came up to meet you, and told you these words?"
+        }
+    ],
+    "tone": "neutral"
+}

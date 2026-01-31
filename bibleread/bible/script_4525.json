@@ -1,0 +1,23 @@
+{
+    "book": "Isaiah",
+    "chapter": "Chapter 5",
+    "verses": [
+        {
+            "name": "Isaiah 5:9",
+            "text": "In mine ears said the Lord of hosts, Of a truth many houses shall be desolate, even great and fair, without inhabitant."
+        },
+        {
+            "name": "Isaiah 5:10",
+            "text": "Yea, ten acres of vineyard shall yield one bath, and the seed of an homer shall yield an ephah."
+        },
+        {
+            "name": "Isaiah 5:11",
+            "text": "Woe unto them that rise up early in the morning, that they may follow strong drink; that continue until night, till wine inflame them!"
+        },
+        {
+            "name": "Isaiah 5:12",
+            "text": "And the harp, and the viol, the tabret, and pipe, and wine, are in their feasts: but they regard not the work of the Lord, neither consider the operation of his hands."
+        }
+    ],
+    "tone": "lamenting"
+}

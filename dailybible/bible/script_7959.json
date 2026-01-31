@@ -1,0 +1,19 @@
+{
+    "book": "Revelation",
+    "chapter": "Chapter 1",
+    "verses": [
+        {
+            "name": "Revelation 1:16",
+            "text": "And he had in his right hand seven stars: and out of his mouth went a sharp twoedged sword: and his countenance was as the sun shineth in his strength."
+        },
+        {
+            "name": "Revelation 1:17",
+            "text": "And when I saw him, I fell at his feet as dead. And he laid his right hand upon me, saying unto me, Fear not; I am the first and the last:"
+        },
+        {
+            "name": "Revelation 1:18",
+            "text": "I am he that liveth, and was dead; and, behold, I am alive for evermore, Amen; and have the keys of hell and of death."
+        }
+    ],
+    "tone": "neutral"
+}

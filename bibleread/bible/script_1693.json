@@ -1,0 +1,19 @@
+{
+    "book": "Joshua",
+    "chapter": "Chapter 9",
+    "verses": [
+        {
+            "name": "Joshua 9:1",
+            "text": "And it came to pass, when all the kings which were on this side Jordan, in the hills, and in the valleys, and in all the coasts of the great sea over against Lebanon, the Hittite, and the Amorite, the Canaanite, the Perizzite, the Hivite, and the Jebusite, heard thereof;"
+        },
+        {
+            "name": "Joshua 9:2",
+            "text": "That they gathered themselves together, to fight with Joshua and with Israel, with one accord."
+        },
+        {
+            "name": "Joshua 9:3",
+            "text": "And when the inhabitants of Gibeon heard what Joshua had done unto Jericho and to Ai,"
+        }
+    ],
+    "tone": "hopeful"
+}

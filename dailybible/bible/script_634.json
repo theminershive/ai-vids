@@ -1,0 +1,23 @@
+{
+    "book": "Exodus",
+    "chapter": "Chapter 29",
+    "verses": [
+        {
+            "name": "Exodus 29:5",
+            "text": "And thou shalt take the garments, and put upon Aaron the coat, and the robe of the ephod, and the ephod, and the breastplate, and gird him with the curious girdle of the ephod:"
+        },
+        {
+            "name": "Exodus 29:6",
+            "text": "And thou shalt put the mitre upon his head, and put the holy crown upon the mitre."
+        },
+        {
+            "name": "Exodus 29:7",
+            "text": "Then shalt thou take the anointing oil, and pour it upon his head, and anoint him."
+        },
+        {
+            "name": "Exodus 29:8",
+            "text": "And thou shalt bring his sons, and put coats upon them."
+        }
+    ],
+    "tone": "instructional"
+}

@@ -1,0 +1,23 @@
+{
+    "book": "Luke",
+    "chapter": "Chapter 24",
+    "verses": [
+        {
+            "name": "Luke 24:20",
+            "text": "And how the chief priests and our rulers delivered him to be condemned to death, and have crucified him."
+        },
+        {
+            "name": "Luke 24:21",
+            "text": "But we trusted that it had been he which should have redeemed Israel: and beside all this, to day is the third day since these things were done."
+        },
+        {
+            "name": "Luke 24:22",
+            "text": "Yea, and certain women also of our company made us astonished, which were early at the sepulchre;"
+        },
+        {
+            "name": "Luke 24:23",
+            "text": "And when they found not his body, they came, saying, that they had also seen a vision of angels, which said that he was alive."
+        }
+    ],
+    "tone": "neutral"
+}

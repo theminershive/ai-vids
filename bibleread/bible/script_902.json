@@ -1,0 +1,23 @@
+{
+    "book": "Leviticus",
+    "chapter": "Chapter 18",
+    "verses": [
+        {
+            "name": "Leviticus 18:13",
+            "text": "Thou shalt not uncover the nakedness of thy mother\u2019s sister: for she is thy mother\u2019s near kinswoman."
+        },
+        {
+            "name": "Leviticus 18:14",
+            "text": "Thou shalt not uncover the nakedness of thy father\u2019s brother, thou shalt not approach to his wife: she is thine aunt."
+        },
+        {
+            "name": "Leviticus 18:15",
+            "text": "Thou shalt not uncover the nakedness of thy daughter in law: she is thy son\u2019s wife; thou shalt not uncover her nakedness."
+        },
+        {
+            "name": "Leviticus 18:16",
+            "text": "Thou shalt not uncover the nakedness of thy brother\u2019s wife: it is thy brother\u2019s nakedness."
+        }
+    ],
+    "tone": "neutral"
+}

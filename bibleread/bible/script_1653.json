@@ -1,0 +1,19 @@
+{
+    "book": "Joshua",
+    "chapter": "Chapter 4",
+    "verses": [
+        {
+            "name": "Joshua 4:4",
+            "text": "Then Joshua called the twelve men, whom he had prepared of the children of Israel, out of every tribe a man:"
+        },
+        {
+            "name": "Joshua 4:5",
+            "text": "And Joshua said unto them, Pass over before the ark of the Lord your God into the midst of Jordan, and take ye up every man of you a stone upon his shoulder, according unto the number of the tribes of the children of Israel:"
+        },
+        {
+            "name": "Joshua 4:6",
+            "text": "That this may be a sign among you, that when your children ask their fathers in time to come, saying, What mean ye by these stones?"
+        }
+    ],
+    "tone": "neutral"
+}

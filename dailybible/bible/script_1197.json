@@ -1,0 +1,23 @@
+{
+    "book": "Numbers",
+    "chapter": "Chapter 21",
+    "verses": [
+        {
+            "name": "Numbers 21:16",
+            "text": "And from thence they went to Beer: that is the well whereof the Lord spake unto Moses, Gather the people together, and I will give them water."
+        },
+        {
+            "name": "Numbers 21:17",
+            "text": "Then Israel sang this song, Spring up, O well; sing ye unto it:"
+        },
+        {
+            "name": "Numbers 21:18",
+            "text": "The princes digged the well, the nobles of the people digged it, by the direction of the lawgiver, with their staves. And from the wilderness they went to Mattanah:"
+        },
+        {
+            "name": "Numbers 21:19",
+            "text": "And from Mattanah to Nahaliel: and from Nahaliel to Bamoth:"
+        }
+    ],
+    "tone": "neutral"
+}

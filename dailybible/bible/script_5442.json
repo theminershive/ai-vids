@@ -1,0 +1,23 @@
+{
+    "book": "Ezekiel",
+    "chapter": "Chapter 16",
+    "verses": [
+        {
+            "name": "Ezekiel 16:1",
+            "text": "Again the word of the Lord came unto me, saying,"
+        },
+        {
+            "name": "Ezekiel 16:2",
+            "text": "Son of man, cause Jerusalem to know her abominations,"
+        },
+        {
+            "name": "Ezekiel 16:3",
+            "text": "And say, Thus saith the Lord God unto Jerusalem; Thy birth and thy nativity is of the land of Canaan; thy father was an Amorite, and thy mother an Hittite."
+        },
+        {
+            "name": "Ezekiel 16:4",
+            "text": "And as for thy nativity, in the day thou wast born thy navel was not cut, neither wast thou washed in water to supple thee; thou wast not salted at all, nor swaddled at all."
+        }
+    ],
+    "tone": "neutral"
+}

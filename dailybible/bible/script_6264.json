@@ -1,0 +1,19 @@
+{
+    "book": "Matthew",
+    "chapter": "Chapter 13",
+    "verses": [
+        {
+            "name": "Matthew 13:35",
+            "text": "That it might be fulfilled which was spoken by the prophet, saying, I will open my mouth in parables; I will utter things which have been kept secret from the foundation of the world."
+        },
+        {
+            "name": "Matthew 13:36",
+            "text": "Then Jesus sent the multitude away, and went into the house: and his disciples came unto him, saying, Declare unto us the parable of the tares of the field."
+        },
+        {
+            "name": "Matthew 13:37",
+            "text": "He answered and said unto them, He that soweth the good seed is the Son of man;"
+        }
+    ],
+    "tone": "neutral"
+}

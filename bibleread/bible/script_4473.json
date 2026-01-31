@@ -1,0 +1,23 @@
+{
+    "book": "Ecclesiastes",
+    "chapter": "Chapter 12",
+    "verses": [
+        {
+            "name": "Ecclesiastes 12:10",
+            "text": "The preacher sought to find out acceptable words: and that which was written was upright, even words of truth."
+        },
+        {
+            "name": "Ecclesiastes 12:11",
+            "text": "The words of the wise are as goads, and as nails fastened by the masters of assemblies, which are given from one shepherd."
+        },
+        {
+            "name": "Ecclesiastes 12:12",
+            "text": "And further, by these, my son, be admonished: of making many books there is no end; and much study is a weariness of the flesh."
+        },
+        {
+            "name": "Ecclesiastes 12:13",
+            "text": "Let us hear the conclusion of the whole matter: Fear God, and keep his commandments: for this is the whole duty of man."
+        }
+    ],
+    "tone": "neutral"
+}

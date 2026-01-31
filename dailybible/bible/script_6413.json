@@ -1,0 +1,23 @@
+{
+    "book": "Matthew",
+    "chapter": "Chapter 28",
+    "verses": [
+        {
+            "name": "Matthew 28:9",
+            "text": "And as they went to tell his disciples, behold, Jesus met them, saying, All hail. And they came and held him by the feet, and worshipped him."
+        },
+        {
+            "name": "Matthew 28:10",
+            "text": "Then said Jesus unto them, Be not afraid: go tell my brethren that they go into Galilee, and there shall they see me."
+        },
+        {
+            "name": "Matthew 28:11",
+            "text": "Now when they were going, behold, some of the watch came into the city, and shewed unto the chief priests all the things that were done."
+        },
+        {
+            "name": "Matthew 28:12",
+            "text": "And when they were assembled with the elders, and had taken counsel, they gave large money unto the soldiers,"
+        }
+    ],
+    "tone": "neutral"
+}

@@ -1,0 +1,23 @@
+{
+    "book": "Matthew",
+    "chapter": "Chapter 21",
+    "verses": [
+        {
+            "name": "Matthew 21:16",
+            "text": "And said unto him, Hearest thou what these say? And Jesus saith unto them, Yea; have ye never read, Out of the mouth of babes and sucklings thou hast perfected praise?"
+        },
+        {
+            "name": "Matthew 21:17",
+            "text": "And he left them, and went out of the city into Bethany; and he lodged there."
+        },
+        {
+            "name": "Matthew 21:18",
+            "text": "Now in the morning as he returned into the city, he hungered."
+        },
+        {
+            "name": "Matthew 21:19",
+            "text": "And when he saw a fig tree in the way, he came to it, and found nothing thereon, but leaves only, and said unto it, Let no fruit grow on thee henceforward for ever. And presently the fig tree withered away."
+        }
+    ],
+    "tone": "neutral"
+}

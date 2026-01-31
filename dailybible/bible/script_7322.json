@@ -1,0 +1,19 @@
+{
+    "book": "Romans",
+    "chapter": "Chapter 1",
+    "verses": [
+        {
+            "name": "Romans 1:7",
+            "text": "To all that be in Rome, beloved of God, called to be saints: Grace to you and peace from God our Father, and the Lord Jesus Christ."
+        },
+        {
+            "name": "Romans 1:8",
+            "text": "First, I thank my God through Jesus Christ for you all, that your faith is spoken of throughout the whole world."
+        },
+        {
+            "name": "Romans 1:9",
+            "text": "For God is my witness, whom I serve with my spirit in the gospel of his Son, that without ceasing I make mention of you always in my prayers;"
+        }
+    ],
+    "tone": "hopeful"
+}

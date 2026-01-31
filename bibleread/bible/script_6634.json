@@ -1,0 +1,23 @@
+{
+    "book": "Luke",
+    "chapter": "Chapter 5",
+    "verses": [
+        {
+            "name": "Luke 5:21",
+            "text": "And the scribes and the Pharisees began to reason, saying, Who is this which speaketh blasphemies? Who can forgive sins, but God alone?"
+        },
+        {
+            "name": "Luke 5:22",
+            "text": "But when Jesus perceived their thoughts, he answering said unto them, What reason ye in your hearts?"
+        },
+        {
+            "name": "Luke 5:23",
+            "text": "Whether is easier, to say, Thy sins be forgiven thee; or to say, Rise up and walk?"
+        },
+        {
+            "name": "Luke 5:24",
+            "text": "But that ye may know that the Son of man hath power upon earth to forgive sins, (he said unto the sick of the palsy,) I say unto thee, Arise, and take up thy couch, and go into thine house."
+        }
+    ],
+    "tone": "neutral"
+}

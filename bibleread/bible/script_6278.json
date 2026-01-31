@@ -1,0 +1,27 @@
+{
+    "book": "Matthew",
+    "chapter": "Chapter 15",
+    "verses": [
+        {
+            "name": "Matthew 15:1",
+            "text": "Then came to Jesus scribes and Pharisees, which were of Jerusalem, saying,"
+        },
+        {
+            "name": "Matthew 15:2",
+            "text": "Why do thy disciples transgress the tradition of the elders? for they wash not their hands when they eat bread."
+        },
+        {
+            "name": "Matthew 15:3",
+            "text": "But he answered and said unto them, Why do ye also transgress the commandment of God by your tradition?"
+        },
+        {
+            "name": "Matthew 15:4",
+            "text": "For God commanded, saying, Honour thy father and mother: and, He that curseth father or mother, let him die the death."
+        },
+        {
+            "name": "Matthew 15:5",
+            "text": "But ye say, Whosoever shall say to his father or his mother, It is a gift, by whatsoever thou mightest be profited by me;"
+        }
+    ],
+    "tone": "neutral"
+}

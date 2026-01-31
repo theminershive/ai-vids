@@ -1,0 +1,23 @@
+{
+    "book": "Mark",
+    "chapter": "Chapter 9",
+    "verses": [
+        {
+            "name": "Mark 9:37",
+            "text": "Whosoever shall receive one of such children in my name, receiveth me: and whosoever shall receive me, receiveth not me, but him that sent me."
+        },
+        {
+            "name": "Mark 9:38",
+            "text": "And John answered him, saying, Master, we saw one casting out devils in thy name, and he followeth not us: and we forbad him, because he followeth not us."
+        },
+        {
+            "name": "Mark 9:39",
+            "text": "But Jesus said, Forbid him not: for there is no man which shall do a miracle in my name, that can lightly speak evil of me."
+        },
+        {
+            "name": "Mark 9:40",
+            "text": "For he that is not against us is on our part."
+        }
+    ],
+    "tone": "instructional"
+}

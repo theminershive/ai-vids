@@ -1,0 +1,23 @@
+{
+    "book": "Acts",
+    "chapter": "Chapter 2",
+    "verses": [
+        {
+            "name": "Acts 2:16",
+            "text": "But this is that which was spoken by the prophet Joel;"
+        },
+        {
+            "name": "Acts 2:17",
+            "text": "And it shall come to pass in the last days, saith God, I will pour out of my Spirit upon all flesh: and your sons and your daughters shall prophesy, and your young men shall see visions, and your old men shall dream dreams:"
+        },
+        {
+            "name": "Acts 2:18",
+            "text": "And on my servants and on my handmaidens I will pour out in those days of my Spirit; and they shall prophesy:"
+        },
+        {
+            "name": "Acts 2:19",
+            "text": "And I will shew wonders in heaven above, and signs in the earth beneath; blood, and fire, and vapour of smoke:"
+        }
+    ],
+    "tone": "hopeful"
+}

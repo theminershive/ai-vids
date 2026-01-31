@@ -1,0 +1,19 @@
+{
+    "book": "Leviticus",
+    "chapter": "Chapter 15",
+    "verses": [
+        {
+            "name": "Leviticus 15:5",
+            "text": "And whosoever toucheth his bed shall wash his clothes, and bathe himself in water, and be unclean until the even."
+        },
+        {
+            "name": "Leviticus 15:6",
+            "text": "And he that sitteth on any thing whereon he sat that hath the issue shall wash his clothes, and bathe himself in water, and be unclean until the even."
+        },
+        {
+            "name": "Leviticus 15:7",
+            "text": "And he that toucheth the flesh of him that hath the issue shall wash his clothes, and bathe himself in water, and be unclean until the even."
+        }
+    ],
+    "tone": "neutral"
+}

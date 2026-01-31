@@ -1,0 +1,19 @@
+{
+    "book": "Ecclesiastes",
+    "chapter": "Chapter 11",
+    "verses": [
+        {
+            "name": "Ecclesiastes 11:5",
+            "text": "As thou knowest not what is the way of the spirit, nor how the bones do grow in the womb of her that is with child: even so thou knowest not the works of God who maketh all."
+        },
+        {
+            "name": "Ecclesiastes 11:6",
+            "text": "In the morning sow thy seed, and in the evening withhold not thine hand: for thou knowest not whether shall prosper, either this or that, or whether they both shall be alike good."
+        },
+        {
+            "name": "Ecclesiastes 11:7",
+            "text": "Truly the light is sweet, and a pleasant thing it is for the eyes to behold the sun:"
+        }
+    ],
+    "tone": "hopeful"
+}

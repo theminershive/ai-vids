@@ -1,0 +1,27 @@
+{
+    "book": "Mark",
+    "chapter": "Chapter 11",
+    "verses": [
+        {
+            "name": "Mark 11:4",
+            "text": "And they went their way, and found the colt tied by the door without in a place where two ways met; and they loose him."
+        },
+        {
+            "name": "Mark 11:5",
+            "text": "And certain of them that stood there said unto them, What do ye, loosing the colt?"
+        },
+        {
+            "name": "Mark 11:6",
+            "text": "And they said unto them even as Jesus had commanded: and they let them go."
+        },
+        {
+            "name": "Mark 11:7",
+            "text": "And they brought the colt to Jesus, and cast their garments on him; and he sat upon him."
+        },
+        {
+            "name": "Mark 11:8",
+            "text": "And many spread their garments in the way: and others cut down branches off the trees, and strawed them in the way."
+        }
+    ],
+    "tone": "neutral"
+}

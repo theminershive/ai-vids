@@ -1,0 +1,19 @@
+{
+    "book": "Acts",
+    "chapter": "Chapter 11",
+    "verses": [
+        {
+            "name": "Acts 11:17",
+            "text": "Forasmuch then as God gave them the like gift as he did unto us, who believed on the Lord Jesus Christ; what was I, that I could withstand God?"
+        },
+        {
+            "name": "Acts 11:18",
+            "text": "When they heard these things, they held their peace, and glorified God, saying, Then hath God also to the Gentiles granted repentance unto life."
+        },
+        {
+            "name": "Acts 11:19",
+            "text": "Now they which were scattered abroad upon the persecution that arose about Stephen travelled as far as Phenice, and Cyprus, and Antioch, preaching the word to none but unto the Jews only."
+        }
+    ],
+    "tone": "hopeful"
+}

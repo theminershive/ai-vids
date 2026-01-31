@@ -1,0 +1,19 @@
+{
+    "book": "Jeremiah",
+    "chapter": "Chapter 10",
+    "verses": [
+        {
+            "name": "Jeremiah 10:18",
+            "text": "For thus saith the Lord, Behold, I will sling out the inhabitants of the land at this once, and will distress them, that they may find it so."
+        },
+        {
+            "name": "Jeremiah 10:19",
+            "text": "Woe is me for my hurt! my wound is grievous: but I said, Truly this is a grief, and I must bear it."
+        },
+        {
+            "name": "Jeremiah 10:20",
+            "text": "My tabernacle is spoiled, and all my cords are broken: my children are gone forth of me, and they are not: there is none to stretch forth my tent any more, and to set up my curtains."
+        }
+    ],
+    "tone": "lamenting"
+}

@@ -1,0 +1,23 @@
+{
+    "book": "Amos",
+    "chapter": "Chapter 6",
+    "verses": [
+        {
+            "name": "Amos 6:4",
+            "text": "That lie upon beds of ivory, and stretch themselves upon their couches, and eat the lambs out of the flock, and the calves out of the midst of the stall;"
+        },
+        {
+            "name": "Amos 6:5",
+            "text": "That chant to the sound of the viol, and invent to themselves instruments of musick, like David;"
+        },
+        {
+            "name": "Amos 6:6",
+            "text": "That drink wine in bowls, and anoint themselves with the chief ointments: but they are not grieved for the affliction of Joseph."
+        },
+        {
+            "name": "Amos 6:7",
+            "text": "Therefore now shall they go captive with the first that go captive, and the banquet of them that stretched themselves shall be removed."
+        }
+    ],
+    "tone": "hopeful"
+}

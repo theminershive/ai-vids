@@ -1,0 +1,23 @@
+{
+    "book": "Luke",
+    "chapter": "Chapter 2",
+    "verses": [
+        {
+            "name": "Luke 2:43",
+            "text": "And when they had fulfilled the days, as they returned, the child Jesus tarried behind in Jerusalem; and Joseph and his mother knew not of it. "
+        },
+        {
+            "name": "Luke 2:44",
+            "text": "But they, supposing him to have been in the company, went a day\u2019s journey; and they sought him among their kinsfolk and acquaintance."
+        },
+        {
+            "name": "Luke 2:45",
+            "text": "And when they found him not, they turned back again to Jerusalem, seeking him."
+        },
+        {
+            "name": "Luke 2:46",
+            "text": "And it came to pass, that after three days they found him in the temple, sitting in the midst of the doctors, both hearing them, and asking them questions."
+        }
+    ],
+    "tone": "neutral"
+}

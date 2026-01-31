@@ -1,0 +1,23 @@
+{
+    "book": "Numbers",
+    "chapter": "Chapter 6",
+    "verses": [
+        {
+            "name": "Numbers 6:1",
+            "text": "And the Lord spake unto Moses, saying,"
+        },
+        {
+            "name": "Numbers 6:2",
+            "text": "Speak unto the children of Israel, and say unto them, When either man or woman shall separate themselves to vow a vow of a Nazarite, to separate themselves unto the Lord:"
+        },
+        {
+            "name": "Numbers 6:3",
+            "text": "He shall separate himself from wine and strong drink, and shall drink no vinegar of wine, or vinegar of strong drink, neither shall he drink any liquor of grapes, nor eat moist grapes, or dried."
+        },
+        {
+            "name": "Numbers 6:4",
+            "text": "All the days of his separation shall he eat nothing that is made of the vine tree, from the kernels even to the husk."
+        }
+    ],
+    "tone": "hopeful"
+}

@@ -1,0 +1,23 @@
+{
+    "book": "John",
+    "chapter": "Chapter 4",
+    "verses": [
+        {
+            "name": "John 4:46",
+            "text": "So Jesus came again into Cana of Galilee, where he made the water wine. And there was a certain nobleman, whose son was sick at Capernaum."
+        },
+        {
+            "name": "John 4:47",
+            "text": "When he heard that Jesus was come out of Judea into Galilee, he went unto him, and besought him that he would come down, and heal his son: for he was at the point of death."
+        },
+        {
+            "name": "John 4:48",
+            "text": "Then said Jesus unto him, Except ye see signs and wonders, ye will not believe."
+        },
+        {
+            "name": "John 4:49",
+            "text": "The nobleman saith unto him, Sir, come down ere my child die."
+        }
+    ],
+    "tone": "neutral"
+}

@@ -1,0 +1,19 @@
+{
+    "book": "Genesis",
+    "chapter": "Chapter 7",
+    "verses": [
+        {
+            "name": "Genesis 7:1",
+            "text": "And the Lord said unto Noah, Come thou and all thy house into the ark; for thee have I seen righteous before me in this generation."
+        },
+        {
+            "name": "Genesis 7:2",
+            "text": "Of every clean beast thou shalt take to thee by sevens, the male and his female: and of beasts that are not clean by two, the male and his female."
+        },
+        {
+            "name": "Genesis 7:3",
+            "text": "Of fowls also of the air by sevens, the male and the female; to keep seed alive upon the face of all the earth."
+        }
+    ],
+    "tone": "neutral"
+}

@@ -1,0 +1,27 @@
+{
+    "book": "James",
+    "chapter": "Chapter 1",
+    "verses": [
+        {
+            "name": "James 1:14",
+            "text": "But every man is tempted, when he is drawn away of his own lust, and enticed."
+        },
+        {
+            "name": "James 1:15",
+            "text": "Then when lust hath conceived, it bringeth forth sin: and sin, when it is finished, bringeth forth death."
+        },
+        {
+            "name": "James 1:16",
+            "text": "Do not err, my beloved brethren."
+        },
+        {
+            "name": "James 1:17",
+            "text": "Every good gift and every perfect gift is from above, and cometh down from the Father of lights, with whom is no variableness, neither shadow of turning."
+        },
+        {
+            "name": "James 1:18",
+            "text": "Of his own will begat he us with the word of truth, that we should be a kind of firstfruits of his creatures."
+        }
+    ],
+    "tone": "lamenting"
+}

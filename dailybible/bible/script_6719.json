@@ -1,0 +1,23 @@
+{
+    "book": "Luke",
+    "chapter": "Chapter 11",
+    "verses": [
+        {
+            "name": "Luke 11:42",
+            "text": "But woe unto you, Pharisees! for ye tithe mint and rue and all manner of herbs, and pass over judgment and the love of God: these ought ye to have done, and not to leave the other undone."
+        },
+        {
+            "name": "Luke 11:43",
+            "text": "Woe unto you, Pharisees! for ye love the uppermost seats in the synagogues, and greetings in the markets."
+        },
+        {
+            "name": "Luke 11:44",
+            "text": "Woe unto you, scribes and Pharisees, hypocrites! for ye are as graves which appear not, and the men that walk over them are not aware of them."
+        },
+        {
+            "name": "Luke 11:45",
+            "text": "Then answered one of the lawyers, and said unto him, Master, thus saying thou reproachest us also."
+        }
+    ],
+    "tone": "lamenting"
+}

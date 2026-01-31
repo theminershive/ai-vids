@@ -1,0 +1,23 @@
+{
+    "book": "Numbers",
+    "chapter": "Chapter 28",
+    "verses": [
+        {
+            "name": "Numbers 28:1",
+            "text": "And the Lord spake unto Moses, saying,"
+        },
+        {
+            "name": "Numbers 28:2",
+            "text": "Command the children of Israel, and say unto them, My offering, and my bread for my sacrifices made by fire, for a sweet savour unto me, shall ye observe to offer unto me in their due season."
+        },
+        {
+            "name": "Numbers 28:3",
+            "text": "And thou shalt say unto them, This is the offering made by fire which ye shall offer unto the Lord; two lambs of the first year without spot day by day, for a continual burnt offering."
+        },
+        {
+            "name": "Numbers 28:4",
+            "text": "The one lamb shalt thou offer in the morning, and the other lamb shalt thou offer at even;"
+        }
+    ],
+    "tone": "instructional"
+}

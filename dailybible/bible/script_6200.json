@@ -1,0 +1,19 @@
+{
+    "book": "Matthew",
+    "chapter": "Chapter 6",
+    "verses": [
+        {
+            "name": "Matthew 6:25",
+            "text": "Therefore I say unto you, Take no thought for your life, what ye shall eat, or what ye shall drink; nor yet for your body, what ye shall put on. Is not the life more than meat, and the body than raiment?"
+        },
+        {
+            "name": "Matthew 6:26",
+            "text": "Behold the fowls of the air: for they sow not, neither do they reap, nor gather into barns; yet your heavenly Father feedeth them. Are ye not much better than they?"
+        },
+        {
+            "name": "Matthew 6:27",
+            "text": "Which of you by taking thought can add one cubit unto his stature?"
+        }
+    ],
+    "tone": "hopeful"
+}

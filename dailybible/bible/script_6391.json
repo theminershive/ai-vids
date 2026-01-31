@@ -1,0 +1,19 @@
+{
+    "book": "Matthew",
+    "chapter": "Chapter 26",
+    "verses": [
+        {
+            "name": "Matthew 26:55",
+            "text": "In that same hour said Jesus to the multitudes, Are ye come out as against a thief with swords and staves for to take me? I sat daily with you teaching in the temple, and ye laid no hold on me."
+        },
+        {
+            "name": "Matthew 26:56",
+            "text": "But all this was done, that the scriptures of the prophets might be fulfilled. Then all the disciples forsook him, and fled."
+        },
+        {
+            "name": "Matthew 26:57",
+            "text": "And they that had laid hold on Jesus led him away to Caiaphas the high priest, where the scribes and the elders were assembled."
+        }
+    ],
+    "tone": "neutral"
+}

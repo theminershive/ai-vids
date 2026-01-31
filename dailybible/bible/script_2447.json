@@ -1,0 +1,15 @@
+{
+    "book": "2 Samuel",
+    "chapter": "Chapter 21",
+    "verses": [
+        {
+            "name": "2 Samuel 21:1",
+            "text": "Then there was a famine in the days of David three years, year after year; and David enquired of the Lord. And the Lord answered, It is for Saul, and for his bloody house, because he slew the Gibeonites."
+        },
+        {
+            "name": "2 Samuel 21:2",
+            "text": "And the king called the Gibeonites, and said unto them; (now the Gibeonites were not of the children of Israel, but of the remnant of the Amorites; and the children of Israel had sworn unto them: and Saul sought to slay them in his zeal to the children of Israel and Judah.)"
+        }
+    ],
+    "tone": "neutral"
+}

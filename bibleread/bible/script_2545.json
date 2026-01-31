@@ -1,0 +1,23 @@
+{
+    "book": "1 Kings",
+    "chapter": "Chapter 7",
+    "verses": [
+        {
+            "name": "1 Kings 7:1",
+            "text": "But Solomon was building his own house thirteen years, and he finished all his house."
+        },
+        {
+            "name": "1 Kings 7:2",
+            "text": "He built also the house of the forest of Lebanon; the length thereof was an hundred cubits, and the breadth thereof fifty cubits, and the height thereof thirty cubits, upon four rows of cedar pillars, with cedar beams upon the pillars."
+        },
+        {
+            "name": "1 Kings 7:3",
+            "text": "And it was covered with cedar above upon the beams, that lay on forty five pillars, fifteen in a row."
+        },
+        {
+            "name": "1 Kings 7:4",
+            "text": "And there were windows in three rows, and light was against light in three ranks."
+        }
+    ],
+    "tone": "neutral"
+}

@@ -1,0 +1,23 @@
+{
+    "book": "John",
+    "chapter": "Chapter 14",
+    "verses": [
+        {
+            "name": "John 14:6",
+            "text": "Jesus saith unto him, I am the way, the truth, and the life: no man cometh unto the Father, but by me."
+        },
+        {
+            "name": "John 14:7",
+            "text": "If ye had known me, ye should have known my Father also: and from henceforth ye know him, and have seen him."
+        },
+        {
+            "name": "John 14:8",
+            "text": "Philip saith unto him, Lord, shew us the Father, and it sufficeth us."
+        },
+        {
+            "name": "John 14:9",
+            "text": "Jesus saith unto him, Have I been so long time with you, and yet hast thou not known me, Philip? he that hath seen me hath seen the Father; and how sayest thou then, Shew us the Father?"
+        }
+    ],
+    "tone": "neutral"
+}

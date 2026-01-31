@@ -1,0 +1,19 @@
+{
+    "book": "Leviticus",
+    "chapter": "Chapter 14",
+    "verses": [
+        {
+            "name": "Leviticus 14:36",
+            "text": "Then the priest shall command that they empty the house, before the priest go into it to see the plague, that all that is in the house be not made unclean: and afterward the priest shall go in to see the house:"
+        },
+        {
+            "name": "Leviticus 14:37",
+            "text": "And he shall look on the plague, and, behold, if the plague be in the walls of the house with hollow strakes, greenish or reddish, which in sight are lower than the wall;"
+        },
+        {
+            "name": "Leviticus 14:38",
+            "text": "Then the priest shall go out of the house to the door of the house, and shut up the house seven days:"
+        }
+    ],
+    "tone": "instructional"
+}

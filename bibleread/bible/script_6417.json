@@ -1,0 +1,27 @@
+{
+    "book": "Mark",
+    "chapter": "Chapter 1",
+    "verses": [
+        {
+            "name": "Mark 1:10",
+            "text": "And straightway coming up out of the water, he saw the heavens opened, and the Spirit like a dove descending upon him:"
+        },
+        {
+            "name": "Mark 1:11",
+            "text": "And there came a voice from heaven, saying, Thou art my beloved Son, in whom I am well pleased."
+        },
+        {
+            "name": "Mark 1:12",
+            "text": "And immediately the Spirit driveth him into the wilderness."
+        },
+        {
+            "name": "Mark 1:13",
+            "text": "And he was there in the wilderness forty days, tempted of Satan; and was with the wild beasts; and the angels ministered unto him."
+        },
+        {
+            "name": "Mark 1:14",
+            "text": "Now after that John was put in prison, Jesus came into Galilee, preaching the gospel of the kingdom of God,"
+        }
+    ],
+    "tone": "hopeful"
+}

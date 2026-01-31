@@ -1,0 +1,23 @@
+{
+    "book": "Acts",
+    "chapter": "Chapter 5",
+    "verses": [
+        {
+            "name": "Acts 5:30",
+            "text": "The God of our fathers raised up Jesus, whom ye slew and hanged on a tree."
+        },
+        {
+            "name": "Acts 5:31",
+            "text": "Him hath God exalted with his right hand to be a Prince and a Saviour, for to give repentance to Israel, and forgiveness of sins."
+        },
+        {
+            "name": "Acts 5:32",
+            "text": "And we are his witnesses of these things; and so is also the Holy Ghost, whom God hath given to them that obey him."
+        },
+        {
+            "name": "Acts 5:33",
+            "text": "When they heard that, they were cut to the heart, and took counsel to slay them."
+        }
+    ],
+    "tone": "instructional"
+}

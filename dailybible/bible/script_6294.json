@@ -1,0 +1,23 @@
+{
+    "book": "Matthew",
+    "chapter": "Chapter 17",
+    "verses": [
+        {
+            "name": "Matthew 17:1",
+            "text": "And after six days Jesus taketh Peter, James, and John his brother, and bringeth them up into an high mountain apart,"
+        },
+        {
+            "name": "Matthew 17:2",
+            "text": "And was transfigured before them: and his face did shine as the sun, and his raiment was white as the light."
+        },
+        {
+            "name": "Matthew 17:3",
+            "text": "And, behold, there appeared unto them Moses and Elias talking with him."
+        },
+        {
+            "name": "Matthew 17:4",
+            "text": "Then answered Peter, and said unto Jesus, Lord, it is good for us to be here: if thou wilt, let us make here three tabernacles; one for thee, and one for Moses, and one for Elias."
+        }
+    ],
+    "tone": "neutral"
+}

@@ -1,0 +1,35 @@
+{
+    "book": "Genesis",
+    "chapter": "Chapter 5",
+    "verses": [
+        {
+            "name": "Genesis 5:12",
+            "text": "And Cainan lived seventy years, and begat Mahalaleel:"
+        },
+        {
+            "name": "Genesis 5:13",
+            "text": "And Cainan lived after he begat Mahalaleel eight hundred and forty years, and begat sons and daughters:"
+        },
+        {
+            "name": "Genesis 5:14",
+            "text": "And all the days of Cainan were nine hundred and ten years: and he died."
+        },
+        {
+            "name": "Genesis 5:15",
+            "text": "And Mahalaleel lived sixty and five years, and begat Jared:"
+        },
+        {
+            "name": "Genesis 5:16",
+            "text": "And Mahalaleel lived after he begat Jared eight hundred and thirty years, and begat sons and daughters:"
+        },
+        {
+            "name": "Genesis 5:17",
+            "text": "And all the days of Mahalaleel were eight hundred ninety and five years: and he died."
+        },
+        {
+            "name": "Genesis 5:18",
+            "text": "And Jared lived an hundred sixty and two years, and he begat Enoch:"
+        }
+    ],
+    "tone": "lamenting"
+}

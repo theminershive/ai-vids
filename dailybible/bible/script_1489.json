@@ -1,0 +1,19 @@
+{
+    "book": "Deuteronomy",
+    "chapter": "Chapter 19",
+    "verses": [
+        {
+            "name": "Deuteronomy 19:9",
+            "text": "If thou shalt keep all these commandments to do them, which I command thee this day, to love the Lord thy God, and to walk ever in his ways; then shalt thou add three cities more for thee, beside these three:"
+        },
+        {
+            "name": "Deuteronomy 19:10",
+            "text": "That innocent blood be not shed in thy land, which the Lord thy God giveth thee for an inheritance, and so blood be upon thee."
+        },
+        {
+            "name": "Deuteronomy 19:11",
+            "text": "But if any man hate his neighbour, and lie in wait for him, and rise up against him, and smite him mortally that he die, and fleeth into one of these cities:"
+        }
+    ],
+    "tone": "hopeful"
+}

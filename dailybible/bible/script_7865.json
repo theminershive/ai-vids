@@ -1,0 +1,27 @@
+{
+    "book": "James",
+    "chapter": "Chapter 3",
+    "verses": [
+        {
+            "name": "James 3:8",
+            "text": "But the tongue can no man tame; it is an unruly evil, full of deadly poison."
+        },
+        {
+            "name": "James 3:9",
+            "text": "Therewith bless we God, even the Father; and therewith curse we men, which are made after the similitude of God."
+        },
+        {
+            "name": "James 3:10",
+            "text": "Out of the same mouth proceedeth blessing and cursing. My brethren, these things ought not so to be."
+        },
+        {
+            "name": "James 3:11",
+            "text": "Doth a fountain send forth at the same place sweet water and bitter?"
+        },
+        {
+            "name": "James 3:12",
+            "text": "Can the fig tree, my brethren, bear olive berries? either a vine, figs? so can no fountain both yield salt water and fresh."
+        }
+    ],
+    "tone": "praising"
+}

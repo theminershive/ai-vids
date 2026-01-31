@@ -1,0 +1,23 @@
+{
+    "book": "1 Samuel",
+    "chapter": "Chapter 1",
+    "verses": [
+        {
+            "name": "1 Samuel 1:4",
+            "text": "And when the time was that Elkanah offered, he gave to Peninnah his wife, and to all her sons and her daughters, portions:"
+        },
+        {
+            "name": "1 Samuel 1:5",
+            "text": "But unto Hannah he gave a worthy portion; for he loved Hannah: but the Lord had shut up her womb."
+        },
+        {
+            "name": "1 Samuel 1:6",
+            "text": "And her adversary also provoked her sore, for to make her fret, because the Lord had shut up her womb."
+        },
+        {
+            "name": "1 Samuel 1:7",
+            "text": "And as he did so year by year, when she went up to the house of the Lord, so she provoked her; therefore she wept, and did not eat."
+        }
+    ],
+    "tone": "neutral"
+}

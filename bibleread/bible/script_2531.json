@@ -1,0 +1,19 @@
+{
+    "book": "1 Kings",
+    "chapter": "Chapter 5",
+    "verses": [
+        {
+            "name": "1 Kings 5:8",
+            "text": "And Hiram sent to Solomon, saying, I have considered the things which thou sentest to me for: and I will do all thy desire concerning timber of cedar, and concerning timber of fir."
+        },
+        {
+            "name": "1 Kings 5:9",
+            "text": "My servants shall bring them down from Lebanon unto the sea: and I will convey them by sea in floats unto the place that thou shalt appoint me, and will cause them to be discharged there, and thou shalt receive them: and thou shalt accomplish my desire, in giving food for my household."
+        },
+        {
+            "name": "1 Kings 5:10",
+            "text": "So Hiram gave Solomon cedar trees and fir trees according to all his desire."
+        }
+    ],
+    "tone": "neutral"
+}

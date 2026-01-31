@@ -1,0 +1,23 @@
+{
+    "book": "Mark",
+    "chapter": "Chapter 8",
+    "verses": [
+        {
+            "name": "Mark 8:34",
+            "text": "And when he had called the people unto him with his disciples also, he said unto them, Whosoever will come after me, let him deny himself, and take up his cross, and follow me."
+        },
+        {
+            "name": "Mark 8:35",
+            "text": "For whosoever will save his life shall lose it; but whosoever shall lose his life for my sake and the gospel\u2019s, the same shall save it."
+        },
+        {
+            "name": "Mark 8:36",
+            "text": "For what shall it profit a man, if he shall gain the whole world, and lose his own soul?"
+        },
+        {
+            "name": "Mark 8:37",
+            "text": "Or what shall a man give in exchange for his soul?"
+        }
+    ],
+    "tone": "neutral"
+}

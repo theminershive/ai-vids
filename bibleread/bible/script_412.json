@@ -1,0 +1,19 @@
+{
+    "book": "Exodus",
+    "chapter": "Chapter 2",
+    "verses": [
+        {
+            "name": "Exodus 2:11",
+            "text": "And it came to pass in those days, when Moses was grown, that he went out unto his brethren, and looked on their burdens: and he spied an Egyptian smiting an Hebrew, one of his brethren."
+        },
+        {
+            "name": "Exodus 2:12",
+            "text": "And he looked this way and that way, and when he saw that there was no man, he slew the Egyptian, and hid him in the sand."
+        },
+        {
+            "name": "Exodus 2:13",
+            "text": "And when he went out the second day, behold, two men of the Hebrews strove together: and he said to him that did the wrong, Wherefore smitest thou thy fellow?"
+        }
+    ],
+    "tone": "neutral"
+}

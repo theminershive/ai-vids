@@ -1,0 +1,23 @@
+{
+    "book": "Matthew",
+    "chapter": "Chapter 10",
+    "verses": [
+        {
+            "name": "Matthew 10:1",
+            "text": "And when he had called unto him his twelve disciples, he gave them power against unclean spirits, to cast them out, and to heal all manner of sickness and all manner of disease."
+        },
+        {
+            "name": "Matthew 10:2",
+            "text": "Now the names of the twelve apostles are these; The first, Simon, who is called Peter, and Andrew his brother; James the son of Zebedee, and John his brother;"
+        },
+        {
+            "name": "Matthew 10:3",
+            "text": "Philip, and Bartholomew; Thomas, and Matthew the publican; James the son of Alpheus, and Lebbeus, whose surname was Thaddeus;"
+        },
+        {
+            "name": "Matthew 10:4",
+            "text": "Simon the Canaanite, and Judas Iscariot, who also betrayed him."
+        }
+    ],
+    "tone": "neutral"
+}

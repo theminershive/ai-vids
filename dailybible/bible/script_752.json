@@ -1,0 +1,19 @@
+{
+    "book": "Leviticus",
+    "chapter": "Chapter 2",
+    "verses": [
+        {
+            "name": "Leviticus 2:10",
+            "text": "And that which is left of the meat offering shall be Aaron\u2019s and his sons\u2019: it is a thing most holy of the offerings of the Lord made by fire."
+        },
+        {
+            "name": "Leviticus 2:11",
+            "text": "No meat offering, which ye shall bring unto the Lord, shall be made with leaven: for ye shall burn no leaven, nor any honey, in any offering of the Lord made by fire."
+        },
+        {
+            "name": "Leviticus 2:12",
+            "text": "As for the oblation of the firstfruits, ye shall offer them unto the Lord: but they shall not be burnt on the altar for a sweet savour."
+        }
+    ],
+    "tone": "instructional"
+}

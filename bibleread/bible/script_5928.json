@@ -1,0 +1,19 @@
+{
+    "book": "Joel",
+    "chapter": "Chapter 3",
+    "verses": [
+        {
+            "name": "Joel 3:4",
+            "text": "Yea, and what have ye to do with me, O Tyre, and Zidon, and all the coasts of Palestine? will ye render me a recompence? and if ye recompense me, swiftly and speedily will I return your recompence upon your own head;"
+        },
+        {
+            "name": "Joel 3:5",
+            "text": "Because ye have taken my silver and my gold, and have carried into your temples my goodly pleasant things:"
+        },
+        {
+            "name": "Joel 3:6",
+            "text": "The children also of Judah and the children of Jerusalem have ye sold unto the Grecians, that ye might remove them far from their border."
+        }
+    ],
+    "tone": "hopeful"
+}

@@ -1,0 +1,19 @@
+{
+    "book": "Joel",
+    "chapter": "Chapter 1",
+    "verses": [
+        {
+            "name": "Joel 1:18",
+            "text": "How do the beasts groan! the herds of cattle are perplexed, because they have no pasture; yea, the flocks of sheep are made desolate."
+        },
+        {
+            "name": "Joel 1:19",
+            "text": "O Lord, to thee will I cry: for the fire hath devoured the pastures of the wilderness, and the flame hath burned all the trees of the field."
+        },
+        {
+            "name": "Joel 1:20",
+            "text": "The beasts of the field cry also unto thee: for the rivers of waters are dried up, and the fire hath devoured the pastures of the wilderness. "
+        }
+    ],
+    "tone": "lamenting"
+}

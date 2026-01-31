@@ -1,0 +1,23 @@
+{
+    "book": "John",
+    "chapter": "Chapter 18",
+    "verses": [
+        {
+            "name": "John 18:29",
+            "text": "Pilate then went out unto them, and said, What accusation bring ye against this man?"
+        },
+        {
+            "name": "John 18:30",
+            "text": "They answered and said unto him, If he were not a malefactor, we would not have delivered him up unto thee."
+        },
+        {
+            "name": "John 18:31",
+            "text": "Then said Pilate unto them, Take ye him, and judge him according to your law. The Jews therefore said unto him, It is not lawful for us to put any man to death:"
+        },
+        {
+            "name": "John 18:32",
+            "text": "That the saying of Jesus might be fulfilled, which he spake, signifying what death he should die."
+        }
+    ],
+    "tone": "neutral"
+}

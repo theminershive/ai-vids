@@ -1,0 +1,23 @@
+{
+    "book": "Luke",
+    "chapter": "Chapter 12",
+    "verses": [
+        {
+            "name": "Luke 12:29",
+            "text": "And seek not ye what ye shall eat, or what ye shall drink, neither be ye of doubtful mind."
+        },
+        {
+            "name": "Luke 12:30",
+            "text": "For all these things do the nations of the world seek after: and your Father knoweth that ye have need of these things."
+        },
+        {
+            "name": "Luke 12:31",
+            "text": "But rather seek ye the kingdom of God; and all these things shall be added unto you."
+        },
+        {
+            "name": "Luke 12:32",
+            "text": "Fear not, little flock; for it is your Father\u2019s good pleasure to give you the kingdom."
+        }
+    ],
+    "tone": "hopeful"
+}

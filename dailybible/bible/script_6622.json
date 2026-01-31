@@ -1,0 +1,23 @@
+{
+    "book": "Luke",
+    "chapter": "Chapter 4",
+    "verses": [
+        {
+            "name": "Luke 4:21",
+            "text": "And he began to say unto them, This day is this scripture fulfilled in your ears."
+        },
+        {
+            "name": "Luke 4:22",
+            "text": "And all bare him witness, and wondered at the gracious words which proceeded out of his mouth. And they said, Is not this Joseph\u2019s son?"
+        },
+        {
+            "name": "Luke 4:23",
+            "text": "And he said unto them, Ye will surely say unto me this proverb, Physician, heal thyself: whatsoever we have heard done in Capernaum, do also here in thy country."
+        },
+        {
+            "name": "Luke 4:24",
+            "text": "And he said, Verily I say unto you, No prophet is accepted in his own country."
+        }
+    ],
+    "tone": "neutral"
+}

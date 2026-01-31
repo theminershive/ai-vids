@@ -1,0 +1,27 @@
+{
+    "book": "Job",
+    "chapter": "Chapter 12",
+    "verses": [
+        {
+            "name": "Job 12:6",
+            "text": "The tabernacles of robbers prosper, and they that provoke God are secure; into whose hand God bringeth abundantly."
+        },
+        {
+            "name": "Job 12:7",
+            "text": "But ask now the beasts, and they shall teach thee; and the fowls of the air, and they shall tell thee:"
+        },
+        {
+            "name": "Job 12:8",
+            "text": "Or speak to the earth, and it shall teach thee: and the fishes of the sea shall declare unto thee."
+        },
+        {
+            "name": "Job 12:9",
+            "text": "Who knoweth not in all these that the hand of the Lord hath wrought this?"
+        },
+        {
+            "name": "Job 12:10",
+            "text": "In whose hand is the soul of every living thing, and the breath of all mankind."
+        }
+    ],
+    "tone": "instructional"
+}

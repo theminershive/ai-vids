@@ -1,0 +1,27 @@
+{
+    "book": "Job",
+    "chapter": "Chapter 10",
+    "verses": [
+        {
+            "name": "Job 10:1",
+            "text": "My soul is weary of my life; I will leave my complaint upon myself; I will speak in the bitterness of my soul."
+        },
+        {
+            "name": "Job 10:2",
+            "text": "I will say unto God, Do not condemn me; shew me wherefore thou contendest with me."
+        },
+        {
+            "name": "Job 10:3",
+            "text": "Is it good unto thee that thou shouldest oppress, that thou shouldest despise the work of thine hands, and shine upon the counsel of the wicked?"
+        },
+        {
+            "name": "Job 10:4",
+            "text": "Hast thou eyes of flesh? or seest thou as man seeth?"
+        },
+        {
+            "name": "Job 10:5",
+            "text": "Are thy days as the days of man? are thy years as man\u2019s days,"
+        }
+    ],
+    "tone": "lamenting"
+}

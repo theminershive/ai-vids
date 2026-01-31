@@ -1,0 +1,23 @@
+{
+    "book": "1 Thessalonians",
+    "chapter": "Chapter 2",
+    "verses": [
+        {
+            "name": "1 Thessalonians 2:9",
+            "text": "For ye remember, brethren, our labour and travail: for labouring night and day, because we would not be chargeable unto any of you, we preached unto you the gospel of God."
+        },
+        {
+            "name": "1 Thessalonians 2:10",
+            "text": "Ye are witnesses, and God also, how holily and justly and unblameably we behaved ourselves among you that believe:"
+        },
+        {
+            "name": "1 Thessalonians 2:11",
+            "text": "As ye know how we exhorted and comforted and charged every one of you, as a father doth his children,"
+        },
+        {
+            "name": "1 Thessalonians 2:12",
+            "text": "That ye would walk worthy of God, who hath called you unto his kingdom and glory."
+        }
+    ],
+    "tone": "hopeful"
+}

@@ -1,0 +1,31 @@
+{
+    "book": "1 Timothy",
+    "chapter": "Chapter 5",
+    "verses": [
+        {
+            "name": "1 Timothy 5:1",
+            "text": "Rebuke not an elder, but intreat him as a father; and the younger men as brethren;"
+        },
+        {
+            "name": "1 Timothy 5:2",
+            "text": "The elder women as mothers; the younger as sisters, with all purity."
+        },
+        {
+            "name": "1 Timothy 5:3",
+            "text": "Honour widows that are widows indeed."
+        },
+        {
+            "name": "1 Timothy 5:4",
+            "text": "But if any widow have children or nephews, let them learn first to shew piety at home, and to requite their parents: for that is good and acceptable before God."
+        },
+        {
+            "name": "1 Timothy 5:5",
+            "text": "Now she that is a widow indeed, and desolate, trusteth in God, and continueth in supplications and prayers night and day."
+        },
+        {
+            "name": "1 Timothy 5:6",
+            "text": "But she that liveth in pleasure is dead while she liveth."
+        }
+    ],
+    "tone": "hopeful"
+}

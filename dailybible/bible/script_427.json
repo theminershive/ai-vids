@@ -1,0 +1,15 @@
+{
+    "book": "Exodus",
+    "chapter": "Chapter 4",
+    "verses": [
+        {
+            "name": "Exodus 4:14",
+            "text": "And the anger of the Lord was kindled against Moses, and he said, Is not Aaron the Levite thy brother? I know that he can speak well. And also, behold, he cometh forth to meet thee: and when he seeth thee, he will be glad in his heart."
+        },
+        {
+            "name": "Exodus 4:15",
+            "text": "And thou shalt speak unto him, and put words in his mouth: and I will be with thy mouth, and with his mouth, and will teach you what ye shall do."
+        }
+    ],
+    "tone": "instructional"
+}

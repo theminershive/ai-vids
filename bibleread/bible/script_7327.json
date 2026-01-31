@@ -1,0 +1,19 @@
+{
+    "book": "Romans",
+    "chapter": "Chapter 1",
+    "verses": [
+        {
+            "name": "Romans 1:25",
+            "text": "Who changed the truth of God into a lie, and worshipped and served the creature more than the Creator, who is blessed for ever. Amen."
+        },
+        {
+            "name": "Romans 1:26",
+            "text": "For this cause God gave them up unto vile affections: for even their women did change the natural use into that which is against nature:"
+        },
+        {
+            "name": "Romans 1:27",
+            "text": "And likewise also the men, leaving the natural use of the woman, burned in their lust one toward another; men with men working that which is unseemly, and receiving in themselves that recompence of their error which was meet."
+        }
+    ],
+    "tone": "hopeful"
+}

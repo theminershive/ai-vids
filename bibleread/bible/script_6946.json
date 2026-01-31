@@ -1,0 +1,27 @@
+{
+    "book": "John",
+    "chapter": "Chapter 9",
+    "verses": [
+        {
+            "name": "John 9:1",
+            "text": "And as Jesus passed by, he saw a man which was blind from his birth."
+        },
+        {
+            "name": "John 9:2",
+            "text": "And his disciples asked him, saying, Master, who did sin, this man, or his parents, that he was born blind?"
+        },
+        {
+            "name": "John 9:3",
+            "text": "Jesus answered, Neither hath this man sinned, nor his parents: but that the works of God should be made manifest in him."
+        },
+        {
+            "name": "John 9:4",
+            "text": "I must work the works of him that sent me, while it is day: the night cometh, when no man can work."
+        },
+        {
+            "name": "John 9:5",
+            "text": "As long as I am in the world, I am the light of the world."
+        }
+    ],
+    "tone": "lamenting"
+}

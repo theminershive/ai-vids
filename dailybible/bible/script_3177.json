@@ -1,0 +1,19 @@
+{
+    "book": "2 Chronicles",
+    "chapter": "Chapter 4",
+    "verses": [
+        {
+            "name": "2 Chronicles 4:1",
+            "text": "Moreover he made an altar of brass, twenty cubits the length thereof, and twenty cubits the breadth thereof, and ten cubits the height thereof."
+        },
+        {
+            "name": "2 Chronicles 4:2",
+            "text": "Also he made a molten sea of ten cubits from brim to brim, round in compass, and five cubits the height thereof; and a line of thirty cubits did compass it round about."
+        },
+        {
+            "name": "2 Chronicles 4:3",
+            "text": "And under it was the similitude of oxen, which did compass it round about: ten in a cubit, compassing the sea round about. Two rows of oxen were cast, when it was cast."
+        }
+    ],
+    "tone": "neutral"
+}

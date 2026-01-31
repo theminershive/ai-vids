@@ -1,0 +1,23 @@
+{
+    "book": "Leviticus",
+    "chapter": "Chapter 19",
+    "verses": [
+        {
+            "name": "Leviticus 19:9",
+            "text": "And when ye reap the harvest of your land, thou shalt not wholly reap the corners of thy field, neither shalt thou gather the gleanings of thy harvest."
+        },
+        {
+            "name": "Leviticus 19:10",
+            "text": "And thou shalt not glean thy vineyard, neither shalt thou gather every grape of thy vineyard; thou shalt leave them for the poor and stranger: I am the Lord your God."
+        },
+        {
+            "name": "Leviticus 19:11",
+            "text": "Ye shall not steal, neither deal falsely, neither lie one to another."
+        },
+        {
+            "name": "Leviticus 19:12",
+            "text": "And ye shall not swear by my name falsely, neither shalt thou profane the name of thy God: I am the Lord."
+        }
+    ],
+    "tone": "hopeful"
+}

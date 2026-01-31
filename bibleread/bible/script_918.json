@@ -1,0 +1,19 @@
+{
+    "book": "Leviticus",
+    "chapter": "Chapter 20",
+    "verses": [
+        {
+            "name": "Leviticus 20:13",
+            "text": "If a man also lie with mankind, as he lieth with a woman, both of them have committed an abomination: they shall surely be put to death; their blood shall be upon them."
+        },
+        {
+            "name": "Leviticus 20:14",
+            "text": "And if a man take a wife and her mother, it is wickedness: they shall be burnt with fire, both he and they; that there be no wickedness among you."
+        },
+        {
+            "name": "Leviticus 20:15",
+            "text": "And if a man lie with a beast, he shall surely be put to death: and ye shall slay the beast."
+        }
+    ],
+    "tone": "lamenting"
+}

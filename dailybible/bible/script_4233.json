@@ -1,0 +1,23 @@
+{
+    "book": "Psalms",
+    "chapter": "Chapter 139",
+    "verses": [
+        {
+            "name": "Psalms 139:13",
+            "text": "For thou hast possessed my reins: thou hast covered me in my mother\u2019s womb."
+        },
+        {
+            "name": "Psalms 139:14",
+            "text": "I will praise thee; for I am fearfully and wonderfully made: marvellous are thy works; and that my soul knoweth right well."
+        },
+        {
+            "name": "Psalms 139:15",
+            "text": "My substance was not hid from thee, when I was made in secret, and curiously wrought in the lowest parts of the earth."
+        },
+        {
+            "name": "Psalms 139:16",
+            "text": "Thine eyes did see my substance, yet being unperfect; and in thy book all my members were written, which in continuance were fashioned, when as yet there was none of them."
+        }
+    ],
+    "tone": "praising"
+}

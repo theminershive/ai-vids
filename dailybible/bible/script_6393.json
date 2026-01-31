@@ -1,0 +1,19 @@
+{
+    "book": "Matthew",
+    "chapter": "Chapter 26",
+    "verses": [
+        {
+            "name": "Matthew 26:62",
+            "text": "And the high priest arose, and said unto him, Answerest thou nothing? what is it which these witness against thee?"
+        },
+        {
+            "name": "Matthew 26:63",
+            "text": "But Jesus held his peace. And the high priest answered and said unto him, I adjure thee by the living God, that thou tell us whether thou be the Christ, the Son of God."
+        },
+        {
+            "name": "Matthew 26:64",
+            "text": "Jesus saith unto him, Thou hast said: nevertheless I say unto you, Hereafter shall ye see the Son of man sitting on the right hand of power, and coming in the clouds of heaven."
+        }
+    ],
+    "tone": "neutral"
+}

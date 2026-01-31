@@ -1,0 +1,23 @@
+{
+    "book": "John",
+    "chapter": "Chapter 18",
+    "verses": [
+        {
+            "name": "John 18:25",
+            "text": "And Simon Peter stood and warmed himself. They said therefore unto him, Art not thou also one of his disciples? He denied it, and said, I am not."
+        },
+        {
+            "name": "John 18:26",
+            "text": "One of the servants of the high priest, being his kinsman whose ear Peter cut off, saith, Did not I see thee in the garden with him?"
+        },
+        {
+            "name": "John 18:27",
+            "text": "Peter then denied again: and immediately the cock crew."
+        },
+        {
+            "name": "John 18:28",
+            "text": "Then led they Jesus from Caiaphas unto the hall of judgment: and it was early; and they themselves went not into the judgment hall, lest they should be defiled; but that they might eat the passover."
+        }
+    ],
+    "tone": "neutral"
+}

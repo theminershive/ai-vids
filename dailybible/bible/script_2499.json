@@ -1,0 +1,15 @@
+{
+    "book": "1 Kings",
+    "chapter": "Chapter 2",
+    "verses": [
+        {
+            "name": "1 Kings 2:7",
+            "text": "But shew kindness unto the sons of Barzillai the Gileadite, and let them be of those that eat at thy table: for so they came to me when I fled because of Absalom thy brother."
+        },
+        {
+            "name": "1 Kings 2:8",
+            "text": "And, behold, thou hast with thee Shimei the son of Gera, a Benjamite of Bahurim, which cursed me with a grievous curse in the day when I went to Mahanaim: but he came down to meet me at Jordan, and I sware to him by the Lord, saying, I will not put thee to death with the sword."
+        }
+    ],
+    "tone": "neutral"
+}

@@ -1,0 +1,19 @@
+{
+    "book": "2 Samuel",
+    "chapter": "Chapter 5",
+    "verses": [
+        {
+            "name": "2 Samuel 5:1",
+            "text": "Then came all the tribes of Israel to David unto Hebron, and spake, saying, Behold, we are thy bone and thy flesh."
+        },
+        {
+            "name": "2 Samuel 5:2",
+            "text": "Also in time past, when Saul was king over us, thou wast he that leddest out and broughtest in Israel: and the Lord said to thee, Thou shalt feed my people Israel, and thou shalt be a captain over Israel."
+        },
+        {
+            "name": "2 Samuel 5:3",
+            "text": "So all the elders of Israel came to the king to Hebron; and king David made a league with them in Hebron before the Lord: and they anointed David king over Israel."
+        }
+    ],
+    "tone": "neutral"
+}

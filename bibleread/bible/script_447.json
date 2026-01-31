@@ -1,0 +1,23 @@
+{
+    "book": "Exodus",
+    "chapter": "Chapter 7",
+    "verses": [
+        {
+            "name": "Exodus 7:8",
+            "text": "And the Lord spake unto Moses and unto Aaron, saying,"
+        },
+        {
+            "name": "Exodus 7:9",
+            "text": "When Pharaoh shall speak unto you, saying, Shew a miracle for you: then thou shalt say unto Aaron, Take thy rod, and cast it before Pharaoh, and it shall become a serpent."
+        },
+        {
+            "name": "Exodus 7:10",
+            "text": "And Moses and Aaron went in unto Pharaoh, and they did so as the Lord had commanded: and Aaron cast down his rod before Pharaoh, and before his servants, and it became a serpent."
+        },
+        {
+            "name": "Exodus 7:11",
+            "text": "Then Pharaoh also called the wise men and the sorcerers: now the magicians of Egypt, they also did in like manner with their enchantments."
+        }
+    ],
+    "tone": "neutral"
+}

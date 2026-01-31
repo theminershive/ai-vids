@@ -1,0 +1,19 @@
+{
+    "book": "1 Corinthians",
+    "chapter": "Chapter 5",
+    "verses": [
+        {
+            "name": "1 Corinthians 5:11",
+            "text": "But now I have written unto you not to keep company, if any man that is called a brother be a fornicator, or covetous, or an idolater, or a railer, or a drunkard, or an extortioner; with such an one no not to eat."
+        },
+        {
+            "name": "1 Corinthians 5:12",
+            "text": "For what have I to do to judge them also that are without? do not ye judge them that are within?"
+        },
+        {
+            "name": "1 Corinthians 5:13",
+            "text": "But them that are without God judgeth. Therefore put away from among yourselves that wicked person. "
+        }
+    ],
+    "tone": "lamenting"
+}

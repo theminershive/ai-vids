@@ -1,0 +1,19 @@
+{
+    "book": "Leviticus",
+    "chapter": "Chapter 4",
+    "verses": [
+        {
+            "name": "Leviticus 4:1",
+            "text": "And the Lord spake unto Moses, saying,"
+        },
+        {
+            "name": "Leviticus 4:2",
+            "text": "Speak unto the children of Israel, saying, If a soul shall sin through ignorance against any of the commandments of the Lord concerning things which ought not to be done, and shall do against any of them:"
+        },
+        {
+            "name": "Leviticus 4:3",
+            "text": "If the priest that is anointed do sin according to the sin of the people; then let him bring for his sin, which he hath sinned, a young bullock without blemish unto the Lord for a sin offering."
+        }
+    ],
+    "tone": "lamenting"
+}

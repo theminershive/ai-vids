@@ -1,0 +1,19 @@
+{
+    "book": "1 Corinthians",
+    "chapter": "Chapter 4",
+    "verses": [
+        {
+            "name": "1 Corinthians 4:7",
+            "text": "For who maketh thee to differ from another? and what hast thou that thou didst not receive? now if thou didst receive it, why dost thou glory, as if thou hadst not received it? "
+        },
+        {
+            "name": "1 Corinthians 4:8",
+            "text": "Now ye are full, now ye are rich, ye have reigned as kings without us: and I would to God ye did reign, that we also might reign with you."
+        },
+        {
+            "name": "1 Corinthians 4:9",
+            "text": "For I think that God hath set forth us the apostles last, as it were appointed to death: for we are made a spectacle unto the world, and to angels, and to men."
+        }
+    ],
+    "tone": "hopeful"
+}

@@ -1,0 +1,19 @@
+{
+    "book": "1 Samuel",
+    "chapter": "Chapter 13",
+    "verses": [
+        {
+            "name": "1 Samuel 13:14",
+            "text": "But now thy kingdom shall not continue: the Lord hath sought him a man after his own heart, and the Lord hath commanded him to be captain over his people, because thou hast not kept that which the Lord commanded thee."
+        },
+        {
+            "name": "1 Samuel 13:15",
+            "text": "And Samuel arose, and gat him up from Gilgal unto Gibeah of Benjamin. And Saul numbered the people that were present with him, about six hundred men."
+        },
+        {
+            "name": "1 Samuel 13:16",
+            "text": "And Saul, and Jonathan his son, and the people that were present with them, abode in Gibeah of Benjamin: but the Philistines encamped in Michmash."
+        }
+    ],
+    "tone": "neutral"
+}

@@ -1,0 +1,15 @@
+{
+    "book": "Joshua",
+    "chapter": "Chapter 5",
+    "verses": [
+        {
+            "name": "Joshua 5:13",
+            "text": "And it came to pass, when Joshua was by Jericho, that he lifted up his eyes and looked, and, behold, there stood a man over against him with his sword drawn in his hand: and Joshua went unto him, and said unto him, Art thou for us, or for our adversaries?"
+        },
+        {
+            "name": "Joshua 5:14",
+            "text": "And he said, Nay; but as captain of the host of the Lord am I now come. And Joshua fell on his face to the earth, and did worship, and said unto him, What saith my lord unto his servant?"
+        }
+    ],
+    "tone": "neutral"
+}

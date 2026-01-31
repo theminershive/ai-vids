@@ -1,0 +1,23 @@
+{
+    "book": "2 Kings",
+    "chapter": "Chapter 6",
+    "verses": [
+        {
+            "name": "2 Kings 6:1",
+            "text": "And the sons of the prophets said unto Elisha, Behold now, the place where we dwell with thee is too strait for us."
+        },
+        {
+            "name": "2 Kings 6:2",
+            "text": "Let us go, we pray thee, unto Jordan, and take thence every man a beam, and let us make us a place there, where we may dwell. And he answered, Go ye."
+        },
+        {
+            "name": "2 Kings 6:3",
+            "text": "And one said, Be content, I pray thee, and go with thy servants. And he answered, I will go."
+        },
+        {
+            "name": "2 Kings 6:4",
+            "text": "So he went with them. And when they came to Jordan, they cut down wood."
+        }
+    ],
+    "tone": "neutral"
+}

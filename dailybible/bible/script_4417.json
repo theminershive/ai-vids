@@ -1,0 +1,19 @@
+{
+    "book": "Ecclesiastes",
+    "chapter": "Chapter 1",
+    "verses": [
+        {
+            "name": "Ecclesiastes 1:7",
+            "text": "All the rivers run into the sea; yet the sea is not full; unto the place from whence the rivers come, thither they return again."
+        },
+        {
+            "name": "Ecclesiastes 1:8",
+            "text": "All things are full of labour; man cannot utter it: the eye is not satisfied with seeing, nor the ear filled with hearing."
+        },
+        {
+            "name": "Ecclesiastes 1:9",
+            "text": "The thing that hath been, it is that which shall be; and that which is done is that which shall be done: and there is no new thing under the sun."
+        }
+    ],
+    "tone": "neutral"
+}

@@ -1,0 +1,23 @@
+{
+    "book": "Acts",
+    "chapter": "Chapter 16",
+    "verses": [
+        {
+            "name": "Acts 16:18",
+            "text": "And this did she many days. But Paul, being grieved, turned and said to the spirit, I command thee in the name of Jesus Christ to come out of her. And he came out the same hour."
+        },
+        {
+            "name": "Acts 16:19",
+            "text": "And when her masters saw that the hope of their gains was gone, they caught Paul and Silas, and drew them into the marketplace unto the rulers,"
+        },
+        {
+            "name": "Acts 16:20",
+            "text": "And brought them to the magistrates, saying, These men, being Jews, do exceedingly trouble our city,"
+        },
+        {
+            "name": "Acts 16:21",
+            "text": "And teach customs, which are not lawful for us to receive, neither to observe, being Romans."
+        }
+    ],
+    "tone": "instructional"
+}

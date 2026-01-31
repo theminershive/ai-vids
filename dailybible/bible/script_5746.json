@@ -1,0 +1,19 @@
+{
+    "book": "Daniel",
+    "chapter": "Chapter 2",
+    "verses": [
+        {
+            "name": "Daniel 2:1",
+            "text": "And in the second year of the reign of Nebuchadnezzar Nebuchadnezzar dreamed dreams, wherewith his spirit was troubled, and his sleep brake from him."
+        },
+        {
+            "name": "Daniel 2:2",
+            "text": "Then the king commanded to call the magicians, and the astrologers, and the sorcerers, and the Chaldeans, for to shew the king his dreams. So they came and stood before the king."
+        },
+        {
+            "name": "Daniel 2:3",
+            "text": "And the king said unto them, I have dreamed a dream, and my spirit was troubled to know the dream."
+        }
+    ],
+    "tone": "neutral"
+}

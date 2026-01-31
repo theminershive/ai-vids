@@ -1,0 +1,23 @@
+{
+    "book": "John",
+    "chapter": "Chapter 4",
+    "verses": [
+        {
+            "name": "John 4:33",
+            "text": "Therefore said the disciples one to another, Hath any man brought him ought to eat?"
+        },
+        {
+            "name": "John 4:34",
+            "text": "Jesus saith unto them, My meat is to do the will of him that sent me, and to finish his work."
+        },
+        {
+            "name": "John 4:35",
+            "text": "Say not ye, There are yet four months, and then cometh harvest? behold, I say unto you, Lift up your eyes, and look on the fields; for they are white already to harvest."
+        },
+        {
+            "name": "John 4:36",
+            "text": "And he that reapeth receiveth wages, and gathereth fruit unto life eternal: that both he that soweth and he that reapeth may rejoice together."
+        }
+    ],
+    "tone": "hopeful"
+}

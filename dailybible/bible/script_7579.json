@@ -1,0 +1,19 @@
+{
+    "book": "2 Corinthians",
+    "chapter": "Chapter 12",
+    "verses": [
+        {
+            "name": "2 Corinthians 12:11",
+            "text": "I am become a fool in glorying; ye have compelled me: for I ought to have been commended of you: for in nothing am I behind the very chiefest apostles, though I be nothing."
+        },
+        {
+            "name": "2 Corinthians 12:12",
+            "text": "Truly the signs of an apostle were wrought among you in all patience, in signs, and wonders, and mighty deeds."
+        },
+        {
+            "name": "2 Corinthians 12:13",
+            "text": "For what is it wherein ye were inferior to other churches, except it be that I myself was not burdensome to you? forgive me this wrong."
+        }
+    ],
+    "tone": "lamenting"
+}

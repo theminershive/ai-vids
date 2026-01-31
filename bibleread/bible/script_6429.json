@@ -1,0 +1,19 @@
+{
+    "book": "Mark",
+    "chapter": "Chapter 2",
+    "verses": [
+        {
+            "name": "Mark 2:15",
+            "text": "And it came to pass, that, as Jesus sat at meat in his house, many publicans and sinners sat also together with Jesus and his disciples: for there were many, and they followed him."
+        },
+        {
+            "name": "Mark 2:16",
+            "text": "And when the scribes and Pharisees saw him eat with publicans and sinners, they said unto his disciples, How is it that he eateth and drinketh with publicans and sinners?"
+        },
+        {
+            "name": "Mark 2:17",
+            "text": "When Jesus heard it, he saith unto them, They that are whole have no need of the physician, but they that are sick: I came not to call the righteous, but sinners to repentance."
+        }
+    ],
+    "tone": "neutral"
+}

@@ -1,0 +1,23 @@
+{
+    "book": "Hebrews",
+    "chapter": "Chapter 10",
+    "verses": [
+        {
+            "name": "Hebrews 10:1",
+            "text": "For the law having a shadow of good things to come, and not the very image of the things, can never with those sacrifices which they offered year by year continually make the comers thereunto perfect."
+        },
+        {
+            "name": "Hebrews 10:2",
+            "text": "For then would they not have ceased to be offered? because that the worshippers once purged should have had no more conscience of sins."
+        },
+        {
+            "name": "Hebrews 10:3",
+            "text": "But in those sacrifices there is a remembrance again made of sins every year."
+        },
+        {
+            "name": "Hebrews 10:4",
+            "text": "For it is not possible that the blood of bulls and of goats should take away sins."
+        }
+    ],
+    "tone": "instructional"
+}

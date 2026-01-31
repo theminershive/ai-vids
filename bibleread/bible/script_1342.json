@@ -1,0 +1,19 @@
+{
+    "book": "Deuteronomy",
+    "chapter": "Chapter 1",
+    "verses": [
+        {
+            "name": "Deuteronomy 1:35",
+            "text": "Surely there shall not one of these men of this evil generation see that good land, which I sware to give unto your fathers,"
+        },
+        {
+            "name": "Deuteronomy 1:36",
+            "text": "Save Caleb the son of Jephunneh; he shall see it, and to him will I give the land that he hath trodden upon, and to his children, because he hath wholly followed the Lord."
+        },
+        {
+            "name": "Deuteronomy 1:37",
+            "text": "Also the Lord was angry with me for your sakes, saying, Thou also shalt not go in thither."
+        }
+    ],
+    "tone": "instructional"
+}

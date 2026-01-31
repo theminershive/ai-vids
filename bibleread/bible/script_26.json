@@ -1,0 +1,23 @@
+{
+    "book": "Genesis",
+    "chapter": "Chapter 4",
+    "verses": [
+        {
+            "name": "Genesis 4:9",
+            "text": "And the Lord said unto Cain, Where is Abel thy brother? And he said, I know not: Am I my brother\u2019s keeper?"
+        },
+        {
+            "name": "Genesis 4:10",
+            "text": "And he said, What hast thou done? the voice of thy brother\u2019s blood crieth unto me from the ground."
+        },
+        {
+            "name": "Genesis 4:11",
+            "text": "And now art thou cursed from the earth, which hath opened her mouth to receive thy brother\u2019s blood from thy hand;"
+        },
+        {
+            "name": "Genesis 4:12",
+            "text": "When thou tillest the ground, it shall not henceforth yield unto thee her strength; a fugitive and a vagabond shalt thou be in the earth."
+        }
+    ],
+    "tone": "neutral"
+}

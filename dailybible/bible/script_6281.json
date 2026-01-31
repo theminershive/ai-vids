@@ -1,0 +1,31 @@
+{
+    "book": "Matthew",
+    "chapter": "Chapter 15",
+    "verses": [
+        {
+            "name": "Matthew 15:16",
+            "text": "And Jesus said, Are ye also yet without understanding?"
+        },
+        {
+            "name": "Matthew 15:17",
+            "text": "Do not ye yet understand, that whatsoever entereth in at the mouth goeth into the belly, and is cast out into the draught?"
+        },
+        {
+            "name": "Matthew 15:18",
+            "text": "But those things which proceed out of the mouth come forth from the heart; and they defile the man."
+        },
+        {
+            "name": "Matthew 15:19",
+            "text": "For out of the heart proceed evil thoughts, murders, adulteries, fornications, thefts, false witness, blasphemies:"
+        },
+        {
+            "name": "Matthew 15:20",
+            "text": "These are the things which defile a man: but to eat with unwashen hands defileth not a man."
+        },
+        {
+            "name": "Matthew 15:21",
+            "text": "Then Jesus went thence, and departed into the coasts of Tyre and Sidon."
+        }
+    ],
+    "tone": "instructional"
+}

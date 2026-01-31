@@ -1,0 +1,23 @@
+{
+    "book": "Matthew",
+    "chapter": "Chapter 10",
+    "verses": [
+        {
+            "name": "Matthew 10:33",
+            "text": "But whosoever shall deny me before men, him will I also deny before my Father which is in heaven."
+        },
+        {
+            "name": "Matthew 10:34",
+            "text": "Think not that I am come to send peace on earth: I came not to send peace, but a sword."
+        },
+        {
+            "name": "Matthew 10:35",
+            "text": "For I am come to set a man at variance against his father, and the daughter against her mother, and the daughter in law against her mother in law."
+        },
+        {
+            "name": "Matthew 10:36",
+            "text": "And a man\u2019s foes shall be they of his own household."
+        }
+    ],
+    "tone": "hopeful"
+}

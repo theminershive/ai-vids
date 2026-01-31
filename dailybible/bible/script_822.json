@@ -1,0 +1,23 @@
+{
+    "book": "Leviticus",
+    "chapter": "Chapter 11",
+    "verses": [
+        {
+            "name": "Leviticus 11:5",
+            "text": "And the coney, because he cheweth the cud, but divideth not the hoof; he is unclean unto you."
+        },
+        {
+            "name": "Leviticus 11:6",
+            "text": "And the hare, because he cheweth the cud, but divideth not the hoof; he is unclean unto you."
+        },
+        {
+            "name": "Leviticus 11:7",
+            "text": "And the swine, though he divide the hoof, and be clovenfooted, yet he cheweth not the cud; he is unclean to you."
+        },
+        {
+            "name": "Leviticus 11:8",
+            "text": "Of their flesh shall ye not eat, and their carcase shall ye not touch; they are unclean to you."
+        }
+    ],
+    "tone": "neutral"
+}

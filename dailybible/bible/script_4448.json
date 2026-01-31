@@ -1,0 +1,23 @@
+{
+    "book": "Ecclesiastes",
+    "chapter": "Chapter 7",
+    "verses": [
+        {
+            "name": "Ecclesiastes 7:10",
+            "text": "Say not thou, What is the cause that the former days were better than these? for thou dost not enquire wisely concerning this."
+        },
+        {
+            "name": "Ecclesiastes 7:11",
+            "text": "Wisdom is good with an inheritance: and by it there is profit to them that see the sun."
+        },
+        {
+            "name": "Ecclesiastes 7:12",
+            "text": "For wisdom is a defence, and money is a defence: but the excellency of knowledge is, that wisdom giveth life to them that have it."
+        },
+        {
+            "name": "Ecclesiastes 7:13",
+            "text": "Consider the work of God: for who can make that straight, which he hath made crooked?"
+        }
+    ],
+    "tone": "instructional"
+}

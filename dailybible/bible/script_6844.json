@@ -1,0 +1,27 @@
+{
+    "book": "Luke",
+    "chapter": "Chapter 23",
+    "verses": [
+        {
+            "name": "Luke 23:42",
+            "text": "And he said unto Jesus, Lord, remember me when thou comest into thy kingdom."
+        },
+        {
+            "name": "Luke 23:43",
+            "text": "And Jesus said unto him, Verily I say unto thee, To day shalt thou be with me in paradise."
+        },
+        {
+            "name": "Luke 23:44",
+            "text": "And it was about the sixth hour, and there was a darkness over all the earth until the ninth hour."
+        },
+        {
+            "name": "Luke 23:45",
+            "text": "And the sun was darkened, and the veil of the temple was rent in the midst."
+        },
+        {
+            "name": "Luke 23:46",
+            "text": "And when Jesus had cried with a loud voice, he said, Father, into thy hands I commend my spirit: and having said thus, he gave up the ghost."
+        }
+    ],
+    "tone": "neutral"
+}

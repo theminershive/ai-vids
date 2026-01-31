@@ -1,0 +1,19 @@
+{
+    "book": "1 Corinthians",
+    "chapter": "Chapter 2",
+    "verses": [
+        {
+            "name": "1 Corinthians 2:6",
+            "text": "Howbeit we speak wisdom among them that are perfect: yet not the wisdom of this world, nor of the princes of this world, that come to nought:"
+        },
+        {
+            "name": "1 Corinthians 2:7",
+            "text": "But we speak the wisdom of God in a mystery, even the hidden wisdom, which God ordained before the world unto our glory:"
+        },
+        {
+            "name": "1 Corinthians 2:8",
+            "text": "Which none of the princes of this world knew: for had they known it, they would not have crucified the Lord of glory."
+        }
+    ],
+    "tone": "instructional"
+}

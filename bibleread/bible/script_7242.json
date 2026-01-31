@@ -1,0 +1,19 @@
+{
+    "book": "Acts",
+    "chapter": "Chapter 20",
+    "verses": [
+        {
+            "name": "Acts 20:16",
+            "text": "For Paul had determined to sail by Ephesus, because he would not spend the time in Asia: for he hasted, if it were possible for him, to be at Jerusalem the day of Pentecost."
+        },
+        {
+            "name": "Acts 20:17",
+            "text": "And from Miletus he sent to Ephesus, and called the elders of the church."
+        },
+        {
+            "name": "Acts 20:18",
+            "text": "And when they were come to him, he said unto them, Ye know, from the first day that I came into Asia, after what manner I have been with you at all seasons,"
+        }
+    ],
+    "tone": "neutral"
+}

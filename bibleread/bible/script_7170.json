@@ -1,0 +1,23 @@
+{
+    "book": "Acts",
+    "chapter": "Chapter 12",
+    "verses": [
+        {
+            "name": "Acts 12:22",
+            "text": "And the people gave a shout, saying, It is the voice of a god, and not of a man."
+        },
+        {
+            "name": "Acts 12:23",
+            "text": "And immediately the angel of the Lord smote him, because he gave not God the glory: and he was eaten of worms, and gave up the ghost."
+        },
+        {
+            "name": "Acts 12:24",
+            "text": "But the word of God grew and multiplied."
+        },
+        {
+            "name": "Acts 12:25",
+            "text": "And Barnabas and Saul returned from Jerusalem, when they had fulfilled their ministry, and took with them John, whose surname was Mark. "
+        }
+    ],
+    "tone": "neutral"
+}

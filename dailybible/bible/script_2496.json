@@ -1,0 +1,19 @@
+{
+    "book": "1 Kings",
+    "chapter": "Chapter 1",
+    "verses": [
+        {
+            "name": "1 Kings 1:50",
+            "text": "And Adonijah feared because of Solomon, and arose, and went, and caught hold on the horns of the altar."
+        },
+        {
+            "name": "1 Kings 1:51",
+            "text": "And it was told Solomon, saying, Behold, Adonijah feareth king Solomon: for, lo, he hath caught hold on the horns of the altar, saying, Let king Solomon swear unto me to day that he will not slay his servant with the sword."
+        },
+        {
+            "name": "1 Kings 1:52",
+            "text": "And Solomon said, If he will shew himself a worthy man, there shall not an hair of him fall to the earth: but if wickedness shall be found in him, he shall die."
+        }
+    ],
+    "tone": "neutral"
+}

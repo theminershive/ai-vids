@@ -1,0 +1,23 @@
+{
+    "book": "Song of Solomon",
+    "chapter": "Chapter 2",
+    "verses": [
+        {
+            "name": "Song of Songs 2:14",
+            "text": "O my dove, that art in the clefts of the rock, in the secret places of the stairs, let me see thy countenance, let me hear thy voice; for sweet is thy voice, and thy countenance is comely."
+        },
+        {
+            "name": "Song of Songs 2:15",
+            "text": "Take us the foxes, the little foxes, that spoil the vines: for our vines have tender grapes."
+        },
+        {
+            "name": "Song of Songs 2:16",
+            "text": "My beloved is mine, and I am his: he feedeth among the lilies."
+        },
+        {
+            "name": "Song of Songs 2:17",
+            "text": "Until the day break, and the shadows flee away, turn, my beloved, and be thou like a roe or a young hart upon the mountains of Bether. "
+        }
+    ],
+    "tone": "neutral"
+}

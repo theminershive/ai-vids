@@ -1,0 +1,39 @@
+{
+    "book": "Matthew",
+    "chapter": "Chapter 5",
+    "verses": [
+        {
+            "name": "Matthew 5:1",
+            "text": "And seeing the multitudes, he went up into a mountain: and when he was set, his disciples came unto him:"
+        },
+        {
+            "name": "Matthew 5:2",
+            "text": "And he opened his mouth, and taught them, saying,"
+        },
+        {
+            "name": "Matthew 5:3",
+            "text": "Blessed are the poor in spirit: for theirs is the kingdom of heaven."
+        },
+        {
+            "name": "Matthew 5:4",
+            "text": "Blessed are they that mourn: for they shall be comforted."
+        },
+        {
+            "name": "Matthew 5:5",
+            "text": "Blessed are the meek: for they shall inherit the earth."
+        },
+        {
+            "name": "Matthew 5:6",
+            "text": "Blessed are they which do hunger and thirst after righteousness: for they shall be filled."
+        },
+        {
+            "name": "Matthew 5:7",
+            "text": "Blessed are the merciful: for they shall obtain mercy."
+        },
+        {
+            "name": "Matthew 5:8",
+            "text": "Blessed are the pure in heart: for they shall see God."
+        }
+    ],
+    "tone": "neutral"
+}

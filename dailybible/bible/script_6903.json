@@ -1,0 +1,31 @@
+{
+    "book": "John",
+    "chapter": "Chapter 5",
+    "verses": [
+        {
+            "name": "John 5:37",
+            "text": "And the Father himself, which hath sent me, hath borne witness of me. Ye have neither heard his voice at any time, nor seen his shape."
+        },
+        {
+            "name": "John 5:38",
+            "text": "And ye have not his word abiding in you: for whom he hath sent, him ye believe not."
+        },
+        {
+            "name": "John 5:39",
+            "text": "Search the scriptures; for in them ye think ye have eternal life: and they are they which testify of me."
+        },
+        {
+            "name": "John 5:40",
+            "text": "And ye will not come to me, that ye might have life."
+        },
+        {
+            "name": "John 5:41",
+            "text": "I receive not honour from men."
+        },
+        {
+            "name": "John 5:42",
+            "text": "But I know you, that ye have not the love of God in you."
+        }
+    ],
+    "tone": "hopeful"
+}

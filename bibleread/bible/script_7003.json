@@ -1,0 +1,23 @@
+{
+    "book": "John",
+    "chapter": "Chapter 14",
+    "verses": [
+        {
+            "name": "John 14:18",
+            "text": "I will not leave you comfortless: I will come to you."
+        },
+        {
+            "name": "John 14:19",
+            "text": "Yet a little while, and the world seeth me no more; but ye see me: because I live, ye shall live also."
+        },
+        {
+            "name": "John 14:20",
+            "text": "At that day ye shall know that I am in my Father, and ye in me, and I in you."
+        },
+        {
+            "name": "John 14:21",
+            "text": "He that hath my commandments, and keepeth them, he it is that loveth me: and he that loveth me shall be loved of my Father, and I will love him, and will manifest myself to him."
+        }
+    ],
+    "tone": "hopeful"
+}

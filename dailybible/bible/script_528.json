@@ -1,0 +1,19 @@
+{
+    "book": "Exodus",
+    "chapter": "Chapter 16",
+    "verses": [
+        {
+            "name": "Exodus 16:13",
+            "text": "And it came to pass, that at even the quails came up, and covered the camp: and in the morning the dew lay round about the host."
+        },
+        {
+            "name": "Exodus 16:14",
+            "text": "And when the dew that lay was gone up, behold, upon the face of the wilderness there lay a small round thing, as small as the hoar frost on the ground."
+        },
+        {
+            "name": "Exodus 16:15",
+            "text": "And when the children of Israel saw it, they said one to another, It is manna: for they wist not what it was. And Moses said unto them, This is the bread which the Lord hath given you to eat."
+        }
+    ],
+    "tone": "neutral"
+}

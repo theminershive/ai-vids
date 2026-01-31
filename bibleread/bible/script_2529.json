@@ -1,0 +1,19 @@
+{
+    "book": "1 Kings",
+    "chapter": "Chapter 5",
+    "verses": [
+        {
+            "name": "1 Kings 5:1",
+            "text": "And Hiram king of Tyre sent his servants unto Solomon; for he had heard that they had anointed him king in the room of his father: for Hiram was ever a lover of David."
+        },
+        {
+            "name": "1 Kings 5:2",
+            "text": "And Solomon sent to Hiram, saying,"
+        },
+        {
+            "name": "1 Kings 5:3",
+            "text": "Thou knowest how that David my father could not build an house unto the name of the Lord his God for the wars which were about him on every side, until the Lord put them under the soles of his feet."
+        }
+    ],
+    "tone": "neutral"
+}

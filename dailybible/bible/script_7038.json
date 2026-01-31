@@ -1,0 +1,19 @@
+{
+    "book": "John",
+    "chapter": "Chapter 19",
+    "verses": [
+        {
+            "name": "John 19:13",
+            "text": "When Pilate therefore heard that saying, he brought Jesus forth, and sat down in the judgment seat in a place that is called the Pavement, but in the Hebrew, Gabbatha."
+        },
+        {
+            "name": "John 19:14",
+            "text": "And it was the preparation of the passover, and about the sixth hour: and he saith unto the Jews, Behold your King!"
+        },
+        {
+            "name": "John 19:15",
+            "text": "But they cried out, Away with him, away with him, crucify him. Pilate saith unto them, Shall I crucify your King? The chief priests answered, We have no king but Cesar."
+        }
+    ],
+    "tone": "neutral"
+}

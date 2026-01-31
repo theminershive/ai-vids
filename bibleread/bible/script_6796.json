@@ -1,0 +1,27 @@
+{
+    "book": "Luke",
+    "chapter": "Chapter 19",
+    "verses": [
+        {
+            "name": "Luke 19:30",
+            "text": "Saying, Go ye into the village over against you; in the which at your entering ye shall find a colt tied, whereon yet never man sat: loose him, and bring him hither."
+        },
+        {
+            "name": "Luke 19:31",
+            "text": "And if any man ask you, Why do ye loose him? thus shall ye say unto him, Because the Lord hath need of him."
+        },
+        {
+            "name": "Luke 19:32",
+            "text": "And they that were sent went their way, and found even as he had said unto them."
+        },
+        {
+            "name": "Luke 19:33",
+            "text": "And as they were loosing the colt, the owners thereof said unto them, Why loose ye the colt?"
+        },
+        {
+            "name": "Luke 19:34",
+            "text": "And they said, The Lord hath need of him."
+        }
+    ],
+    "tone": "neutral"
+}

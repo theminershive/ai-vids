@@ -1,0 +1,31 @@
+{
+    "book": "2 Timothy",
+    "chapter": "Chapter 3",
+    "verses": [
+        {
+            "name": "2 Timothy 3:1",
+            "text": "This know also, that in the last days perilous times shall come."
+        },
+        {
+            "name": "2 Timothy 3:2",
+            "text": "For men shall be lovers of their own selves, covetous, boasters, proud, blasphemers, disobedient to parents, unthankful, unholy,"
+        },
+        {
+            "name": "2 Timothy 3:3",
+            "text": "Without natural affection, trucebreakers, false accusers, incontinent, fierce, despisers of those that are good,"
+        },
+        {
+            "name": "2 Timothy 3:4",
+            "text": "Traitors, heady, highminded, lovers of pleasures more than lovers of God;"
+        },
+        {
+            "name": "2 Timothy 3:5",
+            "text": "Having a form of godliness, but denying the power thereof: from such turn away."
+        },
+        {
+            "name": "2 Timothy 3:6",
+            "text": "For of this sort are they which creep into houses, and lead captive silly women laden with sins, led away with divers lusts,"
+        }
+    ],
+    "tone": "neutral"
+}

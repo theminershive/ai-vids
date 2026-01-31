@@ -1,0 +1,31 @@
+{
+    "book": "Ezra",
+    "chapter": "Chapter 8",
+    "verses": [
+        {
+            "name": "Ezra 8:5",
+            "text": "Of the sons of Shechaniah; the son of Jahaziel, and with him three hundred males."
+        },
+        {
+            "name": "Ezra 8:6",
+            "text": "Of the sons also of Adin; Ebed the son of Jonathan, and with him fifty males."
+        },
+        {
+            "name": "Ezra 8:7",
+            "text": "And of the sons of Elam; Jeshaiah the son of Athaliah, and with him seventy males."
+        },
+        {
+            "name": "Ezra 8:8",
+            "text": "And of the sons of Shephatiah; Zebadiah the son of Michael, and with him fourscore males."
+        },
+        {
+            "name": "Ezra 8:9",
+            "text": "Of the sons of Joab; Obadiah the son of Jehiel, and with him two hundred and eighteen males."
+        },
+        {
+            "name": "Ezra 8:10",
+            "text": "And of the sons of Shelomith; the son of Josiphiah, and with him an hundred and threescore males."
+        }
+    ],
+    "tone": "neutral"
+}

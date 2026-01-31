@@ -1,0 +1,23 @@
+{
+    "book": "Matthew",
+    "chapter": "Chapter 24",
+    "verses": [
+        {
+            "name": "Matthew 24:43",
+            "text": "But know this, that if the goodman of the house had known in what watch the thief would come, he would have watched, and would not have suffered his house to be broken up."
+        },
+        {
+            "name": "Matthew 24:44",
+            "text": "Therefore be ye also ready: for in such an hour as ye think not the Son of man cometh."
+        },
+        {
+            "name": "Matthew 24:45",
+            "text": "Who then is a faithful and wise servant, whom his lord hath made ruler over his household, to give them meat in due season?"
+        },
+        {
+            "name": "Matthew 24:46",
+            "text": "Blessed is that servant, whom his lord when he cometh shall find so doing."
+        }
+    ],
+    "tone": "hopeful"
+}

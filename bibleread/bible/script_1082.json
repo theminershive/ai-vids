@@ -1,0 +1,19 @@
+{
+    "book": "Numbers",
+    "chapter": "Chapter 8",
+    "verses": [
+        {
+            "name": "Numbers 8:10",
+            "text": "And thou shalt bring the Levites before the Lord: and the children of Israel shall put their hands upon the Levites:"
+        },
+        {
+            "name": "Numbers 8:11",
+            "text": "And Aaron shall offer the Levites before the Lord for an offering of the children of Israel, that they may execute the service of the Lord."
+        },
+        {
+            "name": "Numbers 8:12",
+            "text": "And the Levites shall lay their hands upon the heads of the bullocks: and thou shalt offer the one for a sin offering, and the other for a burnt offering, unto the Lord, to make an atonement for the Levites."
+        }
+    ],
+    "tone": "lamenting"
+}

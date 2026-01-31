@@ -1,0 +1,23 @@
+{
+    "book": "Luke",
+    "chapter": "Chapter 20",
+    "verses": [
+        {
+            "name": "Luke 20:24",
+            "text": "Shew me a penny. Whose image and superscription hath it? They answered and said, Cesar\u2019s."
+        },
+        {
+            "name": "Luke 20:25",
+            "text": "And he said unto them, Render therefore unto Cesar the things which be Cesar\u2019s, and unto God the things which be God\u2019s."
+        },
+        {
+            "name": "Luke 20:26",
+            "text": "And they could not take hold of his words before the people: and they marvelled at his answer, and held their peace."
+        },
+        {
+            "name": "Luke 20:27",
+            "text": "Then came to him certain of the Sadducees, which deny that there is any resurrection; and they asked him,"
+        }
+    ],
+    "tone": "neutral"
+}

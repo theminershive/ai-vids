@@ -4,16 +4,54 @@ import json
 import argparse
 import tempfile
 from typing import List, Dict, Optional
+
 from moviepy.editor import TextClip, ImageClip, VideoFileClip, CompositeVideoClip
 from PIL import Image, ImageFilter
 import matplotlib.font_manager as fm
 import numpy as np
-import openai
 from dotenv import load_dotenv
+
+# Optional (backward-compatible): OpenAI Whisper API
+try:
+    import openai  # legacy SDK (your existing code path)
+except Exception:
+    openai = None
+
+# Local broker STT (new endpoint)
+try:
+    import requests
+except Exception:
+    requests = None
+
 from config import CAPTION_SETTINGS, BASE_DIR
 
 # Load environment variables
 load_dotenv()
+
+# -----------------------------------------------------------------------------
+# Transcription provider selection (.env)
+# -----------------------------------------------------------------------------
+"""
+# .env examples:
+
+# 1) NEW (recommended): Use your local GPU broker STT endpoint
+TRANSCRIBE_PROVIDER=local
+LOCAL_STT_URL=http://127.0.0.1:9910/v1/audio/transcriptions
+LOCAL_STT_TIMEOUT=1800
+
+# 2) OLD (backward compatible): Use OpenAI Whisper API
+TRANSCRIBE_PROVIDER=openai
+OPENAI_API_KEY=sk-...
+
+# Optional fallback if the chosen provider fails:
+TRANSCRIBE_FALLBACK=openai   # or "local" or empty
+"""
+
+TRANSCRIBE_PROVIDER = os.getenv("TRANSCRIBE_PROVIDER", "openai").strip().lower()  # "openai" | "local"
+TRANSCRIBE_FALLBACK = os.getenv("TRANSCRIBE_FALLBACK", "").strip().lower()       # optional
+LOCAL_STT_URL = os.getenv("LOCAL_STT_URL", "http://127.0.0.1:9910/v1/audio/transcriptions").strip()
+LOCAL_STT_TIMEOUT = int(os.getenv("LOCAL_STT_TIMEOUT", "1800"))  # seconds
+
 
 def extract_audio(input_video_path: str) -> str:
     try:
@@ -27,10 +65,66 @@ def extract_audio(input_video_path: str) -> str:
         print(f"Error extracting audio: {e}")
         return ""
 
-def transcribe_audio_whisper(audio_file_path: str) -> Dict:
-    openai.api_key = os.getenv("OPENAI_API_KEY")
-    if not openai.api_key:
+
+# -----------------------------------------------------------------------------
+# NEW: Local broker STT (OpenAI-ish multipart endpoint)
+# POST {LOCAL_STT_URL} with form fields:
+#   file=@audio
+#   language=auto|en...
+#   task=transcribe|translate
+#   response_format=verbose_json
+#   prompt=...
+# Returns: verbose_json style (segments, etc.)
+# -----------------------------------------------------------------------------
+def transcribe_audio_local_broker(audio_file_path: str) -> Dict:
+    if requests is None:
+        raise RuntimeError("requests not installed in this environment. pip install requests")
+
+    if not os.path.isfile(audio_file_path):
+        raise ValueError(f"Audio file not found: {audio_file_path}")
+
+    try:
+        with open(audio_file_path, "rb") as f:
+            files = {"file": (os.path.basename(audio_file_path), f, "application/octet-stream")}
+            data = {
+                "model_name": "faster-whisper",
+                "language": "auto",
+                "task": "transcribe",
+                "response_format": "verbose_json",
+            }
+            resp = requests.post(
+                LOCAL_STT_URL,
+                files=files,
+                data=data,
+                timeout=LOCAL_STT_TIMEOUT,
+            )
+        if resp.status_code != 200:
+            # broker returns JSON {"detail": "..."} on failure
+            try:
+                detail = resp.json()
+            except Exception:
+                detail = resp.text
+            raise RuntimeError(f"Local STT error {resp.status_code}: {detail}")
+
+        return resp.json()
+    except Exception as e:
+        print(f"Error transcribing audio with local broker STT: {e}")
+        return {}
+
+
+# -----------------------------------------------------------------------------
+# OLD: OpenAI Whisper API (legacy code path; preserved for backward compatibility)
+# -----------------------------------------------------------------------------
+def transcribe_audio_whisper_openai(audio_file_path: str) -> Dict:
+    api_key = os.getenv("OPENAI_API_KEY")
+    if not api_key:
         raise ValueError("OpenAI API key not found. Please set OPENAI_API_KEY.")
+    if openai is None:
+        raise RuntimeError("openai package not installed in this environment.")
+
+    # Backward compatible with your existing snippet:
+    openai.api_key = api_key
+
     try:
         with open(audio_file_path, "rb") as audio_file:
             response = openai.Audio.transcribe(
@@ -38,10 +132,46 @@ def transcribe_audio_whisper(audio_file_path: str) -> Dict:
                 model="whisper-1",
                 response_format="verbose_json"
             )
-        return response
+        # Some SDK versions return pydantic-like objects; ensure dict-ish
+        return response if isinstance(response, dict) else dict(response)
     except Exception as e:
-        print(f"Error transcribing audio with Whisper: {e}")
+        print(f"Error transcribing audio with OpenAI Whisper: {e}")
         return {}
+
+
+# -----------------------------------------------------------------------------
+# Unified transcription wrapper (provider + fallback)
+# -----------------------------------------------------------------------------
+def transcribe_audio(audio_file_path: str) -> Dict:
+    provider = TRANSCRIBE_PROVIDER
+    fallback = TRANSCRIBE_FALLBACK
+
+    def _call(p: str) -> Dict:
+        if p == "local":
+            return transcribe_audio_local_broker(audio_file_path)
+        if p == "openai":
+            return transcribe_audio_whisper_openai(audio_file_path)
+        raise ValueError(f"Unknown TRANSCRIBE_PROVIDER: {p}")
+
+    # Primary
+    out = {}
+    try:
+        out = _call(provider)
+    except Exception as e:
+        print(f"Transcription provider '{provider}' failed: {e}")
+        out = {}
+
+    # Optional fallback
+    if (not out) and fallback and fallback != provider:
+        print(f"Falling back to transcription provider '{fallback}'...")
+        try:
+            out = _call(fallback)
+        except Exception as e:
+            print(f"Fallback provider '{fallback}' failed: {e}")
+            out = {}
+
+    return out
+
 
 def generate_captions_from_whisper(transcription: Dict) -> List[Dict]:
     captions = []
@@ -53,6 +183,7 @@ def generate_captions_from_whisper(transcription: Dict) -> List[Dict]:
         })
     return captions
 
+
 def get_default_font() -> str:
     font_path = CAPTION_SETTINGS.get("FONT", "Bangers-Regular.ttf")
     font_path = str((BASE_DIR / font_path).resolve()) if not os.path.isabs(font_path) else font_path
@@ -60,12 +191,14 @@ def get_default_font() -> str:
         return font_path
     return fm.findfont("DejaVu Sans")
 
+
 def does_text_fit(text: str, fontsize: int, font: str, max_width: int) -> bool:
     try:
         txt_clip = TextClip(text, fontsize=fontsize, font=font, method='caption', size=(max_width, None), align='center')
         return txt_clip.w <= max_width
     except Exception:
         return False
+
 
 def split_long_word(word: str, max_length: int = 15) -> List[str]:
     if len(word) <= max_length:
@@ -77,10 +210,12 @@ def split_long_word(word: str, max_length: int = 15) -> List[str]:
     parts.append(word)
     return parts
 
+
 def moviepy_to_pillow(clip) -> Image.Image:
     with tempfile.NamedTemporaryFile(suffix=".png", delete=True) as temp:
         clip.save_frame(temp.name)
         return Image.open(temp.name).convert("RGBA")
+
 
 def _compute_caption_box(video_w: int, video_h: int):
     """Return (box_size, position)."""
@@ -89,6 +224,7 @@ def _compute_caption_box(video_w: int, video_h: int):
     bottom_margin = int(video_h * 0.3)
     y_center = video_h - bottom_margin - height // 2
     return (width, height), ('center', y_center)
+
 
 def add_captions_to_video(
     input_video_path: str,
@@ -212,6 +348,7 @@ def add_captions_to_video(
     except Exception as e:
         print(f"Error writing output video: {e}")
 
+
 def main():
     parser = argparse.ArgumentParser(description='Add captions to video and optionally update workflow JSON.')
     parser.add_argument('json_file', nargs='?', help='Optional path to workflow JSON containing video path.')
@@ -253,10 +390,12 @@ def main():
     if not audio_path:
         sys.exit(1)
 
-    transcription = transcribe_audio_whisper(audio_path)
+    # NEW: choose provider via .env; remains backward compatible
+    transcription = transcribe_audio(audio_path)
+
     try:
         os.remove(audio_path)
-    except:
+    except Exception:
         pass
 
     captions_list = generate_captions_from_whisper(transcription)
@@ -292,6 +431,7 @@ def main():
             print(f"Updated JSON with final video path: {json_file_path}")
         except Exception as e:
             print(f"Error updating JSON file: {e}")
+
 
 if __name__ == "__main__":
     main()

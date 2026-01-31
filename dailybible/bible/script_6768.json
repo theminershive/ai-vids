@@ -1,0 +1,23 @@
+{
+    "book": "Luke",
+    "chapter": "Chapter 16",
+    "verses": [
+        {
+            "name": "Luke 16:19",
+            "text": "There was a certain rich man, which was clothed in purple and fine linen, and fared sumptuously every day:"
+        },
+        {
+            "name": "Luke 16:20",
+            "text": "And there was a certain beggar named Lazarus, which was laid at his gate, full of sores,"
+        },
+        {
+            "name": "Luke 16:21",
+            "text": "And desiring to be fed with the crumbs which fell from the rich man\u2019s table: moreover the dogs came and licked his sores."
+        },
+        {
+            "name": "Luke 16:22",
+            "text": "And it came to pass, that the beggar died, and was carried by the angels into Abraham\u2019s bosom: the rich man also died, and was buried;"
+        }
+    ],
+    "tone": "hopeful"
+}

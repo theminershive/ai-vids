@@ -1,0 +1,27 @@
+{
+    "book": "Romans",
+    "chapter": "Chapter 10",
+    "verses": [
+        {
+            "name": "Romans 10:1",
+            "text": "Brethren, my heart\u2019s desire and prayer to God for Israel is, that they might be saved."
+        },
+        {
+            "name": "Romans 10:2",
+            "text": "For I bear them record that they have a zeal of God, but not according to knowledge."
+        },
+        {
+            "name": "Romans 10:3",
+            "text": "For they being ignorant of God\u2019s righteousness, and going about to establish their own righteousness, have not submitted themselves unto the righteousness of God."
+        },
+        {
+            "name": "Romans 10:4",
+            "text": "For Christ is the end of the law for righteousness to every one that believeth."
+        },
+        {
+            "name": "Romans 10:5",
+            "text": "For Moses describeth the righteousness which is of the law, That the man which doeth those things shall live by them."
+        }
+    ],
+    "tone": "instructional"
+}

@@ -1,0 +1,15 @@
+{
+    "book": "Genesis",
+    "chapter": "Chapter 1",
+    "verses": [
+        {
+            "name": "Genesis 1:29",
+            "text": "And God said, Behold, I have given you every herb bearing seed, which is upon the face of all the earth, and every tree, in the which is the fruit of a tree yielding seed; to you it shall be for meat."
+        },
+        {
+            "name": "Genesis 1:30",
+            "text": "And to every beast of the earth, and to every fowl of the air, and to every thing that creepeth upon the earth, wherein there is life, I have given every green herb for meat: and it was so."
+        }
+    ],
+    "tone": "hopeful"
+}

@@ -1,0 +1,27 @@
+{
+    "book": "Acts",
+    "chapter": "Chapter 4",
+    "verses": [
+        {
+            "name": "Acts 4:1",
+            "text": "And as they spake unto the people, the priests, and the captain of the temple, and the Sadducees, came upon them,"
+        },
+        {
+            "name": "Acts 4:2",
+            "text": "Being grieved that they taught the people, and preached through Jesus the resurrection from the dead."
+        },
+        {
+            "name": "Acts 4:3",
+            "text": "And they laid hands on them, and put them in hold unto the next day: for it was now eventide."
+        },
+        {
+            "name": "Acts 4:4",
+            "text": "Howbeit many of them which heard the word believed; and the number of the men was about five thousand."
+        },
+        {
+            "name": "Acts 4:5",
+            "text": "And it came to pass on the morrow, that their rulers, and elders, and scribes,"
+        }
+    ],
+    "tone": "lamenting"
+}

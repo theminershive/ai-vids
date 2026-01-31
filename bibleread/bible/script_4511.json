@@ -1,0 +1,27 @@
+{
+    "book": "Isaiah",
+    "chapter": "Chapter 2",
+    "verses": [
+        {
+            "name": "Isaiah 2:12",
+            "text": "For the day of the Lord of hosts shall be upon every one that is proud and lofty, and upon every one that is lifted up; and he shall be brought low:"
+        },
+        {
+            "name": "Isaiah 2:13",
+            "text": "And upon all the cedars of Lebanon, that are high and lifted up, and upon all the oaks of Bashan,"
+        },
+        {
+            "name": "Isaiah 2:14",
+            "text": "And upon all the high mountains, and upon all the hills that are lifted up,"
+        },
+        {
+            "name": "Isaiah 2:15",
+            "text": "And upon every high tower, and upon every fenced wall,"
+        },
+        {
+            "name": "Isaiah 2:16",
+            "text": "And upon all the ships of Tarshish, and upon all pleasant pictures."
+        }
+    ],
+    "tone": "neutral"
+}

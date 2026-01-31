@@ -1,0 +1,19 @@
+{
+    "book": "Ezekiel",
+    "chapter": "Chapter 11",
+    "verses": [
+        {
+            "name": "Ezekiel 11:10",
+            "text": "Ye shall fall by the sword; I will judge you in the border of Israel; and ye shall know that I am the Lord."
+        },
+        {
+            "name": "Ezekiel 11:11",
+            "text": "This city shall not be your caldron, neither shall ye be the flesh in the midst thereof; but I will judge you in the border of Israel:"
+        },
+        {
+            "name": "Ezekiel 11:12",
+            "text": "And ye shall know that I am the Lord: for ye have not walked in my statutes, neither executed my judgments, but have done after the manners of the heathen that are round about you."
+        }
+    ],
+    "tone": "neutral"
+}

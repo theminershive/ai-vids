@@ -1,0 +1,19 @@
+{
+    "book": "Numbers",
+    "chapter": "Chapter 1",
+    "verses": [
+        {
+            "name": "Numbers 1:43",
+            "text": "Those that were numbered of them, even of the tribe of Naphtali, were fifty and three thousand and four hundred."
+        },
+        {
+            "name": "Numbers 1:44",
+            "text": "These are those that were numbered, which Moses and Aaron numbered, and the princes of Israel, being twelve men: each one was for the house of his fathers."
+        },
+        {
+            "name": "Numbers 1:45",
+            "text": "So were all those that were numbered of the children of Israel, by the house of their fathers, from twenty years old and upward, all that were able to go forth to war in Israel;"
+        }
+    ],
+    "tone": "neutral"
+}

@@ -1,0 +1,23 @@
+{
+    "book": "Luke",
+    "chapter": "Chapter 8",
+    "verses": [
+        {
+            "name": "Luke 8:41",
+            "text": "And, behold, there came a man named Jairus, and he was a ruler of the synagogue: and he fell down at Jesus\u2019 feet, and besought him that he would come into his house:"
+        },
+        {
+            "name": "Luke 8:42",
+            "text": "For he had one only daughter, about twelve years of age, and she lay a dying. But as he went the people thronged him."
+        },
+        {
+            "name": "Luke 8:43",
+            "text": "And a woman having an issue of blood twelve years, which had spent all her living upon physicians, neither could be healed of any,"
+        },
+        {
+            "name": "Luke 8:44",
+            "text": "Came behind him, and touched the border of his garment: and immediately her issue of blood stanched."
+        }
+    ],
+    "tone": "neutral"
+}

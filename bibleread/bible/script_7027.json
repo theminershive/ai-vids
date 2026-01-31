@@ -1,0 +1,23 @@
+{
+    "book": "John",
+    "chapter": "Chapter 18",
+    "verses": [
+        {
+            "name": "John 18:10",
+            "text": "Then Simon Peter having a sword drew it, and smote the high priest\u2019s servant, and cut off his right ear. The servant\u2019s name was Malchus."
+        },
+        {
+            "name": "John 18:11",
+            "text": "Then said Jesus unto Peter, Put up thy sword into the sheath: the cup which my Father hath given me, shall I not drink it?"
+        },
+        {
+            "name": "John 18:12",
+            "text": "Then the band and the captain and officers of the Jews took Jesus, and bound him,"
+        },
+        {
+            "name": "John 18:13",
+            "text": "And led him away to Annas first; for he was father in law to Caiaphas, which was the high priest that same year."
+        }
+    ],
+    "tone": "instructional"
+}

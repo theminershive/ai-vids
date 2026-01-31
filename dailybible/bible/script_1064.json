@@ -1,0 +1,23 @@
+{
+    "book": "Numbers",
+    "chapter": "Chapter 7",
+    "verses": [
+        {
+            "name": "Numbers 7:27",
+            "text": "One young bullock, one ram, one lamb of the first year, for a burnt offering:"
+        },
+        {
+            "name": "Numbers 7:28",
+            "text": "One kid of the goats for a sin offering:"
+        },
+        {
+            "name": "Numbers 7:29",
+            "text": "And for a sacrifice of peace offerings, two oxen, five rams, five he goats, five lambs of the first year: this was the offering of Eliab the son of Helon."
+        },
+        {
+            "name": "Numbers 7:30",
+            "text": "On the fourth day Elizur the son of Shedeur, prince of the children of Reuben, did offer:"
+        }
+    ],
+    "tone": "hopeful"
+}

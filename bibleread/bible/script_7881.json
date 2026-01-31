@@ -1,0 +1,27 @@
+{
+    "book": "1 Peter",
+    "chapter": "Chapter 2",
+    "verses": [
+        {
+            "name": "1 Peter 2:1",
+            "text": "Wherefore laying aside all malice, and all guile, and hypocrisies, and envies, and all evil speakings,"
+        },
+        {
+            "name": "1 Peter 2:2",
+            "text": "As newborn babes, desire the sincere milk of the word, that ye may grow thereby:"
+        },
+        {
+            "name": "1 Peter 2:3",
+            "text": "If so be ye have tasted that the Lord is gracious."
+        },
+        {
+            "name": "1 Peter 2:4",
+            "text": "To whom coming, as unto a living stone, disallowed indeed of men, but chosen of God, and precious,"
+        },
+        {
+            "name": "1 Peter 2:5",
+            "text": "Ye also, as lively stones, are built up a spiritual house, an holy priesthood, to offer up spiritual sacrifices, acceptable to God by Jesus Christ."
+        }
+    ],
+    "tone": "instructional"
+}

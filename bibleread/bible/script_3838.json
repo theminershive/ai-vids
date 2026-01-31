@@ -1,0 +1,23 @@
+{
+    "book": "Psalms",
+    "chapter": "Chapter 4",
+    "verses": [
+        {
+            "name": "Psalms 4:5",
+            "text": "Offer the sacrifices of righteousness, and put your trust in the Lord."
+        },
+        {
+            "name": "Psalms 4:6",
+            "text": "There be many that say, Who will shew us any good? Lord, lift thou up the light of thy countenance upon us."
+        },
+        {
+            "name": "Psalms 4:7",
+            "text": "Thou hast put gladness in my heart, more than in the time that their corn and their wine increased."
+        },
+        {
+            "name": "Psalms 4:8",
+            "text": "I will both lay me down in peace, and sleep: for thou, Lord, only makest me dwell in safety. "
+        }
+    ],
+    "tone": "hopeful"
+}

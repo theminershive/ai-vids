@@ -1,0 +1,23 @@
+{
+    "book": "Mark",
+    "chapter": "Chapter 4",
+    "verses": [
+        {
+            "name": "Mark 4:29",
+            "text": "But when the fruit is brought forth, immediately he putteth in the sickle, because the harvest is come."
+        },
+        {
+            "name": "Mark 4:30",
+            "text": "And he said, Whereunto shall we liken the kingdom of God? or with what comparison shall we compare it?"
+        },
+        {
+            "name": "Mark 4:31",
+            "text": "It is like a grain of mustard seed, which, when it is sown in the earth, is less than all the seeds that be in the earth:"
+        },
+        {
+            "name": "Mark 4:32",
+            "text": "But when it is sown, it groweth up, and becometh greater than all herbs, and shooteth out great branches; so that the fowls of the air may lodge under the shadow of it."
+        }
+    ],
+    "tone": "hopeful"
+}

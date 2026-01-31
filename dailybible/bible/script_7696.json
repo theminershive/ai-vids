@@ -1,0 +1,19 @@
+{
+    "book": "1 Thessalonians",
+    "chapter": "Chapter 1",
+    "verses": [
+        {
+            "name": "1 Thessalonians 1:5",
+            "text": "For our gospel came not unto you in word only, but also in power, and in the Holy Ghost, and in much assurance; as ye know what manner of men we were among you for your sake."
+        },
+        {
+            "name": "1 Thessalonians 1:6",
+            "text": "And ye became followers of us, and of the Lord, having received the word in much affliction, with joy of the Holy Ghost:"
+        },
+        {
+            "name": "1 Thessalonians 1:7",
+            "text": "So that ye were ensamples to all that believe in Macedonia and Achaia."
+        }
+    ],
+    "tone": "instructional"
+}

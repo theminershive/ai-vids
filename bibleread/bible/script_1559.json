@@ -1,0 +1,19 @@
+{
+    "book": "Deuteronomy",
+    "chapter": "Chapter 28",
+    "verses": [
+        {
+            "name": "Deuteronomy 28:22",
+            "text": "The Lord shall smite thee with a consumption, and with a fever, and with an inflammation, and with an extreme burning, and with the sword, and with blasting, and with mildew; and they shall pursue thee until thou perish."
+        },
+        {
+            "name": "Deuteronomy 28:23",
+            "text": "And thy heaven that is over thy head shall be brass, and the earth that is under thee shall be iron."
+        },
+        {
+            "name": "Deuteronomy 28:24",
+            "text": "The Lord shall make the rain of thy land powder and dust: from heaven shall it come down upon thee, until thou be destroyed."
+        }
+    ],
+    "tone": "neutral"
+}

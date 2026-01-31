@@ -1,0 +1,23 @@
+{
+    "book": "John",
+    "chapter": "Chapter 5",
+    "verses": [
+        {
+            "name": "John 5:33",
+            "text": "Ye sent unto John, and he bare witness unto the truth."
+        },
+        {
+            "name": "John 5:34",
+            "text": "But I receive not testimony from man: but these things I say, that ye might be saved."
+        },
+        {
+            "name": "John 5:35",
+            "text": "He was a burning and a shining light: and ye were willing for a season to rejoice in his light."
+        },
+        {
+            "name": "John 5:36",
+            "text": "But I have greater witness than that of John: for the works which the Father hath given me to finish, the same works that I do, bear witness of me, that the Father hath sent me."
+        }
+    ],
+    "tone": "hopeful"
+}

@@ -1,0 +1,35 @@
+{
+    "book": "Romans",
+    "chapter": "Chapter 16",
+    "verses": [
+        {
+            "name": "Romans 16:5",
+            "text": "Likewise greet the church that is in their house. Salute my wellbeloved Epenetus, who is the firstfruits of Achaia unto Christ."
+        },
+        {
+            "name": "Romans 16:6",
+            "text": "Greet Mary, who bestowed much labour on us."
+        },
+        {
+            "name": "Romans 16:7",
+            "text": "Salute Andronicus and Junia, my kinsmen, and my fellowprisoners, who are of note among the apostles, who also were in Christ before me."
+        },
+        {
+            "name": "Romans 16:8",
+            "text": "Greet Amplias my beloved in the Lord."
+        },
+        {
+            "name": "Romans 16:9",
+            "text": "Salute Urbane, our helper in Christ, and Stachys my beloved."
+        },
+        {
+            "name": "Romans 16:10",
+            "text": "Salute Apelles approved in Christ. Salute them which are of Aristobulus\u2019 household. "
+        },
+        {
+            "name": "Romans 16:11",
+            "text": "Salute Herodion my kinsman. Greet them that be of the household of Narcissus, which are in the Lord."
+        }
+    ],
+    "tone": "hopeful"
+}

@@ -1,0 +1,19 @@
+{
+    "book": "2 Chronicles",
+    "chapter": "Chapter 28",
+    "verses": [
+        {
+            "name": "2 Chronicles 28:1",
+            "text": "Ahaz was twenty years old when he began to reign, and he reigned sixteen years in Jerusalem: but he did not that which was right in the sight of the Lord, like David his father:"
+        },
+        {
+            "name": "2 Chronicles 28:2",
+            "text": "For he walked in the ways of the kings of Israel, and made also molten images for Baalim."
+        },
+        {
+            "name": "2 Chronicles 28:3",
+            "text": "Moreover he burnt incense in the valley of the son of Hinnom, and burnt his children in the fire, after the abominations of the heathen whom the Lord had cast out before the children of Israel."
+        }
+    ],
+    "tone": "neutral"
+}

@@ -1,0 +1,27 @@
+{
+    "book": "Psalms",
+    "chapter": "Chapter 9",
+    "verses": [
+        {
+            "name": "Psalms 9:15",
+            "text": "The heathen are sunk down in the pit that they made: in the net which they hid is their own foot taken."
+        },
+        {
+            "name": "Psalms 9:16",
+            "text": "The Lord is known by the judgment which he executeth: the wicked is snared in the work of his own hands. Higgaion. Selah."
+        },
+        {
+            "name": "Psalms 9:17",
+            "text": "The wicked shall be turned into hell, and all the nations that forget God."
+        },
+        {
+            "name": "Psalms 9:18",
+            "text": "For the needy shall not alway be forgotten: the expectation of the poor shall not perish for ever."
+        },
+        {
+            "name": "Psalms 9:19",
+            "text": "Arise, O Lord; let not man prevail: let the heathen be judged in thy sight."
+        }
+    ],
+    "tone": "lamenting"
+}

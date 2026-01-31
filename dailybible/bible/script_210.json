@@ -1,0 +1,23 @@
+{
+    "book": "Genesis",
+    "chapter": "Chapter 29",
+    "verses": [
+        {
+            "name": "Genesis 29:4",
+            "text": "And Jacob said unto them, My brethren, whence be ye? And they said, Of Haran are we."
+        },
+        {
+            "name": "Genesis 29:5",
+            "text": "And he said unto them, Know ye Laban the son of Nahor? And they said, We know him."
+        },
+        {
+            "name": "Genesis 29:6",
+            "text": "And he said unto them, Is he well? And they said, He is well: and, behold, Rachel his daughter cometh with the sheep."
+        },
+        {
+            "name": "Genesis 29:7",
+            "text": "And he said, Lo, it is yet high day, neither is it time that the cattle should be gathered together: water ye the sheep, and go and feed them."
+        }
+    ],
+    "tone": "neutral"
+}

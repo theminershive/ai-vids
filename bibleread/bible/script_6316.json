@@ -1,0 +1,27 @@
+{
+    "book": "Matthew",
+    "chapter": "Chapter 20",
+    "verses": [
+        {
+            "name": "Matthew 20:1",
+            "text": "For the kingdom of heaven is like unto a man that is an householder, which went out early in the morning to hire labourers into his vineyard."
+        },
+        {
+            "name": "Matthew 20:2",
+            "text": "And when he had agreed with the labourers for a penny a day, he sent them into his vineyard."
+        },
+        {
+            "name": "Matthew 20:3",
+            "text": "And he went out about the third hour, and saw others standing idle in the marketplace,"
+        },
+        {
+            "name": "Matthew 20:4",
+            "text": "And said unto them; Go ye also into the vineyard, and whatsoever is right I will give you. And they went their way."
+        },
+        {
+            "name": "Matthew 20:5",
+            "text": "Again he went out about the sixth and ninth hour, and did likewise."
+        }
+    ],
+    "tone": "neutral"
+}

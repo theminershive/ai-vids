@@ -1,0 +1,31 @@
+{
+    "book": "Genesis",
+    "chapter": "Chapter 10",
+    "verses": [
+        {
+            "name": "Genesis 10:1",
+            "text": "Now these are the generations of the sons of Noah, Shem, Ham, and Japheth: and unto them were sons born after the flood."
+        },
+        {
+            "name": "Genesis 10:2",
+            "text": "The sons of Japheth; Gomer, and Magog, and Madai, and Javan, and Tubal, and Meshech, and Tiras."
+        },
+        {
+            "name": "Genesis 10:3",
+            "text": "And the sons of Gomer; Ashkenaz, and Riphath, and Togarmah."
+        },
+        {
+            "name": "Genesis 10:4",
+            "text": "And the sons of Javan; Elishah, and Tarshish, Kittim, and Dodanim."
+        },
+        {
+            "name": "Genesis 10:5",
+            "text": "By these were the isles of the Gentiles divided in their lands; every one after his tongue, after their families, in their nations."
+        },
+        {
+            "name": "Genesis 10:6",
+            "text": "And the sons of Ham; Cush, and Mizraim, and Phut, and Canaan."
+        }
+    ],
+    "tone": "neutral"
+}

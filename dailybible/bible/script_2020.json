@@ -1,0 +1,19 @@
+{
+    "book": "Ruth",
+    "chapter": "Chapter 3",
+    "verses": [
+        {
+            "name": "Ruth 3:15",
+            "text": "Also he said, Bring the vail that thou hast upon thee, and hold it. And when she held it, he measured six measures of barley, and laid it on her: and she went into the city."
+        },
+        {
+            "name": "Ruth 3:16",
+            "text": "And when she came to her mother in law, she said, Who art thou, my daughter? And she told her all that the man had done to her."
+        },
+        {
+            "name": "Ruth 3:17",
+            "text": "And she said, These six measures of barley gave he me; for he said to me, Go not empty unto thy mother in law."
+        }
+    ],
+    "tone": "neutral"
+}

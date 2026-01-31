@@ -1,0 +1,23 @@
+{
+    "book": "1 Kings",
+    "chapter": "Chapter 1",
+    "verses": [
+        {
+            "name": "1 Kings 1:21",
+            "text": "Otherwise it shall come to pass, when my lord the king shall sleep with his fathers, that I and my son Solomon shall be counted offenders."
+        },
+        {
+            "name": "1 Kings 1:22",
+            "text": "And, lo, while she yet talked with the king, Nathan the prophet also came in."
+        },
+        {
+            "name": "1 Kings 1:23",
+            "text": "And they told the king, saying, Behold Nathan the prophet. And when he was come in before the king, he bowed himself before the king with his face to the ground."
+        },
+        {
+            "name": "1 Kings 1:24",
+            "text": "And Nathan said, My lord, O king, hast thou said, Adonijah shall reign after me, and he shall sit upon my throne?"
+        }
+    ],
+    "tone": "neutral"
+}

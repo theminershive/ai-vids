@@ -1,0 +1,19 @@
+{
+    "book": "Ezra",
+    "chapter": "Chapter 4",
+    "verses": [
+        {
+            "name": "Ezra 4:17",
+            "text": "Then sent the king an answer unto Rehum the chancellor, and to Shimshai the scribe, and to the rest of their companions that dwell in Samaria, and unto the rest beyond the river, Peace, and at such a time."
+        },
+        {
+            "name": "Ezra 4:18",
+            "text": "The letter which ye sent unto us hath been plainly read before me."
+        },
+        {
+            "name": "Ezra 4:19",
+            "text": "And I commanded, and search hath been made, and it is found that this city of old time hath made insurrection against kings, and that rebellion and sedition have been made therein."
+        }
+    ],
+    "tone": "neutral"
+}

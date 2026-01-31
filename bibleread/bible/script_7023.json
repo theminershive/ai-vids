@@ -1,0 +1,23 @@
+{
+    "book": "John",
+    "chapter": "Chapter 17",
+    "verses": [
+        {
+            "name": "John 17:18",
+            "text": "As thou hast sent me into the world, even so have I also sent them into the world."
+        },
+        {
+            "name": "John 17:19",
+            "text": "And for their sakes I sanctify myself, that they also might be sanctified through the truth."
+        },
+        {
+            "name": "John 17:20",
+            "text": "Neither pray I for these alone, but for them also which shall believe on me through their word;"
+        },
+        {
+            "name": "John 17:21",
+            "text": "That they all may be one; as thou, Father, art in me, and I in thee, that they also may be one in us: that the world may believe that thou hast sent me."
+        }
+    ],
+    "tone": "neutral"
+}

@@ -1,0 +1,27 @@
+{
+    "book": "Luke",
+    "chapter": "Chapter 18",
+    "verses": [
+        {
+            "name": "Luke 18:17",
+            "text": "Verily I say unto you, Whosoever shall not receive the kingdom of God as a little child shall in no wise enter therein."
+        },
+        {
+            "name": "Luke 18:18",
+            "text": "And a certain ruler asked him, saying, Good Master, what shall I do to inherit eternal life?"
+        },
+        {
+            "name": "Luke 18:19",
+            "text": "And Jesus said unto him, Why callest thou me good? none is good, save one, that is, God."
+        },
+        {
+            "name": "Luke 18:20",
+            "text": "Thou knowest the commandments, Do not commit adultery, Do not kill, Do not steal, Do not bear false witness, Honour thy father and thy mother."
+        },
+        {
+            "name": "Luke 18:21",
+            "text": "And he said, All these have I kept from my youth up."
+        }
+    ],
+    "tone": "hopeful"
+}

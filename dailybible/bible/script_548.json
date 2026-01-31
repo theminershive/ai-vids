@@ -1,0 +1,19 @@
+{
+    "book": "Exodus",
+    "chapter": "Chapter 19",
+    "verses": [
+        {
+            "name": "Exodus 19:1",
+            "text": "In the third month, when the children of Israel were gone forth out of the land of Egypt, the same day came they into the wilderness of Sinai."
+        },
+        {
+            "name": "Exodus 19:2",
+            "text": "For they were departed from Rephidim, and were come to the desert of Sinai, and had pitched in the wilderness; and there Israel camped before the mount."
+        },
+        {
+            "name": "Exodus 19:3",
+            "text": "And Moses went up unto God, and the Lord called unto him out of the mountain, saying, Thus shalt thou say to the house of Jacob, and tell the children of Israel;"
+        }
+    ],
+    "tone": "neutral"
+}

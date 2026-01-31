@@ -1,0 +1,27 @@
+{
+    "book": "Deuteronomy",
+    "chapter": "Chapter 14",
+    "verses": [
+        {
+            "name": "Deuteronomy 14:8",
+            "text": "And the swine, because it divideth the hoof, yet cheweth not the cud, it is unclean unto you: ye shall not eat of their flesh, nor touch their dead carcase."
+        },
+        {
+            "name": "Deuteronomy 14:9",
+            "text": "These ye shall eat of all that are in the waters: all that have fins and scales shall ye eat:"
+        },
+        {
+            "name": "Deuteronomy 14:10",
+            "text": "And whatsoever hath not fins and scales ye may not eat; it is unclean unto you."
+        },
+        {
+            "name": "Deuteronomy 14:11",
+            "text": "Of all clean birds ye shall eat."
+        },
+        {
+            "name": "Deuteronomy 14:12",
+            "text": "But these are they of which ye shall not eat: the eagle, and the ossifrage, and the ospray,"
+        }
+    ],
+    "tone": "hopeful"
+}

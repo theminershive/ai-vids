@@ -1,0 +1,19 @@
+{
+    "book": "Matthew",
+    "chapter": "Chapter 5",
+    "verses": [
+        {
+            "name": "Matthew 5:16",
+            "text": "Let your light so shine before men, that they may see your good works, and glorify your Father which is in heaven."
+        },
+        {
+            "name": "Matthew 5:17",
+            "text": "Think not that I am come to destroy the law, or the prophets: I am not come to destroy, but to fulfil."
+        },
+        {
+            "name": "Matthew 5:18",
+            "text": "For verily I say unto you, Till heaven and earth pass, one jot or one tittle shall in no wise pass from the law, till all be fulfilled."
+        }
+    ],
+    "tone": "praising"
+}

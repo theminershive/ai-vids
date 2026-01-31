@@ -1,0 +1,23 @@
+{
+    "book": "Acts",
+    "chapter": "Chapter 24",
+    "verses": [
+        {
+            "name": "Acts 24:5",
+            "text": "For we have found this man a pestilent fellow, and a mover of sedition among all the Jews throughout the world, and a ringleader of the sect of the Nazarenes:"
+        },
+        {
+            "name": "Acts 24:6",
+            "text": "Who also hath gone about to profane the temple: whom we took, and would have judged according to our law."
+        },
+        {
+            "name": "Acts 24:7",
+            "text": "But the chief captain Lysias came upon us, and with great violence took him away out of our hands,"
+        },
+        {
+            "name": "Acts 24:8",
+            "text": "Commanding his accusers to come unto thee: by examining of whom thyself mayest take knowledge of all these things, whereof we accuse him."
+        }
+    ],
+    "tone": "lamenting"
+}

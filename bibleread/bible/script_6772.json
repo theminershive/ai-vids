@@ -1,0 +1,19 @@
+{
+    "book": "Luke",
+    "chapter": "Chapter 17",
+    "verses": [
+        {
+            "name": "Luke 17:5",
+            "text": "And the apostles said unto the Lord, Increase our faith."
+        },
+        {
+            "name": "Luke 17:6",
+            "text": "And the Lord said, If ye had faith as a grain of mustard seed, ye might say unto this sycamine tree, Be thou plucked up by the root, and be thou planted in the sea; and it should obey you."
+        },
+        {
+            "name": "Luke 17:7",
+            "text": "But which of you, having a servant plowing or feeding cattle, will say unto him by and by, when he is come from the field, Go and sit down to meat?"
+        }
+    ],
+    "tone": "hopeful"
+}

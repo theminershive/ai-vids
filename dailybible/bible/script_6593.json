@@ -1,0 +1,31 @@
+{
+    "book": "Luke",
+    "chapter": "Chapter 1",
+    "verses": [
+        {
+            "name": "Luke 1:71",
+            "text": "That we should be saved from our enemies, and from the hand of all that hate us;"
+        },
+        {
+            "name": "Luke 1:72",
+            "text": "To perform the mercy promised to our fathers, and to remember his holy covenant;"
+        },
+        {
+            "name": "Luke 1:73",
+            "text": "The oath which he sware to our father Abraham,"
+        },
+        {
+            "name": "Luke 1:74",
+            "text": "That he would grant unto us, that we being delivered out of the hand of our enemies might serve him without fear,"
+        },
+        {
+            "name": "Luke 1:75",
+            "text": "In holiness and righteousness before him, all the days of our life."
+        },
+        {
+            "name": "Luke 1:76",
+            "text": "And thou, child, shalt be called the prophet of the Highest: for thou shalt go before the face of the Lord to prepare his ways;"
+        }
+    ],
+    "tone": "instructional"
+}

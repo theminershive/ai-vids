@@ -1,0 +1,27 @@
+{
+    "book": "Luke",
+    "chapter": "Chapter 22",
+    "verses": [
+        {
+            "name": "Luke 22:46",
+            "text": "And said unto them, Why sleep ye? rise and pray, lest ye enter into temptation."
+        },
+        {
+            "name": "Luke 22:47",
+            "text": "And while he yet spake, behold a multitude, and he that was called Judas, one of the twelve, went before them, and drew near unto Jesus to kiss him."
+        },
+        {
+            "name": "Luke 22:48",
+            "text": "But Jesus said unto him, Judas, betrayest thou the Son of man with a kiss?"
+        },
+        {
+            "name": "Luke 22:49",
+            "text": "When they which were about him saw what would follow, they said unto him, Lord, shall we smite with the sword?"
+        },
+        {
+            "name": "Luke 22:50",
+            "text": "And one of them smote the servant of the high priest, and cut off his right ear."
+        }
+    ],
+    "tone": "neutral"
+}

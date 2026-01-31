@@ -1,0 +1,23 @@
+{
+    "book": "2 Corinthians",
+    "chapter": "Chapter 2",
+    "verses": [
+        {
+            "name": "2 Corinthians 2:8",
+            "text": "Wherefore I beseech you that ye would confirm your love toward him."
+        },
+        {
+            "name": "2 Corinthians 2:9",
+            "text": "For to this end also did I write, that I might know the proof of you, whether ye be obedient in all things."
+        },
+        {
+            "name": "2 Corinthians 2:10",
+            "text": "To whom ye forgive any thing, I forgive also: for if I forgave any thing, to whom I forgave it, for your sakes forgave I it in the person of Christ;"
+        },
+        {
+            "name": "2 Corinthians 2:11",
+            "text": "Lest Satan should get an advantage of us: for we are not ignorant of his devices."
+        }
+    ],
+    "tone": "hopeful"
+}

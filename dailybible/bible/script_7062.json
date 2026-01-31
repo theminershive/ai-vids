@@ -1,0 +1,23 @@
+{
+    "book": "Acts",
+    "chapter": "Chapter 1",
+    "verses": [
+        {
+            "name": "Acts 1:4",
+            "text": "And, being assembled together with them, commanded them that they should not depart from Jerusalem, but wait for the promise of the Father, which, saith he, ye have heard of me."
+        },
+        {
+            "name": "Acts 1:5",
+            "text": "For John truly baptized with water; but ye shall be baptized with the Holy Ghost not many days hence."
+        },
+        {
+            "name": "Acts 1:6",
+            "text": "When they therefore were come together, they asked of him, saying, Lord, wilt thou at this time restore again the kingdom to Israel?"
+        },
+        {
+            "name": "Acts 1:7",
+            "text": "And he said unto them, It is not for you to know the times or the seasons, which the Father hath put in his own power."
+        }
+    ],
+    "tone": "instructional"
+}

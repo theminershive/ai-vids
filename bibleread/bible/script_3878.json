@@ -1,0 +1,27 @@
+{
+    "book": "Psalms",
+    "chapter": "Chapter 20",
+    "verses": [
+        {
+            "name": "Psalms 20:1",
+            "text": "The Lord hear thee in the day of trouble; the name of the God of Jacob defend thee;"
+        },
+        {
+            "name": "Psalms 20:2",
+            "text": "Send thee help from the sanctuary, and strengthen thee out of Zion;"
+        },
+        {
+            "name": "Psalms 20:3",
+            "text": "Remember all thy offerings, and accept thy burnt sacrifice; Selah."
+        },
+        {
+            "name": "Psalms 20:4",
+            "text": "Grant thee according to thine own heart, and fulfil all thy counsel."
+        },
+        {
+            "name": "Psalms 20:5",
+            "text": "We will rejoice in thy salvation, and in the name of our God we will set up our banners: the Lord fulfil all thy petitions."
+        }
+    ],
+    "tone": "hopeful"
+}

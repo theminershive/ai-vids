@@ -1,0 +1,31 @@
+{
+    "book": "Romans",
+    "chapter": "Chapter 16",
+    "verses": [
+        {
+            "name": "Romans 16:12",
+            "text": "Salute Tryphena and Tryphosa, who labour in the Lord. Salute the beloved Persis, which laboured much in the Lord."
+        },
+        {
+            "name": "Romans 16:13",
+            "text": "Salute Rufus chosen in the Lord, and his mother and mine."
+        },
+        {
+            "name": "Romans 16:14",
+            "text": "Salute Asyncritus, Phlegon, Hermas, Patrobas, Hermes, and the brethren which are with them."
+        },
+        {
+            "name": "Romans 16:15",
+            "text": "Salute Philologus, and Julia, Nereus, and his sister, and Olympas, and all the saints which are with them."
+        },
+        {
+            "name": "Romans 16:16",
+            "text": "Salute one another with an holy kiss. The churches of Christ salute you."
+        },
+        {
+            "name": "Romans 16:17",
+            "text": "Now I beseech you, brethren, mark them which cause divisions and offences contrary to the doctrine which ye have learned; and avoid them."
+        }
+    ],
+    "tone": "instructional"
+}

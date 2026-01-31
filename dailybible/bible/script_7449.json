@@ -1,0 +1,23 @@
+{
+    "book": "1 Corinthians",
+    "chapter": "Chapter 6",
+    "verses": [
+        {
+            "name": "1 Corinthians 6:15",
+            "text": "Know ye not that your bodies are the members of Christ? shall I then take the members of Christ, and make them the members of an harlot? God forbid."
+        },
+        {
+            "name": "1 Corinthians 6:16",
+            "text": "What? know ye not that he which is joined to an harlot is one body? for two, saith he, shall be one flesh."
+        },
+        {
+            "name": "1 Corinthians 6:17",
+            "text": "But he that is joined unto the Lord is one spirit."
+        },
+        {
+            "name": "1 Corinthians 6:18",
+            "text": "Flee fornication. Every sin that a man doeth is without the body; but he that committeth fornication sinneth against his own body."
+        }
+    ],
+    "tone": "lamenting"
+}

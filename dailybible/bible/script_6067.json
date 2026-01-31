@@ -1,0 +1,23 @@
+{
+    "book": "Zephaniah",
+    "chapter": "Chapter 3",
+    "verses": [
+        {
+            "name": "Zephaniah 3:1",
+            "text": "Woe to her that is filthy and polluted, to the oppressing city!"
+        },
+        {
+            "name": "Zephaniah 3:2",
+            "text": "She obeyed not the voice; she received not correction; she trusted not in the Lord; she drew not near to her God."
+        },
+        {
+            "name": "Zephaniah 3:3",
+            "text": "Her princes within her are roaring lions; her judges are evening wolves; they gnaw not the bones till the morrow."
+        },
+        {
+            "name": "Zephaniah 3:4",
+            "text": "Her prophets are light and treacherous persons: her priests have polluted the sanctuary, they have done violence to the law."
+        }
+    ],
+    "tone": "lamenting"
+}

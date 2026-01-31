@@ -1,0 +1,19 @@
+{
+    "book": "Genesis",
+    "chapter": "Chapter 45",
+    "verses": [
+        {
+            "name": "Genesis 45:4",
+            "text": "And Joseph said unto his brethren, Come near to me, I pray you. And they came near. And he said, I am Joseph your brother, whom ye sold into Egypt."
+        },
+        {
+            "name": "Genesis 45:5",
+            "text": "Now therefore be not grieved, nor angry with yourselves, that ye sold me hither: for God did send me before you to preserve life."
+        },
+        {
+            "name": "Genesis 45:6",
+            "text": "For these two years hath the famine been in the land: and yet there are five years, in the which there shall neither be earing nor harvest."
+        }
+    ],
+    "tone": "neutral"
+}

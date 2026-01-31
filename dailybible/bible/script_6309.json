@@ -1,0 +1,23 @@
+{
+    "book": "Matthew",
+    "chapter": "Chapter 19",
+    "verses": [
+        {
+            "name": "Matthew 19:5",
+            "text": "And said, For this cause shall a man leave father and mother, and shall cleave to his wife: and they twain shall be one flesh?"
+        },
+        {
+            "name": "Matthew 19:6",
+            "text": "Wherefore they are no more twain, but one flesh. What therefore God hath joined together, let not man put asunder."
+        },
+        {
+            "name": "Matthew 19:7",
+            "text": "They say unto him, Why did Moses then command to give a writing of divorcement, and to put her away?"
+        },
+        {
+            "name": "Matthew 19:8",
+            "text": "He saith unto them, Moses because of the hardness of your hearts suffered you to put away your wives: but from the beginning it was not so."
+        }
+    ],
+    "tone": "instructional"
+}

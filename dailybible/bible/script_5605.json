@@ -1,0 +1,19 @@
+{
+    "book": "Ezekiel",
+    "chapter": "Chapter 34",
+    "verses": [
+        {
+            "name": "Ezekiel 34:1",
+            "text": "And the word of the Lord came unto me, saying,"
+        },
+        {
+            "name": "Ezekiel 34:2",
+            "text": "Son of man, prophesy against the shepherds of Israel, prophesy, and say unto them, Thus saith the Lord God unto the shepherds; Woe be to the shepherds of Israel that do feed themselves! should not the shepherds feed the flocks?"
+        },
+        {
+            "name": "Ezekiel 34:3",
+            "text": "Ye eat the fat, and ye clothe you with the wool, ye kill them that are fed: but ye feed not the flock."
+        }
+    ],
+    "tone": "lamenting"
+}

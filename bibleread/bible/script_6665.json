@@ -1,0 +1,27 @@
+{
+    "book": "Luke",
+    "chapter": "Chapter 7",
+    "verses": [
+        {
+            "name": "Luke 7:45",
+            "text": "Thou gavest me no kiss: but this woman since the time I came in hath not ceased to kiss my feet."
+        },
+        {
+            "name": "Luke 7:46",
+            "text": "My head with oil thou didst not anoint: but this woman hath anointed my feet with ointment."
+        },
+        {
+            "name": "Luke 7:47",
+            "text": "Wherefore I say unto thee, Her sins, which are many, are forgiven; for she loved much: but to whom little is forgiven, the same loveth little."
+        },
+        {
+            "name": "Luke 7:48",
+            "text": "And he said unto her, Thy sins are forgiven."
+        },
+        {
+            "name": "Luke 7:49",
+            "text": "And they that sat at meat with him began to say within themselves, Who is this that forgiveth sins also?"
+        }
+    ],
+    "tone": "neutral"
+}

@@ -1,0 +1,23 @@
+{
+    "book": "Isaiah",
+    "chapter": "Chapter 59",
+    "verses": [
+        {
+            "name": "Isaiah 59:1",
+            "text": "Behold, the Lord\u2019s hand is not shortened, that it cannot save; neither his ear heavy, that it cannot hear:"
+        },
+        {
+            "name": "Isaiah 59:2",
+            "text": "But your iniquities have separated between you and your God, and your sins have hid his face from you, that he will not hear."
+        },
+        {
+            "name": "Isaiah 59:3",
+            "text": "For your hands are defiled with blood, and your fingers with iniquity; your lips have spoken lies, your tongue hath muttered perverseness."
+        },
+        {
+            "name": "Isaiah 59:4",
+            "text": "None calleth for justice, nor any pleadeth for truth: they trust in vanity, and speak lies; they conceive mischief, and bring forth iniquity."
+        }
+    ],
+    "tone": "hopeful"
+}

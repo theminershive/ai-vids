@@ -1,0 +1,31 @@
+{
+    "book": "Galatians",
+    "chapter": "Chapter 5",
+    "verses": [
+        {
+            "name": "Galatians 5:6",
+            "text": "For in Jesus Christ neither circumcision availeth any thing, nor uncircumcision; but faith which worketh by love."
+        },
+        {
+            "name": "Galatians 5:7",
+            "text": "Ye did run well; who did hinder you that ye should not obey the truth?"
+        },
+        {
+            "name": "Galatians 5:8",
+            "text": "This persuasion cometh not of him that calleth you."
+        },
+        {
+            "name": "Galatians 5:9",
+            "text": "A little leaven leaveneth the whole lump."
+        },
+        {
+            "name": "Galatians 5:10",
+            "text": "I have confidence in you through the Lord, that ye will be none otherwise minded: but he that troubleth you shall bear his judgment, whosoever he be."
+        },
+        {
+            "name": "Galatians 5:11",
+            "text": "And I, brethren, if I yet preach circumcision, why do I yet suffer persecution? then is the offence of the cross ceased."
+        }
+    ],
+    "tone": "hopeful"
+}

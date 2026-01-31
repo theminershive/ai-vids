@@ -1,0 +1,27 @@
+{
+    "book": "1 Corinthians",
+    "chapter": "Chapter 10",
+    "verses": [
+        {
+            "name": "1 Corinthians 10:1",
+            "text": "Moreover, brethren, I would not that ye should be ignorant, how that all our fathers were under the cloud, and all passed through the sea;"
+        },
+        {
+            "name": "1 Corinthians 10:2",
+            "text": "And were all baptized unto Moses in the cloud and in the sea;"
+        },
+        {
+            "name": "1 Corinthians 10:3",
+            "text": "And did all eat the same spiritual meat;"
+        },
+        {
+            "name": "1 Corinthians 10:4",
+            "text": "And did all drink the same spiritual drink: for they drank of that spiritual Rock that followed them: and that Rock was Christ."
+        },
+        {
+            "name": "1 Corinthians 10:5",
+            "text": "But with many of them God was not well pleased: for they were overthrown in the wilderness."
+        }
+    ],
+    "tone": "lamenting"
+}

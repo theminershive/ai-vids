@@ -1,0 +1,19 @@
+{
+    "book": "Habakkuk",
+    "chapter": "Chapter 1",
+    "verses": [
+        {
+            "name": "Habakkuk 1:5",
+            "text": "Behold ye among the heathen, and regard, and wonder marvellously: for I will work a work in your days, which ye will not believe, though it be told you."
+        },
+        {
+            "name": "Habakkuk 1:6",
+            "text": "For, lo, I raise up the Chaldeans, that bitter and hasty nation, which shall march through the breadth of the land, to possess the dwellingplaces that are not theirs."
+        },
+        {
+            "name": "Habakkuk 1:7",
+            "text": "They are terrible and dreadful: their judgment and their dignity shall proceed of themselves."
+        }
+    ],
+    "tone": "lamenting"
+}

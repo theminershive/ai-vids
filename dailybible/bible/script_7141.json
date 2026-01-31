@@ -1,0 +1,23 @@
+{
+    "book": "Acts",
+    "chapter": "Chapter 9",
+    "verses": [
+        {
+            "name": "Acts 9:29",
+            "text": "And he spake boldly in the name of the Lord Jesus, and disputed against the Grecians: but they went about to slay him."
+        },
+        {
+            "name": "Acts 9:30",
+            "text": "Which when the brethren knew, they brought him down to Cesarea, and sent him forth to Tarsus."
+        },
+        {
+            "name": "Acts 9:31",
+            "text": "Then had the churches rest throughout all Judea and Galilee and Samaria, and were edified; and walking in the fear of the Lord, and in the comfort of the Holy Ghost, were multiplied."
+        },
+        {
+            "name": "Acts 9:32",
+            "text": "And it came to pass, as Peter passed throughout all quarters, he came down also to the saints which dwelt at Lydda."
+        }
+    ],
+    "tone": "hopeful"
+}

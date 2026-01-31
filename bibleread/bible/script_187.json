@@ -1,0 +1,19 @@
+{
+    "book": "Genesis",
+    "chapter": "Chapter 26",
+    "verses": [
+        {
+            "name": "Genesis 26:27",
+            "text": "And Isaac said unto them, Wherefore come ye to me, seeing ye hate me, and have sent me away from you?"
+        },
+        {
+            "name": "Genesis 26:28",
+            "text": "And they said, We saw certainly that the Lord was with thee: and we said, Let there be now an oath betwixt us, even betwixt us and thee, and let us make a covenant with thee;"
+        },
+        {
+            "name": "Genesis 26:29",
+            "text": "That thou wilt do us no hurt, as we have not touched thee, and as we have done unto thee nothing but good, and have sent thee away in peace: thou art now the blessed of the Lord."
+        }
+    ],
+    "tone": "neutral"
+}

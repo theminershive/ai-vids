@@ -1,0 +1,23 @@
+{
+    "book": "Matthew",
+    "chapter": "Chapter 25",
+    "verses": [
+        {
+            "name": "Matthew 25:17",
+            "text": "And likewise he that had received two, he also gained other two."
+        },
+        {
+            "name": "Matthew 25:18",
+            "text": "But he that had received one went and digged in the earth, and hid his lord\u2019s money."
+        },
+        {
+            "name": "Matthew 25:19",
+            "text": "After a long time the lord of those servants cometh, and reckoneth with them."
+        },
+        {
+            "name": "Matthew 25:20",
+            "text": "And so he that had received five talents came and brought other five talents, saying, Lord, thou deliveredst unto me five talents: behold, I have gained beside them five talents more."
+        }
+    ],
+    "tone": "neutral"
+}

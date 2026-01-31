@@ -1,0 +1,23 @@
+{
+    "book": "John",
+    "chapter": "Chapter 19",
+    "verses": [
+        {
+            "name": "John 19:6",
+            "text": "When the chief priests therefore and officers saw him, they cried out, saying, Crucify him, crucify him. Pilate saith unto them, Take ye him, and crucify him: for I find no fault in him."
+        },
+        {
+            "name": "John 19:7",
+            "text": "The Jews answered him, We have a law, and by our law he ought to die, because he made himself the Son of God."
+        },
+        {
+            "name": "John 19:8",
+            "text": "When Pilate therefore heard that saying, he was the more afraid;"
+        },
+        {
+            "name": "John 19:9",
+            "text": "And went again into the judgment hall, and saith unto Jesus, Whence art thou? But Jesus gave him no answer."
+        }
+    ],
+    "tone": "lamenting"
+}

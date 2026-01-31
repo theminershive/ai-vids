@@ -1,0 +1,23 @@
+{
+    "book": "Genesis",
+    "chapter": "Chapter 9",
+    "verses": [
+        {
+            "name": "Genesis 9:23",
+            "text": "And Shem and Japheth took a garment, and laid it upon both their shoulders, and went backward, and covered the nakedness of their father; and their faces were backward, and they saw not their father\u2019s nakedness."
+        },
+        {
+            "name": "Genesis 9:24",
+            "text": "And Noah awoke from his wine, and knew what his younger son had done unto him."
+        },
+        {
+            "name": "Genesis 9:25",
+            "text": "And he said, Cursed be Canaan; a servant of servants shall he be unto his brethren."
+        },
+        {
+            "name": "Genesis 9:26",
+            "text": "And he said, Blessed be the Lord God of Shem; and Canaan shall be his servant."
+        }
+    ],
+    "tone": "neutral"
+}

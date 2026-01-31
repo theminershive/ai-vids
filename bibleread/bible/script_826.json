@@ -1,0 +1,23 @@
+{
+    "book": "Leviticus",
+    "chapter": "Chapter 11",
+    "verses": [
+        {
+            "name": "Leviticus 11:23",
+            "text": "But all other flying creeping things, which have four feet, shall be an abomination unto you."
+        },
+        {
+            "name": "Leviticus 11:24",
+            "text": "And for these ye shall be unclean: whosoever toucheth the carcase of them shall be unclean until the even."
+        },
+        {
+            "name": "Leviticus 11:25",
+            "text": "And whosoever beareth ought of the carcase of them shall wash his clothes, and be unclean until the even."
+        },
+        {
+            "name": "Leviticus 11:26",
+            "text": "The carcases of every beast which divideth the hoof, and is not clovenfooted, nor cheweth the cud, are unclean unto you: every one that toucheth them shall be unclean."
+        }
+    ],
+    "tone": "neutral"
+}

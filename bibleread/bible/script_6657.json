@@ -1,0 +1,23 @@
+{
+    "book": "Luke",
+    "chapter": "Chapter 7",
+    "verses": [
+        {
+            "name": "Luke 7:16",
+            "text": "And there came a fear on all: and they glorified God, saying, That a great prophet is risen up among us; and, That God hath visited his people."
+        },
+        {
+            "name": "Luke 7:17",
+            "text": "And this rumour of him went forth throughout all Judea, and throughout all the region round about."
+        },
+        {
+            "name": "Luke 7:18",
+            "text": "And the disciples of John shewed him of all these things."
+        },
+        {
+            "name": "Luke 7:19",
+            "text": "And John calling unto him two of his disciples sent them to Jesus, saying, Art thou he that should come? or look we for another?"
+        }
+    ],
+    "tone": "neutral"
+}

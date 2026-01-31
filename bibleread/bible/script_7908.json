@@ -1,0 +1,23 @@
+{
+    "book": "2 Peter",
+    "chapter": "Chapter 2",
+    "verses": [
+        {
+            "name": "2 Peter 2:15",
+            "text": "Which have forsaken the right way, and are gone astray, following the way of Balaam the son of Bosor, who loved the wages of unrighteousness;"
+        },
+        {
+            "name": "2 Peter 2:16",
+            "text": "But was rebuked for his iniquity: the dumb ass speaking with man\u2019s voice forbad the madness of the prophet."
+        },
+        {
+            "name": "2 Peter 2:17",
+            "text": "These are wells without water, clouds that are carried with a tempest; to whom the mist of darkness is reserved for ever."
+        },
+        {
+            "name": "2 Peter 2:18",
+            "text": "For when they speak great swelling words of vanity, they allure through the lusts of the flesh, through much wantonness, those that were clean escaped from them who live in error."
+        }
+    ],
+    "tone": "lamenting"
+}

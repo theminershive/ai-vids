@@ -1,0 +1,23 @@
+{
+    "book": "Matthew",
+    "chapter": "Chapter 27",
+    "verses": [
+        {
+            "name": "Matthew 27:23",
+            "text": "And the governor said, Why, what evil hath he done? But they cried out the more, saying, Let him be crucified."
+        },
+        {
+            "name": "Matthew 27:24",
+            "text": "When Pilate saw that he could prevail nothing, but that rather a tumult was made, he took water, and washed his hands before the multitude, saying, I am innocent of the blood of this just person: see ye to it. "
+        },
+        {
+            "name": "Matthew 27:25",
+            "text": "Then answered all the people, and said, His blood be on us, and on our children."
+        },
+        {
+            "name": "Matthew 27:26",
+            "text": "Then released he Barabbas unto them: and when he had scourged Jesus, he delivered him to be crucified."
+        }
+    ],
+    "tone": "instructional"
+}

@@ -1,0 +1,23 @@
+{
+    "book": "Mark",
+    "chapter": "Chapter 14",
+    "verses": [
+        {
+            "name": "Mark 14:27",
+            "text": "And Jesus saith unto them, All ye shall be offended because of me this night: for it is written, I will smite the shepherd, and the sheep shall be scattered."
+        },
+        {
+            "name": "Mark 14:28",
+            "text": "But after that I am risen, I will go before you into Galilee."
+        },
+        {
+            "name": "Mark 14:29",
+            "text": "But Peter said unto him, Although all shall be offended, yet will not I."
+        },
+        {
+            "name": "Mark 14:30",
+            "text": "And Jesus saith unto him, Verily I say unto thee, That this day, even in this night, before the cock crow twice, thou shalt deny me thrice."
+        }
+    ],
+    "tone": "neutral"
+}

@@ -1,0 +1,31 @@
+{
+    "book": "Psalms",
+    "chapter": "Chapter 44",
+    "verses": [
+        {
+            "name": "Psalms 44:10",
+            "text": "Thou makest us to turn back from the enemy: and they which hate us spoil for themselves."
+        },
+        {
+            "name": "Psalms 44:11",
+            "text": "Thou hast given us like sheep appointed for meat; and hast scattered us among the heathen."
+        },
+        {
+            "name": "Psalms 44:12",
+            "text": "Thou sellest thy people for nought, and dost not increase thy wealth by their price."
+        },
+        {
+            "name": "Psalms 44:13",
+            "text": "Thou makest us a reproach to our neighbours, a scorn and a derision to them that are round about us."
+        },
+        {
+            "name": "Psalms 44:14",
+            "text": "Thou makest us a byword among the heathen, a shaking of the head among the people."
+        },
+        {
+            "name": "Psalms 44:15",
+            "text": "My confusion is continually before me, and the shame of my face hath covered me,"
+        }
+    ],
+    "tone": "neutral"
+}

@@ -1,0 +1,27 @@
+{
+    "book": "John",
+    "chapter": "Chapter 7",
+    "verses": [
+        {
+            "name": "John 7:1",
+            "text": "After these things Jesus walked in Galilee: for he would not walk in Jewry, because the Jews sought to kill him."
+        },
+        {
+            "name": "John 7:2",
+            "text": "Now the Jews\u2019 feast of tabernacles was at hand."
+        },
+        {
+            "name": "John 7:3",
+            "text": "His brethren therefore said unto him, Depart hence, and go into Judea, that thy disciples also may see the works that thou doest."
+        },
+        {
+            "name": "John 7:4",
+            "text": "For there is no man that doeth any thing in secret, and he himself seeketh to be known openly. If thou do these things, shew thyself to the world."
+        },
+        {
+            "name": "John 7:5",
+            "text": "For neither did his brethren believe in him."
+        }
+    ],
+    "tone": "neutral"
+}

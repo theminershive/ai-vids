@@ -1,0 +1,31 @@
+{
+    "book": "Psalms",
+    "chapter": "Chapter 2",
+    "verses": [
+        {
+            "name": "Psalms 2:1",
+            "text": "Why do the heathen rage, and the people imagine a vain thing?"
+        },
+        {
+            "name": "Psalms 2:2",
+            "text": "The kings of the earth set themselves, and the rulers take counsel together, against the Lord, and against his anointed, saying,"
+        },
+        {
+            "name": "Psalms 2:3",
+            "text": "Let us break their bands asunder, and cast away their cords from us."
+        },
+        {
+            "name": "Psalms 2:4",
+            "text": "He that sitteth in the heavens shall laugh: the Lord shall have them in derision."
+        },
+        {
+            "name": "Psalms 2:5",
+            "text": "Then shall he speak unto them in his wrath, and vex them in his sore displeasure."
+        },
+        {
+            "name": "Psalms 2:6",
+            "text": "Yet have I set my king upon my holy hill of Zion."
+        }
+    ],
+    "tone": "neutral"
+}

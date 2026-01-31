@@ -1,0 +1,19 @@
+{
+    "book": "Hebrews",
+    "chapter": "Chapter 2",
+    "verses": [
+        {
+            "name": "Hebrews 2:1",
+            "text": "Therefore we ought to give the more earnest heed to the things which we have heard, lest at any time we should let them slip."
+        },
+        {
+            "name": "Hebrews 2:2",
+            "text": "For if the word spoken by angels was stedfast, and every transgression and disobedience received a just recompence of reward;"
+        },
+        {
+            "name": "Hebrews 2:3",
+            "text": "How shall we escape, if we neglect so great salvation; which at the first began to be spoken by the Lord, and was confirmed unto us by them that heard him; "
+        }
+    ],
+    "tone": "hopeful"
+}

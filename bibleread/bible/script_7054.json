@@ -1,0 +1,19 @@
+{
+    "book": "John",
+    "chapter": "Chapter 21",
+    "verses": [
+        {
+            "name": "John 21:4",
+            "text": "But when the morning was now come, Jesus stood on the shore: but the disciples knew not that it was Jesus."
+        },
+        {
+            "name": "John 21:5",
+            "text": "Then Jesus saith unto them, Children, have ye any meat? They answered him, No."
+        },
+        {
+            "name": "John 21:6",
+            "text": "And he said unto them, Cast the net on the right side of the ship, and ye shall find. They cast therefore, and now they were not able to draw it for the multitude of fishes."
+        }
+    ],
+    "tone": "neutral"
+}

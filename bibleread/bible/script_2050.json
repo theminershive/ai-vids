@@ -1,0 +1,19 @@
+{
+    "book": "1 Samuel",
+    "chapter": "Chapter 3",
+    "verses": [
+        {
+            "name": "1 Samuel 3:8",
+            "text": "And the Lord called Samuel again the third time. And he arose and went to Eli, and said, Here am I; for thou didst call me. And Eli perceived that the Lord had called the child."
+        },
+        {
+            "name": "1 Samuel 3:9",
+            "text": "Therefore Eli said unto Samuel, Go, lie down: and it shall be, if he call thee, that thou shalt say, Speak, Lord; for thy servant heareth. So Samuel went and lay down in his place."
+        },
+        {
+            "name": "1 Samuel 3:10",
+            "text": "And the Lord came, and stood, and called as at other times, Samuel, Samuel. Then Samuel answered, Speak; for thy servant heareth."
+        }
+    ],
+    "tone": "neutral"
+}

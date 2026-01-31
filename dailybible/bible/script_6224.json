@@ -1,0 +1,27 @@
+{
+    "book": "Matthew",
+    "chapter": "Chapter 9",
+    "verses": [
+        {
+            "name": "Matthew 9:28",
+            "text": "And when he was come into the house, the blind men came to him: and Jesus saith unto them, Believe ye that I am able to do this? They said unto him, Yea, Lord."
+        },
+        {
+            "name": "Matthew 9:29",
+            "text": "Then touched he their eyes, saying, According to your faith be it unto you."
+        },
+        {
+            "name": "Matthew 9:30",
+            "text": "And their eyes were opened; and Jesus straitly charged them, saying, See that no man know it."
+        },
+        {
+            "name": "Matthew 9:31",
+            "text": "But they, when they were departed, spread abroad his fame in all that country."
+        },
+        {
+            "name": "Matthew 9:32",
+            "text": "As they went out, behold, they brought to him a dumb man possessed with a devil."
+        }
+    ],
+    "tone": "neutral"
+}

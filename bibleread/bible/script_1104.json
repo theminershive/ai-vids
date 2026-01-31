@@ -1,0 +1,19 @@
+{
+    "book": "Numbers",
+    "chapter": "Chapter 11",
+    "verses": [
+        {
+            "name": "Numbers 11:11",
+            "text": "And Moses said unto the Lord, Wherefore hast thou afflicted thy servant? and wherefore have I not found favour in thy sight, that thou layest the burden of all this people upon me?"
+        },
+        {
+            "name": "Numbers 11:12",
+            "text": "Have I conceived all this people? have I begotten them, that thou shouldest say unto me, Carry them in thy bosom, as a nursing father beareth the sucking child, unto the land which thou swarest unto their fathers?"
+        },
+        {
+            "name": "Numbers 11:13",
+            "text": "Whence should I have flesh to give unto all this people? for they weep unto me, saying, Give us flesh, that we may eat."
+        }
+    ],
+    "tone": "neutral"
+}

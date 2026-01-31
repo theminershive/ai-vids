@@ -1,0 +1,19 @@
+{
+    "book": "Joshua",
+    "chapter": "Chapter 1",
+    "verses": [
+        {
+            "name": "Joshua 1:4",
+            "text": "From the wilderness and this Lebanon even unto the great river, the river Euphrates, all the land of the Hittites, and unto the great sea toward the going down of the sun, shall be your coast."
+        },
+        {
+            "name": "Joshua 1:5",
+            "text": "There shall not any man be able to stand before thee all the days of thy life: as I was with Moses, so I will be with thee: I will not fail thee, nor forsake thee."
+        },
+        {
+            "name": "Joshua 1:6",
+            "text": "Be strong and of a good courage: for unto this people shalt thou divide for an inheritance the land, which I sware unto their fathers to give them."
+        }
+    ],
+    "tone": "neutral"
+}

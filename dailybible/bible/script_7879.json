@@ -1,0 +1,27 @@
+{
+    "book": "1 Peter",
+    "chapter": "Chapter 1",
+    "verses": [
+        {
+            "name": "1 Peter 1:15",
+            "text": "But as he which hath called you is holy, so be ye holy in all manner of conversation;"
+        },
+        {
+            "name": "1 Peter 1:16",
+            "text": "Because it is written, Be ye holy; for I am holy."
+        },
+        {
+            "name": "1 Peter 1:17",
+            "text": "And if ye call on the Father, who without respect of persons judgeth according to every man\u2019s work, pass the time of your sojourning here in fear:"
+        },
+        {
+            "name": "1 Peter 1:18",
+            "text": "Forasmuch as ye know that ye were not redeemed with corruptible things, as silver and gold, from your vain conversation received by tradition from your fathers;"
+        },
+        {
+            "name": "1 Peter 1:19",
+            "text": "But with the precious blood of Christ, as of a lamb without blemish and without spot:"
+        }
+    ],
+    "tone": "instructional"
+}

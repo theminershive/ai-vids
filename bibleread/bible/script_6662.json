@@ -1,0 +1,23 @@
+{
+    "book": "Luke",
+    "chapter": "Chapter 7",
+    "verses": [
+        {
+            "name": "Luke 7:35",
+            "text": "But wisdom is justified of all her children."
+        },
+        {
+            "name": "Luke 7:36",
+            "text": "And one of the Pharisees desired him that he would eat with him. And he went into the Pharisee\u2019s house, and sat down to meat."
+        },
+        {
+            "name": "Luke 7:37",
+            "text": "And, behold, a woman in the city, which was a sinner, when she knew that Jesus sat at meat in the Pharisee\u2019s house, brought an alabaster box of ointment,"
+        },
+        {
+            "name": "Luke 7:38",
+            "text": "And stood at his feet behind him weeping, and began to wash his feet with tears, and did wipe them with the hairs of her head, and kissed his feet, and anointed them with the ointment."
+        }
+    ],
+    "tone": "instructional"
+}

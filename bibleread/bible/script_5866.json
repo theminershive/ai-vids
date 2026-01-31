@@ -1,0 +1,19 @@
+{
+    "book": "Hosea",
+    "chapter": "Chapter 2",
+    "verses": [
+        {
+            "name": "Hosea 2:12",
+            "text": "And I will destroy her vines and her fig trees, whereof she hath said, These are my rewards that my lovers have given me: and I will make them a forest, and the beasts of the field shall eat them."
+        },
+        {
+            "name": "Hosea 2:13",
+            "text": "And I will visit upon her the days of Baalim, wherein she burned incense to them, and she decked herself with her earrings and her jewels, and she went after her lovers, and forgat me, saith the Lord."
+        },
+        {
+            "name": "Hosea 2:14",
+            "text": "Therefore, behold, I will allure her, and bring her into the wilderness, and speak comfortably unto her."
+        }
+    ],
+    "tone": "neutral"
+}

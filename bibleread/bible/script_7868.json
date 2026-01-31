@@ -1,0 +1,27 @@
+{
+    "book": "James",
+    "chapter": "Chapter 4",
+    "verses": [
+        {
+            "name": "James 4:5",
+            "text": "Do ye think that the scripture saith in vain, The spirit that dwelleth in us lusteth to envy?"
+        },
+        {
+            "name": "James 4:6",
+            "text": "But he giveth more grace. Wherefore he saith, God resisteth the proud, but giveth grace unto the humble."
+        },
+        {
+            "name": "James 4:7",
+            "text": "Submit yourselves therefore to God. Resist the devil, and he will flee from you."
+        },
+        {
+            "name": "James 4:8",
+            "text": "Draw nigh to God, and he will draw nigh to you. Cleanse your hands, ye sinners; and purify your hearts, ye double minded."
+        },
+        {
+            "name": "James 4:9",
+            "text": "Be afflicted, and mourn, and weep: let your laughter be turned to mourning, and your joy to heaviness."
+        }
+    ],
+    "tone": "praising"
+}

@@ -1,0 +1,19 @@
+{
+    "book": "Mark",
+    "chapter": "Chapter 10",
+    "verses": [
+        {
+            "name": "Mark 10:27",
+            "text": "And Jesus looking upon them saith, With men it is impossible, but not with God: for with God all things are possible."
+        },
+        {
+            "name": "Mark 10:28",
+            "text": "Then Peter began to say unto him, Lo, we have left all, and have followed thee."
+        },
+        {
+            "name": "Mark 10:29",
+            "text": "And Jesus answered and said, Verily I say unto you, There is no man that hath left house, or brethren, or sisters, or father, or mother, or wife, or children, or lands, for my sake, and the gospel\u2019s,"
+        }
+    ],
+    "tone": "lamenting"
+}

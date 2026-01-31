@@ -1,0 +1,19 @@
+{
+    "book": "Daniel",
+    "chapter": "Chapter 11",
+    "verses": [
+        {
+            "name": "Daniel 11:27",
+            "text": "And both these kings\u2019 hearts shall be to do mischief, and they shall speak lies at one table; but it shall not prosper: for yet the end shall be at the time appointed."
+        },
+        {
+            "name": "Daniel 11:28",
+            "text": "Then shall he return into his land with great riches; and his heart shall be against the holy covenant; and he shall do exploits, and return to his own land."
+        },
+        {
+            "name": "Daniel 11:29",
+            "text": "At the time appointed he shall return, and come toward the south; but it shall not be as the former, or as the latter."
+        }
+    ],
+    "tone": "instructional"
+}

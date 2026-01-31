@@ -1,0 +1,27 @@
+{
+    "book": "Philippians",
+    "chapter": "Chapter 2",
+    "verses": [
+        {
+            "name": "Philippians 2:1",
+            "text": "If there be therefore any consolation in Christ, if any comfort of love, if any fellowship of the Spirit, if any bowels and mercies,"
+        },
+        {
+            "name": "Philippians 2:2",
+            "text": "Fulfil ye my joy, that ye be likeminded, having the same love, being of one accord, of one mind."
+        },
+        {
+            "name": "Philippians 2:3",
+            "text": "Let nothing be done through strife or vainglory; but in lowliness of mind let each esteem other better than themselves."
+        },
+        {
+            "name": "Philippians 2:4",
+            "text": "Look not every man on his own things, but every man also on the things of others."
+        },
+        {
+            "name": "Philippians 2:5",
+            "text": "Let this mind be in you, which was also in Christ Jesus:"
+        }
+    ],
+    "tone": "hopeful"
+}

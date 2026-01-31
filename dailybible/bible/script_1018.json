@@ -1,0 +1,27 @@
+{
+    "book": "Numbers",
+    "chapter": "Chapter 3",
+    "verses": [
+        {
+            "name": "Numbers 3:15",
+            "text": "Number the children of Levi after the house of their fathers, by their families: every male from a month old and upward shalt thou number them."
+        },
+        {
+            "name": "Numbers 3:16",
+            "text": "And Moses numbered them according to the word of the Lord, as he was commanded."
+        },
+        {
+            "name": "Numbers 3:17",
+            "text": "And these were the sons of Levi by their names; Gershon, and Kohath, and Merari."
+        },
+        {
+            "name": "Numbers 3:18",
+            "text": "And these are the names of the sons of Gershon by their families; Libni, and Shimei."
+        },
+        {
+            "name": "Numbers 3:19",
+            "text": "And the sons of Kohath by their families; Amram, and Izehar, Hebron, and Uzziel."
+        }
+    ],
+    "tone": "neutral"
+}

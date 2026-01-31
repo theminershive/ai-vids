@@ -1,0 +1,19 @@
+{
+    "book": "2 Kings",
+    "chapter": "Chapter 18",
+    "verses": [
+        {
+            "name": "2 Kings 18:28",
+            "text": "Then Rab\u2013shakeh stood and cried with a loud voice in the Jews\u2019 language, and spake, saying, Hear the word of the great king, the king of Assyria:"
+        },
+        {
+            "name": "2 Kings 18:29",
+            "text": "Thus saith the king, Let not Hezekiah deceive you: for he shall not be able to deliver you out of his hand:"
+        },
+        {
+            "name": "2 Kings 18:30",
+            "text": "Neither let Hezekiah make you trust in the Lord, saying, The Lord will surely deliver us, and this city shall not be delivered into the hand of the king of Assyria."
+        }
+    ],
+    "tone": "neutral"
+}

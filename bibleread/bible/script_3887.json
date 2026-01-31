@@ -1,0 +1,23 @@
+{
+    "book": "Psalms",
+    "chapter": "Chapter 22",
+    "verses": [
+        {
+            "name": "Psalms 22:26",
+            "text": "The meek shall eat and be satisfied: they shall praise the Lord that seek him: your heart shall live for ever."
+        },
+        {
+            "name": "Psalms 22:27",
+            "text": "All the ends of the world shall remember and turn unto the Lord: and all the kindreds of the nations shall worship before thee."
+        },
+        {
+            "name": "Psalms 22:28",
+            "text": "For the kingdom is the Lord\u2019s: and he is the governor among the nations."
+        },
+        {
+            "name": "Psalms 22:29",
+            "text": "All they that be fat upon earth shall eat and worship: all they that go down to the dust shall bow before him: and none can keep alive his own soul."
+        }
+    ],
+    "tone": "praising"
+}

@@ -1,0 +1,19 @@
+{
+    "book": "Matthew",
+    "chapter": "Chapter 3",
+    "verses": [
+        {
+            "name": "Matthew 3:10",
+            "text": "And now also the axe is laid unto the root of the trees: therefore every tree which bringeth not forth good fruit is hewn down, and cast into the fire."
+        },
+        {
+            "name": "Matthew 3:11",
+            "text": "I indeed baptize you with water unto repentance: but he that cometh after me is mightier than I, whose shoes I am not worthy to bear: he shall baptize you with the Holy Ghost, and with fire:"
+        },
+        {
+            "name": "Matthew 3:12",
+            "text": "Whose fan is in his hand, and he will throughly purge his floor, and gather his wheat into the garner; but he will burn up the chaff with unquenchable fire."
+        }
+    ],
+    "tone": "instructional"
+}

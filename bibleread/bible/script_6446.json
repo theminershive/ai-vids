@@ -1,0 +1,23 @@
+{
+    "book": "Mark",
+    "chapter": "Chapter 4",
+    "verses": [
+        {
+            "name": "Mark 4:25",
+            "text": "For he that hath, to him shall be given: and he that hath not, from him shall be taken even that which he hath."
+        },
+        {
+            "name": "Mark 4:26",
+            "text": "And he said, So is the kingdom of God, as if a man should cast seed into the ground;"
+        },
+        {
+            "name": "Mark 4:27",
+            "text": "And should sleep, and rise night and day, and the seed should spring and grow up, he knoweth not how."
+        },
+        {
+            "name": "Mark 4:28",
+            "text": "For the earth bringeth forth fruit of herself; first the blade, then the ear, after that the full corn in the ear."
+        }
+    ],
+    "tone": "hopeful"
+}

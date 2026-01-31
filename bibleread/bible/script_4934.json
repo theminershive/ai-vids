@@ -1,0 +1,23 @@
+{
+    "book": "Jeremiah",
+    "chapter": "Chapter 6",
+    "verses": [
+        {
+            "name": "Jeremiah 6:17",
+            "text": "Also I set watchmen over you, saying, Hearken to the sound of the trumpet. But they said, We will not hearken."
+        },
+        {
+            "name": "Jeremiah 6:18",
+            "text": "Therefore hear, ye nations, and know, O congregation, what is among them."
+        },
+        {
+            "name": "Jeremiah 6:19",
+            "text": "Hear, O earth: behold, I will bring evil upon this people, even the fruit of their thoughts, because they have not hearkened unto my words, nor to my law, but rejected it."
+        },
+        {
+            "name": "Jeremiah 6:20",
+            "text": "To what purpose cometh there to me incense from Sheba, and the sweet cane from a far country? your burnt offerings are not acceptable, nor your sacrifices sweet unto me."
+        }
+    ],
+    "tone": "instructional"
+}

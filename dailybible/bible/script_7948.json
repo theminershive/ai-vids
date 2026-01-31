@@ -1,0 +1,19 @@
+{
+    "book": "Jude",
+    "chapter": "Chapter 1",
+    "verses": [
+        {
+            "name": "Jude 1:4",
+            "text": "For there are certain men crept in unawares, who were before of old ordained to this condemnation, ungodly men, turning the grace of our God into lasciviousness, and denying the only Lord God, and our Lord Jesus Christ."
+        },
+        {
+            "name": "Jude 1:5",
+            "text": "I will therefore put you in remembrance, though ye once knew this, how that the Lord, having saved the people out of the land of Egypt, afterward destroyed them that believed not."
+        },
+        {
+            "name": "Jude 1:6",
+            "text": "And the angels which kept not their first estate, but left their own habitation, he hath reserved in everlasting chains under darkness unto the judgment of the great day."
+        }
+    ],
+    "tone": "neutral"
+}

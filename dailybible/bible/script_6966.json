@@ -1,0 +1,27 @@
+{
+    "book": "John",
+    "chapter": "Chapter 11",
+    "verses": [
+        {
+            "name": "John 11:6",
+            "text": "When he had heard therefore that he was sick, he abode two days still in the same place where he was."
+        },
+        {
+            "name": "John 11:7",
+            "text": "Then after that saith he to his disciples, Let us go into Judea again."
+        },
+        {
+            "name": "John 11:8",
+            "text": "His disciples say unto him, Master, the Jews of late sought to stone thee; and goest thou thither again?"
+        },
+        {
+            "name": "John 11:9",
+            "text": "Jesus answered, Are there not twelve hours in the day? If any man walk in the day, he stumbleth not, because he seeth the light of this world."
+        },
+        {
+            "name": "John 11:10",
+            "text": "But if a man walk in the night, he stumbleth, because there is no light in him."
+        }
+    ],
+    "tone": "neutral"
+}

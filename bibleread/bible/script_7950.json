@@ -1,0 +1,19 @@
+{
+    "book": "Jude",
+    "chapter": "Chapter 1",
+    "verses": [
+        {
+            "name": "Jude 1:10",
+            "text": "But these speak evil of those things which they know not: but what they know naturally, as brute beasts, in those things they corrupt themselves."
+        },
+        {
+            "name": "Jude 1:11",
+            "text": "Woe unto them! for they have gone in the way of Cain, and ran greedily after the error of Balaam for reward, and perished in the gainsaying of Core."
+        },
+        {
+            "name": "Jude 1:12",
+            "text": "These are spots in your feasts of charity, when they feast with you, feeding themselves without fear: clouds they are without water, carried about of winds; trees whose fruit withereth, without fruit, twice dead, plucked up by the roots;"
+        }
+    ],
+    "tone": "lamenting"
+}

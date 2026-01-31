@@ -1,0 +1,23 @@
+{
+    "book": "Daniel",
+    "chapter": "Chapter 2",
+    "verses": [
+        {
+            "name": "Daniel 2:17",
+            "text": "Then Daniel went to his house, and made the thing known to Hananiah, Mishael, and Azariah, his companions:"
+        },
+        {
+            "name": "Daniel 2:18",
+            "text": "That they would desire mercies of the God of heaven concerning this secret; that Daniel and his fellows should not perish with the rest of the wise men of Babylon."
+        },
+        {
+            "name": "Daniel 2:19",
+            "text": "Then was the secret revealed unto Daniel in a night vision. Then Daniel blessed the God of heaven."
+        },
+        {
+            "name": "Daniel 2:20",
+            "text": "Daniel answered and said, Blessed be the name of God for ever and ever: for wisdom and might are his:"
+        }
+    ],
+    "tone": "lamenting"
+}

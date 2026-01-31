@@ -1,0 +1,15 @@
+{
+    "book": "Ezra",
+    "chapter": "Chapter 1",
+    "verses": [
+        {
+            "name": "Ezra 1:1",
+            "text": "Now in the first year of Cyrus king of Persia, that the word of the Lord by the mouth of Jeremiah might be fulfilled, the Lord stirred up the spirit of Cyrus king of Persia, that he made a proclamation throughout all his kingdom, and put it also in writing, saying,"
+        },
+        {
+            "name": "Ezra 1:2",
+            "text": "Thus saith Cyrus king of Persia, The Lord God of heaven hath given me all the kingdoms of the earth; and he hath charged me to build him an house at Jerusalem, which is in Judah."
+        }
+    ],
+    "tone": "neutral"
+}

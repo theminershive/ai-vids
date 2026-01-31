@@ -1,0 +1,19 @@
+{
+    "book": "Luke",
+    "chapter": "Chapter 9",
+    "verses": [
+        {
+            "name": "Luke 9:36",
+            "text": "And when the voice was past, Jesus was found alone. And they kept it close, and told no man in those days any of those things which they had seen."
+        },
+        {
+            "name": "Luke 9:37",
+            "text": "And it came to pass, that on the next day, when they were come down from the hill, much people met him."
+        },
+        {
+            "name": "Luke 9:38",
+            "text": "And, behold, a man of the company cried out, saying, Master, I beseech thee, look upon my son: for he is mine only child."
+        }
+    ],
+    "tone": "neutral"
+}

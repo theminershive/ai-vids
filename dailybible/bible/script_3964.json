@@ -1,0 +1,31 @@
+{
+    "book": "Psalms",
+    "chapter": "Chapter 49",
+    "verses": [
+        {
+            "name": "Psalms 49:1",
+            "text": "Hear this, all ye people; give ear, all ye inhabitants of the world:"
+        },
+        {
+            "name": "Psalms 49:2",
+            "text": "Both low and high, rich and poor, together."
+        },
+        {
+            "name": "Psalms 49:3",
+            "text": "My mouth shall speak of wisdom; and the meditation of my heart shall be of understanding."
+        },
+        {
+            "name": "Psalms 49:4",
+            "text": "I will incline mine ear to a parable: I will open my dark saying upon the harp."
+        },
+        {
+            "name": "Psalms 49:5",
+            "text": "Wherefore should I fear in the days of evil, when the iniquity of my heels shall compass me about?"
+        },
+        {
+            "name": "Psalms 49:6",
+            "text": "They that trust in their wealth, and boast themselves in the multitude of their riches;"
+        }
+    ],
+    "tone": "hopeful"
+}

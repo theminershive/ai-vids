@@ -1,0 +1,31 @@
+{
+    "book": "Job",
+    "chapter": "Chapter 42",
+    "verses": [
+        {
+            "name": "Job 42:1",
+            "text": "Then Job answered the Lord, and said,"
+        },
+        {
+            "name": "Job 42:2",
+            "text": "I know that thou canst do every thing, and that no thought can be withholden from thee."
+        },
+        {
+            "name": "Job 42:3",
+            "text": "Who is he that hideth counsel without knowledge? therefore have I uttered that I understood not; things too wonderful for me, which I knew not."
+        },
+        {
+            "name": "Job 42:4",
+            "text": "Hear, I beseech thee, and I will speak: I will demand of thee, and declare thou unto me."
+        },
+        {
+            "name": "Job 42:5",
+            "text": "I have heard of thee by the hearing of the ear: but now mine eye seeth thee."
+        },
+        {
+            "name": "Job 42:6",
+            "text": "Wherefore I abhor myself, and repent in dust and ashes."
+        }
+    ],
+    "tone": "lamenting"
+}

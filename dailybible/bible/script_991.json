@@ -1,0 +1,19 @@
+{
+    "book": "Leviticus",
+    "chapter": "Chapter 27",
+    "verses": [
+        {
+            "name": "Leviticus 27:22",
+            "text": "And if a man sanctify unto the Lord a field which he hath bought, which is not of the fields of his possession;"
+        },
+        {
+            "name": "Leviticus 27:23",
+            "text": "Then the priest shall reckon unto him the worth of thy estimation, even unto the year of the jubile: and he shall give thine estimation in that day, as a holy thing unto the Lord."
+        },
+        {
+            "name": "Leviticus 27:24",
+            "text": "In the year of the jubile the field shall return unto him of whom it was bought, even to him to whom the possession of the land did belong."
+        }
+    ],
+    "tone": "instructional"
+}

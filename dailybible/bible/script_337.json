@@ -1,0 +1,23 @@
+{
+    "book": "Genesis",
+    "chapter": "Chapter 43",
+    "verses": [
+        {
+            "name": "Genesis 43:1",
+            "text": "And the famine was sore in the land."
+        },
+        {
+            "name": "Genesis 43:2",
+            "text": "And it came to pass, when they had eaten up the corn which they had brought out of Egypt, their father said unto them, Go again, buy us a little food."
+        },
+        {
+            "name": "Genesis 43:3",
+            "text": "And Judah spake unto him, saying, The man did solemnly protest unto us, saying, Ye shall not see my face, except your brother be with you."
+        },
+        {
+            "name": "Genesis 43:4",
+            "text": "If thou wilt send our brother with us, we will go down and buy thee food:"
+        }
+    ],
+    "tone": "neutral"
+}

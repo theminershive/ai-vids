@@ -1,0 +1,27 @@
+{
+    "book": "Romans",
+    "chapter": "Chapter 3",
+    "verses": [
+        {
+            "name": "Romans 3:6",
+            "text": "God forbid: for then how shall God judge the world?"
+        },
+        {
+            "name": "Romans 3:7",
+            "text": "For if the truth of God hath more abounded through my lie unto his glory; why yet am I also judged as a sinner?"
+        },
+        {
+            "name": "Romans 3:8",
+            "text": "And not rather, (as we be slanderously reported, and as some affirm that we say,) Let us do evil, that good may come? whose damnation is just."
+        },
+        {
+            "name": "Romans 3:9",
+            "text": "What then? are we better than they? No, in no wise: for we have before proved both Jews and Gentiles, that they are all under sin;"
+        },
+        {
+            "name": "Romans 3:10",
+            "text": "As it is written, There is none righteous, no, not one:"
+        }
+    ],
+    "tone": "lamenting"
+}

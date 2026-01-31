@@ -1,0 +1,19 @@
+{
+    "book": "Matthew",
+    "chapter": "Chapter 6",
+    "verses": [
+        {
+            "name": "Matthew 6:22",
+            "text": "The light of the body is the eye: if therefore thine eye be single, thy whole body shall be full of light."
+        },
+        {
+            "name": "Matthew 6:23",
+            "text": "But if thine eye be evil, thy whole body shall be full of darkness. If therefore the light that is in thee be darkness, how great is that darkness!"
+        },
+        {
+            "name": "Matthew 6:24",
+            "text": "No man can serve two masters: for either he will hate the one, and love the other; or else he will hold to the one, and despise the other. Ye cannot serve God and mammon."
+        }
+    ],
+    "tone": "hopeful"
+}

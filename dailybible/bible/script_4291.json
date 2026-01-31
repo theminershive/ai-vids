@@ -1,0 +1,31 @@
+{
+    "book": "Proverbs",
+    "chapter": "Chapter 8",
+    "verses": [
+        {
+            "name": "Proverbs 8:7",
+            "text": "For my mouth shall speak truth; and wickedness is an abomination to my lips."
+        },
+        {
+            "name": "Proverbs 8:8",
+            "text": "All the words of my mouth are in righteousness; there is nothing froward or perverse in them."
+        },
+        {
+            "name": "Proverbs 8:9",
+            "text": "They are all plain to him that understandeth, and right to them that find knowledge."
+        },
+        {
+            "name": "Proverbs 8:10",
+            "text": "Receive my instruction, and not silver; and knowledge rather than choice gold."
+        },
+        {
+            "name": "Proverbs 8:11",
+            "text": "For wisdom is better than rubies; and all the things that may be desired are not to be compared to it."
+        },
+        {
+            "name": "Proverbs 8:12",
+            "text": "I wisdom dwell with prudence, and find out knowledge of witty inventions."
+        }
+    ],
+    "tone": "instructional"
+}

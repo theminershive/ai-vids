@@ -1,0 +1,27 @@
+{
+    "book": "James",
+    "chapter": "Chapter 1",
+    "verses": [
+        {
+            "name": "James 1:6",
+            "text": "But let him ask in faith, nothing wavering. For he that wavereth is like a wave of the sea driven with the wind and tossed."
+        },
+        {
+            "name": "James 1:7",
+            "text": "For let not that man think that he shall receive any thing of the Lord."
+        },
+        {
+            "name": "James 1:8",
+            "text": "A double minded man is unstable in all his ways."
+        },
+        {
+            "name": "James 1:9",
+            "text": "Let the brother of low degree rejoice in that he is exalted:"
+        },
+        {
+            "name": "James 1:10",
+            "text": "But the rich, in that he is made low: because as the flower of the grass he shall pass away."
+        }
+    ],
+    "tone": "hopeful"
+}

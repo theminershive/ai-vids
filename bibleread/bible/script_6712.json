@@ -1,0 +1,23 @@
+{
+    "book": "Luke",
+    "chapter": "Chapter 11",
+    "verses": [
+        {
+            "name": "Luke 11:14",
+            "text": "And he was casting out a devil, and it was dumb. And it came to pass, when the devil was gone out, the dumb spake; and the people wondered."
+        },
+        {
+            "name": "Luke 11:15",
+            "text": "But some of them said, He casteth out devils through Beelzebub the chief of the devils."
+        },
+        {
+            "name": "Luke 11:16",
+            "text": "And others, tempting him, sought of him a sign from heaven."
+        },
+        {
+            "name": "Luke 11:17",
+            "text": "But he, knowing their thoughts, said unto them, Every kingdom divided against itself is brought to desolation; and a house divided against a house falleth."
+        }
+    ],
+    "tone": "neutral"
+}

@@ -1,0 +1,31 @@
+{
+    "book": "Job",
+    "chapter": "Chapter 3",
+    "verses": [
+        {
+            "name": "Job 3:16",
+            "text": "Or as an hidden untimely birth I had not been; as infants which never saw light."
+        },
+        {
+            "name": "Job 3:17",
+            "text": "There the wicked cease from troubling; and there the weary be at rest."
+        },
+        {
+            "name": "Job 3:18",
+            "text": "There the prisoners rest together; they hear not the voice of the oppressor."
+        },
+        {
+            "name": "Job 3:19",
+            "text": "The small and great are there; and the servant is free from his master."
+        },
+        {
+            "name": "Job 3:20",
+            "text": "Wherefore is light given to him that is in misery, and life unto the bitter in soul;"
+        },
+        {
+            "name": "Job 3:21",
+            "text": "Which long for death, but it cometh not; and dig for it more than for hid treasures;"
+        }
+    ],
+    "tone": "lamenting"
+}

@@ -1,0 +1,19 @@
+{
+    "book": "Zechariah",
+    "chapter": "Chapter 1",
+    "verses": [
+        {
+            "name": "Zechariah 1:8",
+            "text": "I saw by night, and behold a man riding upon a red horse, and he stood among the myrtle trees that were in the bottom; and behind him were there red horses, speckled, and white."
+        },
+        {
+            "name": "Zechariah 1:9",
+            "text": "Then said I, O my lord, what are these? And the angel that talked with me said unto me, I will shew thee what these be."
+        },
+        {
+            "name": "Zechariah 1:10",
+            "text": "And the man that stood among the myrtle trees answered and said, These are they whom the Lord hath sent to walk to and fro through the earth."
+        }
+    ],
+    "tone": "neutral"
+}

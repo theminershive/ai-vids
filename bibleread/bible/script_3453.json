@@ -1,0 +1,27 @@
+{
+    "book": "Ezra",
+    "chapter": "Chapter 7",
+    "verses": [
+        {
+            "name": "Ezra 7:1",
+            "text": "Now after these things, in the reign of Artaxerxes king of Persia, Ezra the son of Seraiah, the son of Azariah, the son of Hilkiah,"
+        },
+        {
+            "name": "Ezra 7:2",
+            "text": "The son of Shallum, the son of Zadok, the son of Ahitub,"
+        },
+        {
+            "name": "Ezra 7:3",
+            "text": "The son of Amariah, the son of Azariah, the son of Meraioth,"
+        },
+        {
+            "name": "Ezra 7:4",
+            "text": "The son of Zerahiah, the son of Uzzi, the son of Bukki,"
+        },
+        {
+            "name": "Ezra 7:5",
+            "text": "The son of Abishua, the son of Phinehas, the son of Eleazar, the son of Aaron the chief priest:"
+        }
+    ],
+    "tone": "neutral"
+}

@@ -1,0 +1,23 @@
+{
+    "book": "Deuteronomy",
+    "chapter": "Chapter 22",
+    "verses": [
+        {
+            "name": "Deuteronomy 22:11",
+            "text": "Thou shalt not wear a garment of divers sorts, as of woollen and linen together."
+        },
+        {
+            "name": "Deuteronomy 22:12",
+            "text": "Thou shalt make thee fringes upon the four quarters of thy vesture, wherewith thou coverest thyself."
+        },
+        {
+            "name": "Deuteronomy 22:13",
+            "text": "If any man take a wife, and go in unto her, and hate her,"
+        },
+        {
+            "name": "Deuteronomy 22:14",
+            "text": "And give occasions of speech against her, and bring up an evil name upon her, and say, I took this woman, and when I came to her, I found her not a maid:"
+        }
+    ],
+    "tone": "instructional"
+}

@@ -1,0 +1,23 @@
+{
+    "book": "Mark",
+    "chapter": "Chapter 7",
+    "verses": [
+        {
+            "name": "Mark 7:9",
+            "text": "And he said unto them, Full well ye reject the commandment of God, that ye may keep your own tradition."
+        },
+        {
+            "name": "Mark 7:10",
+            "text": "For Moses said, Honour thy father and thy mother; and, Whoso curseth father or mother, let him die the death:"
+        },
+        {
+            "name": "Mark 7:11",
+            "text": "But ye say, If a man shall say to his father or mother, It is Corban, that is to say, a gift, by whatsoever thou mightest be profited by me; he shall be free."
+        },
+        {
+            "name": "Mark 7:12",
+            "text": "And ye suffer him no more to do ought for his father or his mother;"
+        }
+    ],
+    "tone": "neutral"
+}

@@ -1,0 +1,19 @@
+{
+    "book": "1 Kings",
+    "chapter": "Chapter 8",
+    "verses": [
+        {
+            "name": "1 Kings 8:9",
+            "text": "There was nothing in the ark save the two tables of stone, which Moses put there at Horeb, when the Lord made a covenant with the children of Israel, when they came out of the land of Egypt."
+        },
+        {
+            "name": "1 Kings 8:10",
+            "text": "And it came to pass, when the priests were come out of the holy place, that the cloud filled the house of the Lord,"
+        },
+        {
+            "name": "1 Kings 8:11",
+            "text": "So that the priests could not stand to minister because of the cloud: for the glory of the Lord had filled the house of the Lord."
+        }
+    ],
+    "tone": "hopeful"
+}

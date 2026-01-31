@@ -1,0 +1,23 @@
+{
+    "book": "Exodus",
+    "chapter": "Chapter 24",
+    "verses": [
+        {
+            "name": "Exodus 24:13",
+            "text": "And Moses rose up, and his minister Joshua: and Moses went up into the mount of God."
+        },
+        {
+            "name": "Exodus 24:14",
+            "text": "And he said unto the elders, Tarry ye here for us, until we come again unto you: and, behold, Aaron and Hur are with you: if any man have any matters to do, let him come unto them."
+        },
+        {
+            "name": "Exodus 24:15",
+            "text": "And Moses went up into the mount, and a cloud covered the mount."
+        },
+        {
+            "name": "Exodus 24:16",
+            "text": "And the glory of the Lord abode upon mount Sinai, and the cloud covered it six days: and the seventh day he called unto Moses out of the midst of the cloud."
+        }
+    ],
+    "tone": "neutral"
+}

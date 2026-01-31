@@ -1,0 +1,15 @@
+{
+    "book": "Joshua",
+    "chapter": "Chapter 1",
+    "verses": [
+        {
+            "name": "Joshua 1:7",
+            "text": "Only be thou strong and very courageous, that thou mayest observe to do according to all the law, which Moses my servant commanded thee: turn not from it to the right hand or to the left, that thou mayest prosper whithersoever thou goest."
+        },
+        {
+            "name": "Joshua 1:8",
+            "text": "This book of the law shall not depart out of thy mouth; but thou shalt meditate therein day and night, that thou mayest observe to do according to all that is written therein: for then thou shalt make thy way prosperous, and then thou shalt have good success."
+        }
+    ],
+    "tone": "instructional"
+}

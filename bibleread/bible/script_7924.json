@@ -1,0 +1,19 @@
+{
+    "book": "1 John",
+    "chapter": "Chapter 3",
+    "verses": [
+        {
+            "name": "1 John 3:1",
+            "text": "Behold, what manner of love the Father hath bestowed upon us, that we should be called the sons of God: therefore the world knoweth us not, because it knew him not."
+        },
+        {
+            "name": "1 John 3:2",
+            "text": "Beloved, now are we the sons of God, and it doth not yet appear what we shall be: but we know that, when he shall appear, we shall be like him; for we shall see him as he is."
+        },
+        {
+            "name": "1 John 3:3",
+            "text": "And every man that hath this hope in him purifieth himself, even as he is pure."
+        }
+    ],
+    "tone": "hopeful"
+}

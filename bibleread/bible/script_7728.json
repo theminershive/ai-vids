@@ -1,0 +1,23 @@
+{
+    "book": "1 Timothy",
+    "chapter": "Chapter 1",
+    "verses": [
+        {
+            "name": "1 Timothy 1:16",
+            "text": "Howbeit for this cause I obtained mercy, that in me first Jesus Christ might shew forth all longsuffering, for a pattern to them which should hereafter believe on him to life everlasting."
+        },
+        {
+            "name": "1 Timothy 1:17",
+            "text": "Now unto the King eternal, immortal, invisible, the only wise God, be honour and glory for ever and ever. Amen."
+        },
+        {
+            "name": "1 Timothy 1:18",
+            "text": "This charge I commit unto thee, son Timothy, according to the prophecies which went before on thee, that thou by them mightest war a good warfare;"
+        },
+        {
+            "name": "1 Timothy 1:19",
+            "text": "Holding faith, and a good conscience; which some having put away concerning faith have made shipwreck:"
+        }
+    ],
+    "tone": "hopeful"
+}

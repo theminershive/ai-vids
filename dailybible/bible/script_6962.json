@@ -1,0 +1,27 @@
+{
+    "book": "John",
+    "chapter": "Chapter 10",
+    "verses": [
+        {
+            "name": "John 10:28",
+            "text": "And I give unto them eternal life; and they shall never perish, neither shall any man pluck them out of my hand."
+        },
+        {
+            "name": "John 10:29",
+            "text": "My Father, which gave them me, is greater than all; and no man is able to pluck them out of my Father\u2019s hand."
+        },
+        {
+            "name": "John 10:30",
+            "text": "I and my Father are one."
+        },
+        {
+            "name": "John 10:31",
+            "text": "Then the Jews took up stones again to stone him."
+        },
+        {
+            "name": "John 10:32",
+            "text": "Jesus answered them, Many good works have I shewed you from my Father; for which of those works do ye stone me?"
+        }
+    ],
+    "tone": "hopeful"
+}

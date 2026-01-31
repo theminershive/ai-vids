@@ -1,0 +1,19 @@
+{
+    "book": "Numbers",
+    "chapter": "Chapter 30",
+    "verses": [
+        {
+            "name": "Numbers 30:1",
+            "text": "And Moses spake unto the heads of the tribes concerning the children of Israel, saying, This is the thing which the Lord hath commanded."
+        },
+        {
+            "name": "Numbers 30:2",
+            "text": "If a man vow a vow unto the Lord, or swear an oath to bind his soul with a bond; he shall not break his word, he shall do according to all that proceedeth out of his mouth."
+        },
+        {
+            "name": "Numbers 30:3",
+            "text": "If a woman also vow a vow unto the Lord, and bind herself by a bond, being in her father\u2019s house in her youth;"
+        }
+    ],
+    "tone": "neutral"
+}

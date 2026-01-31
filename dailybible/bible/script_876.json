@@ -1,0 +1,19 @@
+{
+    "book": "Leviticus",
+    "chapter": "Chapter 15",
+    "verses": [
+        {
+            "name": "Leviticus 15:11",
+            "text": "And whomsoever he toucheth that hath the issue, and hath not rinsed his hands in water, he shall wash his clothes, and bathe himself in water, and be unclean until the even."
+        },
+        {
+            "name": "Leviticus 15:12",
+            "text": "And the vessel of earth, that he toucheth which hath the issue, shall be broken: and every vessel of wood shall be rinsed in water."
+        },
+        {
+            "name": "Leviticus 15:13",
+            "text": "And when he that hath an issue is cleansed of his issue; then he shall number to himself seven days for his cleansing, and wash his clothes, and bathe his flesh in running water, and shall be clean."
+        }
+    ],
+    "tone": "neutral"
+}

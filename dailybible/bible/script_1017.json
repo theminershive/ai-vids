@@ -1,0 +1,19 @@
+{
+    "book": "Numbers",
+    "chapter": "Chapter 3",
+    "verses": [
+        {
+            "name": "Numbers 3:12",
+            "text": "And I, behold, I have taken the Levites from among the children of Israel instead of all the firstborn that openeth the matrix among the children of Israel: therefore the Levites shall be mine;"
+        },
+        {
+            "name": "Numbers 3:13",
+            "text": "Because all the firstborn are mine; for on the day that I smote all the firstborn in the land of Egypt I hallowed unto me all the firstborn in Israel, both man and beast: mine shall they be: I am the Lord."
+        },
+        {
+            "name": "Numbers 3:14",
+            "text": "And the Lord spake unto Moses in the wilderness of Sinai, saying,"
+        }
+    ],
+    "tone": "neutral"
+}

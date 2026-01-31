@@ -1,0 +1,23 @@
+{
+    "book": "2 Corinthians",
+    "chapter": "Chapter 10",
+    "verses": [
+        {
+            "name": "2 Corinthians 10:1",
+            "text": "Now I Paul myself beseech you by the meekness and gentleness of Christ, who in presence am base among you, but being absent am bold toward you:"
+        },
+        {
+            "name": "2 Corinthians 10:2",
+            "text": "But I beseech you, that I may not be bold when I am present with that confidence, wherewith I think to be bold against some, which think of us as if we walked according to the flesh."
+        },
+        {
+            "name": "2 Corinthians 10:3",
+            "text": "For though we walk in the flesh, we do not war after the flesh:"
+        },
+        {
+            "name": "2 Corinthians 10:4",
+            "text": "(For the weapons of our warfare are not carnal, but mighty through God to the pulling down of strong holds;)"
+        }
+    ],
+    "tone": "hopeful"
+}

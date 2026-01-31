@@ -1,0 +1,23 @@
+{
+    "book": "Acts",
+    "chapter": "Chapter 27",
+    "verses": [
+        {
+            "name": "Acts 27:1",
+            "text": "And when it was determined that we should sail into Italy, they delivered Paul and certain other prisoners unto one named Julius, a centurion of Augustus\u2019 band."
+        },
+        {
+            "name": "Acts 27:2",
+            "text": "And entering into a ship of Adramyttium, we launched, meaning to sail by the coasts of Asia; one Aristarchus, a Macedonian of Thessalonica, being with us."
+        },
+        {
+            "name": "Acts 27:3",
+            "text": "And the next day we touched at Sidon. And Julius courteously entreated Paul, and gave him liberty to go unto his friends to refresh himself."
+        },
+        {
+            "name": "Acts 27:4",
+            "text": "And when we had launched from thence, we sailed under Cyprus, because the winds were contrary."
+        }
+    ],
+    "tone": "neutral"
+}

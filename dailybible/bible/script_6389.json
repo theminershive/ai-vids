@@ -1,0 +1,27 @@
+{
+    "book": "Matthew",
+    "chapter": "Chapter 26",
+    "verses": [
+        {
+            "name": "Matthew 26:46",
+            "text": "Rise, let us be going: behold, he is at hand that doth betray me."
+        },
+        {
+            "name": "Matthew 26:47",
+            "text": "And while he yet spake, lo, Judas, one of the twelve, came, and with him a great multitude with swords and staves, from the chief priests and elders of the people."
+        },
+        {
+            "name": "Matthew 26:48",
+            "text": "Now he that betrayed him gave them a sign, saying, Whomsoever I shall kiss, that same is he: hold him fast."
+        },
+        {
+            "name": "Matthew 26:49",
+            "text": "And forthwith he came to Jesus, and said, Hail, master; and kissed him."
+        },
+        {
+            "name": "Matthew 26:50",
+            "text": "And Jesus said unto him, Friend, wherefore art thou come? Then came they, and laid hands on Jesus, and took him."
+        }
+    ],
+    "tone": "neutral"
+}

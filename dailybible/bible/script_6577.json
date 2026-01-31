@@ -1,0 +1,23 @@
+{
+    "book": "Mark",
+    "chapter": "Chapter 16",
+    "verses": [
+        {
+            "name": "Mark 16:16",
+            "text": "He that believeth and is baptized shall be saved; but he that believeth not shall be damned."
+        },
+        {
+            "name": "Mark 16:17",
+            "text": "And these signs shall follow them that believe; In my name shall they cast out devils; they shall speak with new tongues;"
+        },
+        {
+            "name": "Mark 16:18",
+            "text": "They shall take up serpents; and if they drink any deadly thing, it shall not hurt them; they shall lay hands on the sick, and they shall recover."
+        },
+        {
+            "name": "Mark 16:19",
+            "text": "So then after the Lord had spoken unto them, he was received up into heaven, and sat on the right hand of God."
+        }
+    ],
+    "tone": "hopeful"
+}

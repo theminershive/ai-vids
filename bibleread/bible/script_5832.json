@@ -1,0 +1,19 @@
+{
+    "book": "Daniel",
+    "chapter": "Chapter 10",
+    "verses": [
+        {
+            "name": "Daniel 10:1",
+            "text": "In the third year of Cyrus king of Persia a thing was revealed unto Daniel, whose name was called Belteshazzar; and the thing was true, but the time appointed was long: and he understood the thing, and had understanding of the vision."
+        },
+        {
+            "name": "Daniel 10:2",
+            "text": "In those days I Daniel was mourning three full weeks."
+        },
+        {
+            "name": "Daniel 10:3",
+            "text": "I ate no pleasant bread, neither came flesh nor wine in my mouth, neither did I anoint myself at all, till three whole weeks were fulfilled."
+        }
+    ],
+    "tone": "neutral"
+}

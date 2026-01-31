@@ -1,0 +1,23 @@
+{
+    "book": "Mark",
+    "chapter": "Chapter 7",
+    "verses": [
+        {
+            "name": "Mark 7:13",
+            "text": "Making the word of God of none effect through your tradition, which ye have delivered: and many such like things do ye."
+        },
+        {
+            "name": "Mark 7:14",
+            "text": "And when he had called all the people unto him, he said unto them, Hearken unto me every one of you, and understand:"
+        },
+        {
+            "name": "Mark 7:15",
+            "text": "There is nothing from without a man, that entering into him can defile him: but the things which come out of him, those are they that defile the man."
+        },
+        {
+            "name": "Mark 7:16",
+            "text": "If any man have ears to hear, let him hear."
+        }
+    ],
+    "tone": "neutral"
+}

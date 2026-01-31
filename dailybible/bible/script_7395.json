@@ -1,0 +1,35 @@
+{
+    "book": "Romans",
+    "chapter": "Chapter 12",
+    "verses": [
+        {
+            "name": "Romans 12:11",
+            "text": "Not slothful in business; fervent in spirit; serving the Lord;"
+        },
+        {
+            "name": "Romans 12:12",
+            "text": "Rejoicing in hope; patient in tribulation; continuing instant in prayer;"
+        },
+        {
+            "name": "Romans 12:13",
+            "text": "Distributing to the necessity of saints; given to hospitality."
+        },
+        {
+            "name": "Romans 12:14",
+            "text": "Bless them which persecute you: bless, and curse not."
+        },
+        {
+            "name": "Romans 12:15",
+            "text": "Rejoice with them that do rejoice, and weep with them that weep."
+        },
+        {
+            "name": "Romans 12:16",
+            "text": "Be of the same mind one toward another. Mind not high things, but condescend to men of low estate. Be not wise in your own conceits."
+        },
+        {
+            "name": "Romans 12:17",
+            "text": "Recompense to no man evil for evil. Provide things honest in the sight of all men."
+        }
+    ],
+    "tone": "hopeful"
+}

@@ -1,0 +1,19 @@
+{
+    "book": "Romans",
+    "chapter": "Chapter 11",
+    "verses": [
+        {
+            "name": "Romans 11:25",
+            "text": "For I would not, brethren, that ye should be ignorant of this mystery, lest ye should be wise in your own conceits; that blindness in part is happened to Israel, until the fulness of the Gentiles be come in."
+        },
+        {
+            "name": "Romans 11:26",
+            "text": "And so all Israel shall be saved: as it is written, There shall come out of Sion the Deliverer, and shall turn away ungodliness from Jacob:"
+        },
+        {
+            "name": "Romans 11:27",
+            "text": "For this is my covenant unto them, when I shall take away their sins."
+        }
+    ],
+    "tone": "hopeful"
+}

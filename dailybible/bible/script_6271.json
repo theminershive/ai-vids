@@ -1,0 +1,27 @@
+{
+    "book": "Matthew",
+    "chapter": "Chapter 14",
+    "verses": [
+        {
+            "name": "Matthew 14:6",
+            "text": "But when Herod\u2019s birthday was kept, the daughter of Herodias danced before them, and pleased Herod."
+        },
+        {
+            "name": "Matthew 14:7",
+            "text": "Whereupon he promised with an oath to give her whatsoever she would ask."
+        },
+        {
+            "name": "Matthew 14:8",
+            "text": "And she, being before instructed of her mother, said, Give me here John Baptist\u2019s head in a charger."
+        },
+        {
+            "name": "Matthew 14:9",
+            "text": "And the king was sorry: nevertheless for the oath\u2019s sake, and them which sat with him at meat, he commanded it to be given her. "
+        },
+        {
+            "name": "Matthew 14:10",
+            "text": "And he sent, and beheaded John in the prison."
+        }
+    ],
+    "tone": "neutral"
+}

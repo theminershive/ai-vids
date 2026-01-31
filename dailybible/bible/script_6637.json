@@ -1,0 +1,19 @@
+{
+    "book": "Luke",
+    "chapter": "Chapter 5",
+    "verses": [
+        {
+            "name": "Luke 5:33",
+            "text": "And they said unto him, Why do the disciples of John fast often, and make prayers, and likewise the disciples of the Pharisees; but thine eat and drink?"
+        },
+        {
+            "name": "Luke 5:34",
+            "text": "And he said unto them, Can ye make the children of the bridechamber fast, while the bridegroom is with them?"
+        },
+        {
+            "name": "Luke 5:35",
+            "text": "But the days will come, when the bridegroom shall be taken away from them, and then shall they fast in those days."
+        }
+    ],
+    "tone": "neutral"
+}

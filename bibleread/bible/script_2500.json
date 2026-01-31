@@ -1,0 +1,23 @@
+{
+    "book": "1 Kings",
+    "chapter": "Chapter 2",
+    "verses": [
+        {
+            "name": "1 Kings 2:9",
+            "text": "Now therefore hold him not guiltless: for thou art a wise man, and knowest what thou oughtest to do unto him; but his hoar head bring thou down to the grave with blood."
+        },
+        {
+            "name": "1 Kings 2:10",
+            "text": "So David slept with his fathers, and was buried in the city of David."
+        },
+        {
+            "name": "1 Kings 2:11",
+            "text": "And the days that David reigned over Israel were forty years: seven years reigned he in Hebron, and thirty and three years reigned he in Jerusalem."
+        },
+        {
+            "name": "1 Kings 2:12",
+            "text": "Then sat Solomon upon the throne of David his father; and his kingdom was established greatly."
+        }
+    ],
+    "tone": "neutral"
+}

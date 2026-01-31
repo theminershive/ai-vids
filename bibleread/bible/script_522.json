@@ -1,0 +1,19 @@
+{
+    "book": "Exodus",
+    "chapter": "Chapter 15",
+    "verses": [
+        {
+            "name": "Exodus 15:19",
+            "text": "For the horse of Pharaoh went in with his chariots and with his horsemen into the sea, and the Lord brought again the waters of the sea upon them; but the children of Israel went on dry land in the midst of the sea."
+        },
+        {
+            "name": "Exodus 15:20",
+            "text": "And Miriam the prophetess, the sister of Aaron, took a timbrel in her hand; and all the women went out after her with timbrels and with dances."
+        },
+        {
+            "name": "Exodus 15:21",
+            "text": "And Miriam answered them, Sing ye to the Lord, for he hath triumphed gloriously; the horse and his rider hath he thrown into the sea."
+        }
+    ],
+    "tone": "neutral"
+}

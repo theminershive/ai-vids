@@ -1,0 +1,19 @@
+{
+    "book": "1 Samuel",
+    "chapter": "Chapter 24",
+    "verses": [
+        {
+            "name": "1 Samuel 24:11",
+            "text": "Moreover, my father, see, yea, see the skirt of thy robe in my hand: for in that I cut off the skirt of thy robe, and killed thee not, know thou and see that there is neither evil nor transgression in mine hand, and I have not sinned against thee; yet thou huntest my soul to take it."
+        },
+        {
+            "name": "1 Samuel 24:12",
+            "text": "The Lord judge between me and thee, and the Lord avenge me of thee: but mine hand shall not be upon thee."
+        },
+        {
+            "name": "1 Samuel 24:13",
+            "text": "As saith the proverb of the ancients, Wickedness proceedeth from the wicked: but mine hand shall not be upon thee."
+        }
+    ],
+    "tone": "instructional"
+}

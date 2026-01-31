@@ -1,0 +1,23 @@
+{
+    "book": "Joshua",
+    "chapter": "Chapter 4",
+    "verses": [
+        {
+            "name": "Joshua 4:20",
+            "text": "And those twelve stones, which they took out of Jordan, did Joshua pitch in Gilgal."
+        },
+        {
+            "name": "Joshua 4:21",
+            "text": "And he spake unto the children of Israel, saying, When your children shall ask their fathers in time to come, saying, What mean these stones?"
+        },
+        {
+            "name": "Joshua 4:22",
+            "text": "Then ye shall let your children know, saying, Israel came over this Jordan on dry land."
+        },
+        {
+            "name": "Joshua 4:23",
+            "text": "For the Lord your God dried up the waters of Jordan from before you, until ye were passed over, as the Lord your God did to the Red sea, which he dried up from before us, until we were gone over:"
+        }
+    ],
+    "tone": "neutral"
+}

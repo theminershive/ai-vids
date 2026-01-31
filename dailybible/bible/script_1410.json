@@ -1,0 +1,19 @@
+{
+    "book": "Deuteronomy",
+    "chapter": "Chapter 8",
+    "verses": [
+        {
+            "name": "Deuteronomy 8:14",
+            "text": "Then thine heart be lifted up, and thou forget the Lord thy God, which brought thee forth out of the land of Egypt, from the house of bondage;"
+        },
+        {
+            "name": "Deuteronomy 8:15",
+            "text": "Who led thee through that great and terrible wilderness, wherein were fiery serpents, and scorpions, and drought, where there was no water; who brought thee forth water out of the rock of flint;"
+        },
+        {
+            "name": "Deuteronomy 8:16",
+            "text": "Who fed thee in the wilderness with manna, which thy fathers knew not, that he might humble thee, and that he might prove thee, to do thee good at thy latter end;"
+        }
+    ],
+    "tone": "neutral"
+}

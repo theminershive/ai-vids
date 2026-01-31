@@ -1,0 +1,19 @@
+{
+    "book": "1 Kings",
+    "chapter": "Chapter 8",
+    "verses": [
+        {
+            "name": "1 Kings 8:56",
+            "text": "Blessed be the Lord, that hath given rest unto his people Israel, according to all that he promised: there hath not failed one word of all his good promise, which he promised by the hand of Moses his servant."
+        },
+        {
+            "name": "1 Kings 8:57",
+            "text": "The Lord our God be with us, as he was with our fathers: let him not leave us, nor forsake us:"
+        },
+        {
+            "name": "1 Kings 8:58",
+            "text": "That he may incline our hearts unto him, to walk in all his ways, and to keep his commandments, and his statutes, and his judgments, which he commanded our fathers."
+        }
+    ],
+    "tone": "neutral"
+}

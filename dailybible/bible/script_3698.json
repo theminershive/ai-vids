@@ -1,0 +1,35 @@
+{
+    "book": "Job",
+    "chapter": "Chapter 13",
+    "verses": [
+        {
+            "name": "Job 13:1",
+            "text": "Lo, mine eye hath seen all this, mine ear hath heard and understood it."
+        },
+        {
+            "name": "Job 13:2",
+            "text": "What ye know, the same do I know also: I am not inferior unto you."
+        },
+        {
+            "name": "Job 13:3",
+            "text": "Surely I would speak to the Almighty, and I desire to reason with God."
+        },
+        {
+            "name": "Job 13:4",
+            "text": "But ye are forgers of lies, ye are all physicians of no value."
+        },
+        {
+            "name": "Job 13:5",
+            "text": "O that ye would altogether hold your peace! and it should be your wisdom."
+        },
+        {
+            "name": "Job 13:6",
+            "text": "Hear now my reasoning, and hearken to the pleadings of my lips."
+        },
+        {
+            "name": "Job 13:7",
+            "text": "Will ye speak wickedly for God? and talk deceitfully for him?"
+        }
+    ],
+    "tone": "hopeful"
+}

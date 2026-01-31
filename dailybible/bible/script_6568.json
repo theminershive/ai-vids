@@ -1,0 +1,27 @@
+{
+    "book": "Mark",
+    "chapter": "Chapter 15",
+    "verses": [
+        {
+            "name": "Mark 15:27",
+            "text": "And with him they crucify two thieves; the one on his right hand, and the other on his left."
+        },
+        {
+            "name": "Mark 15:28",
+            "text": "And the scripture was fulfilled, which saith, And he was numbered with the transgressors."
+        },
+        {
+            "name": "Mark 15:29",
+            "text": "And they that passed by railed on him, wagging their heads, and saying, Ah, thou that destroyest the temple, and buildest it in three days,"
+        },
+        {
+            "name": "Mark 15:30",
+            "text": "Save thyself, and come down from the cross."
+        },
+        {
+            "name": "Mark 15:31",
+            "text": "Likewise also the chief priests mocking said among themselves with the scribes, He saved others; himself he cannot save."
+        }
+    ],
+    "tone": "neutral"
+}

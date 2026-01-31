@@ -1,0 +1,23 @@
+{
+    "book": "John",
+    "chapter": "Chapter 10",
+    "verses": [
+        {
+            "name": "John 10:10",
+            "text": "The thief cometh not, but for to steal, and to kill, and to destroy: I am come that they might have life, and that they might have it more abundantly."
+        },
+        {
+            "name": "John 10:11",
+            "text": "I am the good shepherd: the good shepherd giveth his life for the sheep."
+        },
+        {
+            "name": "John 10:12",
+            "text": "But he that is an hireling, and not the shepherd, whose own the sheep are not, seeth the wolf coming, and leaveth the sheep, and fleeth: and the wolf catcheth them, and scattereth the sheep."
+        },
+        {
+            "name": "John 10:13",
+            "text": "The hireling fleeth, because he is an hireling, and careth not for the sheep."
+        }
+    ],
+    "tone": "lamenting"
+}

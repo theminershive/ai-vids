@@ -1,0 +1,31 @@
+{
+    "book": "John",
+    "chapter": "Chapter 7",
+    "verses": [
+        {
+            "name": "John 7:11",
+            "text": "Then the Jews sought him at the feast, and said, Where is he?"
+        },
+        {
+            "name": "John 7:12",
+            "text": "And there was much murmuring among the people concerning him: for some said, He is a good man: others said, Nay; but he deceiveth the people."
+        },
+        {
+            "name": "John 7:13",
+            "text": "Howbeit no man spake openly of him for fear of the Jews."
+        },
+        {
+            "name": "John 7:14",
+            "text": "Now about the midst of the feast Jesus went up into the temple, and taught."
+        },
+        {
+            "name": "John 7:15",
+            "text": "And the Jews marvelled, saying, How knoweth this man letters, having never learned?"
+        },
+        {
+            "name": "John 7:16",
+            "text": "Jesus answered them, and said, My doctrine is not mine, but his that sent me."
+        }
+    ],
+    "tone": "neutral"
+}

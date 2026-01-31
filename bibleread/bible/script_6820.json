@@ -1,0 +1,31 @@
+{
+    "book": "Luke",
+    "chapter": "Chapter 22",
+    "verses": [
+        {
+            "name": "Luke 22:1",
+            "text": "Now the feast of unleavened bread drew nigh, which is called the Passover."
+        },
+        {
+            "name": "Luke 22:2",
+            "text": "And the chief priests and scribes sought how they might kill him; for they feared the people."
+        },
+        {
+            "name": "Luke 22:3",
+            "text": "Then entered Satan into Judas surnamed Iscariot, being of the number of the twelve."
+        },
+        {
+            "name": "Luke 22:4",
+            "text": "And he went his way, and communed with the chief priests and captains, how he might betray him unto them."
+        },
+        {
+            "name": "Luke 22:5",
+            "text": "And they were glad, and covenanted to give him money."
+        },
+        {
+            "name": "Luke 22:6",
+            "text": "And he promised, and sought opportunity to betray him unto them in the absence of the multitude."
+        }
+    ],
+    "tone": "neutral"
+}

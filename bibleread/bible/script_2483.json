@@ -1,0 +1,19 @@
+{
+    "book": "1 Kings",
+    "chapter": "Chapter 1",
+    "verses": [
+        {
+            "name": "1 Kings 1:8",
+            "text": "But Zadok the priest, and Benaiah the son of Jehoiada, and Nathan the prophet, and Shimei, and Rei, and the mighty men which belonged to David, were not with Adonijah."
+        },
+        {
+            "name": "1 Kings 1:9",
+            "text": "And Adonijah slew sheep and oxen and fat cattle by the stone of Zoheleth, which is by En\u2013rogel, and called all his brethren the king\u2019s sons, and all the men of Judah the king\u2019s servants:"
+        },
+        {
+            "name": "1 Kings 1:10",
+            "text": "But Nathan the prophet, and Benaiah, and the mighty men, and Solomon his brother, he called not."
+        }
+    ],
+    "tone": "neutral"
+}

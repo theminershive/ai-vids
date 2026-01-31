@@ -1,0 +1,19 @@
+{
+    "book": "Jonah",
+    "chapter": "Chapter 3",
+    "verses": [
+        {
+            "name": "Jonah 3:8",
+            "text": "But let man and beast be covered with sackcloth, and cry mightily unto God: yea, let them turn every one from his evil way, and from the violence that is in their hands."
+        },
+        {
+            "name": "Jonah 3:9",
+            "text": "Who can tell if God will turn and repent, and turn away from his fierce anger, that we perish not?"
+        },
+        {
+            "name": "Jonah 3:10",
+            "text": "And God saw their works, that they turned from their evil way; and God repented of the evil, that he had said that he would do unto them; and he did it not. "
+        }
+    ],
+    "tone": "lamenting"
+}

@@ -1,0 +1,27 @@
+{
+    "book": "Ephesians",
+    "chapter": "Chapter 5",
+    "verses": [
+        {
+            "name": "Ephesians 5:18",
+            "text": "And be not drunk with wine, wherein is excess; but be filled with the Spirit;"
+        },
+        {
+            "name": "Ephesians 5:19",
+            "text": "Speaking to yourselves in psalms and hymns and spiritual songs, singing and making melody in your heart to the Lord;"
+        },
+        {
+            "name": "Ephesians 5:20",
+            "text": "Giving thanks always for all things unto God and the Father in the name of our Lord Jesus Christ;"
+        },
+        {
+            "name": "Ephesians 5:21",
+            "text": "Submitting yourselves one to another in the fear of God."
+        },
+        {
+            "name": "Ephesians 5:22",
+            "text": "Wives, submit yourselves unto your own husbands, as unto the Lord."
+        }
+    ],
+    "tone": "hopeful"
+}

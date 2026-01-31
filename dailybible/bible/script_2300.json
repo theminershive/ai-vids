@@ -1,0 +1,19 @@
+{
+    "book": "2 Samuel",
+    "chapter": "Chapter 3",
+    "verses": [
+        {
+            "name": "2 Samuel 3:31",
+            "text": "And David said to Joab, and to all the people that were with him, Rend your clothes, and gird you with sackcloth, and mourn before Abner. And king David himself followed the bier."
+        },
+        {
+            "name": "2 Samuel 3:32",
+            "text": "And they buried Abner in Hebron: and the king lifted up his voice, and wept at the grave of Abner; and all the people wept."
+        },
+        {
+            "name": "2 Samuel 3:33",
+            "text": "And the king lamented over Abner, and said, Died Abner as a fool dieth?"
+        }
+    ],
+    "tone": "neutral"
+}

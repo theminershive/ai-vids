@@ -1,0 +1,31 @@
+{
+    "book": "Psalms",
+    "chapter": "Chapter 85",
+    "verses": [
+        {
+            "name": "Psalms 85:1",
+            "text": "Lord, thou hast been favourable unto thy land: thou hast brought back the captivity of Jacob."
+        },
+        {
+            "name": "Psalms 85:2",
+            "text": "Thou hast forgiven the iniquity of thy people, thou hast covered all their sin. Selah."
+        },
+        {
+            "name": "Psalms 85:3",
+            "text": "Thou hast taken away all thy wrath: thou hast turned thyself from the fierceness of thine anger."
+        },
+        {
+            "name": "Psalms 85:4",
+            "text": "Turn us, O God of our salvation, and cause thine anger toward us to cease."
+        },
+        {
+            "name": "Psalms 85:5",
+            "text": "Wilt thou be angry with us for ever? wilt thou draw out thine anger to all generations?"
+        },
+        {
+            "name": "Psalms 85:6",
+            "text": "Wilt thou not revive us again: that thy people may rejoice in thee?"
+        }
+    ],
+    "tone": "hopeful"
+}

@@ -1,0 +1,19 @@
+{
+    "book": "Jeremiah",
+    "chapter": "Chapter 10",
+    "verses": [
+        {
+            "name": "Jeremiah 10:5",
+            "text": "They are upright as the palm tree, but speak not: they must needs be borne, because they cannot go. Be not afraid of them; for they cannot do evil, neither also is it in them to do good."
+        },
+        {
+            "name": "Jeremiah 10:6",
+            "text": "Forasmuch as there is none like unto thee, O Lord; thou art great, and thy name is great in might."
+        },
+        {
+            "name": "Jeremiah 10:7",
+            "text": "Who would not fear thee, O King of nations? for to thee doth it appertain: forasmuch as among all the wise men of the nations, and in all their kingdoms, there is none like unto thee."
+        }
+    ],
+    "tone": "neutral"
+}

@@ -1,0 +1,23 @@
+{
+    "book": "Numbers",
+    "chapter": "Chapter 7",
+    "verses": [
+        {
+            "name": "Numbers 7:39",
+            "text": "One young bullock, one ram, one lamb of the first year, for a burnt offering:"
+        },
+        {
+            "name": "Numbers 7:40",
+            "text": "One kid of the goats for a sin offering:"
+        },
+        {
+            "name": "Numbers 7:41",
+            "text": "And for a sacrifice of peace offerings, two oxen, five rams, five he goats, five lambs of the first year: this was the offering of Shelumiel the son of Zurishaddai."
+        },
+        {
+            "name": "Numbers 7:42",
+            "text": "On the sixth day Eliasaph the son of Deuel, prince of the children of Gad, offered:"
+        }
+    ],
+    "tone": "hopeful"
+}

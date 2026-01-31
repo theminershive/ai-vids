@@ -1,0 +1,19 @@
+{
+    "book": "1 Kings",
+    "chapter": "Chapter 8",
+    "verses": [
+        {
+            "name": "1 Kings 8:31",
+            "text": "If any man trespass against his neighbour, and an oath be laid upon him to cause him to swear, and the oath come before thine altar in this house:"
+        },
+        {
+            "name": "1 Kings 8:32",
+            "text": "Then hear thou in heaven, and do, and judge thy servants, condemning the wicked, to bring his way upon his head; and justifying the righteous, to give him according to his righteousness."
+        },
+        {
+            "name": "1 Kings 8:33",
+            "text": "When thy people Israel be smitten down before the enemy, because they have sinned against thee, and shall turn again to thee, and confess thy name, and pray, and make supplication unto thee in this house:"
+        }
+    ],
+    "tone": "neutral"
+}

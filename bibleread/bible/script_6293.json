@@ -1,0 +1,19 @@
+{
+    "book": "Matthew",
+    "chapter": "Chapter 16",
+    "verses": [
+        {
+            "name": "Matthew 16:26",
+            "text": "For what is a man profited, if he shall gain the whole world, and lose his own soul? or what shall a man give in exchange for his soul?"
+        },
+        {
+            "name": "Matthew 16:27",
+            "text": "For the Son of man shall come in the glory of his Father with his angels; and then he shall reward every man according to his works."
+        },
+        {
+            "name": "Matthew 16:28",
+            "text": "Verily I say unto you, There be some standing here, which shall not taste of death, till they see the Son of man coming in his kingdom. "
+        }
+    ],
+    "tone": "hopeful"
+}

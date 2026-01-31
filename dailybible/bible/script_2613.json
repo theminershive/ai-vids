@@ -1,0 +1,19 @@
+{
+    "book": "1 Kings",
+    "chapter": "Chapter 12",
+    "verses": [
+        {
+            "name": "1 Kings 12:4",
+            "text": "Thy father made our yoke grievous: now therefore make thou the grievous service of thy father, and his heavy yoke which he put upon us, lighter, and we will serve thee."
+        },
+        {
+            "name": "1 Kings 12:5",
+            "text": "And he said unto them, Depart yet for three days, then come again to me. And the people departed."
+        },
+        {
+            "name": "1 Kings 12:6",
+            "text": "And king Rehoboam consulted with the old men, that stood before Solomon his father while he yet lived, and said, How do ye advise that I may answer this people?"
+        }
+    ],
+    "tone": "neutral"
+}

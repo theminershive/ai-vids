@@ -1,0 +1,23 @@
+{
+    "book": "Ecclesiastes",
+    "chapter": "Chapter 1",
+    "verses": [
+        {
+            "name": "Ecclesiastes 1:14",
+            "text": "I have seen all the works that are done under the sun; and, behold, all is vanity and vexation of spirit."
+        },
+        {
+            "name": "Ecclesiastes 1:15",
+            "text": "That which is crooked cannot be made straight: and that which is wanting cannot be numbered."
+        },
+        {
+            "name": "Ecclesiastes 1:16",
+            "text": "I communed with mine own heart, saying, Lo, I am come to great estate, and have gotten more wisdom than all they that have been before me in Jerusalem: yea, my heart had great experience of wisdom and knowledge."
+        },
+        {
+            "name": "Ecclesiastes 1:17",
+            "text": "And I gave my heart to know wisdom, and to know madness and folly: I perceived that this also is vexation of spirit."
+        }
+    ],
+    "tone": "instructional"
+}

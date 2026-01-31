@@ -1,0 +1,19 @@
+{
+    "book": "Acts",
+    "chapter": "Chapter 28",
+    "verses": [
+        {
+            "name": "Acts 28:20",
+            "text": "For this cause therefore have I called for you, to see you, and to speak with you: because that for the hope of Israel I am bound with this chain."
+        },
+        {
+            "name": "Acts 28:21",
+            "text": "And they said unto him, We neither received letters out of Judea concerning thee, neither any of the brethren that came shewed or spake any harm of thee."
+        },
+        {
+            "name": "Acts 28:22",
+            "text": "But we desire to hear of thee what thou thinkest: for as concerning this sect, we know that every where it is spoken against."
+        }
+    ],
+    "tone": "hopeful"
+}

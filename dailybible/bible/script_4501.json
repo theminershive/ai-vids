@@ -1,0 +1,19 @@
+{
+    "book": "Isaiah",
+    "chapter": "Chapter 1",
+    "verses": [
+        {
+            "name": "Isaiah 1:4",
+            "text": "Ah sinful nation, a people laden with iniquity, a seed of evildoers, children that are corrupters: they have forsaken the Lord, they have provoked the Holy One of Israel unto anger, they are gone away backward."
+        },
+        {
+            "name": "Isaiah 1:5",
+            "text": "Why should ye be stricken any more? ye will revolt more and more: the whole head is sick, and the whole heart faint."
+        },
+        {
+            "name": "Isaiah 1:6",
+            "text": "From the sole of the foot even unto the head there is no soundness in it; but wounds, and bruises, and putrifying sores: they have not been closed, neither bound up, neither mollified with ointment."
+        }
+    ],
+    "tone": "instructional"
+}

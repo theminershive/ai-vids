@@ -1,0 +1,19 @@
+{
+    "book": "Matthew",
+    "chapter": "Chapter 7",
+    "verses": [
+        {
+            "name": "Matthew 7:22",
+            "text": "Many will say to me in that day, Lord, Lord, have we not prophesied in thy name? and in thy name have cast out devils? and in thy name done many wonderful works?"
+        },
+        {
+            "name": "Matthew 7:23",
+            "text": "And then will I profess unto them, I never knew you: depart from me, ye that work iniquity."
+        },
+        {
+            "name": "Matthew 7:24",
+            "text": "Therefore whosoever heareth these sayings of mine, and doeth them, I will liken him unto a wise man, which built his house upon a rock:"
+        }
+    ],
+    "tone": "hopeful"
+}

@@ -1,0 +1,19 @@
+{
+    "book": "Exodus",
+    "chapter": "Chapter 2",
+    "verses": [
+        {
+            "name": "Exodus 2:8",
+            "text": "And Pharaoh\u2019s daughter said to her, Go. And the maid went and called the child\u2019s mother."
+        },
+        {
+            "name": "Exodus 2:9",
+            "text": "And Pharaoh\u2019s daughter said unto her, Take this child away, and nurse it for me, and I will give thee thy wages. And the woman took the child, and nursed it."
+        },
+        {
+            "name": "Exodus 2:10",
+            "text": "And the child grew, and she brought him unto Pharaoh\u2019s daughter, and he became her son. And she called his name Moses: and she said, Because I drew him out of the water."
+        }
+    ],
+    "tone": "neutral"
+}

@@ -1,0 +1,23 @@
+{
+    "book": "John",
+    "chapter": "Chapter 19",
+    "verses": [
+        {
+            "name": "John 19:25",
+            "text": "Now there stood by the cross of Jesus his mother, and his mother\u2019s sister, Mary the wife of Cleophas, and Mary Magdalene."
+        },
+        {
+            "name": "John 19:26",
+            "text": "When Jesus therefore saw his mother, and the disciple standing by, whom he loved, he saith unto his mother, Woman, behold thy son!"
+        },
+        {
+            "name": "John 19:27",
+            "text": "Then saith he to the disciple, Behold thy mother! And from that hour that disciple took her unto his own home."
+        },
+        {
+            "name": "John 19:28",
+            "text": "After this, Jesus knowing that all things were now accomplished, that the scripture might be fulfilled, saith, I thirst."
+        }
+    ],
+    "tone": "hopeful"
+}

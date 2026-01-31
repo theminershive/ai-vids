@@ -1,0 +1,23 @@
+{
+    "book": "Hosea",
+    "chapter": "Chapter 8",
+    "verses": [
+        {
+            "name": "Hosea 8:1",
+            "text": "Set the trumpet to thy mouth. He shall come as an eagle against the house of the Lord, because they have transgressed my covenant, and trespassed against my law."
+        },
+        {
+            "name": "Hosea 8:2",
+            "text": "Israel shall cry unto me, My God, we know thee."
+        },
+        {
+            "name": "Hosea 8:3",
+            "text": "Israel hath cast off the thing that is good: the enemy shall pursue him."
+        },
+        {
+            "name": "Hosea 8:4",
+            "text": "They have set up kings, but not by me: they have made princes, and I knew it not: of their silver and their gold have they made them idols, that they may be cut off."
+        }
+    ],
+    "tone": "lamenting"
+}

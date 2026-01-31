@@ -1,0 +1,23 @@
+{
+    "book": "John",
+    "chapter": "Chapter 2",
+    "verses": [
+        {
+            "name": "John 2:14",
+            "text": "And found in the temple those that sold oxen and sheep and doves, and the changers of money sitting:"
+        },
+        {
+            "name": "John 2:15",
+            "text": "And when he had made a scourge of small cords, he drove them all out of the temple, and the sheep, and the oxen; and poured out the changers\u2019 money, and overthrew the tables;"
+        },
+        {
+            "name": "John 2:16",
+            "text": "And said unto them that sold doves, Take these things hence; make not my Father\u2019s house an house of merchandise."
+        },
+        {
+            "name": "John 2:17",
+            "text": "And his disciples remembered that it was written, The zeal of thine house hath eaten me up."
+        }
+    ],
+    "tone": "neutral"
+}

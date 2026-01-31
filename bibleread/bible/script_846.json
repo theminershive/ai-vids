@@ -1,0 +1,19 @@
+{
+    "book": "Leviticus",
+    "chapter": "Chapter 13",
+    "verses": [
+        {
+            "name": "Leviticus 13:34",
+            "text": "And in the seventh day the priest shall look on the scall: and, behold, if the scall be not spread in the skin, nor be in sight deeper than the skin; then the priest shall pronounce him clean: and he shall wash his clothes, and be clean."
+        },
+        {
+            "name": "Leviticus 13:35",
+            "text": "But if the scall spread much in the skin after his cleansing;"
+        },
+        {
+            "name": "Leviticus 13:36",
+            "text": "Then the priest shall look on him: and, behold, if the scall be spread in the skin, the priest shall not seek for yellow hair; he is unclean."
+        }
+    ],
+    "tone": "neutral"
+}

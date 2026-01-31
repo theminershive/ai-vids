@@ -1,0 +1,19 @@
+{
+    "book": "Leviticus",
+    "chapter": "Chapter 13",
+    "verses": [
+        {
+            "name": "Leviticus 13:20",
+            "text": "And if, when the priest seeth it, behold, it be in sight lower than the skin, and the hair thereof be turned white; the priest shall pronounce him unclean: it is a plague of leprosy broken out of the boil."
+        },
+        {
+            "name": "Leviticus 13:21",
+            "text": "But if the priest look on it, and, behold, there be no white hairs therein, and if it be not lower than the skin, but be somewhat dark; then the priest shall shut him up seven days:"
+        },
+        {
+            "name": "Leviticus 13:22",
+            "text": "And if it spread much abroad in the skin, then the priest shall pronounce him unclean: it is a plague."
+        }
+    ],
+    "tone": "lamenting"
+}

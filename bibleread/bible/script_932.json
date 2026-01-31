@@ -1,0 +1,19 @@
+{
+    "book": "Leviticus",
+    "chapter": "Chapter 22",
+    "verses": [
+        {
+            "name": "Leviticus 22:11",
+            "text": "But if the priest buy any soul with his money, he shall eat of it, and he that is born in his house: they shall eat of his meat."
+        },
+        {
+            "name": "Leviticus 22:12",
+            "text": "If the priest\u2019s daughter also be married unto a stranger, she may not eat of an offering of the holy things."
+        },
+        {
+            "name": "Leviticus 22:13",
+            "text": "But if the priest\u2019s daughter be a widow, or divorced, and have no child, and is returned unto her father\u2019s house, as in her youth, she shall eat of her father\u2019s meat: but there shall no stranger eat thereof."
+        }
+    ],
+    "tone": "instructional"
+}

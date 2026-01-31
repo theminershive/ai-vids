@@ -1,0 +1,23 @@
+{
+    "book": "Daniel",
+    "chapter": "Chapter 2",
+    "verses": [
+        {
+            "name": "Daniel 2:31",
+            "text": "Thou, O king, sawest, and behold a great image. This great image, whose brightness was excellent, stood before thee; and the form thereof was terrible."
+        },
+        {
+            "name": "Daniel 2:32",
+            "text": "This image\u2019s head was of fine gold, his breast and his arms of silver, his belly and his thighs of brass,"
+        },
+        {
+            "name": "Daniel 2:33",
+            "text": "His legs of iron, his feet part of iron and part of clay."
+        },
+        {
+            "name": "Daniel 2:34",
+            "text": "Thou sawest till that a stone was cut out without hands, which smote the image upon his feet that were of iron and clay, and brake them to pieces."
+        }
+    ],
+    "tone": "hopeful"
+}

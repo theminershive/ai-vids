@@ -1,0 +1,27 @@
+{
+    "book": "1 John",
+    "chapter": "Chapter 4",
+    "verses": [
+        {
+            "name": "1 John 4:8",
+            "text": "He that loveth not knoweth not God; for God is love."
+        },
+        {
+            "name": "1 John 4:9",
+            "text": "In this was manifested the love of God toward us, because that God sent his only begotten Son into the world, that we might live through him."
+        },
+        {
+            "name": "1 John 4:10",
+            "text": "Herein is love, not that we loved God, but that he loved us, and sent his Son to be the propitiation for our sins."
+        },
+        {
+            "name": "1 John 4:11",
+            "text": "Beloved, if God so loved us, we ought also to love one another."
+        },
+        {
+            "name": "1 John 4:12",
+            "text": "No man hath seen God at any time. If we love one another, God dwelleth in us, and his love is perfected in us."
+        }
+    ],
+    "tone": "hopeful"
+}

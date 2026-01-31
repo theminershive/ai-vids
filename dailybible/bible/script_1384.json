@@ -1,0 +1,27 @@
+{
+    "book": "Deuteronomy",
+    "chapter": "Chapter 5",
+    "verses": [
+        {
+            "name": "Deuteronomy 5:15",
+            "text": "And remember that thou wast a servant in the land of Egypt, and that the Lord thy God brought thee out thence through a mighty hand and by a stretched out arm: therefore the Lord thy God commanded thee to keep the sabbath day."
+        },
+        {
+            "name": "Deuteronomy 5:16",
+            "text": "Honour thy father and thy mother, as the Lord thy God hath commanded thee; that thy days may be prolonged, and that it may go well with thee, in the land which the Lord thy God giveth thee."
+        },
+        {
+            "name": "Deuteronomy 5:17",
+            "text": "Thou shalt not kill."
+        },
+        {
+            "name": "Deuteronomy 5:18",
+            "text": "Neither shalt thou commit adultery."
+        },
+        {
+            "name": "Deuteronomy 5:19",
+            "text": "Neither shalt thou steal."
+        }
+    ],
+    "tone": "neutral"
+}

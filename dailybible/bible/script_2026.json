@@ -1,0 +1,19 @@
+{
+    "book": "Ruth",
+    "chapter": "Chapter 4",
+    "verses": [
+        {
+            "name": "Ruth 4:13",
+            "text": "So Boaz took Ruth, and she was his wife: and when he went in unto her, the Lord gave her conception, and she bare a son."
+        },
+        {
+            "name": "Ruth 4:14",
+            "text": "And the women said unto Naomi, Blessed be the Lord, which hath not left thee this day without a kinsman, that his name may be famous in Israel."
+        },
+        {
+            "name": "Ruth 4:15",
+            "text": "And he shall be unto thee a restorer of thy life, and a nourisher of thine old age: for thy daughter in law, which loveth thee, which is better to thee than seven sons, hath born him."
+        }
+    ],
+    "tone": "neutral"
+}

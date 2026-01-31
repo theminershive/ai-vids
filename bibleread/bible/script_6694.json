@@ -1,0 +1,23 @@
+{
+    "book": "Luke",
+    "chapter": "Chapter 9",
+    "verses": [
+        {
+            "name": "Luke 9:51",
+            "text": "And it came to pass, when the time was come that he should be received up, he stedfastly set his face to go to Jerusalem,"
+        },
+        {
+            "name": "Luke 9:52",
+            "text": "And sent messengers before his face: and they went, and entered into a village of the Samaritans, to make ready for him."
+        },
+        {
+            "name": "Luke 9:53",
+            "text": "And they did not receive him, because his face was as though he would go to Jerusalem."
+        },
+        {
+            "name": "Luke 9:54",
+            "text": "And when his disciples James and John saw this, they said, Lord, wilt thou that we command fire to come down from heaven, and consume them, even as Elias did?"
+        }
+    ],
+    "tone": "instructional"
+}

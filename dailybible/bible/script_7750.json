@@ -1,0 +1,19 @@
+{
+    "book": "2 Timothy",
+    "chapter": "Chapter 1",
+    "verses": [
+        {
+            "name": "2 Timothy 1:8",
+            "text": "Be not thou therefore ashamed of the testimony of our Lord, nor of me his prisoner: but be thou partaker of the afflictions of the gospel according to the power of God;"
+        },
+        {
+            "name": "2 Timothy 1:9",
+            "text": "Who hath saved us, and called us with an holy calling, not according to our works, but according to his own purpose and grace, which was given us in Christ Jesus before the world began,"
+        },
+        {
+            "name": "2 Timothy 1:10",
+            "text": "But is now made manifest by the appearing of our Saviour Jesus Christ, who hath abolished death, and hath brought life and immortality to light through the gospel:"
+        }
+    ],
+    "tone": "instructional"
+}

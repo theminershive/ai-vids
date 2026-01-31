@@ -1,0 +1,23 @@
+{
+    "book": "Galatians",
+    "chapter": "Chapter 5",
+    "verses": [
+        {
+            "name": "Galatians 5:17",
+            "text": "For the flesh lusteth against the Spirit, and the Spirit against the flesh: and these are contrary the one to the other: so that ye cannot do the things that ye would."
+        },
+        {
+            "name": "Galatians 5:18",
+            "text": "But if ye be led of the Spirit, ye are not under the law."
+        },
+        {
+            "name": "Galatians 5:19",
+            "text": "Now the works of the flesh are manifest, which are these; Adultery, fornication, uncleanness, lasciviousness,"
+        },
+        {
+            "name": "Galatians 5:20",
+            "text": "Idolatry, witchcraft, hatred, variance, emulations, wrath, strife, seditions, heresies,"
+        }
+    ],
+    "tone": "lamenting"
+}

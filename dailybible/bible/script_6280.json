@@ -1,0 +1,27 @@
+{
+    "book": "Matthew",
+    "chapter": "Chapter 15",
+    "verses": [
+        {
+            "name": "Matthew 15:11",
+            "text": "Not that which goeth into the mouth defileth a man; but that which cometh out of the mouth, this defileth a man."
+        },
+        {
+            "name": "Matthew 15:12",
+            "text": "Then came his disciples, and said unto him, Knowest thou that the Pharisees were offended, after they heard this saying?"
+        },
+        {
+            "name": "Matthew 15:13",
+            "text": "But he answered and said, Every plant, which my heavenly Father hath not planted, shall be rooted up."
+        },
+        {
+            "name": "Matthew 15:14",
+            "text": "Let them alone: they be blind leaders of the blind. And if the blind lead the blind, both shall fall into the ditch."
+        },
+        {
+            "name": "Matthew 15:15",
+            "text": "Then answered Peter and said unto him, Declare unto us this parable."
+        }
+    ],
+    "tone": "neutral"
+}

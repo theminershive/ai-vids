@@ -1,0 +1,23 @@
+{
+    "book": "1 Corinthians",
+    "chapter": "Chapter 1",
+    "verses": [
+        {
+            "name": "1 Corinthians 1:18",
+            "text": "For the preaching of the cross is to them that perish foolishness; but unto us which are saved it is the power of God."
+        },
+        {
+            "name": "1 Corinthians 1:19",
+            "text": "For it is written, I will destroy the wisdom of the wise, and will bring to nothing the understanding of the prudent."
+        },
+        {
+            "name": "1 Corinthians 1:20",
+            "text": "Where is the wise? where is the scribe? where is the disputer of this world? hath not God made foolish the wisdom of this world?"
+        },
+        {
+            "name": "1 Corinthians 1:21",
+            "text": "For after that in the wisdom of God the world by wisdom knew not God, it pleased God by the foolishness of preaching to save them that believe."
+        }
+    ],
+    "tone": "instructional"
+}

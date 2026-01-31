@@ -1,0 +1,19 @@
+{
+    "book": "Leviticus",
+    "chapter": "Chapter 7",
+    "verses": [
+        {
+            "name": "Leviticus 7:23",
+            "text": "Speak unto the children of Israel, saying, Ye shall eat no manner of fat, of ox, or of sheep, or of goat."
+        },
+        {
+            "name": "Leviticus 7:24",
+            "text": "And the fat of the beast that dieth of itself, and the fat of that which is torn with beasts, may be used in any other use: but ye shall in no wise eat of it."
+        },
+        {
+            "name": "Leviticus 7:25",
+            "text": "For whosoever eateth the fat of the beast, of which men offer an offering made by fire unto the Lord, even the soul that eateth it shall be cut off from his people."
+        }
+    ],
+    "tone": "lamenting"
+}

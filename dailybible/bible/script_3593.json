@@ -1,0 +1,19 @@
+{
+    "book": "Esther",
+    "chapter": "Chapter 1",
+    "verses": [
+        {
+            "name": "Esther 1:8",
+            "text": "And the drinking was according to the law; none did compel: for so the king had appointed to all the officers of his house, that they should do according to every man\u2019s pleasure."
+        },
+        {
+            "name": "Esther 1:9",
+            "text": "Also Vashti the queen made a feast for the women in the royal house which belonged to king Ahasuerus."
+        },
+        {
+            "name": "Esther 1:10",
+            "text": "On the seventh day, when the heart of the king was merry with wine, he commanded Mehuman, Biztha, Harbona, Bigtha, and Abagtha, Zethar, and Carcas, the seven chamberlains that served in the presence of Ahasuerus the king,"
+        }
+    ],
+    "tone": "neutral"
+}

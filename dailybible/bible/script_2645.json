@@ -1,0 +1,23 @@
+{
+    "book": "1 Kings",
+    "chapter": "Chapter 15",
+    "verses": [
+        {
+            "name": "1 Kings 15:1",
+            "text": "Now in the eighteenth year of king Jeroboam the son of Nebat reigned Abijam over Judah."
+        },
+        {
+            "name": "1 Kings 15:2",
+            "text": "Three years reigned he in Jerusalem. And his mother\u2019s name was Maachah, the daughter of Abishalom."
+        },
+        {
+            "name": "1 Kings 15:3",
+            "text": "And he walked in all the sins of his father, which he had done before him: and his heart was not perfect with the Lord his God, as the heart of David his father."
+        },
+        {
+            "name": "1 Kings 15:4",
+            "text": "Nevertheless for David\u2019s sake did the Lord his God give him a lamp in Jerusalem, to set up his son after him, and to establish Jerusalem:"
+        }
+    ],
+    "tone": "neutral"
+}

@@ -1,0 +1,19 @@
+{
+    "book": "1 Corinthians",
+    "chapter": "Chapter 6",
+    "verses": [
+        {
+            "name": "1 Corinthians 6:12",
+            "text": "All things are lawful unto me, but all things are not expedient: all things are lawful for me, but I will not be brought under the power of any."
+        },
+        {
+            "name": "1 Corinthians 6:13",
+            "text": "Meats for the belly, and the belly for meats: but God shall destroy both it and them. Now the body is not for fornication, but for the Lord; and the Lord for the body."
+        },
+        {
+            "name": "1 Corinthians 6:14",
+            "text": "And God hath both raised up the Lord, and will also raise up us by his own power."
+        }
+    ],
+    "tone": "neutral"
+}

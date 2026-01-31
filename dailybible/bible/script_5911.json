@@ -1,0 +1,23 @@
+{
+    "book": "Joel",
+    "chapter": "Chapter 1",
+    "verses": [
+        {
+            "name": "Joel 1:1",
+            "text": "The word of the Lord that came to Joel the son of Pethuel."
+        },
+        {
+            "name": "Joel 1:2",
+            "text": "Hear this, ye old men, and give ear, all ye inhabitants of the land. Hath this been in your days, or even in the days of your fathers?"
+        },
+        {
+            "name": "Joel 1:3",
+            "text": "Tell ye your children of it, and let your children tell their children, and their children another generation."
+        },
+        {
+            "name": "Joel 1:4",
+            "text": "That which the palmerworm hath left hath the locust eaten; and that which the locust hath left hath the cankerworm eaten; and that which the cankerworm hath left hath the caterpiller eaten."
+        }
+    ],
+    "tone": "neutral"
+}

@@ -1,0 +1,19 @@
+{
+    "book": "Daniel",
+    "chapter": "Chapter 11",
+    "verses": [
+        {
+            "name": "Daniel 11:7",
+            "text": "But out of a branch of her roots shall one stand up in his estate, which shall come with an army, and shall enter into the fortress of the king of the north, and shall deal against them, and shall prevail:"
+        },
+        {
+            "name": "Daniel 11:8",
+            "text": "And shall also carry captives into Egypt their gods, with their princes, and with their precious vessels of silver and of gold; and he shall continue more years than the king of the north."
+        },
+        {
+            "name": "Daniel 11:9",
+            "text": "So the king of the south shall come into his kingdom, and shall return into his own land."
+        }
+    ],
+    "tone": "neutral"
+}

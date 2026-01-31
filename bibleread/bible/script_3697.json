@@ -1,0 +1,31 @@
+{
+    "book": "Job",
+    "chapter": "Chapter 12",
+    "verses": [
+        {
+            "name": "Job 12:18",
+            "text": "He looseth the bond of kings, and girdeth their loins with a girdle."
+        },
+        {
+            "name": "Job 12:19",
+            "text": "He leadeth princes away spoiled, and overthroweth the mighty."
+        },
+        {
+            "name": "Job 12:20",
+            "text": "He removeth away the speech of the trusty, and taketh away the understanding of the aged."
+        },
+        {
+            "name": "Job 12:21",
+            "text": "He poureth contempt upon princes, and weakeneth the strength of the mighty."
+        },
+        {
+            "name": "Job 12:22",
+            "text": "He discovereth deep things out of darkness, and bringeth out to light the shadow of death."
+        },
+        {
+            "name": "Job 12:23",
+            "text": "He increaseth the nations, and destroyeth them: he enlargeth the nations, and straiteneth them again."
+        }
+    ],
+    "tone": "lamenting"
+}

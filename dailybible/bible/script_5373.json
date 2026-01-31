@@ -1,0 +1,19 @@
+{
+    "book": "Ezekiel",
+    "chapter": "Chapter 4",
+    "verses": [
+        {
+            "name": "Ezekiel 4:5",
+            "text": "For I have laid upon thee the years of their iniquity, according to the number of the days, three hundred and ninety days: so shalt thou bear the iniquity of the house of Israel."
+        },
+        {
+            "name": "Ezekiel 4:6",
+            "text": "And when thou hast accomplished them, lie again on thy right side, and thou shalt bear the iniquity of the house of Judah forty days: I have appointed thee each day for a year."
+        },
+        {
+            "name": "Ezekiel 4:7",
+            "text": "Therefore thou shalt set thy face toward the siege of Jerusalem, and thine arm shall be uncovered, and thou shalt prophesy against it."
+        }
+    ],
+    "tone": "neutral"
+}

@@ -1,0 +1,27 @@
+{
+    "book": "John",
+    "chapter": "Chapter 19",
+    "verses": [
+        {
+            "name": "John 19:1",
+            "text": "Then Pilate therefore took Jesus, and scourged him. "
+        },
+        {
+            "name": "John 19:2",
+            "text": "And the soldiers platted a crown of thorns, and put it on his head, and they put on him a purple robe,"
+        },
+        {
+            "name": "John 19:3",
+            "text": "And said, Hail, King of the Jews! and they smote him with their hands."
+        },
+        {
+            "name": "John 19:4",
+            "text": "Pilate therefore went forth again, and saith unto them, Behold, I bring him forth to you, that ye may know that I find no fault in him."
+        },
+        {
+            "name": "John 19:5",
+            "text": "Then came Jesus forth, wearing the crown of thorns, and the purple robe. And Pilate saith unto them, Behold the man!"
+        }
+    ],
+    "tone": "neutral"
+}

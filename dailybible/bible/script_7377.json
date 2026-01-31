@@ -1,0 +1,23 @@
+{
+    "book": "Romans",
+    "chapter": "Chapter 9",
+    "verses": [
+        {
+            "name": "Romans 9:23",
+            "text": "And that he might make known the riches of his glory on the vessels of mercy, which he had afore prepared unto glory,"
+        },
+        {
+            "name": "Romans 9:24",
+            "text": "Even us, whom he hath called, not of the Jews only, but also of the Gentiles?"
+        },
+        {
+            "name": "Romans 9:25",
+            "text": "As he saith also in Osee, I will call them my people, which were not my people; and her beloved, which was not beloved."
+        },
+        {
+            "name": "Romans 9:26",
+            "text": "And it shall come to pass, that in the place where it was said unto them, Ye are not my people; there shall they be called the children of the living God."
+        }
+    ],
+    "tone": "neutral"
+}

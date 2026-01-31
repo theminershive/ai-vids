@@ -1,0 +1,23 @@
+{
+    "book": "1 Corinthians",
+    "chapter": "Chapter 15",
+    "verses": [
+        {
+            "name": "1 Corinthians 15:10",
+            "text": "But by the grace of God I am what I am: and his grace which was bestowed upon me was not in vain; but I laboured more abundantly than they all: yet not I, but the grace of God which was with me."
+        },
+        {
+            "name": "1 Corinthians 15:11",
+            "text": "Therefore whether it were I or they, so we preach, and so ye believed."
+        },
+        {
+            "name": "1 Corinthians 15:12",
+            "text": "Now if Christ be preached that he rose from the dead, how say some among you that there is no resurrection of the dead?"
+        },
+        {
+            "name": "1 Corinthians 15:13",
+            "text": "But if there be no resurrection of the dead, then is Christ not risen:"
+        }
+    ],
+    "tone": "praising"
+}

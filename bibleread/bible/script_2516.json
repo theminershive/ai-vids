@@ -1,0 +1,19 @@
+{
+    "book": "1 Kings",
+    "chapter": "Chapter 3",
+    "verses": [
+        {
+            "name": "1 Kings 3:15",
+            "text": "And Solomon awoke; and, behold, it was a dream. And he came to Jerusalem, and stood before the ark of the covenant of the Lord, and offered up burnt offerings, and offered peace offerings, and made a feast to all his servants."
+        },
+        {
+            "name": "1 Kings 3:16",
+            "text": "Then came there two women, that were harlots, unto the king, and stood before him."
+        },
+        {
+            "name": "1 Kings 3:17",
+            "text": "And the one woman said, O my lord, I and this woman dwell in one house; and I was delivered of a child with her in the house."
+        }
+    ],
+    "tone": "hopeful"
+}

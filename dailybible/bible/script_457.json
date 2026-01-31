@@ -1,0 +1,23 @@
+{
+    "book": "Exodus",
+    "chapter": "Chapter 8",
+    "verses": [
+        {
+            "name": "Exodus 8:13",
+            "text": "And the Lord did according to the word of Moses; and the frogs died out of the houses, out of the villages, and out of the fields."
+        },
+        {
+            "name": "Exodus 8:14",
+            "text": "And they gathered them together upon heaps: and the land stank."
+        },
+        {
+            "name": "Exodus 8:15",
+            "text": "But when Pharaoh saw that there was respite, he hardened his heart, and hearkened not unto them; as the Lord had said."
+        },
+        {
+            "name": "Exodus 8:16",
+            "text": "And the Lord said unto Moses, Say unto Aaron, Stretch out thy rod, and smite the dust of the land, that it may become lice throughout all the land of Egypt."
+        }
+    ],
+    "tone": "neutral"
+}

@@ -1,0 +1,19 @@
+{
+    "book": "Revelation",
+    "chapter": "Chapter 3",
+    "verses": [
+        {
+            "name": "Revelation 3:5",
+            "text": "He that overcometh, the same shall be clothed in white raiment; and I will not blot out his name out of the book of life, but I will confess his name before my Father, and before his angels."
+        },
+        {
+            "name": "Revelation 3:6",
+            "text": "He that hath an ear, let him hear what the Spirit saith unto the churches."
+        },
+        {
+            "name": "Revelation 3:7",
+            "text": "And to the angel of the church in Philadelphia write; These things saith he that is holy, he that is true, he that hath the key of David, he that openeth, and no man shutteth; and shutteth, and no man openeth;"
+        }
+    ],
+    "tone": "neutral"
+}

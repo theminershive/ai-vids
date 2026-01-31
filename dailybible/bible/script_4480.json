@@ -1,0 +1,19 @@
+{
+    "book": "Song of Solomon",
+    "chapter": "Chapter 3",
+    "verses": [
+        {
+            "name": "Song of Songs 3:1",
+            "text": "By night on my bed I sought him whom my soul loveth: I sought him, but I found him not."
+        },
+        {
+            "name": "Song of Songs 3:2",
+            "text": "I will rise now, and go about the city in the streets, and in the broad ways I will seek him whom my soul loveth: I sought him, but I found him not."
+        },
+        {
+            "name": "Song of Songs 3:3",
+            "text": "The watchmen that go about the city found me: to whom I said, Saw ye him whom my soul loveth?"
+        }
+    ],
+    "tone": "neutral"
+}

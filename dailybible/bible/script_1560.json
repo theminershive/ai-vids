@@ -1,0 +1,19 @@
+{
+    "book": "Deuteronomy",
+    "chapter": "Chapter 28",
+    "verses": [
+        {
+            "name": "Deuteronomy 28:25",
+            "text": "The Lord shall cause thee to be smitten before thine enemies: thou shalt go out one way against them, and flee seven ways before them: and shalt be removed into all the kingdoms of the earth."
+        },
+        {
+            "name": "Deuteronomy 28:26",
+            "text": "And thy carcase shall be meat unto all fowls of the air, and unto the beasts of the earth, and no man shall fray them away."
+        },
+        {
+            "name": "Deuteronomy 28:27",
+            "text": "The Lord will smite thee with the botch of Egypt, and with the emerods, and with the scab, and with the itch, whereof thou canst not be healed."
+        }
+    ],
+    "tone": "lamenting"
+}

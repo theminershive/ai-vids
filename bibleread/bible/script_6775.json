@@ -1,0 +1,27 @@
+{
+    "book": "Luke",
+    "chapter": "Chapter 17",
+    "verses": [
+        {
+            "name": "Luke 17:17",
+            "text": "And Jesus answering said, Were there not ten cleansed? but where are the nine?"
+        },
+        {
+            "name": "Luke 17:18",
+            "text": "There are not found that returned to give glory to God, save this stranger."
+        },
+        {
+            "name": "Luke 17:19",
+            "text": "And he said unto him, Arise, go thy way: thy faith hath made thee whole."
+        },
+        {
+            "name": "Luke 17:20",
+            "text": "And when he was demanded of the Pharisees, when the kingdom of God should come, he answered them and said, The kingdom of God cometh not with observation:"
+        },
+        {
+            "name": "Luke 17:21",
+            "text": "Neither shall they say, Lo here! or, lo there! for, behold, the kingdom of God is within you."
+        }
+    ],
+    "tone": "hopeful"
+}

@@ -1,0 +1,19 @@
+{
+    "book": "Ecclesiastes",
+    "chapter": "Chapter 3",
+    "verses": [
+        {
+            "name": "Ecclesiastes 3:17",
+            "text": "I said in mine heart, God shall judge the righteous and the wicked: for there is a time there for every purpose and for every work."
+        },
+        {
+            "name": "Ecclesiastes 3:18",
+            "text": "I said in mine heart concerning the estate of the sons of men, that God might manifest them, and that they might see that they themselves are beasts."
+        },
+        {
+            "name": "Ecclesiastes 3:19",
+            "text": "For that which befalleth the sons of men befalleth beasts; even one thing befalleth them: as the one dieth, so dieth the other; yea, they have all one breath; so that a man hath no preeminence above a beast: for all is vanity."
+        }
+    ],
+    "tone": "neutral"
+}

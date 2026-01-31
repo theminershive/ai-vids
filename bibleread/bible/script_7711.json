@@ -1,0 +1,27 @@
+{
+    "book": "1 Thessalonians",
+    "chapter": "Chapter 5",
+    "verses": [
+        {
+            "name": "1 Thessalonians 5:6",
+            "text": "Therefore let us not sleep, as do others; but let us watch and be sober."
+        },
+        {
+            "name": "1 Thessalonians 5:7",
+            "text": "For they that sleep sleep in the night; and they that be drunken are drunken in the night."
+        },
+        {
+            "name": "1 Thessalonians 5:8",
+            "text": "But let us, who are of the day, be sober, putting on the breastplate of faith and love; and for an helmet, the hope of salvation."
+        },
+        {
+            "name": "1 Thessalonians 5:9",
+            "text": "For God hath not appointed us to wrath, but to obtain salvation by our Lord Jesus Christ,"
+        },
+        {
+            "name": "1 Thessalonians 5:10",
+            "text": "Who died for us, that, whether we wake or sleep, we should live together with him."
+        }
+    ],
+    "tone": "hopeful"
+}

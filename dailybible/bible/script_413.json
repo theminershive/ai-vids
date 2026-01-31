@@ -1,0 +1,19 @@
+{
+    "book": "Exodus",
+    "chapter": "Chapter 2",
+    "verses": [
+        {
+            "name": "Exodus 2:14",
+            "text": "And he said, Who made thee a prince and a judge over us? intendest thou to kill me, as thou killedst the Egyptian? And Moses feared, and said, Surely this thing is known."
+        },
+        {
+            "name": "Exodus 2:15",
+            "text": "Now when Pharaoh heard this thing, he sought to slay Moses. But Moses fled from the face of Pharaoh, and dwelt in the land of Midian: and he sat down by a well."
+        },
+        {
+            "name": "Exodus 2:16",
+            "text": "Now the priest of Midian had seven daughters: and they came and drew water, and filled the troughs to water their father\u2019s flock."
+        }
+    ],
+    "tone": "neutral"
+}

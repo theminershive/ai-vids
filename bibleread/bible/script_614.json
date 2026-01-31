@@ -1,0 +1,23 @@
+{
+    "book": "Exodus",
+    "chapter": "Chapter 27",
+    "verses": [
+        {
+            "name": "Exodus 27:4",
+            "text": "And thou shalt make for it a grate of network of brass; and upon the net shalt thou make four brasen rings in the four corners thereof."
+        },
+        {
+            "name": "Exodus 27:5",
+            "text": "And thou shalt put it under the compass of the altar beneath, that the net may be even to the midst of the altar."
+        },
+        {
+            "name": "Exodus 27:6",
+            "text": "And thou shalt make staves for the altar, staves of shittim wood, and overlay them with brass."
+        },
+        {
+            "name": "Exodus 27:7",
+            "text": "And the staves shall be put into the rings, and the staves shall be upon the two sides of the altar, to bear it."
+        }
+    ],
+    "tone": "neutral"
+}

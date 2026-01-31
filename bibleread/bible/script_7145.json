@@ -1,0 +1,23 @@
+{
+    "book": "Acts",
+    "chapter": "Chapter 10",
+    "verses": [
+        {
+            "name": "Acts 10:4",
+            "text": "And when he looked on him, he was afraid, and said, What is it, Lord? And he said unto him, Thy prayers and thine alms are come up for a memorial before God."
+        },
+        {
+            "name": "Acts 10:5",
+            "text": "And now send men to Joppa, and call for one Simon, whose surname is Peter:"
+        },
+        {
+            "name": "Acts 10:6",
+            "text": "He lodgeth with one Simon a tanner, whose house is by the sea side: he shall tell thee what thou oughtest to do."
+        },
+        {
+            "name": "Acts 10:7",
+            "text": "And when the angel which spake unto Cornelius was departed, he called two of his household servants, and a devout soldier of them that waited on him continually;"
+        }
+    ],
+    "tone": "neutral"
+}

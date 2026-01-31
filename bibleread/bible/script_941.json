@@ -1,0 +1,19 @@
+{
+    "book": "Leviticus",
+    "chapter": "Chapter 23",
+    "verses": [
+        {
+            "name": "Leviticus 23:10",
+            "text": "Speak unto the children of Israel, and say unto them, When ye be come into the land which I give unto you, and shall reap the harvest thereof, then ye shall bring a sheaf of the firstfruits of your harvest unto the priest:"
+        },
+        {
+            "name": "Leviticus 23:11",
+            "text": "And he shall wave the sheaf before the Lord, to be accepted for you: on the morrow after the sabbath the priest shall wave it."
+        },
+        {
+            "name": "Leviticus 23:12",
+            "text": "And ye shall offer that day when ye wave the sheaf an he lamb without blemish of the first year for a burnt offering unto the Lord."
+        }
+    ],
+    "tone": "neutral"
+}

@@ -1,0 +1,23 @@
+{
+    "book": "1 Kings",
+    "chapter": "Chapter 17",
+    "verses": [
+        {
+            "name": "1 Kings 17:1",
+            "text": "And Elijah the Tishbite, who was of the inhabitants of Gilead, said unto Ahab, As the Lord God of Israel liveth, before whom I stand, there shall not be dew nor rain these years, but according to my word."
+        },
+        {
+            "name": "1 Kings 17:2",
+            "text": "And the word of the Lord came unto him, saying,"
+        },
+        {
+            "name": "1 Kings 17:3",
+            "text": "Get thee hence, and turn thee eastward, and hide thyself by the brook Cherith, that is before Jordan."
+        },
+        {
+            "name": "1 Kings 17:4",
+            "text": "And it shall be, that thou shalt drink of the brook; and I have commanded the ravens to feed thee there."
+        }
+    ],
+    "tone": "neutral"
+}

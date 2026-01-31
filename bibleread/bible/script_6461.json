@@ -1,0 +1,23 @@
+{
+    "book": "Mark",
+    "chapter": "Chapter 6",
+    "verses": [
+        {
+            "name": "Mark 6:4",
+            "text": "But Jesus said unto them, A prophet is not without honour, but in his own country, and among his own kin, and in his own house."
+        },
+        {
+            "name": "Mark 6:5",
+            "text": "And he could there do no mighty work, save that he laid his hands upon a few sick folk, and healed them. "
+        },
+        {
+            "name": "Mark 6:6",
+            "text": "And he marvelled because of their unbelief. And he went round about the villages, teaching."
+        },
+        {
+            "name": "Mark 6:7",
+            "text": "And he called unto him the twelve, and began to send them forth by two and two; and gave them power over unclean spirits;"
+        }
+    ],
+    "tone": "neutral"
+}

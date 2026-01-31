@@ -1,0 +1,31 @@
+{
+    "book": "Psalms",
+    "chapter": "Chapter 34",
+    "verses": [
+        {
+            "name": "Psalms 34:7",
+            "text": "The angel of the Lord encampeth round about them that fear him, and delivereth them."
+        },
+        {
+            "name": "Psalms 34:8",
+            "text": "O taste and see that the Lord is good: blessed is the man that trusteth in him."
+        },
+        {
+            "name": "Psalms 34:9",
+            "text": "O fear the Lord, ye his saints: for there is no want to them that fear him."
+        },
+        {
+            "name": "Psalms 34:10",
+            "text": "The young lions do lack, and suffer hunger: but they that seek the Lord shall not want any good thing."
+        },
+        {
+            "name": "Psalms 34:11",
+            "text": "Come, ye children, hearken unto me: I will teach you the fear of the Lord."
+        },
+        {
+            "name": "Psalms 34:12",
+            "text": "What man is he that desireth life, and loveth many days, that he may see good?"
+        }
+    ],
+    "tone": "instructional"
+}

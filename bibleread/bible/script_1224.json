@@ -1,0 +1,23 @@
+{
+    "book": "Numbers",
+    "chapter": "Chapter 23",
+    "verses": [
+        {
+            "name": "Numbers 23:27",
+            "text": "And Balak said unto Balaam, Come, I pray thee, I will bring thee unto another place; peradventure it will please God that thou mayest curse me them from thence."
+        },
+        {
+            "name": "Numbers 23:28",
+            "text": "And Balak brought Balaam unto the top of Peor, that looketh toward Jeshimon."
+        },
+        {
+            "name": "Numbers 23:29",
+            "text": "And Balaam said unto Balak, Build me here seven altars, and prepare me here seven bullocks and seven rams."
+        },
+        {
+            "name": "Numbers 23:30",
+            "text": "And Balak did as Balaam had said, and offered a bullock and a ram on every altar. "
+        }
+    ],
+    "tone": "neutral"
+}

@@ -1,0 +1,19 @@
+{
+    "book": "Genesis",
+    "chapter": "Chapter 26",
+    "verses": [
+        {
+            "name": "Genesis 26:1",
+            "text": "And there was a famine in the land, beside the first famine that was in the days of Abraham. And Isaac went unto Abimelech king of the Philistines unto Gerar."
+        },
+        {
+            "name": "Genesis 26:2",
+            "text": "And the Lord appeared unto him, and said, Go not down into Egypt; dwell in the land which I shall tell thee of:"
+        },
+        {
+            "name": "Genesis 26:3",
+            "text": "Sojourn in this land, and I will be with thee, and will bless thee; for unto thee, and unto thy seed, I will give all these countries, and I will perform the oath which I sware unto Abraham thy father;"
+        }
+    ],
+    "tone": "neutral"
+}

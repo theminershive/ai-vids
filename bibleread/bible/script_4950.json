@@ -1,0 +1,19 @@
+{
+    "book": "Jeremiah",
+    "chapter": "Chapter 8",
+    "verses": [
+        {
+            "name": "Jeremiah 8:7",
+            "text": "Yea, the stork in the heaven knoweth her appointed times; and the turtle and the crane and the swallow observe the time of their coming; but my people know not the judgment of the Lord."
+        },
+        {
+            "name": "Jeremiah 8:8",
+            "text": "How do ye say, We are wise, and the law of the Lord is with us? Lo, certainly in vain made he it; the pen of the scribes is in vain."
+        },
+        {
+            "name": "Jeremiah 8:9",
+            "text": "The wise men are ashamed, they are dismayed and taken: lo, they have rejected the word of the Lord; and what wisdom is in them?"
+        }
+    ],
+    "tone": "instructional"
+}

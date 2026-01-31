@@ -1,0 +1,19 @@
+{
+    "book": "Genesis",
+    "chapter": "Chapter 3",
+    "verses": [
+        {
+            "name": "Genesis 3:1",
+            "text": "Now the serpent was more subtil than any beast of the field which the Lord God had made. And he said unto the woman, Yea, hath God said, Ye shall not eat of every tree of the garden?"
+        },
+        {
+            "name": "Genesis 3:2",
+            "text": "And the woman said unto the serpent, We may eat of the fruit of the trees of the garden:"
+        },
+        {
+            "name": "Genesis 3:3",
+            "text": "But of the fruit of the tree which is in the midst of the garden, God hath said, Ye shall not eat of it, neither shall ye touch it, lest ye die."
+        }
+    ],
+    "tone": "neutral"
+}

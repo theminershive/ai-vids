@@ -1,0 +1,27 @@
+{
+    "book": "Mark",
+    "chapter": "Chapter 13",
+    "verses": [
+        {
+            "name": "Mark 13:15",
+            "text": "And let him that is on the housetop not go down into the house, neither enter therein, to take any thing out of his house:"
+        },
+        {
+            "name": "Mark 13:16",
+            "text": "And let him that is in the field not turn back again for to take up his garment."
+        },
+        {
+            "name": "Mark 13:17",
+            "text": "But woe to them that are with child, and to them that give suck in those days!"
+        },
+        {
+            "name": "Mark 13:18",
+            "text": "And pray ye that your flight be not in the winter."
+        },
+        {
+            "name": "Mark 13:19",
+            "text": "For in those days shall be affliction, such as was not from the beginning of the creation which God created unto this time, neither shall be."
+        }
+    ],
+    "tone": "lamenting"
+}

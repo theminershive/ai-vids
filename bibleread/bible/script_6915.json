@@ -1,0 +1,23 @@
+{
+    "book": "John",
+    "chapter": "Chapter 6",
+    "verses": [
+        {
+            "name": "John 6:40",
+            "text": "And this is the will of him that sent me, that every one which seeth the Son, and believeth on him, may have everlasting life: and I will raise him up at the last day."
+        },
+        {
+            "name": "John 6:41",
+            "text": "The Jews then murmured at him, because he said, I am the bread which came down from heaven."
+        },
+        {
+            "name": "John 6:42",
+            "text": "And they said, Is not this Jesus, the son of Joseph, whose father and mother we know? how is it then that he saith, I came down from heaven?"
+        },
+        {
+            "name": "John 6:43",
+            "text": "Jesus therefore answered and said unto them, Murmur not among yourselves."
+        }
+    ],
+    "tone": "neutral"
+}

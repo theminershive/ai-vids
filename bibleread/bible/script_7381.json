@@ -1,0 +1,27 @@
+{
+    "book": "Romans",
+    "chapter": "Chapter 10",
+    "verses": [
+        {
+            "name": "Romans 10:9",
+            "text": "That if thou shalt confess with thy mouth the Lord Jesus, and shalt believe in thine heart that God hath raised him from the dead, thou shalt be saved."
+        },
+        {
+            "name": "Romans 10:10",
+            "text": "For with the heart man believeth unto righteousness; and with the mouth confession is made unto salvation."
+        },
+        {
+            "name": "Romans 10:11",
+            "text": "For the scripture saith, Whosoever believeth on him shall not be ashamed."
+        },
+        {
+            "name": "Romans 10:12",
+            "text": "For there is no difference between the Jew and the Greek: for the same Lord over all is rich unto all that call upon him."
+        },
+        {
+            "name": "Romans 10:13",
+            "text": "For whosoever shall call upon the name of the Lord shall be saved."
+        }
+    ],
+    "tone": "hopeful"
+}

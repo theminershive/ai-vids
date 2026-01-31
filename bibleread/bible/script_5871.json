@@ -1,0 +1,19 @@
+{
+    "book": "Hosea",
+    "chapter": "Chapter 4",
+    "verses": [
+        {
+            "name": "Hosea 4:1",
+            "text": "Hear the word of the Lord, ye children of Israel: for the Lord hath a controversy with the inhabitants of the land, because there is no truth, nor mercy, nor knowledge of God in the land."
+        },
+        {
+            "name": "Hosea 4:2",
+            "text": "By swearing, and lying, and killing, and stealing, and committing adultery, they break out, and blood toucheth blood."
+        },
+        {
+            "name": "Hosea 4:3",
+            "text": "Therefore shall the land mourn, and every one that dwelleth therein shall languish, with the beasts of the field, and with the fowls of heaven; yea, the fishes of the sea also shall be taken away."
+        }
+    ],
+    "tone": "neutral"
+}

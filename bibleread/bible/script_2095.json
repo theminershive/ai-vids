@@ -1,0 +1,23 @@
+{
+    "book": "1 Samuel",
+    "chapter": "Chapter 10",
+    "verses": [
+        {
+            "name": "1 Samuel 10:13",
+            "text": "And when he had made an end of prophesying, he came to the high place."
+        },
+        {
+            "name": "1 Samuel 10:14",
+            "text": "And Saul\u2019s uncle said unto him and to his servant, Whither went ye? And he said, To seek the asses: and when we saw that they were no where, we came to Samuel."
+        },
+        {
+            "name": "1 Samuel 10:15",
+            "text": "And Saul\u2019s uncle said, Tell me, I pray thee, what Samuel said unto you."
+        },
+        {
+            "name": "1 Samuel 10:16",
+            "text": "And Saul said unto his uncle, He told us plainly that the asses were found. But of the matter of the kingdom, whereof Samuel spake, he told him not."
+        }
+    ],
+    "tone": "neutral"
+}

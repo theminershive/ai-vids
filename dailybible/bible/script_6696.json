@@ -1,0 +1,23 @@
+{
+    "book": "Luke",
+    "chapter": "Chapter 9",
+    "verses": [
+        {
+            "name": "Luke 9:59",
+            "text": "And he said unto another, Follow me. But he said, Lord, suffer me first to go and bury my father."
+        },
+        {
+            "name": "Luke 9:60",
+            "text": "Jesus said unto him, Let the dead bury their dead: but go thou and preach the kingdom of God."
+        },
+        {
+            "name": "Luke 9:61",
+            "text": "And another also said, Lord, I will follow thee; but let me first go bid them farewell, which are at home at my house."
+        },
+        {
+            "name": "Luke 9:62",
+            "text": "And Jesus said unto him, No man, having put his hand to the plough, and looking back, is fit for the kingdom of God. "
+        }
+    ],
+    "tone": "neutral"
+}

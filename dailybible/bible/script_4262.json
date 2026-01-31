@@ -1,0 +1,31 @@
+{
+    "book": "Proverbs",
+    "chapter": "Chapter 1",
+    "verses": [
+        {
+            "name": "Proverbs 1:26",
+            "text": "I also will laugh at your calamity; I will mock when your fear cometh;"
+        },
+        {
+            "name": "Proverbs 1:27",
+            "text": "When your fear cometh as desolation, and your destruction cometh as a whirlwind; when distress and anguish cometh upon you."
+        },
+        {
+            "name": "Proverbs 1:28",
+            "text": "Then shall they call upon me, but I will not answer; they shall seek me early, but they shall not find me:"
+        },
+        {
+            "name": "Proverbs 1:29",
+            "text": "For that they hated knowledge, and did not choose the fear of the Lord:"
+        },
+        {
+            "name": "Proverbs 1:30",
+            "text": "They would none of my counsel: they despised all my reproof."
+        },
+        {
+            "name": "Proverbs 1:31",
+            "text": "Therefore shall they eat of the fruit of their own way, and be filled with their own devices."
+        }
+    ],
+    "tone": "lamenting"
+}

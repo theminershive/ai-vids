@@ -1,0 +1,19 @@
+{
+    "book": "Lamentations",
+    "chapter": "Chapter 1",
+    "verses": [
+        {
+            "name": "Lamentations 1:3",
+            "text": "Judah is gone into captivity because of affliction, and because of great servitude: she dwelleth among the heathen, she findeth no rest: all her persecutors overtook her between the straits."
+        },
+        {
+            "name": "Lamentations 1:4",
+            "text": "The ways of Zion do mourn, because none come to the solemn feasts: all her gates are desolate: her priests sigh, her virgins are afflicted, and she is in bitterness."
+        },
+        {
+            "name": "Lamentations 1:5",
+            "text": "Her adversaries are the chief, her enemies prosper; for the Lord hath afflicted her for the multitude of her transgressions: her children are gone into captivity before the enemy."
+        }
+    ],
+    "tone": "lamenting"
+}

@@ -1,0 +1,23 @@
+{
+    "book": "Hosea",
+    "chapter": "Chapter 13",
+    "verses": [
+        {
+            "name": "Hosea 13:8",
+            "text": "I will meet them as a bear that is bereaved of her whelps, and will rend the caul of their heart, and there will I devour them like a lion: the wild beast shall tear them."
+        },
+        {
+            "name": "Hosea 13:9",
+            "text": "O Israel, thou hast destroyed thyself; but in me is thine help."
+        },
+        {
+            "name": "Hosea 13:10",
+            "text": "I will be thy king: where is any other that may save thee in all thy cities? and thy judges of whom thou saidst, Give me a king and princes?"
+        },
+        {
+            "name": "Hosea 13:11",
+            "text": "I gave thee a king in mine anger, and took him away in my wrath."
+        }
+    ],
+    "tone": "neutral"
+}

@@ -1,0 +1,19 @@
+{
+    "book": "Matthew",
+    "chapter": "Chapter 13",
+    "verses": [
+        {
+            "name": "Matthew 13:12",
+            "text": "For whosoever hath, to him shall be given, and he shall have more abundance: but whosoever hath not, from him shall be taken away even that he hath."
+        },
+        {
+            "name": "Matthew 13:13",
+            "text": "Therefore speak I to them in parables: because they seeing see not; and hearing they hear not, neither do they understand."
+        },
+        {
+            "name": "Matthew 13:14",
+            "text": "And in them is fulfilled the prophecy of Esaias, which saith, By hearing ye shall hear, and shall not understand; and seeing ye shall see, and shall not perceive:"
+        }
+    ],
+    "tone": "hopeful"
+}

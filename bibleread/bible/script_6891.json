@@ -1,0 +1,23 @@
+{
+    "book": "John",
+    "chapter": "Chapter 4",
+    "verses": [
+        {
+            "name": "John 4:42",
+            "text": "And said unto the woman, Now we believe, not because of thy saying: for we have heard him ourselves, and know that this is indeed the Christ, the Saviour of the world."
+        },
+        {
+            "name": "John 4:43",
+            "text": "Now after two days he departed thence, and went into Galilee."
+        },
+        {
+            "name": "John 4:44",
+            "text": "For Jesus himself testified, that a prophet hath no honour in his own country."
+        },
+        {
+            "name": "John 4:45",
+            "text": "Then when he was come into Galilee, the Galileans received him, having seen all the things that he did at Jerusalem at the feast: for they also went unto the feast."
+        }
+    ],
+    "tone": "neutral"
+}

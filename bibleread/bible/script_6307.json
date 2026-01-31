@@ -1,0 +1,23 @@
+{
+    "book": "Matthew",
+    "chapter": "Chapter 18",
+    "verses": [
+        {
+            "name": "Matthew 18:31",
+            "text": "So when his fellowservants saw what was done, they were very sorry, and came and told unto their lord all that was done."
+        },
+        {
+            "name": "Matthew 18:32",
+            "text": "Then his lord, after that he had called him, said unto him, O thou wicked servant, I forgave thee all that debt, because thou desiredst me:"
+        },
+        {
+            "name": "Matthew 18:33",
+            "text": "Shouldest not thou also have had compassion on thy fellowservant, even as I had pity on thee?"
+        },
+        {
+            "name": "Matthew 18:34",
+            "text": "And his lord was wroth, and delivered him to the tormentors, till he should pay all that was due unto him."
+        }
+    ],
+    "tone": "neutral"
+}

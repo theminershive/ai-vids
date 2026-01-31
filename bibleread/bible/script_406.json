@@ -1,0 +1,23 @@
+{
+    "book": "Exodus",
+    "chapter": "Chapter 1",
+    "verses": [
+        {
+            "name": "Exodus 1:12",
+            "text": "But the more they afflicted them, the more they multiplied and grew. And they were grieved because of the children of Israel."
+        },
+        {
+            "name": "Exodus 1:13",
+            "text": "And the Egyptians made the children of Israel to serve with rigour:"
+        },
+        {
+            "name": "Exodus 1:14",
+            "text": "And they made their lives bitter with hard bondage, in morter, and in brick, and in all manner of service in the field: all their service, wherein they made them serve, was with rigour."
+        },
+        {
+            "name": "Exodus 1:15",
+            "text": "And the king of Egypt spake to the Hebrew midwives, of which the name of the one was Shiphrah, and the name of the other Puah:"
+        }
+    ],
+    "tone": "neutral"
+}

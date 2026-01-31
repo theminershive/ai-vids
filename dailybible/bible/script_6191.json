@@ -1,0 +1,27 @@
+{
+    "book": "Matthew",
+    "chapter": "Chapter 5",
+    "verses": [
+        {
+            "name": "Matthew 5:36",
+            "text": "Neither shalt thou swear by thy head, because thou canst not make one hair white or black."
+        },
+        {
+            "name": "Matthew 5:37",
+            "text": "But let your communication be, Yea, yea; Nay, nay: for whatsoever is more than these cometh of evil."
+        },
+        {
+            "name": "Matthew 5:38",
+            "text": "Ye have heard that it hath been said, An eye for an eye, and a tooth for a tooth:"
+        },
+        {
+            "name": "Matthew 5:39",
+            "text": "But I say unto you, That ye resist not evil: but whosoever shall smite thee on thy right cheek, turn to him the other also."
+        },
+        {
+            "name": "Matthew 5:40",
+            "text": "And if any man will sue thee at the law, and take away thy coat, let him have thy cloke also."
+        }
+    ],
+    "tone": "lamenting"
+}

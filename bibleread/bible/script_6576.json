@@ -1,0 +1,23 @@
+{
+    "book": "Mark",
+    "chapter": "Chapter 16",
+    "verses": [
+        {
+            "name": "Mark 16:12",
+            "text": "After that he appeared in another form unto two of them, as they walked, and went into the country."
+        },
+        {
+            "name": "Mark 16:13",
+            "text": "And they went and told it unto the residue: neither believed they them."
+        },
+        {
+            "name": "Mark 16:14",
+            "text": "Afterward he appeared unto the eleven as they sat at meat, and upbraided them with their unbelief and hardness of heart, because they believed not them which had seen him after he was risen."
+        },
+        {
+            "name": "Mark 16:15",
+            "text": "And he said unto them, Go ye into all the world, and preach the gospel to every creature."
+        }
+    ],
+    "tone": "neutral"
+}

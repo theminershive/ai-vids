@@ -1,0 +1,19 @@
+{
+    "book": "Matthew",
+    "chapter": "Chapter 2",
+    "verses": [
+        {
+            "name": "Matthew 2:16",
+            "text": "Then Herod, when he saw that he was mocked of the wise men, was exceeding wroth, and sent forth, and slew all the children that were in Bethlehem, and in all the coasts thereof, from two years old and under, according to the time which he had diligently enquired of the wise men."
+        },
+        {
+            "name": "Matthew 2:17",
+            "text": "Then was fulfilled that which was spoken by Jeremy the prophet, saying,"
+        },
+        {
+            "name": "Matthew 2:18",
+            "text": "In Rama was there a voice heard, lamentation, and weeping, and great mourning, Rachel weeping for her children, and would not be comforted, because they are not."
+        }
+    ],
+    "tone": "neutral"
+}

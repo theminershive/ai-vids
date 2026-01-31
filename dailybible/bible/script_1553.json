@@ -1,0 +1,23 @@
+{
+    "book": "Deuteronomy",
+    "chapter": "Chapter 28",
+    "verses": [
+        {
+            "name": "Deuteronomy 28:4",
+            "text": "Blessed shall be the fruit of thy body, and the fruit of thy ground, and the fruit of thy cattle, the increase of thy kine, and the flocks of thy sheep."
+        },
+        {
+            "name": "Deuteronomy 28:5",
+            "text": "Blessed shall be thy basket and thy store."
+        },
+        {
+            "name": "Deuteronomy 28:6",
+            "text": "Blessed shalt thou be when thou comest in, and blessed shalt thou be when thou goest out."
+        },
+        {
+            "name": "Deuteronomy 28:7",
+            "text": "The Lord shall cause thine enemies that rise up against thee to be smitten before thy face: they shall come out against thee one way, and flee before thee seven ways."
+        }
+    ],
+    "tone": "hopeful"
+}

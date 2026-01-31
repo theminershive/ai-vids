@@ -1,0 +1,27 @@
+{
+    "book": "John",
+    "chapter": "Chapter 10",
+    "verses": [
+        {
+            "name": "John 10:33",
+            "text": "The Jews answered him, saying, For a good work we stone thee not; but for blasphemy; and because that thou, being a man, makest thyself God."
+        },
+        {
+            "name": "John 10:34",
+            "text": "Jesus answered them, Is it not written in your law, I said, Ye are gods?"
+        },
+        {
+            "name": "John 10:35",
+            "text": "If he called them gods, unto whom the word of God came, and the scripture cannot be broken;"
+        },
+        {
+            "name": "John 10:36",
+            "text": "Say ye of him, whom the Father hath sanctified, and sent into the world, Thou blasphemest; because I said, I am the Son of God?"
+        },
+        {
+            "name": "John 10:37",
+            "text": "If I do not the works of my Father, believe me not."
+        }
+    ],
+    "tone": "hopeful"
+}

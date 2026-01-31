@@ -1,0 +1,19 @@
+{
+    "book": "Leviticus",
+    "chapter": "Chapter 2",
+    "verses": [
+        {
+            "name": "Leviticus 2:13",
+            "text": "And every oblation of thy meat offering shalt thou season with salt; neither shalt thou suffer the salt of the covenant of thy God to be lacking from thy meat offering: with all thine offerings thou shalt offer salt."
+        },
+        {
+            "name": "Leviticus 2:14",
+            "text": "And if thou offer a meat offering of thy firstfruits unto the Lord, thou shalt offer for the meat offering of thy firstfruits green ears of corn dried by the fire, even corn beaten out of full ears."
+        },
+        {
+            "name": "Leviticus 2:15",
+            "text": "And thou shalt put oil upon it, and lay frankincense thereon: it is a meat offering."
+        }
+    ],
+    "tone": "neutral"
+}

@@ -1,0 +1,19 @@
+{
+    "book": "Luke",
+    "chapter": "Chapter 5",
+    "verses": [
+        {
+            "name": "Luke 5:1",
+            "text": "And it came to pass, that, as the people pressed upon him to hear the word of God, he stood by the lake of Gennesaret,"
+        },
+        {
+            "name": "Luke 5:2",
+            "text": "And saw two ships standing by the lake: but the fishermen were gone out of them, and were washing their nets."
+        },
+        {
+            "name": "Luke 5:3",
+            "text": "And he entered into one of the ships, which was Simon\u2019s, and prayed him that he would thrust out a little from the land. And he sat down, and taught the people out of the ship."
+        }
+    ],
+    "tone": "neutral"
+}

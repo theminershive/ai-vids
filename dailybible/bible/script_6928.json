@@ -1,0 +1,23 @@
+{
+    "book": "John",
+    "chapter": "Chapter 7",
+    "verses": [
+        {
+            "name": "John 7:29",
+            "text": "But I know him: for I am from him, and he hath sent me."
+        },
+        {
+            "name": "John 7:30",
+            "text": "Then they sought to take him: but no man laid hands on him, because his hour was not yet come."
+        },
+        {
+            "name": "John 7:31",
+            "text": "And many of the people believed on him, and said, When Christ cometh, will he do more miracles than these which this man hath done?"
+        },
+        {
+            "name": "John 7:32",
+            "text": "The Pharisees heard that the people murmured such things concerning him; and the Pharisees and the chief priests sent officers to take him."
+        }
+    ],
+    "tone": "neutral"
+}

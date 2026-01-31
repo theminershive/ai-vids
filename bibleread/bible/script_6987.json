@@ -1,0 +1,23 @@
+{
+    "book": "John",
+    "chapter": "Chapter 12",
+    "verses": [
+        {
+            "name": "John 12:38",
+            "text": "That the saying of Esaias the prophet might be fulfilled, which he spake, Lord, who hath believed our report? and to whom hath the arm of the Lord been revealed?"
+        },
+        {
+            "name": "John 12:39",
+            "text": "Therefore they could not believe, because that Esaias said again,"
+        },
+        {
+            "name": "John 12:40",
+            "text": "He hath blinded their eyes, and hardened their heart; that they should not see with their eyes, nor understand with their heart, and be converted, and I should heal them."
+        },
+        {
+            "name": "John 12:41",
+            "text": "These things said Esaias, when he saw his glory, and spake of him."
+        }
+    ],
+    "tone": "neutral"
+}

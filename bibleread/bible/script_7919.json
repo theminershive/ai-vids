@@ -1,0 +1,23 @@
+{
+    "book": "1 John",
+    "chapter": "Chapter 2",
+    "verses": [
+        {
+            "name": "1 John 2:9",
+            "text": "He that saith he is in the light, and hateth his brother, is in darkness even until now."
+        },
+        {
+            "name": "1 John 2:10",
+            "text": "He that loveth his brother abideth in the light, and there is none occasion of stumbling in him."
+        },
+        {
+            "name": "1 John 2:11",
+            "text": "But he that hateth his brother is in darkness, and walketh in darkness, and knoweth not whither he goeth, because that darkness hath blinded his eyes."
+        },
+        {
+            "name": "1 John 2:12",
+            "text": "I write unto you, little children, because your sins are forgiven you for his name\u2019s sake."
+        }
+    ],
+    "tone": "lamenting"
+}

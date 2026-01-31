@@ -1,0 +1,23 @@
+{
+    "book": "Daniel",
+    "chapter": "Chapter 1",
+    "verses": [
+        {
+            "name": "Daniel 1:13",
+            "text": "Then let our countenances be looked upon before thee, and the countenance of the children that eat of the portion of the king\u2019s meat: and as thou seest, deal with thy servants."
+        },
+        {
+            "name": "Daniel 1:14",
+            "text": "So he consented to them in this matter, and proved them ten days."
+        },
+        {
+            "name": "Daniel 1:15",
+            "text": "And at the end of ten days their countenances appeared fairer and fatter in flesh than all the children which did eat the portion of the king\u2019s meat."
+        },
+        {
+            "name": "Daniel 1:16",
+            "text": "Thus Melzar took away the portion of their meat, and the wine that they should drink; and gave them pulse."
+        }
+    ],
+    "tone": "neutral"
+}

@@ -1,0 +1,27 @@
+{
+    "book": "Proverbs",
+    "chapter": "Chapter 3",
+    "verses": [
+        {
+            "name": "Proverbs 3:13",
+            "text": "Happy is the man that findeth wisdom, and the man that getteth understanding."
+        },
+        {
+            "name": "Proverbs 3:14",
+            "text": "For the merchandise of it is better than the merchandise of silver, and the gain thereof than fine gold."
+        },
+        {
+            "name": "Proverbs 3:15",
+            "text": "She is more precious than rubies: and all the things thou canst desire are not to be compared unto her."
+        },
+        {
+            "name": "Proverbs 3:16",
+            "text": "Length of days is in her right hand; and in her left hand riches and honour."
+        },
+        {
+            "name": "Proverbs 3:17",
+            "text": "Her ways are ways of pleasantness, and all her paths are peace."
+        }
+    ],
+    "tone": "hopeful"
+}

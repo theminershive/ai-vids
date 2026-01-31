@@ -1,0 +1,19 @@
+{
+    "book": "Joshua",
+    "chapter": "Chapter 2",
+    "verses": [
+        {
+            "name": "Joshua 2:12",
+            "text": "Now therefore, I pray you, swear unto me by the Lord, since I have shewed you kindness, that ye will also shew kindness unto my father\u2019s house, and give me a true token:"
+        },
+        {
+            "name": "Joshua 2:13",
+            "text": "And that ye will save alive my father, and my mother, and my brethren, and my sisters, and all that they have, and deliver our lives from death."
+        },
+        {
+            "name": "Joshua 2:14",
+            "text": "And the men answered her, Our life for yours, if ye utter not this our business. And it shall be, when the Lord hath given us the land, that we will deal kindly and truly with thee."
+        }
+    ],
+    "tone": "hopeful"
+}

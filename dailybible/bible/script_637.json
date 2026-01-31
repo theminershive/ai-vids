@@ -1,0 +1,23 @@
+{
+    "book": "Exodus",
+    "chapter": "Chapter 29",
+    "verses": [
+        {
+            "name": "Exodus 29:15",
+            "text": "Thou shalt also take one ram; and Aaron and his sons shall put their hands upon the head of the ram."
+        },
+        {
+            "name": "Exodus 29:16",
+            "text": "And thou shalt slay the ram, and thou shalt take his blood, and sprinkle it round about upon the altar."
+        },
+        {
+            "name": "Exodus 29:17",
+            "text": "And thou shalt cut the ram in pieces, and wash the inwards of him, and his legs, and put them unto his pieces, and unto his head."
+        },
+        {
+            "name": "Exodus 29:18",
+            "text": "And thou shalt burn the whole ram upon the altar: it is a burnt offering unto the Lord: it is a sweet savour, an offering made by fire unto the Lord."
+        }
+    ],
+    "tone": "neutral"
+}

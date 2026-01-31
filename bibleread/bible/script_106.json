@@ -1,0 +1,23 @@
+{
+    "book": "Genesis",
+    "chapter": "Chapter 18",
+    "verses": [
+        {
+            "name": "Genesis 18:1",
+            "text": "And the Lord appeared unto him in the plains of Mamre: and he sat in the tent door in the heat of the day;"
+        },
+        {
+            "name": "Genesis 18:2",
+            "text": "And he lift up his eyes and looked, and, lo, three men stood by him: and when he saw them, he ran to meet them from the tent door, and bowed himself toward the ground,"
+        },
+        {
+            "name": "Genesis 18:3",
+            "text": "And said, My Lord, if now I have found favour in thy sight, pass not away, I pray thee, from thy servant:"
+        },
+        {
+            "name": "Genesis 18:4",
+            "text": "Let a little water, I pray you, be fetched, and wash your feet, and rest yourselves under the tree:"
+        }
+    ],
+    "tone": "neutral"
+}

@@ -1,0 +1,23 @@
+{
+    "book": "1 Thessalonians",
+    "chapter": "Chapter 2",
+    "verses": [
+        {
+            "name": "1 Thessalonians 2:1",
+            "text": "For yourselves, brethren, know our entrance in unto you, that it was not in vain:"
+        },
+        {
+            "name": "1 Thessalonians 2:2",
+            "text": "But even after that we had suffered before, and were shamefully entreated, as ye know, at Philippi, we were bold in our God to speak unto you the gospel of God with much contention."
+        },
+        {
+            "name": "1 Thessalonians 2:3",
+            "text": "For our exhortation was not of deceit, nor of uncleanness, nor in guile:"
+        },
+        {
+            "name": "1 Thessalonians 2:4",
+            "text": "But as we were allowed of God to be put in trust with the gospel, even so we speak; not as pleasing men, but God, which trieth our hearts."
+        }
+    ],
+    "tone": "hopeful"
+}

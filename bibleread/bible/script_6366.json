@@ -1,0 +1,27 @@
+{
+    "book": "Matthew",
+    "chapter": "Chapter 24",
+    "verses": [
+        {
+            "name": "Matthew 24:47",
+            "text": "Verily I say unto you, That he shall make him ruler over all his goods."
+        },
+        {
+            "name": "Matthew 24:48",
+            "text": "But and if that evil servant shall say in his heart, My lord delayeth his coming;"
+        },
+        {
+            "name": "Matthew 24:49",
+            "text": "And shall begin to smite his fellowservants, and to eat and drink with the drunken;"
+        },
+        {
+            "name": "Matthew 24:50",
+            "text": "The lord of that servant shall come in a day when he looketh not for him, and in an hour that he is not aware of,"
+        },
+        {
+            "name": "Matthew 24:51",
+            "text": "And shall cut him asunder, and appoint him his portion with the hypocrites: there shall be weeping and gnashing of teeth. "
+        }
+    ],
+    "tone": "instructional"
+}

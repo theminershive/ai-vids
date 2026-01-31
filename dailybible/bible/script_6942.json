@@ -1,0 +1,19 @@
+{
+    "book": "John",
+    "chapter": "Chapter 8",
+    "verses": [
+        {
+            "name": "John 8:44",
+            "text": "Ye are of your father the devil, and the lusts of your father ye will do. He was a murderer from the beginning, and abode not in the truth, because there is no truth in him. When he speaketh a lie, he speaketh of his own: for he is a liar, and the father of it."
+        },
+        {
+            "name": "John 8:45",
+            "text": "And because I tell you the truth, ye believe me not."
+        },
+        {
+            "name": "John 8:46",
+            "text": "Which of you convinceth me of sin? And if I say the truth, why do ye not believe me?"
+        }
+    ],
+    "tone": "lamenting"
+}

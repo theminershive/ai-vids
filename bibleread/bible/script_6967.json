@@ -1,0 +1,27 @@
+{
+    "book": "John",
+    "chapter": "Chapter 11",
+    "verses": [
+        {
+            "name": "John 11:11",
+            "text": "These things said he: and after that he saith unto them, Our friend Lazarus sleepeth; but I go, that I may awake him out of sleep."
+        },
+        {
+            "name": "John 11:12",
+            "text": "Then said his disciples, Lord, if he sleep, he shall do well."
+        },
+        {
+            "name": "John 11:13",
+            "text": "Howbeit Jesus spake of his death: but they thought that he had spoken of taking of rest in sleep."
+        },
+        {
+            "name": "John 11:14",
+            "text": "Then said Jesus unto them plainly, Lazarus is dead."
+        },
+        {
+            "name": "John 11:15",
+            "text": "And I am glad for your sakes that I was not there, to the intent ye may believe; nevertheless let us go unto him."
+        }
+    ],
+    "tone": "neutral"
+}

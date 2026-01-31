@@ -1,0 +1,23 @@
+{
+    "book": "1 Peter",
+    "chapter": "Chapter 2",
+    "verses": [
+        {
+            "name": "1 Peter 2:12",
+            "text": "Having your conversation honest among the Gentiles: that, whereas they speak against you as evildoers, they may by your good works, which they shall behold, glorify God in the day of visitation."
+        },
+        {
+            "name": "1 Peter 2:13",
+            "text": "Submit yourselves to every ordinance of man for the Lord\u2019s sake: whether it be to the king, as supreme;"
+        },
+        {
+            "name": "1 Peter 2:14",
+            "text": "Or unto governors, as unto them that are sent by him for the punishment of evildoers, and for the praise of them that do well."
+        },
+        {
+            "name": "1 Peter 2:15",
+            "text": "For so is the will of God, that with well doing ye may put to silence the ignorance of foolish men:"
+        }
+    ],
+    "tone": "praising"
+}

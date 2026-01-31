@@ -1,0 +1,27 @@
+{
+    "book": "Job",
+    "chapter": "Chapter 38",
+    "verses": [
+        {
+            "name": "Job 38:18",
+            "text": "Hast thou perceived the breadth of the earth? declare if thou knowest it all."
+        },
+        {
+            "name": "Job 38:19",
+            "text": "Where is the way where light dwelleth? and as for darkness, where is the place thereof,"
+        },
+        {
+            "name": "Job 38:20",
+            "text": "That thou shouldest take it to the bound thereof, and that thou shouldest know the paths to the house thereof?"
+        },
+        {
+            "name": "Job 38:21",
+            "text": "Knowest thou it, because thou wast then born? or because the number of thy days is great?"
+        },
+        {
+            "name": "Job 38:22",
+            "text": "Hast thou entered into the treasures of the snow? or hast thou seen the treasures of the hail,"
+        }
+    ],
+    "tone": "neutral"
+}

@@ -1,0 +1,23 @@
+{
+    "book": "John",
+    "chapter": "Chapter 16",
+    "verses": [
+        {
+            "name": "John 16:24",
+            "text": "Hitherto have ye asked nothing in my name: ask, and ye shall receive, that your joy may be full."
+        },
+        {
+            "name": "John 16:25",
+            "text": "These things have I spoken unto you in proverbs: but the time cometh, when I shall no more speak unto you in proverbs, but I shall shew you plainly of the Father."
+        },
+        {
+            "name": "John 16:26",
+            "text": "At that day ye shall ask in my name: and I say not unto you, that I will pray the Father for you:"
+        },
+        {
+            "name": "John 16:27",
+            "text": "For the Father himself loveth you, because ye have loved me, and have believed that I came out from God."
+        }
+    ],
+    "tone": "neutral"
+}

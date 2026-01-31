@@ -1,0 +1,27 @@
+{
+    "book": "Matthew",
+    "chapter": "Chapter 22",
+    "verses": [
+        {
+            "name": "Matthew 22:6",
+            "text": "And the remnant took his servants, and entreated them spitefully, and slew them."
+        },
+        {
+            "name": "Matthew 22:7",
+            "text": "But when the king heard thereof, he was wroth: and he sent forth his armies, and destroyed those murderers, and burned up their city."
+        },
+        {
+            "name": "Matthew 22:8",
+            "text": "Then saith he to his servants, The wedding is ready, but they which were bidden were not worthy."
+        },
+        {
+            "name": "Matthew 22:9",
+            "text": "Go ye therefore into the highways, and as many as ye shall find, bid to the marriage."
+        },
+        {
+            "name": "Matthew 22:10",
+            "text": "So those servants went out into the highways, and gathered together all as many as they found, both bad and good: and the wedding was furnished with guests."
+        }
+    ],
+    "tone": "neutral"
+}

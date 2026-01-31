@@ -1,0 +1,23 @@
+{
+    "book": "Romans",
+    "chapter": "Chapter 9",
+    "verses": [
+        {
+            "name": "Romans 9:15",
+            "text": "For he saith to Moses, I will have mercy on whom I will have mercy, and I will have compassion on whom I will have compassion."
+        },
+        {
+            "name": "Romans 9:16",
+            "text": "So then it is not of him that willeth, nor of him that runneth, but of God that sheweth mercy."
+        },
+        {
+            "name": "Romans 9:17",
+            "text": "For the scripture saith unto Pharaoh, Even for this same purpose have I raised thee up, that I might shew my power in thee, and that my name might be declared throughout all the earth."
+        },
+        {
+            "name": "Romans 9:18",
+            "text": "Therefore hath he mercy on whom he will have mercy, and whom he will he hardeneth."
+        }
+    ],
+    "tone": "hopeful"
+}

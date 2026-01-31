@@ -1,0 +1,23 @@
+{
+    "book": "James",
+    "chapter": "Chapter 5",
+    "verses": [
+        {
+            "name": "James 5:1",
+            "text": "Go to now, ye rich men, weep and howl for your miseries that shall come upon you. "
+        },
+        {
+            "name": "James 5:2",
+            "text": "Your riches are corrupted, and your garments are motheaten."
+        },
+        {
+            "name": "James 5:3",
+            "text": "Your gold and silver is cankered; and the rust of them shall be a witness against you, and shall eat your flesh as it were fire. Ye have heaped treasure together for the last days."
+        },
+        {
+            "name": "James 5:4",
+            "text": "Behold, the hire of the labourers who have reaped down your fields, which is of you kept back by fraud, crieth: and the cries of them which have reaped are entered into the ears of the Lord of sabaoth."
+        }
+    ],
+    "tone": "lamenting"
+}

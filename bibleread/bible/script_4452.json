@@ -1,0 +1,23 @@
+{
+    "book": "Ecclesiastes",
+    "chapter": "Chapter 8",
+    "verses": [
+        {
+            "name": "Ecclesiastes 8:1",
+            "text": "Who is as the wise man? and who knoweth the interpretation of a thing? a man\u2019s wisdom maketh his face to shine, and the boldness of his face shall be changed."
+        },
+        {
+            "name": "Ecclesiastes 8:2",
+            "text": "I counsel thee to keep the king\u2019s commandment, and that in regard of the oath of God."
+        },
+        {
+            "name": "Ecclesiastes 8:3",
+            "text": "Be not hasty to go out of his sight: stand not in an evil thing; for he doeth whatsoever pleaseth him."
+        },
+        {
+            "name": "Ecclesiastes 8:4",
+            "text": "Where the word of a king is, there is power: and who may say unto him, What doest thou?"
+        }
+    ],
+    "tone": "instructional"
+}

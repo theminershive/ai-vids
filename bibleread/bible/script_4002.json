@@ -1,0 +1,23 @@
+{
+    "book": "Psalms",
+    "chapter": "Chapter 65",
+    "verses": [
+        {
+            "name": "Psalms 65:1",
+            "text": "Praise waiteth for thee, O God, in Sion: and unto thee shall the vow be performed."
+        },
+        {
+            "name": "Psalms 65:2",
+            "text": "O thou that hearest prayer, unto thee shall all flesh come."
+        },
+        {
+            "name": "Psalms 65:3",
+            "text": "Iniquities prevail against me: as for our transgressions, thou shalt purge them away."
+        },
+        {
+            "name": "Psalms 65:4",
+            "text": "Blessed is the man whom thou choosest, and causest to approach unto thee, that he may dwell in thy courts: we shall be satisfied with the goodness of thy house, even of thy holy temple."
+        }
+    ],
+    "tone": "instructional"
+}

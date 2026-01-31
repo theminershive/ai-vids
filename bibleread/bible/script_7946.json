@@ -1,0 +1,19 @@
+{
+    "book": "3 John",
+    "chapter": "Chapter 1",
+    "verses": [
+        {
+            "name": "3 John 1:10",
+            "text": "Wherefore, if I come, I will remember his deeds which he doeth, prating against us with malicious words: and not content therewith, neither doth he himself receive the brethren, and forbiddeth them that would, and casteth them out of the church."
+        },
+        {
+            "name": "3 John 1:11",
+            "text": "Beloved, follow not that which is evil, but that which is good. He that doeth good is of God: but he that doeth evil hath not seen God."
+        },
+        {
+            "name": "3 John 1:12",
+            "text": "Demetrius hath good report of all men, and of the truth itself: yea, and we also bear record; and ye know that our record is true."
+        }
+    ],
+    "tone": "instructional"
+}

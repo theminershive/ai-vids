@@ -1,0 +1,27 @@
+{
+    "book": "Psalms",
+    "chapter": "Chapter 50",
+    "verses": [
+        {
+            "name": "Psalms 50:1",
+            "text": "The mighty God, even the Lord, hath spoken, and called the earth from the rising of the sun unto the going down thereof."
+        },
+        {
+            "name": "Psalms 50:2",
+            "text": "Out of Zion, the perfection of beauty, God hath shined."
+        },
+        {
+            "name": "Psalms 50:3",
+            "text": "Our God shall come, and shall not keep silence: a fire shall devour before him, and it shall be very tempestuous round about him."
+        },
+        {
+            "name": "Psalms 50:4",
+            "text": "He shall call to the heavens from above, and to the earth, that he may judge his people."
+        },
+        {
+            "name": "Psalms 50:5",
+            "text": "Gather my saints together unto me; those that have made a covenant with me by sacrifice."
+        }
+    ],
+    "tone": "hopeful"
+}

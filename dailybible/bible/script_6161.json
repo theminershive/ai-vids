@@ -1,0 +1,19 @@
+{
+    "book": "Malachi",
+    "chapter": "Chapter 3",
+    "verses": [
+        {
+            "name": "Malachi 3:16",
+            "text": "Then they that feared the Lord spake often one to another: and the Lord hearkened, and heard it, and a book of remembrance was written before him for them that feared the Lord, and that thought upon his name."
+        },
+        {
+            "name": "Malachi 3:17",
+            "text": "And they shall be mine, saith the Lord of hosts, in that day when I make up my jewels; and I will spare them, as a man spareth his own son that serveth him."
+        },
+        {
+            "name": "Malachi 3:18",
+            "text": "Then shall ye return, and discern between the righteous and the wicked, between him that serveth God and him that serveth him not. "
+        }
+    ],
+    "tone": "neutral"
+}

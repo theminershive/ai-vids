@@ -1,0 +1,23 @@
+{
+    "book": "Isaiah",
+    "chapter": "Chapter 40",
+    "verses": [
+        {
+            "name": "Isaiah 40:5",
+            "text": "And the glory of the Lord shall be revealed, and all flesh shall see it together: for the mouth of the Lord hath spoken it."
+        },
+        {
+            "name": "Isaiah 40:6",
+            "text": "The voice said, Cry. And he said, What shall I cry? All flesh is grass, and all the goodliness thereof is as the flower of the field:"
+        },
+        {
+            "name": "Isaiah 40:7",
+            "text": "The grass withereth, the flower fadeth: because the spirit of the Lord bloweth upon it: surely the people is grass."
+        },
+        {
+            "name": "Isaiah 40:8",
+            "text": "The grass withereth, the flower fadeth: but the word of our God shall stand for ever."
+        }
+    ],
+    "tone": "hopeful"
+}

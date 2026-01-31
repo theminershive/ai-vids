@@ -1,0 +1,23 @@
+{
+    "book": "Isaiah",
+    "chapter": "Chapter 1",
+    "verses": [
+        {
+            "name": "Isaiah 1:14",
+            "text": "Your new moons and your appointed feasts my soul hateth: they are a trouble unto me; I am weary to bear them."
+        },
+        {
+            "name": "Isaiah 1:15",
+            "text": "And when ye spread forth your hands, I will hide mine eyes from you: yea, when ye make many prayers, I will not hear: your hands are full of blood."
+        },
+        {
+            "name": "Isaiah 1:16",
+            "text": "Wash you, make you clean; put away the evil of your doings from before mine eyes; cease to do evil;"
+        },
+        {
+            "name": "Isaiah 1:17",
+            "text": "Learn to do well; seek judgment, relieve the oppressed, judge the fatherless, plead for the widow."
+        }
+    ],
+    "tone": "instructional"
+}

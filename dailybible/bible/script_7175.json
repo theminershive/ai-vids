@@ -1,0 +1,23 @@
+{
+    "book": "Acts",
+    "chapter": "Chapter 13",
+    "verses": [
+        {
+            "name": "Acts 13:16",
+            "text": "Then Paul stood up, and beckoning with his hand said, Men of Israel, and ye that fear God, give audience."
+        },
+        {
+            "name": "Acts 13:17",
+            "text": "The God of this people of Israel chose our fathers, and exalted the people when they dwelt as strangers in the land of Egypt, and with an high arm brought he them out of it."
+        },
+        {
+            "name": "Acts 13:18",
+            "text": "And about the time of forty years suffered he their manners in the wilderness."
+        },
+        {
+            "name": "Acts 13:19",
+            "text": "And when he had destroyed seven nations in the land of Chanaan, he divided their land to them by lot."
+        }
+    ],
+    "tone": "neutral"
+}

@@ -1,0 +1,27 @@
+{
+    "book": "John",
+    "chapter": "Chapter 1",
+    "verses": [
+        {
+            "name": "John 1:32",
+            "text": "And John bare record, saying, I saw the Spirit descending from heaven like a dove, and it abode upon him."
+        },
+        {
+            "name": "John 1:33",
+            "text": "And I knew him not: but he that sent me to baptize with water, the same said unto me, Upon whom thou shalt see the Spirit descending, and remaining on him, the same is he which baptizeth with the Holy Ghost."
+        },
+        {
+            "name": "John 1:34",
+            "text": "And I saw, and bare record that this is the Son of God."
+        },
+        {
+            "name": "John 1:35",
+            "text": "Again the next day after John stood, and two of his disciples;"
+        },
+        {
+            "name": "John 1:36",
+            "text": "And looking upon Jesus as he walked, he saith, Behold the Lamb of God!"
+        }
+    ],
+    "tone": "neutral"
+}

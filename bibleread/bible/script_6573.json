@@ -1,0 +1,23 @@
+{
+    "book": "Mark",
+    "chapter": "Chapter 16",
+    "verses": [
+        {
+            "name": "Mark 16:1",
+            "text": "And when the sabbath was past, Mary Magdalene, and Mary the mother of James, and Salome, had bought sweet spices, that they might come and anoint him."
+        },
+        {
+            "name": "Mark 16:2",
+            "text": "And very early in the morning the first day of the week, they came unto the sepulchre at the rising of the sun."
+        },
+        {
+            "name": "Mark 16:3",
+            "text": "And they said among themselves, Who shall roll us away the stone from the door of the sepulchre?"
+        },
+        {
+            "name": "Mark 16:4",
+            "text": "And when they looked, they saw that the stone was rolled away: for it was very great."
+        }
+    ],
+    "tone": "neutral"
+}

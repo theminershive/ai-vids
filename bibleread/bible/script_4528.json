@@ -1,0 +1,23 @@
+{
+    "book": "Isaiah",
+    "chapter": "Chapter 5",
+    "verses": [
+        {
+            "name": "Isaiah 5:21",
+            "text": "Woe unto them that are wise in their own eyes, and prudent in their own sight!"
+        },
+        {
+            "name": "Isaiah 5:22",
+            "text": "Woe unto them that are mighty to drink wine, and men of strength to mingle strong drink:"
+        },
+        {
+            "name": "Isaiah 5:23",
+            "text": "Which justify the wicked for reward, and take away the righteousness of the righteous from him!"
+        },
+        {
+            "name": "Isaiah 5:24",
+            "text": "Therefore as the fire devoureth the stubble, and the flame consumeth the chaff, so their root shall be as rottenness, and their blossom shall go up as dust: because they have cast away the law of the Lord of hosts, and despised the word of the Holy One of Israel."
+        }
+    ],
+    "tone": "instructional"
+}

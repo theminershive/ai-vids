@@ -1,0 +1,23 @@
+{
+    "book": "Matthew",
+    "chapter": "Chapter 27",
+    "verses": [
+        {
+            "name": "Matthew 27:1",
+            "text": "When the morning was come, all the chief priests and elders of the people took counsel against Jesus to put him to death:"
+        },
+        {
+            "name": "Matthew 27:2",
+            "text": "And when they had bound him, they led him away, and delivered him to Pontius Pilate the governor."
+        },
+        {
+            "name": "Matthew 27:3",
+            "text": "Then Judas, which had betrayed him, when he saw that he was condemned, repented himself, and brought again the thirty pieces of silver to the chief priests and elders,"
+        },
+        {
+            "name": "Matthew 27:4",
+            "text": "Saying, I have sinned in that I have betrayed the innocent blood. And they said, What is that to us? see thou to that. "
+        }
+    ],
+    "tone": "neutral"
+}

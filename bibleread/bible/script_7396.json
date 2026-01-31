@@ -1,0 +1,23 @@
+{
+    "book": "Romans",
+    "chapter": "Chapter 12",
+    "verses": [
+        {
+            "name": "Romans 12:18",
+            "text": "If it be possible, as much as lieth in you, live peaceably with all men."
+        },
+        {
+            "name": "Romans 12:19",
+            "text": "Dearly beloved, avenge not yourselves, but rather give place unto wrath: for it is written, Vengeance is mine; I will repay, saith the Lord."
+        },
+        {
+            "name": "Romans 12:20",
+            "text": "Therefore if thine enemy hunger, feed him; if he thirst, give him drink: for in so doing thou shalt heap coals of fire on his head."
+        },
+        {
+            "name": "Romans 12:21",
+            "text": "Be not overcome of evil, but overcome evil with good. "
+        }
+    ],
+    "tone": "instructional"
+}

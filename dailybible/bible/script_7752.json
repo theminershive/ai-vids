@@ -1,0 +1,23 @@
+{
+    "book": "2 Timothy",
+    "chapter": "Chapter 1",
+    "verses": [
+        {
+            "name": "2 Timothy 1:15",
+            "text": "This thou knowest, that all they which are in Asia be turned away from me; of whom are Phygellus and Hermogenes."
+        },
+        {
+            "name": "2 Timothy 1:16",
+            "text": "The Lord give mercy unto the house of Onesiphorus; for he oft refreshed me, and was not ashamed of my chain:"
+        },
+        {
+            "name": "2 Timothy 1:17",
+            "text": "But, when he was in Rome, he sought me out very diligently, and found me. "
+        },
+        {
+            "name": "2 Timothy 1:18",
+            "text": "The Lord grant unto him that he may find mercy of the Lord in that day: and in how many things he ministered unto me at Ephesus, thou knowest very well. "
+        }
+    ],
+    "tone": "hopeful"
+}

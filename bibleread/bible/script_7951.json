@@ -1,0 +1,19 @@
+{
+    "book": "Jude",
+    "chapter": "Chapter 1",
+    "verses": [
+        {
+            "name": "Jude 1:13",
+            "text": "Raging waves of the sea, foaming out their own shame; wandering stars, to whom is reserved the blackness of darkness for ever."
+        },
+        {
+            "name": "Jude 1:14",
+            "text": "And Enoch also, the seventh from Adam, prophesied of these, saying, Behold, the Lord cometh with ten thousands of his saints,"
+        },
+        {
+            "name": "Jude 1:15",
+            "text": "To execute judgment upon all, and to convince all that are ungodly among them of all their ungodly deeds which they have ungodly committed, and of all their hard speeches which ungodly sinners have spoken against him."
+        }
+    ],
+    "tone": "lamenting"
+}

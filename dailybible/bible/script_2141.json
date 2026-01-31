@@ -1,0 +1,19 @@
+{
+    "book": "1 Samuel",
+    "chapter": "Chapter 15",
+    "verses": [
+        {
+            "name": "1 Samuel 15:19",
+            "text": "Wherefore then didst thou not obey the voice of the Lord, but didst fly upon the spoil, and didst evil in the sight of the Lord?"
+        },
+        {
+            "name": "1 Samuel 15:20",
+            "text": "And Saul said unto Samuel, Yea, I have obeyed the voice of the Lord, and have gone the way which the Lord sent me, and have brought Agag the king of Amalek, and have utterly destroyed the Amalekites."
+        },
+        {
+            "name": "1 Samuel 15:21",
+            "text": "But the people took of the spoil, sheep and oxen, the chief of the things which should have been utterly destroyed, to sacrifice unto the Lord thy God in Gilgal."
+        }
+    ],
+    "tone": "neutral"
+}

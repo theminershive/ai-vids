@@ -1,0 +1,23 @@
+{
+    "book": "Genesis",
+    "chapter": "Chapter 1",
+    "verses": [
+        {
+            "name": "Genesis 1:21",
+            "text": "And God created great whales, and every living creature that moveth, which the waters brought forth abundantly, after their kind, and every winged fowl after his kind: and God saw that it was good."
+        },
+        {
+            "name": "Genesis 1:22",
+            "text": "And God blessed them, saying, Be fruitful, and multiply, and fill the waters in the seas, and let fowl multiply in the earth."
+        },
+        {
+            "name": "Genesis 1:23",
+            "text": "And the evening and the morning were the fifth day."
+        },
+        {
+            "name": "Genesis 1:24",
+            "text": "And God said, Let the earth bring forth the living creature after his kind, cattle, and creeping thing, and beast of the earth after his kind: and it was so."
+        }
+    ],
+    "tone": "hopeful"
+}

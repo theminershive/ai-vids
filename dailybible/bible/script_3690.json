@@ -1,0 +1,23 @@
+{
+    "book": "Job",
+    "chapter": "Chapter 10",
+    "verses": [
+        {
+            "name": "Job 10:17",
+            "text": "Thou renewest thy witnesses against me, and increasest thine indignation upon me; changes and war are against me."
+        },
+        {
+            "name": "Job 10:18",
+            "text": "Wherefore then hast thou brought me forth out of the womb? Oh that I had given up the ghost, and no eye had seen me!"
+        },
+        {
+            "name": "Job 10:19",
+            "text": "I should have been as though I had not been; I should have been carried from the womb to the grave."
+        },
+        {
+            "name": "Job 10:20",
+            "text": "Are not my days few? cease then, and let me alone, that I may take comfort a little,"
+        }
+    ],
+    "tone": "hopeful"
+}

@@ -1,0 +1,23 @@
+{
+    "book": "Romans",
+    "chapter": "Chapter 11",
+    "verses": [
+        {
+            "name": "Romans 11:11",
+            "text": "I say then, Have they stumbled that they should fall? God forbid: but rather through their fall salvation is come unto the Gentiles, for to provoke them to jealousy."
+        },
+        {
+            "name": "Romans 11:12",
+            "text": "Now if the fall of them be the riches of the world, and the diminishing of them the riches of the Gentiles; how much more their fulness?"
+        },
+        {
+            "name": "Romans 11:13",
+            "text": "For I speak to you Gentiles, inasmuch as I am the apostle of the Gentiles, I magnify mine office:"
+        },
+        {
+            "name": "Romans 11:14",
+            "text": "If by any means I may provoke to emulation them which are my flesh, and might save some of them."
+        }
+    ],
+    "tone": "hopeful"
+}

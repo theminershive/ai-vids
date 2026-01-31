@@ -1,0 +1,27 @@
+{
+    "book": "1 Corinthians",
+    "chapter": "Chapter 9",
+    "verses": [
+        {
+            "name": "1 Corinthians 9:1",
+            "text": "Am I not an apostle? am I not free? have I not seen Jesus Christ our Lord? are not ye my work in the Lord?"
+        },
+        {
+            "name": "1 Corinthians 9:2",
+            "text": "If I be not an apostle unto others, yet doubtless I am to you: for the seal of mine apostleship are ye in the Lord."
+        },
+        {
+            "name": "1 Corinthians 9:3",
+            "text": "Mine answer to them that do examine me is this,"
+        },
+        {
+            "name": "1 Corinthians 9:4",
+            "text": "Have we not power to eat and to drink?"
+        },
+        {
+            "name": "1 Corinthians 9:5",
+            "text": "Have we not power to lead about a sister, a wife, as well as other apostles, and as the brethren of the Lord, and Cephas?"
+        }
+    ],
+    "tone": "hopeful"
+}

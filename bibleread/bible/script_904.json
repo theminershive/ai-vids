@@ -1,0 +1,23 @@
+{
+    "book": "Leviticus",
+    "chapter": "Chapter 18",
+    "verses": [
+        {
+            "name": "Leviticus 18:21",
+            "text": "And thou shalt not let any of thy seed pass through the fire to Molech, neither shalt thou profane the name of thy God: I am the Lord."
+        },
+        {
+            "name": "Leviticus 18:22",
+            "text": "Thou shalt not lie with mankind, as with womankind: it is abomination."
+        },
+        {
+            "name": "Leviticus 18:23",
+            "text": "Neither shalt thou lie with any beast to defile thyself therewith: neither shall any woman stand before a beast to lie down thereto: it is confusion."
+        },
+        {
+            "name": "Leviticus 18:24",
+            "text": "Defile not ye yourselves in any of these things: for in all these the nations are defiled which I cast out before you:"
+        }
+    ],
+    "tone": "lamenting"
+}

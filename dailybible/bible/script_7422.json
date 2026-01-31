@@ -1,0 +1,19 @@
+{
+    "book": "1 Corinthians",
+    "chapter": "Chapter 1",
+    "verses": [
+        {
+            "name": "1 Corinthians 1:10",
+            "text": "Now I beseech you, brethren, by the name of our Lord Jesus Christ, that ye all speak the same thing, and that there be no divisions among you; but that ye be perfectly joined together in the same mind and in the same judgment."
+        },
+        {
+            "name": "1 Corinthians 1:11",
+            "text": "For it hath been declared unto me of you, my brethren, by them which are of the house of Chloe, that there are contentions among you."
+        },
+        {
+            "name": "1 Corinthians 1:12",
+            "text": "Now this I say, that every one of you saith, I am of Paul; and I of Apollos; and I of Cephas; and I of Christ."
+        }
+    ],
+    "tone": "hopeful"
+}

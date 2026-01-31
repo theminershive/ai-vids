@@ -1,0 +1,31 @@
+{
+    "book": "Proverbs",
+    "chapter": "Chapter 4",
+    "verses": [
+        {
+            "name": "Proverbs 4:1",
+            "text": "Hear, ye children, the instruction of a father, and attend to know understanding."
+        },
+        {
+            "name": "Proverbs 4:2",
+            "text": "For I give you good doctrine, forsake ye not my law."
+        },
+        {
+            "name": "Proverbs 4:3",
+            "text": "For I was my father\u2019s son, tender and only beloved in the sight of my mother."
+        },
+        {
+            "name": "Proverbs 4:4",
+            "text": "He taught me also, and said unto me, Let thine heart retain my words: keep my commandments, and live."
+        },
+        {
+            "name": "Proverbs 4:5",
+            "text": "Get wisdom, get understanding: forget it not; neither decline from the words of my mouth."
+        },
+        {
+            "name": "Proverbs 4:6",
+            "text": "Forsake her not, and she shall preserve thee: love her, and she shall keep thee."
+        }
+    ],
+    "tone": "hopeful"
+}

@@ -1,0 +1,19 @@
+{
+    "book": "Luke",
+    "chapter": "Chapter 5",
+    "verses": [
+        {
+            "name": "Luke 5:15",
+            "text": "But so much the more went there a fame abroad of him: and great multitudes came together to hear, and to be healed by him of their infirmities."
+        },
+        {
+            "name": "Luke 5:16",
+            "text": "And he withdrew himself into the wilderness, and prayed."
+        },
+        {
+            "name": "Luke 5:17",
+            "text": "And it came to pass on a certain day, as he was teaching, that there were Pharisees and doctors of the law sitting by, which were come out of every town of Galilee, and Judea, and Jerusalem: and the power of the Lord was present to heal them."
+        }
+    ],
+    "tone": "instructional"
+}

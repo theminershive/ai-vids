@@ -1,0 +1,23 @@
+{
+    "book": "Luke",
+    "chapter": "Chapter 19",
+    "verses": [
+        {
+            "name": "Luke 19:26",
+            "text": "For I say unto you, That unto every one which hath shall be given; and from him that hath not, even that he hath shall be taken away from him."
+        },
+        {
+            "name": "Luke 19:27",
+            "text": "But those mine enemies, which would not that I should reign over them, bring hither, and slay them before me."
+        },
+        {
+            "name": "Luke 19:28",
+            "text": "And when he had thus spoken, he went before, ascending up to Jerusalem."
+        },
+        {
+            "name": "Luke 19:29",
+            "text": "And it came to pass, when he was come nigh to Bethphage and Bethany, at the mount called the mount of Olives, he sent two of his disciples,"
+        }
+    ],
+    "tone": "neutral"
+}

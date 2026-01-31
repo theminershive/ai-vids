@@ -1,0 +1,23 @@
+{
+    "book": "Ecclesiastes",
+    "chapter": "Chapter 11",
+    "verses": [
+        {
+            "name": "Ecclesiastes 11:1",
+            "text": "Cast thy bread upon the waters: for thou shalt find it after many days."
+        },
+        {
+            "name": "Ecclesiastes 11:2",
+            "text": "Give a portion to seven, and also to eight; for thou knowest not what evil shall be upon the earth."
+        },
+        {
+            "name": "Ecclesiastes 11:3",
+            "text": "If the clouds be full of rain, they empty themselves upon the earth: and if the tree fall toward the south, or toward the north, in the place where the tree falleth, there it shall be."
+        },
+        {
+            "name": "Ecclesiastes 11:4",
+            "text": "He that observeth the wind shall not sow; and he that regardeth the clouds shall not reap."
+        }
+    ],
+    "tone": "instructional"
+}

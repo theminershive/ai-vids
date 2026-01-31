@@ -1,0 +1,19 @@
+{
+    "book": "Exodus",
+    "chapter": "Chapter 12",
+    "verses": [
+        {
+            "name": "Exodus 12:4",
+            "text": "And if the household be too little for the lamb, let him and his neighbour next unto his house take it according to the number of the souls; every man according to his eating shall make your count for the lamb."
+        },
+        {
+            "name": "Exodus 12:5",
+            "text": "Your lamb shall be without blemish, a male of the first year: ye shall take it out from the sheep, or from the goats:"
+        },
+        {
+            "name": "Exodus 12:6",
+            "text": "And ye shall keep it up until the fourteenth day of the same month: and the whole assembly of the congregation of Israel shall kill it in the evening."
+        }
+    ],
+    "tone": "neutral"
+}

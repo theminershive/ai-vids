@@ -1,0 +1,23 @@
+{
+    "book": "1 Thessalonians",
+    "chapter": "Chapter 3",
+    "verses": [
+        {
+            "name": "1 Thessalonians 3:5",
+            "text": "For this cause, when I could no longer forbear, I sent to know your faith, lest by some means the tempter have tempted you, and our labour be in vain."
+        },
+        {
+            "name": "1 Thessalonians 3:6",
+            "text": "But now when Timotheus came from you unto us, and brought us good tidings of your faith and charity, and that ye have good remembrance of us always, desiring greatly to see us, as we also to see you:"
+        },
+        {
+            "name": "1 Thessalonians 3:7",
+            "text": "Therefore, brethren, we were comforted over you in all our affliction and distress by your faith:"
+        },
+        {
+            "name": "1 Thessalonians 3:8",
+            "text": "For now we live, if ye stand fast in the Lord."
+        }
+    ],
+    "tone": "hopeful"
+}

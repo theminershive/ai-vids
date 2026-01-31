@@ -1,0 +1,27 @@
+{
+    "book": "Matthew",
+    "chapter": "Chapter 25",
+    "verses": [
+        {
+            "name": "Matthew 25:8",
+            "text": "And the foolish said unto the wise, Give us of your oil; for our lamps are gone out."
+        },
+        {
+            "name": "Matthew 25:9",
+            "text": "But the wise answered, saying, Not so; lest there be not enough for us and you: but go ye rather to them that sell, and buy for yourselves."
+        },
+        {
+            "name": "Matthew 25:10",
+            "text": "And while they went to buy, the bridegroom came; and they that were ready went in with him to the marriage: and the door was shut."
+        },
+        {
+            "name": "Matthew 25:11",
+            "text": "Afterward came also the other virgins, saying, Lord, Lord, open to us."
+        },
+        {
+            "name": "Matthew 25:12",
+            "text": "But he answered and said, Verily I say unto you, I know you not."
+        }
+    ],
+    "tone": "neutral"
+}

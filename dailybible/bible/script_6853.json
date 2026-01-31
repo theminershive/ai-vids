@@ -1,0 +1,23 @@
+{
+    "book": "Luke",
+    "chapter": "Chapter 24",
+    "verses": [
+        {
+            "name": "Luke 24:29",
+            "text": "But they constrained him, saying, Abide with us: for it is toward evening, and the day is far spent. And he went in to tarry with them."
+        },
+        {
+            "name": "Luke 24:30",
+            "text": "And it came to pass, as he sat at meat with them, he took bread, and blessed it, and brake, and gave to them."
+        },
+        {
+            "name": "Luke 24:31",
+            "text": "And their eyes were opened, and they knew him; and he vanished out of their sight."
+        },
+        {
+            "name": "Luke 24:32",
+            "text": "And they said one to another, Did not our heart burn within us, while he talked with us by the way, and while he opened to us the scriptures?"
+        }
+    ],
+    "tone": "neutral"
+}

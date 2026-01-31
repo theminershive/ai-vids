@@ -1,0 +1,19 @@
+{
+    "book": "Leviticus",
+    "chapter": "Chapter 20",
+    "verses": [
+        {
+            "name": "Leviticus 20:1",
+            "text": "And the Lord spake unto Moses, saying,"
+        },
+        {
+            "name": "Leviticus 20:2",
+            "text": "Again, thou shalt say to the children of Israel, Whosoever he be of the children of Israel, or of the strangers that sojourn in Israel, that giveth any of his seed unto Molech; he shall surely be put to death: the people of the land shall stone him with stones."
+        },
+        {
+            "name": "Leviticus 20:3",
+            "text": "And I will set my face against that man, and will cut him off from among his people; because he hath given of his seed unto Molech, to defile my sanctuary, and to profane my holy name."
+        }
+    ],
+    "tone": "neutral"
+}

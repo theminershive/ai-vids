@@ -1,0 +1,19 @@
+{
+    "book": "1 John",
+    "chapter": "Chapter 5",
+    "verses": [
+        {
+            "name": "1 John 5:15",
+            "text": "And if we know that he hear us, whatsoever we ask, we know that we have the petitions that we desired of him."
+        },
+        {
+            "name": "1 John 5:16",
+            "text": "If any man see his brother sin a sin which is not unto death, he shall ask, and he shall give him life for them that sin not unto death. There is a sin unto death: I do not say that he shall pray for it."
+        },
+        {
+            "name": "1 John 5:17",
+            "text": "All unrighteousness is sin: and there is a sin not unto death."
+        }
+    ],
+    "tone": "lamenting"
+}

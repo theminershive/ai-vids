@@ -1,0 +1,19 @@
+{
+    "book": "John",
+    "chapter": "Chapter 8",
+    "verses": [
+        {
+            "name": "John 8:52",
+            "text": "Then said the Jews unto him, Now we know that thou hast a devil. Abraham is dead, and the prophets; and thou sayest, If a man keep my saying, he shall never taste of death."
+        },
+        {
+            "name": "John 8:53",
+            "text": "Art thou greater than our father Abraham, which is dead? and the prophets are dead: whom makest thou thyself?"
+        },
+        {
+            "name": "John 8:54",
+            "text": "Jesus answered, If I honour myself, my honour is nothing: it is my Father that honoureth me; of whom ye say, that he is your God:"
+        }
+    ],
+    "tone": "neutral"
+}

@@ -1,0 +1,19 @@
+{
+    "book": "Deuteronomy",
+    "chapter": "Chapter 1",
+    "verses": [
+        {
+            "name": "Deuteronomy 1:1",
+            "text": "These be the words which Moses spake unto all Israel on this side Jordan in the wilderness, in the plain over against the Red sea, between Paran, and Tophel, and Laban, and Hazeroth, and Dizahab."
+        },
+        {
+            "name": "Deuteronomy 1:2",
+            "text": "(There are eleven days\u2019 journey from Horeb by the way of mount Seir unto Kadesh\u2013barnea.)"
+        },
+        {
+            "name": "Deuteronomy 1:3",
+            "text": "And it came to pass in the fortieth year, in the eleventh month, on the first day of the month, that Moses spake unto the children of Israel, according unto all that the Lord had given him in commandment unto them;"
+        }
+    ],
+    "tone": "neutral"
+}

@@ -1,0 +1,27 @@
+{
+    "book": "Acts",
+    "chapter": "Chapter 7",
+    "verses": [
+        {
+            "name": "Acts 7:14",
+            "text": "Then sent Joseph, and called his father Jacob to him, and all his kindred, threescore and fifteen souls."
+        },
+        {
+            "name": "Acts 7:15",
+            "text": "So Jacob went down into Egypt, and died, he, and our fathers,"
+        },
+        {
+            "name": "Acts 7:16",
+            "text": "And were carried over into Sychem, and laid in the sepulchre that Abraham bought for a sum of money of the sons of Emmor the father of Sychem."
+        },
+        {
+            "name": "Acts 7:17",
+            "text": "But when the time of the promise drew nigh, which God had sworn to Abraham, the people grew and multiplied in Egypt,"
+        },
+        {
+            "name": "Acts 7:18",
+            "text": "Till another king arose, which knew not Joseph."
+        }
+    ],
+    "tone": "neutral"
+}

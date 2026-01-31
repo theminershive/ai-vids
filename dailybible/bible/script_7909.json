@@ -1,0 +1,19 @@
+{
+    "book": "2 Peter",
+    "chapter": "Chapter 2",
+    "verses": [
+        {
+            "name": "2 Peter 2:19",
+            "text": "While they promise them liberty, they themselves are the servants of corruption: for of whom a man is overcome, of the same is he brought in bondage."
+        },
+        {
+            "name": "2 Peter 2:20",
+            "text": "For if after they have escaped the pollutions of the world through the knowledge of the Lord and Saviour Jesus Christ, they are again entangled therein, and overcome, the latter end is worse with them than the beginning."
+        },
+        {
+            "name": "2 Peter 2:21",
+            "text": "For it had been better for them not to have known the way of righteousness, than, after they have known it, to turn from the holy commandment delivered unto them."
+        }
+    ],
+    "tone": "instructional"
+}

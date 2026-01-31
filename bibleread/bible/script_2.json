@@ -1,0 +1,23 @@
+{
+    "book": "Genesis",
+    "chapter": "Chapter 1",
+    "verses": [
+        {
+            "name": "Genesis 1:6",
+            "text": "And God said, Let there be a firmament in the midst of the waters, and let it divide the waters from the waters."
+        },
+        {
+            "name": "Genesis 1:7",
+            "text": "And God made the firmament, and divided the waters which were under the firmament from the waters which were above the firmament: and it was so."
+        },
+        {
+            "name": "Genesis 1:8",
+            "text": "And God called the firmament Heaven. And the evening and the morning were the second day."
+        },
+        {
+            "name": "Genesis 1:9",
+            "text": "And God said, Let the waters under the heaven be gathered together unto one place, and let the dry land appear: and it was so."
+        }
+    ],
+    "tone": "neutral"
+}

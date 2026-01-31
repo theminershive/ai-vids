@@ -1,0 +1,23 @@
+{
+    "book": "Genesis",
+    "chapter": "Chapter 4",
+    "verses": [
+        {
+            "name": "Genesis 4:16",
+            "text": "And Cain went out from the presence of the Lord, and dwelt in the land of Nod, on the east of Eden."
+        },
+        {
+            "name": "Genesis 4:17",
+            "text": "And Cain knew his wife; and she conceived, and bare Enoch: and he builded a city, and called the name of the city, after the name of his son, Enoch."
+        },
+        {
+            "name": "Genesis 4:18",
+            "text": "And unto Enoch was born Irad: and Irad begat Mehujael: and Mehujael begat Methusael: and Methusael begat Lamech."
+        },
+        {
+            "name": "Genesis 4:19",
+            "text": "And Lamech took unto him two wives: the name of the one was Adah, and the name of the other Zillah."
+        }
+    ],
+    "tone": "neutral"
+}

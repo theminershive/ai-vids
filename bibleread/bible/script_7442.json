@@ -1,0 +1,19 @@
+{
+    "book": "1 Corinthians",
+    "chapter": "Chapter 5",
+    "verses": [
+        {
+            "name": "1 Corinthians 5:1",
+            "text": "It is reported commonly that there is fornication among you, and such fornication as is not so much as named among the Gentiles, that one should have his father\u2019s wife."
+        },
+        {
+            "name": "1 Corinthians 5:2",
+            "text": "And ye are puffed up, and have not rather mourned, that he that hath done this deed might be taken away from among you."
+        },
+        {
+            "name": "1 Corinthians 5:3",
+            "text": "For I verily, as absent in body, but present in spirit, have judged already, as though I were present, concerning him that hath so done this deed,"
+        }
+    ],
+    "tone": "hopeful"
+}

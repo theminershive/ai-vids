@@ -1,0 +1,23 @@
+{
+    "book": "Numbers",
+    "chapter": "Chapter 19",
+    "verses": [
+        {
+            "name": "Numbers 19:1",
+            "text": "And the Lord spake unto Moses and unto Aaron, saying,"
+        },
+        {
+            "name": "Numbers 19:2",
+            "text": "This is the ordinance of the law which the Lord hath commanded, saying, Speak unto the children of Israel, that they bring thee a red heifer without spot, wherein is no blemish, and upon which never came yoke:"
+        },
+        {
+            "name": "Numbers 19:3",
+            "text": "And ye shall give her unto Eleazar the priest, that he may bring her forth without the camp, and one shall slay her before his face:"
+        },
+        {
+            "name": "Numbers 19:4",
+            "text": "And Eleazar the priest shall take of her blood with his finger, and sprinkle of her blood directly before the tabernacle of the congregation seven times:"
+        }
+    ],
+    "tone": "instructional"
+}

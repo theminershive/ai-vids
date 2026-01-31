@@ -1,0 +1,19 @@
+{
+    "book": "Mark",
+    "chapter": "Chapter 10",
+    "verses": [
+        {
+            "name": "Mark 10:30",
+            "text": "But he shall receive an hundredfold now in this time, houses, and brethren, and sisters, and mothers, and children, and lands, with persecutions; and in the world to come eternal life."
+        },
+        {
+            "name": "Mark 10:31",
+            "text": "But many that are first shall be last; and the last first."
+        },
+        {
+            "name": "Mark 10:32",
+            "text": "And they were in the way going up to Jerusalem; and Jesus went before them: and they were amazed; and as they followed, they were afraid. And he took again the twelve, and began to tell them what things should happen unto him,"
+        }
+    ],
+    "tone": "hopeful"
+}

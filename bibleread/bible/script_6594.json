@@ -1,0 +1,23 @@
+{
+    "book": "Luke",
+    "chapter": "Chapter 1",
+    "verses": [
+        {
+            "name": "Luke 1:77",
+            "text": "To give knowledge of salvation unto his people by the remission of their sins,"
+        },
+        {
+            "name": "Luke 1:78",
+            "text": "Through the tender mercy of our God; whereby the dayspring from on high hath visited us,"
+        },
+        {
+            "name": "Luke 1:79",
+            "text": "To give light to them that sit in darkness and in the shadow of death, to guide our feet into the way of peace."
+        },
+        {
+            "name": "Luke 1:80",
+            "text": "And the child grew, and waxed strong in spirit, and was in the deserts till the day of his shewing unto Israel. "
+        }
+    ],
+    "tone": "neutral"
+}

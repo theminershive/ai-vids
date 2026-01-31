@@ -1,0 +1,27 @@
+{
+    "book": "2 Corinthians",
+    "chapter": "Chapter 6",
+    "verses": [
+        {
+            "name": "2 Corinthians 6:1",
+            "text": "We then, as workers together with him, beseech you also that ye receive not the grace of God in vain."
+        },
+        {
+            "name": "2 Corinthians 6:2",
+            "text": "(For he saith, I have heard thee in a time accepted, and in the day of salvation have I succoured thee: behold, now is the accepted time; behold, now is the day of salvation.)"
+        },
+        {
+            "name": "2 Corinthians 6:3",
+            "text": "Giving no offence in any thing, that the ministry be not blamed:"
+        },
+        {
+            "name": "2 Corinthians 6:4",
+            "text": "But in all things approving ourselves as the ministers of God, in much patience, in afflictions, in necessities, in distresses,"
+        },
+        {
+            "name": "2 Corinthians 6:5",
+            "text": "In stripes, in imprisonments, in tumults, in labours, in watchings, in fastings;"
+        }
+    ],
+    "tone": "neutral"
+}

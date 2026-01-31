@@ -1,0 +1,27 @@
+{
+    "book": "Job",
+    "chapter": "Chapter 7",
+    "verses": [
+        {
+            "name": "Job 7:5",
+            "text": "My flesh is clothed with worms and clods of dust; my skin is broken, and become loathsome."
+        },
+        {
+            "name": "Job 7:6",
+            "text": "My days are swifter than a weaver\u2019s shuttle, and are spent without hope."
+        },
+        {
+            "name": "Job 7:7",
+            "text": "O remember that my life is wind: mine eye shall no more see good."
+        },
+        {
+            "name": "Job 7:8",
+            "text": "The eye of him that hath seen me shall see me no more: thine eyes are upon me, and I am not."
+        },
+        {
+            "name": "Job 7:9",
+            "text": "As the cloud is consumed and vanisheth away: so he that goeth down to the grave shall come up no more."
+        }
+    ],
+    "tone": "lamenting"
+}

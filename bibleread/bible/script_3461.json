@@ -1,0 +1,23 @@
+{
+    "book": "Ezra",
+    "chapter": "Chapter 8",
+    "verses": [
+        {
+            "name": "Ezra 8:1",
+            "text": "These are now the chief of their fathers, and this is the genealogy of them that went up with me from Babylon, in the reign of Artaxerxes the king."
+        },
+        {
+            "name": "Ezra 8:2",
+            "text": "Of the sons of Phinehas; Gershom: of the sons of Ithamar; Daniel: of the sons of David; Hattush."
+        },
+        {
+            "name": "Ezra 8:3",
+            "text": "Of the sons of Shechaniah, of the sons of Pharosh; Zechariah: and with him were reckoned by genealogy of the males an hundred and fifty."
+        },
+        {
+            "name": "Ezra 8:4",
+            "text": "Of the sons of Pahath\u2013moab; Elihoenai the son of Zerahiah, and with him two hundred males."
+        }
+    ],
+    "tone": "neutral"
+}

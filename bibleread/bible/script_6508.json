@@ -1,0 +1,23 @@
+{
+    "book": "Mark",
+    "chapter": "Chapter 10",
+    "verses": [
+        {
+            "name": "Mark 10:23",
+            "text": "And Jesus looked round about, and saith unto his disciples, How hardly shall they that have riches enter into the kingdom of God!"
+        },
+        {
+            "name": "Mark 10:24",
+            "text": "And the disciples were astonished at his words. But Jesus answereth again, and saith unto them, Children, how hard is it for them that trust in riches to enter into the kingdom of God!"
+        },
+        {
+            "name": "Mark 10:25",
+            "text": "It is easier for a camel to go through the eye of a needle, than for a rich man to enter into the kingdom of God."
+        },
+        {
+            "name": "Mark 10:26",
+            "text": "And they were astonished out of measure, saying among themselves, Who then can be saved?"
+        }
+    ],
+    "tone": "hopeful"
+}

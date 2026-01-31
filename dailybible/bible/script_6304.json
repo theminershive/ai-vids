@@ -1,0 +1,23 @@
+{
+    "book": "Matthew",
+    "chapter": "Chapter 18",
+    "verses": [
+        {
+            "name": "Matthew 18:19",
+            "text": "Again I say unto you, That if two of you shall agree on earth as touching any thing that they shall ask, it shall be done for them of my Father which is in heaven."
+        },
+        {
+            "name": "Matthew 18:20",
+            "text": "For where two or three are gathered together in my name, there am I in the midst of them."
+        },
+        {
+            "name": "Matthew 18:21",
+            "text": "Then came Peter to him, and said, Lord, how oft shall my brother sin against me, and I forgive him? till seven times?"
+        },
+        {
+            "name": "Matthew 18:22",
+            "text": "Jesus saith unto him, I say not unto thee, Until seven times: but, Until seventy times seven."
+        }
+    ],
+    "tone": "lamenting"
+}

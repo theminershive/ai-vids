@@ -1,0 +1,31 @@
+{
+    "book": "Titus",
+    "chapter": "Chapter 2",
+    "verses": [
+        {
+            "name": "Titus 2:1",
+            "text": "But speak thou the things which become sound doctrine:"
+        },
+        {
+            "name": "Titus 2:2",
+            "text": "That the aged men be sober, grave, temperate, sound in faith, in charity, in patience."
+        },
+        {
+            "name": "Titus 2:3",
+            "text": "The aged women likewise, that they be in behaviour as becometh holiness, not false accusers, not given to much wine, teachers of good things;"
+        },
+        {
+            "name": "Titus 2:4",
+            "text": "That they may teach the young women to be sober, to love their husbands, to love their children,"
+        },
+        {
+            "name": "Titus 2:5",
+            "text": "To be discreet, chaste, keepers at home, good, obedient to their own husbands, that the word of God be not blasphemed."
+        },
+        {
+            "name": "Titus 2:6",
+            "text": "Young men likewise exhort to be sober minded."
+        }
+    ],
+    "tone": "hopeful"
+}

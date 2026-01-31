@@ -1,0 +1,27 @@
+{
+    "book": "Luke",
+    "chapter": "Chapter 22",
+    "verses": [
+        {
+            "name": "Luke 22:29",
+            "text": "And I appoint unto you a kingdom, as my Father hath appointed unto me;"
+        },
+        {
+            "name": "Luke 22:30",
+            "text": "That ye may eat and drink at my table in my kingdom, and sit on thrones judging the twelve tribes of Israel."
+        },
+        {
+            "name": "Luke 22:31",
+            "text": "And the Lord said, Simon, Simon, behold, Satan hath desired to have you, that he may sift you as wheat:"
+        },
+        {
+            "name": "Luke 22:32",
+            "text": "But I have prayed for thee, that thy faith fail not: and when thou art converted, strengthen thy brethren."
+        },
+        {
+            "name": "Luke 22:33",
+            "text": "And he said unto him, Lord, I am ready to go with thee, both into prison, and to death."
+        }
+    ],
+    "tone": "neutral"
+}

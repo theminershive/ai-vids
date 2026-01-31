@@ -1,0 +1,23 @@
+{
+    "book": "Luke",
+    "chapter": "Chapter 8",
+    "verses": [
+        {
+            "name": "Luke 8:19",
+            "text": "Then came to him his mother and his brethren, and could not come at him for the press."
+        },
+        {
+            "name": "Luke 8:20",
+            "text": "And it was told him by certain which said, Thy mother and thy brethren stand without, desiring to see thee."
+        },
+        {
+            "name": "Luke 8:21",
+            "text": "And he answered and said unto them, My mother and my brethren are these which hear the word of God, and do it."
+        },
+        {
+            "name": "Luke 8:22",
+            "text": "Now it came to pass on a certain day, that he went into a ship with his disciples: and he said unto them, Let us go over unto the other side of the lake. And they launched forth."
+        }
+    ],
+    "tone": "neutral"
+}

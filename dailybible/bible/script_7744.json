@@ -1,0 +1,31 @@
+{
+    "book": "1 Timothy",
+    "chapter": "Chapter 6",
+    "verses": [
+        {
+            "name": "1 Timothy 6:4",
+            "text": "He is proud, knowing nothing, but doting about questions and strifes of words, whereof cometh envy, strife, railings, evil surmisings,"
+        },
+        {
+            "name": "1 Timothy 6:5",
+            "text": "Perverse disputings of men of corrupt minds, and destitute of the truth, supposing that gain is godliness: from such withdraw thyself."
+        },
+        {
+            "name": "1 Timothy 6:6",
+            "text": "But godliness with contentment is great gain."
+        },
+        {
+            "name": "1 Timothy 6:7",
+            "text": "For we brought nothing into this world, and it is certain we can carry nothing out."
+        },
+        {
+            "name": "1 Timothy 6:8",
+            "text": "And having food and raiment let us be therewith content."
+        },
+        {
+            "name": "1 Timothy 6:9",
+            "text": "But they that will be rich fall into temptation and a snare, and into many foolish and hurtful lusts, which drown men in destruction and perdition."
+        }
+    ],
+    "tone": "instructional"
+}

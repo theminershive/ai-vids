@@ -1,0 +1,27 @@
+{
+    "book": "Matthew",
+    "chapter": "Chapter 14",
+    "verses": [
+        {
+            "name": "Matthew 14:1",
+            "text": "At that time Herod the tetrarch heard of the fame of Jesus,"
+        },
+        {
+            "name": "Matthew 14:2",
+            "text": "And said unto his servants, This is John the Baptist; he is risen from the dead; and therefore mighty works do shew forth themselves in him."
+        },
+        {
+            "name": "Matthew 14:3",
+            "text": "For Herod had laid hold on John, and bound him, and put him in prison for Herodias\u2019 sake, his brother Philip\u2019s wife."
+        },
+        {
+            "name": "Matthew 14:4",
+            "text": "For John said unto him, It is not lawful for thee to have her."
+        },
+        {
+            "name": "Matthew 14:5",
+            "text": "And when he would have put him to death, he feared the multitude, because they counted him as a prophet."
+        }
+    ],
+    "tone": "neutral"
+}

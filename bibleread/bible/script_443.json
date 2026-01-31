@@ -1,0 +1,23 @@
+{
+    "book": "Exodus",
+    "chapter": "Chapter 6",
+    "verses": [
+        {
+            "name": "Exodus 6:16",
+            "text": "And these are the names of the sons of Levi according to their generations; Gershon, and Kohath, and Merari: and the years of the life of Levi were an hundred thirty and seven years."
+        },
+        {
+            "name": "Exodus 6:17",
+            "text": "The sons of Gershon; Libni, and Shimi, according to their families."
+        },
+        {
+            "name": "Exodus 6:18",
+            "text": "And the sons of Kohath; Amram, and Izhar, and Hebron, and Uzziel: and the years of the life of Kohath were an hundred thirty and three years."
+        },
+        {
+            "name": "Exodus 6:19",
+            "text": "And the sons of Merari; Mahali and Mushi: these are the families of Levi according to their generations."
+        }
+    ],
+    "tone": "neutral"
+}

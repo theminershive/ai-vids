@@ -1,0 +1,19 @@
+{
+    "book": "Exodus",
+    "chapter": "Chapter 25",
+    "verses": [
+        {
+            "name": "Exodus 25:8",
+            "text": "And let them make me a sanctuary; that I may dwell among them."
+        },
+        {
+            "name": "Exodus 25:9",
+            "text": "According to all that I shew thee, after the pattern of the tabernacle, and the pattern of all the instruments thereof, even so shall ye make it."
+        },
+        {
+            "name": "Exodus 25:10",
+            "text": "And they shall make an ark of shittim wood: two cubits and a half shall be the length thereof, and a cubit and a half the breadth thereof, and a cubit and a half the height thereof."
+        }
+    ],
+    "tone": "neutral"
+}

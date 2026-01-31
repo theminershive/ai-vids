@@ -1,0 +1,23 @@
+{
+    "book": "Psalms",
+    "chapter": "Chapter 69",
+    "verses": [
+        {
+            "name": "Psalms 69:1",
+            "text": "Save me, O God; for the waters are come in unto my soul."
+        },
+        {
+            "name": "Psalms 69:2",
+            "text": "I sink in deep mire, where there is no standing: I am come into deep waters, where the floods overflow me."
+        },
+        {
+            "name": "Psalms 69:3",
+            "text": "I am weary of my crying: my throat is dried: mine eyes fail while I wait for my God."
+        },
+        {
+            "name": "Psalms 69:4",
+            "text": "They that hate me without a cause are more than the hairs of mine head: they that would destroy me, being mine enemies wrongfully, are mighty: then I restored that which I took not away."
+        }
+    ],
+    "tone": "lamenting"
+}

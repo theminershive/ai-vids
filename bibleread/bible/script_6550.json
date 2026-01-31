@@ -1,0 +1,19 @@
+{
+    "book": "Mark",
+    "chapter": "Chapter 14",
+    "verses": [
+        {
+            "name": "Mark 14:20",
+            "text": "And he answered and said unto them, It is one of the twelve, that dippeth with me in the dish."
+        },
+        {
+            "name": "Mark 14:21",
+            "text": "The Son of man indeed goeth, as it is written of him: but woe to that man by whom the Son of man is betrayed! good were it for that man if he had never been born."
+        },
+        {
+            "name": "Mark 14:22",
+            "text": "And as they did eat, Jesus took bread, and blessed, and brake it, and gave to them, and said, Take, eat: this is my body."
+        }
+    ],
+    "tone": "lamenting"
+}

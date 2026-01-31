@@ -1,0 +1,19 @@
+{
+    "book": "John",
+    "chapter": "Chapter 19",
+    "verses": [
+        {
+            "name": "John 19:29",
+            "text": "Now there was set a vessel full of vinegar: and they filled a spunge with vinegar, and put it upon hyssop, and put it to his mouth."
+        },
+        {
+            "name": "John 19:30",
+            "text": "When Jesus therefore had received the vinegar, he said, It is finished: and he bowed his head, and gave up the ghost."
+        },
+        {
+            "name": "John 19:31",
+            "text": "The Jews therefore, because it was the preparation, that the bodies should not remain upon the cross on the sabbath day, (for that sabbath day was an high day,) besought Pilate that their legs might be broken, and that they might be taken away."
+        }
+    ],
+    "tone": "neutral"
+}

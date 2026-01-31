@@ -1,0 +1,23 @@
+{
+    "book": "Matthew",
+    "chapter": "Chapter 20",
+    "verses": [
+        {
+            "name": "Matthew 20:10",
+            "text": "But when the first came, they supposed that they should have received more; and they likewise received every man a penny."
+        },
+        {
+            "name": "Matthew 20:11",
+            "text": "And when they had received it, they murmured against the goodman of the house,"
+        },
+        {
+            "name": "Matthew 20:12",
+            "text": "Saying, These last have wrought but one hour, and thou hast made them equal unto us, which have borne the burden and heat of the day."
+        },
+        {
+            "name": "Matthew 20:13",
+            "text": "But he answered one of them, and said, Friend, I do thee no wrong: didst not thou agree with me for a penny?"
+        }
+    ],
+    "tone": "lamenting"
+}

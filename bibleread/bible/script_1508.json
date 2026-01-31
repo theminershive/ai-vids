@@ -1,0 +1,15 @@
+{
+    "book": "Deuteronomy",
+    "chapter": "Chapter 22",
+    "verses": [
+        {
+            "name": "Deuteronomy 22:1",
+            "text": "Thou shalt not see thy brother\u2019s ox or his sheep go astray, and hide thyself from them: thou shalt in any case bring them again unto thy brother."
+        },
+        {
+            "name": "Deuteronomy 22:2",
+            "text": "And if thy brother be not nigh unto thee, or if thou know him not, then thou shalt bring it unto thine own house, and it shall be with thee until thy brother seek after it, and thou shalt restore it to him again."
+        }
+    ],
+    "tone": "neutral"
+}

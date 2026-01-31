@@ -1,0 +1,19 @@
+{
+    "book": "Daniel",
+    "chapter": "Chapter 2",
+    "verses": [
+        {
+            "name": "Daniel 2:7",
+            "text": "They answered again and said, Let the king tell his servants the dream, and we will shew the interpretation of it."
+        },
+        {
+            "name": "Daniel 2:8",
+            "text": "The king answered and said, I know of certainty that ye would gain the time, because ye see the thing is gone from me."
+        },
+        {
+            "name": "Daniel 2:9",
+            "text": "But if ye will not make known unto me the dream, there is but one decree for you: for ye have prepared lying and corrupt words to speak before me, till the time be changed: therefore tell me the dream, and I shall know that ye can shew me the interpretation thereof."
+        }
+    ],
+    "tone": "neutral"
+}

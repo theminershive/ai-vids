@@ -1,0 +1,23 @@
+{
+    "book": "James",
+    "chapter": "Chapter 5",
+    "verses": [
+        {
+            "name": "James 5:5",
+            "text": "Ye have lived in pleasure on the earth, and been wanton; ye have nourished your hearts, as in a day of slaughter."
+        },
+        {
+            "name": "James 5:6",
+            "text": "Ye have condemned and killed the just; and he doth not resist you."
+        },
+        {
+            "name": "James 5:7",
+            "text": "Be patient therefore, brethren, unto the coming of the Lord. Behold, the husbandman waiteth for the precious fruit of the earth, and hath long patience for it, until he receive the early and latter rain."
+        },
+        {
+            "name": "James 5:8",
+            "text": "Be ye also patient; stablish your hearts: for the coming of the Lord draweth nigh."
+        }
+    ],
+    "tone": "neutral"
+}

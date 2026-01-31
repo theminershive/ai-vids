@@ -1,0 +1,19 @@
+{
+    "book": "Exodus",
+    "chapter": "Chapter 23",
+    "verses": [
+        {
+            "name": "Exodus 23:13",
+            "text": "And in all things that I have said unto you be circumspect: and make no mention of the name of other gods, neither let it be heard out of thy mouth."
+        },
+        {
+            "name": "Exodus 23:14",
+            "text": "Three times thou shalt keep a feast unto me in the year."
+        },
+        {
+            "name": "Exodus 23:15",
+            "text": "Thou shalt keep the feast of unleavened bread: (thou shalt eat unleavened bread seven days, as I commanded thee, in the time appointed of the month Abib; for in it thou camest out from Egypt: and none shall appear before me empty:)"
+        }
+    ],
+    "tone": "neutral"
+}

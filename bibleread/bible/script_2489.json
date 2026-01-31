@@ -1,0 +1,19 @@
+{
+    "book": "1 Kings",
+    "chapter": "Chapter 1",
+    "verses": [
+        {
+            "name": "1 Kings 1:27",
+            "text": "Is this thing done by my lord the king, and thou hast not shewed it unto thy servant, who should sit on the throne of my lord the king after him?"
+        },
+        {
+            "name": "1 Kings 1:28",
+            "text": "Then king David answered and said, Call me Bath\u2013sheba. And she came into the king\u2019s presence, and stood before the king."
+        },
+        {
+            "name": "1 Kings 1:29",
+            "text": "And the king sware, and said, As the Lord liveth, that hath redeemed my soul out of all distress,"
+        }
+    ],
+    "tone": "neutral"
+}

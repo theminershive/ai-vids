@@ -1,0 +1,27 @@
+{
+    "book": "Romans",
+    "chapter": "Chapter 4",
+    "verses": [
+        {
+            "name": "Romans 4:18",
+            "text": "Who against hope believed in hope, that he might become the father of many nations; according to that which was spoken, So shall thy seed be."
+        },
+        {
+            "name": "Romans 4:19",
+            "text": "And being not weak in faith, he considered not his own body now dead, when he was about an hundred years old, neither yet the deadness of Sara\u2019s womb:"
+        },
+        {
+            "name": "Romans 4:20",
+            "text": "He staggered not at the promise of God through unbelief; but was strong in faith, giving glory to God;"
+        },
+        {
+            "name": "Romans 4:21",
+            "text": "And being fully persuaded that, what he had promised, he was able also to perform."
+        },
+        {
+            "name": "Romans 4:22",
+            "text": "And therefore it was imputed to him for righteousness."
+        }
+    ],
+    "tone": "hopeful"
+}

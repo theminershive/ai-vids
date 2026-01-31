@@ -1,0 +1,19 @@
+{
+    "book": "2 Kings",
+    "chapter": "Chapter 5",
+    "verses": [
+        {
+            "name": "2 Kings 5:8",
+            "text": "And it was so, when Elisha the man of God had heard that the king of Israel had rent his clothes, that he sent to the king, saying, Wherefore hast thou rent thy clothes? let him come now to me, and he shall know that there is a prophet in Israel."
+        },
+        {
+            "name": "2 Kings 5:9",
+            "text": "So Naaman came with his horses and with his chariot, and stood at the door of the house of Elisha."
+        },
+        {
+            "name": "2 Kings 5:10",
+            "text": "And Elisha sent a messenger unto him, saying, Go and wash in Jordan seven times, and thy flesh shall come again to thee, and thou shalt be clean."
+        }
+    ],
+    "tone": "neutral"
+}

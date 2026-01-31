@@ -1,0 +1,23 @@
+{
+    "book": "2 Corinthians",
+    "chapter": "Chapter 5",
+    "verses": [
+        {
+            "name": "2 Corinthians 5:13",
+            "text": "For whether we be beside ourselves, it is to God: or whether we be sober, it is for your cause."
+        },
+        {
+            "name": "2 Corinthians 5:14",
+            "text": "For the love of Christ constraineth us; because we thus judge, that if one died for all, then were all dead:"
+        },
+        {
+            "name": "2 Corinthians 5:15",
+            "text": "And that he died for all, that they which live should not henceforth live unto themselves, but unto him which died for them, and rose again."
+        },
+        {
+            "name": "2 Corinthians 5:16",
+            "text": "Wherefore henceforth know we no man after the flesh: yea, though we have known Christ after the flesh, yet now henceforth know we him no more."
+        }
+    ],
+    "tone": "hopeful"
+}

@@ -1,0 +1,19 @@
+{
+    "book": "Luke",
+    "chapter": "Chapter 8",
+    "verses": [
+        {
+            "name": "Luke 8:32",
+            "text": "And there was there an herd of many swine feeding on the mountain: and they besought him that he would suffer them to enter into them. And he suffered them."
+        },
+        {
+            "name": "Luke 8:33",
+            "text": "Then went the devils out of the man, and entered into the swine: and the herd ran violently down a steep place into the lake, and were choked."
+        },
+        {
+            "name": "Luke 8:34",
+            "text": "When they that fed them saw what was done, they fled, and went and told it in the city and in the country."
+        }
+    ],
+    "tone": "neutral"
+}

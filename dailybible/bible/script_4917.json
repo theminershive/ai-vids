@@ -1,0 +1,23 @@
+{
+    "book": "Jeremiah",
+    "chapter": "Chapter 4",
+    "verses": [
+        {
+            "name": "Jeremiah 4:24",
+            "text": "I beheld the mountains, and, lo, they trembled, and all the hills moved lightly."
+        },
+        {
+            "name": "Jeremiah 4:25",
+            "text": "I beheld, and, lo, there was no man, and all the birds of the heavens were fled."
+        },
+        {
+            "name": "Jeremiah 4:26",
+            "text": "I beheld, and, lo, the fruitful place was a wilderness, and all the cities thereof were broken down at the presence of the Lord, and by his fierce anger."
+        },
+        {
+            "name": "Jeremiah 4:27",
+            "text": "For thus hath the Lord said, The whole land shall be desolate; yet will I not make a full end."
+        }
+    ],
+    "tone": "neutral"
+}

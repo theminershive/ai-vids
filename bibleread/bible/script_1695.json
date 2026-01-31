@@ -1,0 +1,19 @@
+{
+    "book": "Joshua",
+    "chapter": "Chapter 9",
+    "verses": [
+        {
+            "name": "Joshua 9:7",
+            "text": "And the men of Israel said unto the Hivites, Peradventure ye dwell among us; and how shall we make a league with you?"
+        },
+        {
+            "name": "Joshua 9:8",
+            "text": "And they said unto Joshua, We are thy servants. And Joshua said unto them, Who are ye? and from whence come ye?"
+        },
+        {
+            "name": "Joshua 9:9",
+            "text": "And they said unto him, From a very far country thy servants are come because of the name of the Lord thy God: for we have heard the fame of him, and all that he did in Egypt,"
+        }
+    ],
+    "tone": "neutral"
+}

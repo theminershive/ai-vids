@@ -1,0 +1,23 @@
+{
+    "book": "Acts",
+    "chapter": "Chapter 16",
+    "verses": [
+        {
+            "name": "Acts 16:9",
+            "text": "And a vision appeared to Paul in the night; There stood a man of Macedonia, and prayed him, saying, Come over into Macedonia, and help us."
+        },
+        {
+            "name": "Acts 16:10",
+            "text": "And after he had seen the vision, immediately we endeavoured to go into Macedonia, assuredly gathering that the Lord had called us for to preach the gospel unto them."
+        },
+        {
+            "name": "Acts 16:11",
+            "text": "Therefore loosing from Troas, we came with a straight course to Samothracia, and the next day to Neapolis;"
+        },
+        {
+            "name": "Acts 16:12",
+            "text": "And from thence to Philippi, which is the chief city of that part of Macedonia, and a colony: and we were in that city abiding certain days."
+        }
+    ],
+    "tone": "neutral"
+}

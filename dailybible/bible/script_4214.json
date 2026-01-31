@@ -1,0 +1,23 @@
+{
+    "book": "Psalms",
+    "chapter": "Chapter 127",
+    "verses": [
+        {
+            "name": "Psalms 127:1",
+            "text": "Except the Lord build the house, they labour in vain that build it: except the Lord keep the city, the watchman waketh but in vain."
+        },
+        {
+            "name": "Psalms 127:2",
+            "text": "It is vain for you to rise up early, to sit up late, to eat the bread of sorrows: for so he giveth his beloved sleep."
+        },
+        {
+            "name": "Psalms 127:3",
+            "text": "Lo, children are an heritage of the Lord: and the fruit of the womb is his reward."
+        },
+        {
+            "name": "Psalms 127:4",
+            "text": "As arrows are in the hand of a mighty man; so are children of the youth."
+        }
+    ],
+    "tone": "hopeful"
+}

@@ -1,0 +1,19 @@
+{
+    "book": "2 Samuel",
+    "chapter": "Chapter 2",
+    "verses": [
+        {
+            "name": "2 Samuel 2:11",
+            "text": "And the time that David was king in Hebron over the house of Judah was seven years and six months."
+        },
+        {
+            "name": "2 Samuel 2:12",
+            "text": "And Abner the son of Ner, and the servants of Ish\u2013bosheth the son of Saul, went out from Mahanaim to Gibeon."
+        },
+        {
+            "name": "2 Samuel 2:13",
+            "text": "And Joab the son of Zeruiah, and the servants of David, went out, and met together by the pool of Gibeon: and they sat down, the one on the one side of the pool, and the other on the other side of the pool."
+        }
+    ],
+    "tone": "neutral"
+}

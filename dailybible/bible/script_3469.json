@@ -1,0 +1,19 @@
+{
+    "book": "Ezra",
+    "chapter": "Chapter 8",
+    "verses": [
+        {
+            "name": "Ezra 8:28",
+            "text": "And I said unto them, Ye are holy unto the Lord; the vessels are holy also; and the silver and the gold are a freewill offering unto the Lord God of your fathers."
+        },
+        {
+            "name": "Ezra 8:29",
+            "text": "Watch ye, and keep them, until ye weigh them before the chief of the priests and the Levites, and chief of the fathers of Israel, at Jerusalem, in the chambers of the house of the Lord."
+        },
+        {
+            "name": "Ezra 8:30",
+            "text": "So took the priests and the Levites the weight of the silver, and the gold, and the vessels, to bring them to Jerusalem unto the house of our God."
+        }
+    ],
+    "tone": "instructional"
+}

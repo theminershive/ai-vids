@@ -1,0 +1,27 @@
+{
+    "book": "Mark",
+    "chapter": "Chapter 15",
+    "verses": [
+        {
+            "name": "Mark 15:12",
+            "text": "And Pilate answered and said again unto them, What will ye then that I shall do unto him whom ye call the King of the Jews?"
+        },
+        {
+            "name": "Mark 15:13",
+            "text": "And they cried out again, Crucify him."
+        },
+        {
+            "name": "Mark 15:14",
+            "text": "Then Pilate said unto them, Why, what evil hath he done? And they cried out the more exceedingly, Crucify him."
+        },
+        {
+            "name": "Mark 15:15",
+            "text": "And so Pilate, willing to content the people, released Barabbas unto them, and delivered Jesus, when he had scourged him, to be crucified."
+        },
+        {
+            "name": "Mark 15:16",
+            "text": "And the soldiers led him away into the hall, called Pretorium; and they call together the whole band."
+        }
+    ],
+    "tone": "neutral"
+}

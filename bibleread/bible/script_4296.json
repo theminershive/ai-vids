@@ -1,0 +1,31 @@
+{
+    "book": "Proverbs",
+    "chapter": "Chapter 9",
+    "verses": [
+        {
+            "name": "Proverbs 9:1",
+            "text": "Wisdom hath builded her house, she hath hewn out her seven pillars:"
+        },
+        {
+            "name": "Proverbs 9:2",
+            "text": "She hath killed her beasts; she hath mingled her wine; she hath also furnished her table."
+        },
+        {
+            "name": "Proverbs 9:3",
+            "text": "She hath sent forth her maidens: she crieth upon the highest places of the city,"
+        },
+        {
+            "name": "Proverbs 9:4",
+            "text": "Whoso is simple, let him turn in hither: as for him that wanteth understanding, she saith to him,"
+        },
+        {
+            "name": "Proverbs 9:5",
+            "text": "Come, eat of my bread, and drink of the wine which I have mingled."
+        },
+        {
+            "name": "Proverbs 9:6",
+            "text": "Forsake the foolish, and live; and go in the way of understanding."
+        }
+    ],
+    "tone": "instructional"
+}

@@ -1,0 +1,23 @@
+{
+    "book": "Matthew",
+    "chapter": "Chapter 8",
+    "verses": [
+        {
+            "name": "Matthew 8:13",
+            "text": "And Jesus said unto the centurion, Go thy way; and as thou hast believed, so be it done unto thee. And his servant was healed in the selfsame hour."
+        },
+        {
+            "name": "Matthew 8:14",
+            "text": "And when Jesus was come into Peter\u2019s house, he saw his wife\u2019s mother laid, and sick of a fever."
+        },
+        {
+            "name": "Matthew 8:15",
+            "text": "And he touched her hand, and the fever left her: and she arose, and ministered unto them."
+        },
+        {
+            "name": "Matthew 8:16",
+            "text": "When the even was come, they brought unto him many that were possessed with devils: and he cast out the spirits with his word, and healed all that were sick:"
+        }
+    ],
+    "tone": "neutral"
+}

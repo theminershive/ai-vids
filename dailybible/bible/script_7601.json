@@ -1,0 +1,19 @@
+{
+    "book": "Galatians",
+    "chapter": "Chapter 3",
+    "verses": [
+        {
+            "name": "Galatians 3:16",
+            "text": "Now to Abraham and his seed were the promises made. He saith not, And to seeds, as of many; but as of one, And to thy seed, which is Christ."
+        },
+        {
+            "name": "Galatians 3:17",
+            "text": "And this I say, that the covenant, that was confirmed before of God in Christ, the law, which was four hundred and thirty years after, cannot disannul, that it should make the promise of none effect."
+        },
+        {
+            "name": "Galatians 3:18",
+            "text": "For if the inheritance be of the law, it is no more of promise: but God gave it to Abraham by promise."
+        }
+    ],
+    "tone": "hopeful"
+}

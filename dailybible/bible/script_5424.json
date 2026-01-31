@@ -1,0 +1,19 @@
+{
+    "book": "Ezekiel",
+    "chapter": "Chapter 12",
+    "verses": [
+        {
+            "name": "Ezekiel 12:22",
+            "text": "Son of man, what is that proverb that ye have in the land of Israel, saying, The days are prolonged, and every vision faileth?"
+        },
+        {
+            "name": "Ezekiel 12:23",
+            "text": "Tell them therefore, Thus saith the Lord God; I will make this proverb to cease, and they shall no more use it as a proverb in Israel; but say unto them, The days are at hand, and the effect of every vision."
+        },
+        {
+            "name": "Ezekiel 12:24",
+            "text": "For there shall be no more any vain vision nor flattering divination within the house of Israel."
+        }
+    ],
+    "tone": "neutral"
+}

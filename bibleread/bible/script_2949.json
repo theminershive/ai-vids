@@ -1,0 +1,19 @@
+{
+    "book": "2 Kings",
+    "chapter": "Chapter 25",
+    "verses": [
+        {
+            "name": "2 Kings 25:1",
+            "text": "And it came to pass in the ninth year of his reign, in the tenth month, in the tenth day of the month, that Nebuchadnezzar king of Babylon came, he, and all his host, against Jerusalem, and pitched against it; and they built forts against it round about."
+        },
+        {
+            "name": "2 Kings 25:2",
+            "text": "And the city was besieged unto the eleventh year of king Zedekiah."
+        },
+        {
+            "name": "2 Kings 25:3",
+            "text": "And on the ninth day of the fourth month the famine prevailed in the city, and there was no bread for the people of the land."
+        }
+    ],
+    "tone": "neutral"
+}

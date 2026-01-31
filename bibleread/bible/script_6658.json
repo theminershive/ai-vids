@@ -1,0 +1,19 @@
+{
+    "book": "Luke",
+    "chapter": "Chapter 7",
+    "verses": [
+        {
+            "name": "Luke 7:20",
+            "text": "When the men were come unto him, they said, John Baptist hath sent us unto thee, saying, Art thou he that should come? or look we for another?"
+        },
+        {
+            "name": "Luke 7:21",
+            "text": "And in that same hour he cured many of their infirmities and plagues, and of evil spirits; and unto many that were blind he gave sight."
+        },
+        {
+            "name": "Luke 7:22",
+            "text": "Then Jesus answering said unto them, Go your way, and tell John what things ye have seen and heard; how that the blind see, the lame walk, the lepers are cleansed, the deaf hear, the dead are raised, to the poor the gospel is preached."
+        }
+    ],
+    "tone": "instructional"
+}

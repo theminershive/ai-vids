@@ -1,0 +1,27 @@
+{
+    "book": "Amos",
+    "chapter": "Chapter 5",
+    "verses": [
+        {
+            "name": "Amos 5:21",
+            "text": "I hate, I despise your feast days, and I will not smell in your solemn assemblies."
+        },
+        {
+            "name": "Amos 5:22",
+            "text": "Though ye offer me burnt offerings and your meat offerings, I will not accept them: neither will I regard the peace offerings of your fat beasts."
+        },
+        {
+            "name": "Amos 5:23",
+            "text": "Take thou away from me the noise of thy songs; for I will not hear the melody of thy viols."
+        },
+        {
+            "name": "Amos 5:24",
+            "text": "But let judgment run down as waters, and righteousness as a mighty stream."
+        },
+        {
+            "name": "Amos 5:25",
+            "text": "Have ye offered unto me sacrifices and offerings in the wilderness forty years, O house of Israel?"
+        }
+    ],
+    "tone": "hopeful"
+}

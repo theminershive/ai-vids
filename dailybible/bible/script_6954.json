@@ -1,0 +1,27 @@
+{
+    "book": "John",
+    "chapter": "Chapter 9",
+    "verses": [
+        {
+            "name": "John 9:34",
+            "text": "They answered and said unto him, Thou wast altogether born in sins, and dost thou teach us? And they cast him out."
+        },
+        {
+            "name": "John 9:35",
+            "text": "Jesus heard that they had cast him out; and when he had found him, he said unto him, Dost thou believe on the Son of God?"
+        },
+        {
+            "name": "John 9:36",
+            "text": "He answered and said, Who is he, Lord, that I might believe on him?"
+        },
+        {
+            "name": "John 9:37",
+            "text": "And Jesus said unto him, Thou hast both seen him, and it is he that talketh with thee."
+        },
+        {
+            "name": "John 9:38",
+            "text": "And he said, Lord, I believe. And he worshipped him."
+        }
+    ],
+    "tone": "neutral"
+}

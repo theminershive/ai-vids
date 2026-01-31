@@ -1,0 +1,23 @@
+{
+    "book": "Job",
+    "chapter": "Chapter 2",
+    "verses": [
+        {
+            "name": "Job 2:6",
+            "text": "And the Lord said unto Satan, Behold, he is in thine hand; but save his life."
+        },
+        {
+            "name": "Job 2:7",
+            "text": "So went Satan forth from the presence of the Lord, and smote Job with sore boils from the sole of his foot unto his crown."
+        },
+        {
+            "name": "Job 2:8",
+            "text": "And he took him a potsherd to scrape himself withal; and he sat down among the ashes."
+        },
+        {
+            "name": "Job 2:9",
+            "text": "Then said his wife unto him, Dost thou still retain thine integrity? curse God, and die."
+        }
+    ],
+    "tone": "neutral"
+}

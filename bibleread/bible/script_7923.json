@@ -1,0 +1,19 @@
+{
+    "book": "1 John",
+    "chapter": "Chapter 2",
+    "verses": [
+        {
+            "name": "1 John 2:27",
+            "text": "But the anointing which ye have received of him abideth in you, and ye need not that any man teach you: but as the same anointing teacheth you of all things, and is truth, and is no lie, and even as it hath taught you, ye shall abide in him."
+        },
+        {
+            "name": "1 John 2:28",
+            "text": "And now, little children, abide in him; that, when he shall appear, we may have confidence, and not be ashamed before him at his coming."
+        },
+        {
+            "name": "1 John 2:29",
+            "text": "If ye know that he is righteous, ye know that every one that doeth righteousness is born of him. "
+        }
+    ],
+    "tone": "instructional"
+}

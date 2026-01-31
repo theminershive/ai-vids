@@ -1,0 +1,19 @@
+{
+    "book": "Joshua",
+    "chapter": "Chapter 13",
+    "verses": [
+        {
+            "name": "Joshua 13:1",
+            "text": "Now Joshua was old and stricken in years; and the Lord said unto him, Thou art old and stricken in years, and there remaineth yet very much land to be possessed."
+        },
+        {
+            "name": "Joshua 13:2",
+            "text": "This is the land that yet remaineth: all the borders of the Philistines, and all Geshuri,"
+        },
+        {
+            "name": "Joshua 13:3",
+            "text": "From Sihor, which is before Egypt, even unto the borders of Ekron northward, which is counted to the Canaanite: five lords of the Philistines; the Gazathites, and the Ashdothites, the Eshkalonites, the Gittites, and the Ekronites; also the Avites:"
+        }
+    ],
+    "tone": "neutral"
+}

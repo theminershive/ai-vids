@@ -1,0 +1,19 @@
+{
+    "book": "1 Peter",
+    "chapter": "Chapter 2",
+    "verses": [
+        {
+            "name": "1 Peter 2:9",
+            "text": "But ye are a chosen generation, a royal priesthood, an holy nation, a peculiar people; that ye should shew forth the praises of him who hath called you out of darkness into his marvellous light:"
+        },
+        {
+            "name": "1 Peter 2:10",
+            "text": "Which in time past were not a people, but are now the people of God: which had not obtained mercy, but now have obtained mercy."
+        },
+        {
+            "name": "1 Peter 2:11",
+            "text": "Dearly beloved, I beseech you as strangers and pilgrims, abstain from fleshly lusts, which war against the soul;"
+        }
+    ],
+    "tone": "instructional"
+}

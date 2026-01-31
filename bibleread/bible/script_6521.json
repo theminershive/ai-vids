@@ -1,0 +1,23 @@
+{
+    "book": "Mark",
+    "chapter": "Chapter 11",
+    "verses": [
+        {
+            "name": "Mark 11:16",
+            "text": "And would not suffer that any man should carry any vessel through the temple."
+        },
+        {
+            "name": "Mark 11:17",
+            "text": "And he taught, saying unto them, Is it not written, My house shall be called of all nations the house of prayer? but ye have made it a den of thieves."
+        },
+        {
+            "name": "Mark 11:18",
+            "text": "And the scribes and chief priests heard it, and sought how they might destroy him: for they feared him, because all the people was astonished at his doctrine."
+        },
+        {
+            "name": "Mark 11:19",
+            "text": "And when even was come, he went out of the city."
+        }
+    ],
+    "tone": "neutral"
+}

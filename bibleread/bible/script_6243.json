@@ -1,0 +1,23 @@
+{
+    "book": "Matthew",
+    "chapter": "Chapter 11",
+    "verses": [
+        {
+            "name": "Matthew 11:25",
+            "text": "At that time Jesus answered and said, I thank thee, O Father, Lord of heaven and earth, because thou hast hid these things from the wise and prudent, and hast revealed them unto babes."
+        },
+        {
+            "name": "Matthew 11:26",
+            "text": "Even so, Father: for so it seemed good in thy sight."
+        },
+        {
+            "name": "Matthew 11:27",
+            "text": "All things are delivered unto me of my Father: and no man knoweth the Son, but the Father; neither knoweth any man the Father, save the Son, and he to whomsoever the Son will reveal him."
+        },
+        {
+            "name": "Matthew 11:28",
+            "text": "Come unto me, all ye that labour and are heavy laden, and I will give you rest."
+        }
+    ],
+    "tone": "hopeful"
+}

@@ -1,0 +1,19 @@
+{
+    "book": "Nehemiah",
+    "chapter": "Chapter 1",
+    "verses": [
+        {
+            "name": "Nehemiah 1:8",
+            "text": "Remember, I beseech thee, the word that thou commandedst thy servant Moses, saying, If ye transgress, I will scatter you abroad among the nations:"
+        },
+        {
+            "name": "Nehemiah 1:9",
+            "text": "But if ye turn unto me, and keep my commandments, and do them; though there were of you cast out unto the uttermost part of the heaven, yet will I gather them from thence, and will bring them unto the place that I have chosen to set my name there."
+        },
+        {
+            "name": "Nehemiah 1:10",
+            "text": "Now these are thy servants and thy people, whom thou hast redeemed by thy great power, and by thy strong hand."
+        }
+    ],
+    "tone": "neutral"
+}

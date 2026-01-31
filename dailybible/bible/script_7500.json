@@ -1,0 +1,23 @@
+{
+    "book": "1 Corinthians",
+    "chapter": "Chapter 14",
+    "verses": [
+        {
+            "name": "1 Corinthians 14:26",
+            "text": "How is it then, brethren? when ye come together, every one of you hath a psalm, hath a doctrine, hath a tongue, hath a revelation, hath an interpretation. Let all things be done unto edifying."
+        },
+        {
+            "name": "1 Corinthians 14:27",
+            "text": "If any man speak in an unknown tongue, let it be by two, or at the most by three, and that by course; and let one interpret."
+        },
+        {
+            "name": "1 Corinthians 14:28",
+            "text": "But if there be no interpreter, let him keep silence in the church; and let him speak to himself, and to God."
+        },
+        {
+            "name": "1 Corinthians 14:29",
+            "text": "Let the prophets speak two or three, and let the other judge."
+        }
+    ],
+    "tone": "neutral"
+}

@@ -1,0 +1,27 @@
+{
+    "book": "Ephesians",
+    "chapter": "Chapter 6",
+    "verses": [
+        {
+            "name": "Ephesians 6:1",
+            "text": "Children, obey your parents in the Lord: for this is right."
+        },
+        {
+            "name": "Ephesians 6:2",
+            "text": "Honour thy father and mother; (which is the first commandment with promise;)"
+        },
+        {
+            "name": "Ephesians 6:3",
+            "text": "That it may be well with thee, and thou mayest live long on the earth."
+        },
+        {
+            "name": "Ephesians 6:4",
+            "text": "And, ye fathers, provoke not your children to wrath: but bring them up in the nurture and admonition of the Lord."
+        },
+        {
+            "name": "Ephesians 6:5",
+            "text": "Servants, be obedient to them that are your masters according to the flesh, with fear and trembling, in singleness of your heart, as unto Christ;"
+        }
+    ],
+    "tone": "instructional"
+}

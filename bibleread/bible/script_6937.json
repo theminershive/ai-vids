@@ -1,0 +1,23 @@
+{
+    "book": "John",
+    "chapter": "Chapter 8",
+    "verses": [
+        {
+            "name": "John 8:20",
+            "text": "These words spake Jesus in the treasury, as he taught in the temple: and no man laid hands on him; for his hour was not yet come."
+        },
+        {
+            "name": "John 8:21",
+            "text": "Then said Jesus again unto them, I go my way, and ye shall seek me, and shall die in your sins: whither I go, ye cannot come."
+        },
+        {
+            "name": "John 8:22",
+            "text": "Then said the Jews, Will he kill himself? because he saith, Whither I go, ye cannot come."
+        },
+        {
+            "name": "John 8:23",
+            "text": "And he said unto them, Ye are from beneath; I am from above: ye are of this world; I am not of this world."
+        }
+    ],
+    "tone": "neutral"
+}

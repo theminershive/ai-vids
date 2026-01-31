@@ -1,0 +1,19 @@
+{
+    "book": "Galatians",
+    "chapter": "Chapter 2",
+    "verses": [
+        {
+            "name": "Galatians 2:1",
+            "text": "Then fourteen years after I went up again to Jerusalem with Barnabas, and took Titus with me also."
+        },
+        {
+            "name": "Galatians 2:2",
+            "text": "And I went up by revelation, and communicated unto them that gospel which I preach among the Gentiles, but privately to them which were of reputation, lest by any means I should run, or had run, in vain."
+        },
+        {
+            "name": "Galatians 2:3",
+            "text": "But neither Titus, who was with me, being a Greek, was compelled to be circumcised:"
+        }
+    ],
+    "tone": "neutral"
+}

@@ -1,0 +1,27 @@
+{
+    "book": "John",
+    "chapter": "Chapter 16",
+    "verses": [
+        {
+            "name": "John 16:5",
+            "text": "But now I go my way to him that sent me; and none of you asketh me, Whither goest thou?"
+        },
+        {
+            "name": "John 16:6",
+            "text": "But because I have said these things unto you, sorrow hath filled your heart."
+        },
+        {
+            "name": "John 16:7",
+            "text": "Nevertheless I tell you the truth; It is expedient for you that I go away: for if I go not away, the Comforter will not come unto you; but if I depart, I will send him unto you."
+        },
+        {
+            "name": "John 16:8",
+            "text": "And when he is come, he will reprove the world of sin, and of righteousness, and of judgment:"
+        },
+        {
+            "name": "John 16:9",
+            "text": "Of sin, because they believe not on me;"
+        }
+    ],
+    "tone": "lamenting"
+}

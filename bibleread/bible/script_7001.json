@@ -1,0 +1,19 @@
+{
+    "book": "John",
+    "chapter": "Chapter 14",
+    "verses": [
+        {
+            "name": "John 14:10",
+            "text": "Believest thou not that I am in the Father, and the Father in me? the words that I speak unto you I speak not of myself: but the Father that dwelleth in me, he doeth the works."
+        },
+        {
+            "name": "John 14:11",
+            "text": "Believe me that I am in the Father, and the Father in me: or else believe me for the very works\u2019 sake."
+        },
+        {
+            "name": "John 14:12",
+            "text": "Verily, verily, I say unto you, He that believeth on me, the works that I do shall he do also; and greater works than these shall he do; because I go unto my Father."
+        }
+    ],
+    "tone": "hopeful"
+}

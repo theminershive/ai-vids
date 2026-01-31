@@ -1,0 +1,23 @@
+{
+    "book": "Mark",
+    "chapter": "Chapter 15",
+    "verses": [
+        {
+            "name": "Mark 15:40",
+            "text": "There were also women looking on afar off: among whom was Mary Magdalene, and Mary the mother of James the less and of Joses, and Salome;"
+        },
+        {
+            "name": "Mark 15:41",
+            "text": "(Who also, when he was in Galilee, followed him, and ministered unto him;) and many other women which came up with him unto Jerusalem."
+        },
+        {
+            "name": "Mark 15:42",
+            "text": "And now when the even was come, because it was the preparation, that is, the day before the sabbath,"
+        },
+        {
+            "name": "Mark 15:43",
+            "text": "Joseph of Arimathea, an honourable counsellor, which also waited for the kingdom of God, came, and went in boldly unto Pilate, and craved the body of Jesus."
+        }
+    ],
+    "tone": "neutral"
+}

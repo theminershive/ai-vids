@@ -1,0 +1,19 @@
+{
+    "book": "Romans",
+    "chapter": "Chapter 3",
+    "verses": [
+        {
+            "name": "Romans 3:19",
+            "text": "Now we know that what things soever the law saith, it saith to them who are under the law: that every mouth may be stopped, and all the world may become guilty before God."
+        },
+        {
+            "name": "Romans 3:20",
+            "text": "Therefore by the deeds of the law there shall no flesh be justified in his sight: for by the law is the knowledge of sin."
+        },
+        {
+            "name": "Romans 3:21",
+            "text": "But now the righteousness of God without the law is manifested, being witnessed by the law and the prophets;"
+        }
+    ],
+    "tone": "instructional"
+}

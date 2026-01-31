@@ -1,0 +1,19 @@
+{
+    "book": "Exodus",
+    "chapter": "Chapter 30",
+    "verses": [
+        {
+            "name": "Exodus 30:10",
+            "text": "And Aaron shall make an atonement upon the horns of it once in a year with the blood of the sin offering of atonements: once in the year shall he make atonement upon it throughout your generations: it is most holy unto the Lord."
+        },
+        {
+            "name": "Exodus 30:11",
+            "text": "And the Lord spake unto Moses, saying,"
+        },
+        {
+            "name": "Exodus 30:12",
+            "text": "When thou takest the sum of the children of Israel after their number, then shall they give every man a ransom for his soul unto the Lord, when thou numberest them; that there be no plague among them, when thou numberest them."
+        }
+    ],
+    "tone": "lamenting"
+}

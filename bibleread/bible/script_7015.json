@@ -1,0 +1,19 @@
+{
+    "book": "John",
+    "chapter": "Chapter 16",
+    "verses": [
+        {
+            "name": "John 16:18",
+            "text": "They said therefore, What is this that he saith, A little while? we cannot tell what he saith."
+        },
+        {
+            "name": "John 16:19",
+            "text": "Now Jesus knew that they were desirous to ask him, and said unto them, Do ye enquire among yourselves of that I said, A little while, and ye shall not see me: and again, a little while, and ye shall see me?"
+        },
+        {
+            "name": "John 16:20",
+            "text": "Verily, verily, I say unto you, That ye shall weep and lament, but the world shall rejoice: and ye shall be sorrowful, but your sorrow shall be turned into joy."
+        }
+    ],
+    "tone": "lamenting"
+}

@@ -1,0 +1,23 @@
+{
+    "book": "Mark",
+    "chapter": "Chapter 13",
+    "verses": [
+        {
+            "name": "Mark 13:32",
+            "text": "But of that day and that hour knoweth no man, no, not the angels which are in heaven, neither the Son, but the Father."
+        },
+        {
+            "name": "Mark 13:33",
+            "text": "Take ye heed, watch and pray: for ye know not when the time is."
+        },
+        {
+            "name": "Mark 13:34",
+            "text": "For the Son of man is as a man taking a far journey, who left his house, and gave authority to his servants, and to every man his work, and commanded the porter to watch."
+        },
+        {
+            "name": "Mark 13:35",
+            "text": "Watch ye therefore: for ye know not when the master of the house cometh, at even, or at midnight, or at the cockcrowing, or in the morning:"
+        }
+    ],
+    "tone": "neutral"
+}

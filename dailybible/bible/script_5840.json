@@ -1,0 +1,15 @@
+{
+    "book": "Daniel",
+    "chapter": "Chapter 11",
+    "verses": [
+        {
+            "name": "Daniel 11:4",
+            "text": "And when he shall stand up, his kingdom shall be broken, and shall be divided toward the four winds of heaven; and not to his posterity, nor according to his dominion which he ruled: for his kingdom shall be plucked up, even for others beside those."
+        },
+        {
+            "name": "Daniel 11:5",
+            "text": "And the king of the south shall be strong, and one of his princes; and he shall be strong above him, and have dominion; his dominion shall be a great dominion."
+        }
+    ],
+    "tone": "neutral"
+}

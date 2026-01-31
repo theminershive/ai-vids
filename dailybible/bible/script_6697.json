@@ -1,0 +1,27 @@
+{
+    "book": "Luke",
+    "chapter": "Chapter 10",
+    "verses": [
+        {
+            "name": "Luke 10:1",
+            "text": "After these things the Lord appointed other seventy also, and sent them two and two before his face into every city and place, whither he himself would come."
+        },
+        {
+            "name": "Luke 10:2",
+            "text": "Therefore said he unto them, The harvest truly is great, but the labourers are few: pray ye therefore the Lord of the harvest, that he would send forth labourers into his harvest."
+        },
+        {
+            "name": "Luke 10:3",
+            "text": "Go your ways: behold, I send you forth as lambs among wolves."
+        },
+        {
+            "name": "Luke 10:4",
+            "text": "Carry neither purse, nor scrip, nor shoes: and salute no man by the way."
+        },
+        {
+            "name": "Luke 10:5",
+            "text": "And into whatsoever house ye enter, first say, Peace be to this house."
+        }
+    ],
+    "tone": "neutral"
+}

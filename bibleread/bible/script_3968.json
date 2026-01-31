@@ -1,0 +1,27 @@
+{
+    "book": "Psalms",
+    "chapter": "Chapter 50",
+    "verses": [
+        {
+            "name": "Psalms 50:6",
+            "text": "And the heavens shall declare his righteousness: for God is judge himself. Selah."
+        },
+        {
+            "name": "Psalms 50:7",
+            "text": "Hear, O my people, and I will speak; O Israel, and I will testify against thee: I am God, even thy God."
+        },
+        {
+            "name": "Psalms 50:8",
+            "text": "I will not reprove thee for thy sacrifices or thy burnt offerings, to have been continually before me."
+        },
+        {
+            "name": "Psalms 50:9",
+            "text": "I will take no bullock out of thy house, nor he goats out of thy folds."
+        },
+        {
+            "name": "Psalms 50:10",
+            "text": "For every beast of the forest is mine, and the cattle upon a thousand hills."
+        }
+    ],
+    "tone": "hopeful"
+}

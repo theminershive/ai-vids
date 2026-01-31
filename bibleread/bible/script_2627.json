@@ -1,0 +1,19 @@
+{
+    "book": "1 Kings",
+    "chapter": "Chapter 13",
+    "verses": [
+        {
+            "name": "1 Kings 13:17",
+            "text": "For it was said to me by the word of the Lord, Thou shalt eat no bread nor drink water there, nor turn again to go by the way that thou camest."
+        },
+        {
+            "name": "1 Kings 13:18",
+            "text": "He said unto him, I am a prophet also as thou art; and an angel spake unto me by the word of the Lord, saying, Bring him back with thee into thine house, that he may eat bread and drink water. But he lied unto him."
+        },
+        {
+            "name": "1 Kings 13:19",
+            "text": "So he went back with him, and did eat bread in his house, and drank water."
+        }
+    ],
+    "tone": "neutral"
+}

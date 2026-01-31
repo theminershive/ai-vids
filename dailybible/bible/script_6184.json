@@ -1,0 +1,19 @@
+{
+    "book": "Matthew",
+    "chapter": "Chapter 5",
+    "verses": [
+        {
+            "name": "Matthew 5:13",
+            "text": "Ye are the salt of the earth: but if the salt have lost his savour, wherewith shall it be salted? it is thenceforth good for nothing, but to be cast out, and to be trodden under foot of men."
+        },
+        {
+            "name": "Matthew 5:14",
+            "text": "Ye are the light of the world. A city that is set on an hill cannot be hid."
+        },
+        {
+            "name": "Matthew 5:15",
+            "text": "Neither do men light a candle, and put it under a bushel, but on a candlestick; and it giveth light unto all that are in the house."
+        }
+    ],
+    "tone": "neutral"
+}

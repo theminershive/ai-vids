@@ -1,0 +1,19 @@
+{
+    "book": "Joshua",
+    "chapter": "Chapter 23",
+    "verses": [
+        {
+            "name": "Joshua 23:1",
+            "text": "And it came to pass a long time after that the Lord had given rest unto Israel from all their enemies round about, that Joshua waxed old and stricken in age."
+        },
+        {
+            "name": "Joshua 23:2",
+            "text": "And Joshua called for all Israel, and for their elders, and for their heads, and for their judges, and for their officers, and said unto them, I am old and stricken in age:"
+        },
+        {
+            "name": "Joshua 23:3",
+            "text": "And ye have seen all that the Lord your God hath done unto all these nations because of you; for the Lord your God is he that hath fought for you."
+        }
+    ],
+    "tone": "neutral"
+}

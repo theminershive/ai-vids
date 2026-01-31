@@ -1,0 +1,23 @@
+{
+    "book": "Acts",
+    "chapter": "Chapter 13",
+    "verses": [
+        {
+            "name": "Acts 13:38",
+            "text": "Be it known unto you therefore, men and brethren, that through this man is preached unto you the forgiveness of sins:"
+        },
+        {
+            "name": "Acts 13:39",
+            "text": "And by him all that believe are justified from all things, from which ye could not be justified by the law of Moses."
+        },
+        {
+            "name": "Acts 13:40",
+            "text": "Beware therefore, lest that come upon you, which is spoken of in the prophets;"
+        },
+        {
+            "name": "Acts 13:41",
+            "text": "Behold, ye despisers, and wonder, and perish: for I work a work in your days, a work which ye shall in no wise believe, though a man declare it unto you."
+        }
+    ],
+    "tone": "instructional"
+}

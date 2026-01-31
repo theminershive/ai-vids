@@ -1,0 +1,31 @@
+{
+    "book": "Psalms",
+    "chapter": "Chapter 34",
+    "verses": [
+        {
+            "name": "Psalms 34:13",
+            "text": "Keep thy tongue from evil, and thy lips from speaking guile."
+        },
+        {
+            "name": "Psalms 34:14",
+            "text": "Depart from evil, and do good; seek peace, and pursue it."
+        },
+        {
+            "name": "Psalms 34:15",
+            "text": "The eyes of the Lord are upon the righteous, and his ears are open unto their cry."
+        },
+        {
+            "name": "Psalms 34:16",
+            "text": "The face of the Lord is against them that do evil, to cut off the remembrance of them from the earth."
+        },
+        {
+            "name": "Psalms 34:17",
+            "text": "The righteous cry, and the Lord heareth, and delivereth them out of all their troubles."
+        },
+        {
+            "name": "Psalms 34:18",
+            "text": "The Lord is nigh unto them that are of a broken heart; and saveth such as be of a contrite spirit."
+        }
+    ],
+    "tone": "lamenting"
+}

@@ -1,0 +1,23 @@
+{
+    "book": "Mark",
+    "chapter": "Chapter 14",
+    "verses": [
+        {
+            "name": "Mark 14:35",
+            "text": "And he went forward a little, and fell on the ground, and prayed that, if it were possible, the hour might pass from him."
+        },
+        {
+            "name": "Mark 14:36",
+            "text": "And he said, Abba, Father, all things are possible unto thee; take away this cup from me: nevertheless not what I will, but what thou wilt."
+        },
+        {
+            "name": "Mark 14:37",
+            "text": "And he cometh, and findeth them sleeping, and saith unto Peter, Simon, sleepest thou? couldest not thou watch one hour?"
+        },
+        {
+            "name": "Mark 14:38",
+            "text": "Watch ye and pray, lest ye enter into temptation. The spirit truly is ready, but the flesh is weak."
+        }
+    ],
+    "tone": "neutral"
+}

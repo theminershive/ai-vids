@@ -1,0 +1,19 @@
+{
+    "book": "Leviticus",
+    "chapter": "Chapter 13",
+    "verses": [
+        {
+            "name": "Leviticus 13:43",
+            "text": "Then the priest shall look upon it: and, behold, if the rising of the sore be white reddish in his bald head, or in his bald forehead, as the leprosy appeareth in the skin of the flesh;"
+        },
+        {
+            "name": "Leviticus 13:44",
+            "text": "He is a leprous man, he is unclean: the priest shall pronounce him utterly unclean; his plague is in his head."
+        },
+        {
+            "name": "Leviticus 13:45",
+            "text": "And the leper in whom the plague is, his clothes shall be rent, and his head bare, and he shall put a covering upon his upper lip, and shall cry, Unclean, unclean."
+        }
+    ],
+    "tone": "lamenting"
+}

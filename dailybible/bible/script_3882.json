@@ -1,0 +1,27 @@
+{
+    "book": "Psalms",
+    "chapter": "Chapter 22",
+    "verses": [
+        {
+            "name": "Psalms 22:1",
+            "text": "My God, my God, why hast thou forsaken me? why art thou so far from helping me, and from the words of my roaring?"
+        },
+        {
+            "name": "Psalms 22:2",
+            "text": "O my God, I cry in the daytime, but thou hearest not; and in the night season, and am not silent."
+        },
+        {
+            "name": "Psalms 22:3",
+            "text": "But thou art holy, O thou that inhabitest the praises of Israel."
+        },
+        {
+            "name": "Psalms 22:4",
+            "text": "Our fathers trusted in thee: they trusted, and thou didst deliver them."
+        },
+        {
+            "name": "Psalms 22:5",
+            "text": "They cried unto thee, and were delivered: they trusted in thee, and were not confounded."
+        }
+    ],
+    "tone": "lamenting"
+}

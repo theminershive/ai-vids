@@ -1,0 +1,31 @@
+{
+    "book": "Job",
+    "chapter": "Chapter 38",
+    "verses": [
+        {
+            "name": "Job 38:34",
+            "text": "Canst thou lift up thy voice to the clouds, that abundance of waters may cover thee?"
+        },
+        {
+            "name": "Job 38:35",
+            "text": "Canst thou send lightnings, that they may go, and say unto thee, Here we are?"
+        },
+        {
+            "name": "Job 38:36",
+            "text": "Who hath put wisdom in the inward parts? or who hath given understanding to the heart?"
+        },
+        {
+            "name": "Job 38:37",
+            "text": "Who can number the clouds in wisdom? or who can stay the bottles of heaven,"
+        },
+        {
+            "name": "Job 38:38",
+            "text": "When the dust groweth into hardness, and the clods cleave fast together?"
+        },
+        {
+            "name": "Job 38:39",
+            "text": "Wilt thou hunt the prey for the lion? or fill the appetite of the young lions,"
+        }
+    ],
+    "tone": "instructional"
+}

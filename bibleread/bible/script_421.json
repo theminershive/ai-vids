@@ -1,0 +1,15 @@
+{
+    "book": "Exodus",
+    "chapter": "Chapter 3",
+    "verses": [
+        {
+            "name": "Exodus 3:14",
+            "text": "And God said unto Moses, I AM THAT I AM: and he said, Thus shalt thou say unto the children of Israel, I AM hath sent me unto you."
+        },
+        {
+            "name": "Exodus 3:15",
+            "text": "And God said moreover unto Moses, Thus shalt thou say unto the children of Israel, The Lord God of your fathers, the God of Abraham, the God of Isaac, and the God of Jacob, hath sent me unto you: this is my name for ever, and this is my memorial unto all generations."
+        }
+    ],
+    "tone": "neutral"
+}

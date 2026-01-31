@@ -1,0 +1,15 @@
+{
+    "book": "Exodus",
+    "chapter": "Chapter 13",
+    "verses": [
+        {
+            "name": "Exodus 13:5",
+            "text": "And it shall be when the Lord shall bring thee into the land of the Canaanites, and the Hittites, and the Amorites, and the Hivites, and the Jebusites, which he sware unto thy fathers to give thee, a land flowing with milk and honey, that thou shalt keep this service in this month."
+        },
+        {
+            "name": "Exodus 13:6",
+            "text": "Seven days thou shalt eat unleavened bread, and in the seventh day shall be a feast to the Lord."
+        }
+    ],
+    "tone": "neutral"
+}

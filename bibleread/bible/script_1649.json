@@ -1,0 +1,19 @@
+{
+    "book": "Joshua",
+    "chapter": "Chapter 3",
+    "verses": [
+        {
+            "name": "Joshua 3:10",
+            "text": "And Joshua said, Hereby ye shall know that the living God is among you, and that he will without fail drive out from before you the Canaanites, and the Hittites, and the Hivites, and the Perizzites, and the Girgashites, and the Amorites, and the Jebusites."
+        },
+        {
+            "name": "Joshua 3:11",
+            "text": "Behold, the ark of the covenant of the Lord of all the earth passeth over before you into Jordan."
+        },
+        {
+            "name": "Joshua 3:12",
+            "text": "Now therefore take you twelve men out of the tribes of Israel, out of every tribe a man."
+        }
+    ],
+    "tone": "neutral"
+}

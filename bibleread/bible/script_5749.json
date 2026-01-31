@@ -1,0 +1,19 @@
+{
+    "book": "Daniel",
+    "chapter": "Chapter 2",
+    "verses": [
+        {
+            "name": "Daniel 2:10",
+            "text": "The Chaldeans answered before the king, and said, There is not a man upon the earth that can shew the king\u2019s matter: therefore there is no king, lord, nor ruler, that asked such things at any magician, or astrologer, or Chaldean."
+        },
+        {
+            "name": "Daniel 2:11",
+            "text": "And it is a rare thing that the king requireth, and there is none other that can shew it before the king, except the gods, whose dwelling is not with flesh."
+        },
+        {
+            "name": "Daniel 2:12",
+            "text": "For this cause the king was angry and very furious, and commanded to destroy all the wise men of Babylon."
+        }
+    ],
+    "tone": "neutral"
+}

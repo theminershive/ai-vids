@@ -1,0 +1,23 @@
+{
+    "book": "Galatians",
+    "chapter": "Chapter 1",
+    "verses": [
+        {
+            "name": "Galatians 1:14",
+            "text": "And profited in the Jews\u2019 religion above many my equals in mine own nation, being more exceedingly zealous of the traditions of my fathers."
+        },
+        {
+            "name": "Galatians 1:15",
+            "text": "But when it pleased God, who separated me from my mother\u2019s womb, and called me by his grace,"
+        },
+        {
+            "name": "Galatians 1:16",
+            "text": "To reveal his Son in me, that I might preach him among the heathen; immediately I conferred not with flesh and blood:"
+        },
+        {
+            "name": "Galatians 1:17",
+            "text": "Neither went I up to Jerusalem to them which were apostles before me; but I went into Arabia, and returned again unto Damascus."
+        }
+    ],
+    "tone": "neutral"
+}

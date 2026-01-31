@@ -1,0 +1,23 @@
+{
+    "book": "Leviticus",
+    "chapter": "Chapter 2",
+    "verses": [
+        {
+            "name": "Leviticus 2:3",
+            "text": "And the remnant of the meat offering shall be Aaron\u2019s and his sons\u2019: it is a thing most holy of the offerings of the Lord made by fire."
+        },
+        {
+            "name": "Leviticus 2:4",
+            "text": "And if thou bring an oblation of a meat offering baken in the oven, it shall be unleavened cakes of fine flour mingled with oil, or unleavened wafers anointed with oil."
+        },
+        {
+            "name": "Leviticus 2:5",
+            "text": "And if thy oblation be a meat offering baken in a pan, it shall be of fine flour unleavened, mingled with oil."
+        },
+        {
+            "name": "Leviticus 2:6",
+            "text": "Thou shalt part it in pieces, and pour oil thereon: it is a meat offering."
+        }
+    ],
+    "tone": "instructional"
+}

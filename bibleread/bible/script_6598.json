@@ -1,0 +1,23 @@
+{
+    "book": "Luke",
+    "chapter": "Chapter 2",
+    "verses": [
+        {
+            "name": "Luke 2:15",
+            "text": "And it came to pass, as the angels were gone away from them into heaven, the shepherds said one to another, Let us now go even unto Bethlehem, and see this thing which is come to pass, which the Lord hath made known unto us."
+        },
+        {
+            "name": "Luke 2:16",
+            "text": "And they came with haste, and found Mary, and Joseph, and the babe lying in a manger."
+        },
+        {
+            "name": "Luke 2:17",
+            "text": "And when they had seen it, they made known abroad the saying which was told them concerning this child."
+        },
+        {
+            "name": "Luke 2:18",
+            "text": "And all they that heard it wondered at those things which were told them by the shepherds."
+        }
+    ],
+    "tone": "neutral"
+}

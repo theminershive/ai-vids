@@ -1,0 +1,23 @@
+{
+    "book": "John",
+    "chapter": "Chapter 1",
+    "verses": [
+        {
+            "name": "John 1:37",
+            "text": "And the two disciples heard him speak, and they followed Jesus."
+        },
+        {
+            "name": "John 1:38",
+            "text": "Then Jesus turned, and saw them following, and saith unto them, What seek ye? They said unto him, Rabbi, (which is to say, being interpreted, Master,) where dwellest thou?"
+        },
+        {
+            "name": "John 1:39",
+            "text": "He saith unto them, Come and see. They came and saw where he dwelt, and abode with him that day: for it was about the tenth hour."
+        },
+        {
+            "name": "John 1:40",
+            "text": "One of the two which heard John speak, and followed him, was Andrew, Simon Peter\u2019s brother."
+        }
+    ],
+    "tone": "neutral"
+}

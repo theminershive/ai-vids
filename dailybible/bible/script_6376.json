@@ -1,0 +1,19 @@
+{
+    "book": "Matthew",
+    "chapter": "Chapter 25",
+    "verses": [
+        {
+            "name": "Matthew 25:40",
+            "text": "And the King shall answer and say unto them, Verily I say unto you, Inasmuch as ye have done it unto one of the least of these my brethren, ye have done it unto me."
+        },
+        {
+            "name": "Matthew 25:41",
+            "text": "Then shall he say also unto them on the left hand, Depart from me, ye cursed, into everlasting fire, prepared for the devil and his angels:"
+        },
+        {
+            "name": "Matthew 25:42",
+            "text": "For I was an hungred, and ye gave me no meat: I was thirsty, and ye gave me no drink:"
+        }
+    ],
+    "tone": "neutral"
+}

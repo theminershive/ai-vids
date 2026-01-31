@@ -1,0 +1,19 @@
+{
+    "book": "Exodus",
+    "chapter": "Chapter 19",
+    "verses": [
+        {
+            "name": "Exodus 19:10",
+            "text": "And the Lord said unto Moses, Go unto the people, and sanctify them to day and to morrow, and let them wash their clothes,"
+        },
+        {
+            "name": "Exodus 19:11",
+            "text": "And be ready against the third day: for the third day the Lord will come down in the sight of all the people upon mount Sinai."
+        },
+        {
+            "name": "Exodus 19:12",
+            "text": "And thou shalt set bounds unto the people round about, saying, Take heed to yourselves, that ye go not up into the mount, or touch the border of it: whosoever toucheth the mount shall be surely put to death:"
+        }
+    ],
+    "tone": "neutral"
+}

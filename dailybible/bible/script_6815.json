@@ -1,0 +1,23 @@
+{
+    "book": "Luke",
+    "chapter": "Chapter 21",
+    "verses": [
+        {
+            "name": "Luke 21:20",
+            "text": "And when ye shall see Jerusalem compassed with armies, then know that the desolation thereof is nigh."
+        },
+        {
+            "name": "Luke 21:21",
+            "text": "Then let them which are in Judea flee to the mountains; and let them which are in the midst of it depart out; and let not them that are in the countries enter thereinto."
+        },
+        {
+            "name": "Luke 21:22",
+            "text": "For these be the days of vengeance, that all things which are written may be fulfilled."
+        },
+        {
+            "name": "Luke 21:23",
+            "text": "But woe unto them that are with child, and to them that give suck, in those days! for there shall be great distress in the land, and wrath upon this people."
+        }
+    ],
+    "tone": "lamenting"
+}

@@ -1,0 +1,27 @@
+{
+    "book": "Psalms",
+    "chapter": "Chapter 64",
+    "verses": [
+        {
+            "name": "Psalms 64:1",
+            "text": "Hear my voice, O God, in my prayer: preserve my life from fear of the enemy."
+        },
+        {
+            "name": "Psalms 64:2",
+            "text": "Hide me from the secret counsel of the wicked; from the insurrection of the workers of iniquity:"
+        },
+        {
+            "name": "Psalms 64:3",
+            "text": "Who whet their tongue like a sword, and bend their bows to shoot their arrows, even bitter words:"
+        },
+        {
+            "name": "Psalms 64:4",
+            "text": "That they may shoot in secret at the perfect: suddenly do they shoot at him, and fear not."
+        },
+        {
+            "name": "Psalms 64:5",
+            "text": "They encourage themselves in an evil matter: they commune of laying snares privily; they say, Who shall see them?"
+        }
+    ],
+    "tone": "instructional"
+}

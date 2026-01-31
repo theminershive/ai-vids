@@ -1,0 +1,19 @@
+{
+    "book": "Daniel",
+    "chapter": "Chapter 3",
+    "verses": [
+        {
+            "name": "Daniel 3:20",
+            "text": "And he commanded the most mighty men that were in his army to bind Shadrach, Meshach, and Abed\u2013nego, and to cast them into the burning fiery furnace."
+        },
+        {
+            "name": "Daniel 3:21",
+            "text": "Then these men were bound in their coats, their hosen, and their hats, and their other garments, and were cast into the midst of the burning fiery furnace."
+        },
+        {
+            "name": "Daniel 3:22",
+            "text": "Therefore because the king\u2019s commandment was urgent, and the furnace exceeding hot, the flame of the fire slew those men that took up Shadrach, Meshach, and Abed\u2013nego."
+        }
+    ],
+    "tone": "lamenting"
+}

@@ -1,0 +1,19 @@
+{
+    "book": "Genesis",
+    "chapter": "Chapter 9",
+    "verses": [
+        {
+            "name": "Genesis 9:12",
+            "text": "And God said, This is the token of the covenant which I make between me and you and every living creature that is with you, for perpetual generations:"
+        },
+        {
+            "name": "Genesis 9:13",
+            "text": "I do set my bow in the cloud, and it shall be for a token of a covenant between me and the earth."
+        },
+        {
+            "name": "Genesis 9:14",
+            "text": "And it shall come to pass, when I bring a cloud over the earth, that the bow shall be seen in the cloud:"
+        }
+    ],
+    "tone": "hopeful"
+}

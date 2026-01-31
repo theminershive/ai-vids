@@ -1,0 +1,27 @@
+{
+    "book": "John",
+    "chapter": "Chapter 12",
+    "verses": [
+        {
+            "name": "John 12:17",
+            "text": "The people therefore that was with him when he called Lazarus out of his grave, and raised him from the dead, bare record."
+        },
+        {
+            "name": "John 12:18",
+            "text": "For this cause the people also met him, for that they heard that he had done this miracle."
+        },
+        {
+            "name": "John 12:19",
+            "text": "The Pharisees therefore said among themselves, Perceive ye how ye prevail nothing? behold, the world is gone after him."
+        },
+        {
+            "name": "John 12:20",
+            "text": "And there were certain Greeks among them that came up to worship at the feast:"
+        },
+        {
+            "name": "John 12:21",
+            "text": "The same came therefore to Philip, which was of Bethsaida of Galilee, and desired him, saying, Sir, we would see Jesus."
+        }
+    ],
+    "tone": "neutral"
+}

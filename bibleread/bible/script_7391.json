@@ -1,0 +1,27 @@
+{
+    "book": "Romans",
+    "chapter": "Chapter 11",
+    "verses": [
+        {
+            "name": "Romans 11:28",
+            "text": "As concerning the gospel, they are enemies for your sakes: but as touching the election, they are beloved for the fathers\u2019 sakes."
+        },
+        {
+            "name": "Romans 11:29",
+            "text": "For the gifts and calling of God are without repentance."
+        },
+        {
+            "name": "Romans 11:30",
+            "text": "For as ye in times past have not believed God, yet have now obtained mercy through their unbelief:"
+        },
+        {
+            "name": "Romans 11:31",
+            "text": "Even so have these also now not believed, that through your mercy they also may obtain mercy."
+        },
+        {
+            "name": "Romans 11:32",
+            "text": "For God hath concluded them all in unbelief, that he might have mercy upon all."
+        }
+    ],
+    "tone": "hopeful"
+}

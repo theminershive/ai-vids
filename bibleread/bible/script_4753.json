@@ -1,0 +1,23 @@
+{
+    "book": "Isaiah",
+    "chapter": "Chapter 44",
+    "verses": [
+        {
+            "name": "Isaiah 44:1",
+            "text": "Yet now hear, O Jacob my servant; and Israel, whom I have chosen:"
+        },
+        {
+            "name": "Isaiah 44:2",
+            "text": "Thus saith the Lord that made thee, and formed thee from the womb, which will help thee; Fear not, O Jacob, my servant; and thou, Jesurun, whom I have chosen."
+        },
+        {
+            "name": "Isaiah 44:3",
+            "text": "For I will pour water upon him that is thirsty, and floods upon the dry ground: I will pour my spirit upon thy seed, and my blessing upon thine offspring:"
+        },
+        {
+            "name": "Isaiah 44:4",
+            "text": "And they shall spring up as among the grass, as willows by the water courses."
+        }
+    ],
+    "tone": "hopeful"
+}

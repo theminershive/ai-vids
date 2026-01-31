@@ -1,0 +1,27 @@
+{
+    "book": "Luke",
+    "chapter": "Chapter 17",
+    "verses": [
+        {
+            "name": "Luke 17:30",
+            "text": "Even thus shall it be in the day when the Son of man is revealed."
+        },
+        {
+            "name": "Luke 17:31",
+            "text": "In that day, he which shall be upon the housetop, and his stuff in the house, let him not come down to take it away: and he that is in the field, let him likewise not return back."
+        },
+        {
+            "name": "Luke 17:32",
+            "text": "Remember Lot\u2019s wife."
+        },
+        {
+            "name": "Luke 17:33",
+            "text": "Whosoever shall seek to save his life shall lose it; and whosoever shall lose his life shall preserve it."
+        },
+        {
+            "name": "Luke 17:34",
+            "text": "I tell you, in that night there shall be two men in one bed; the one shall be taken, and the other shall be left."
+        }
+    ],
+    "tone": "neutral"
+}

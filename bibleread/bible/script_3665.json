@@ -1,0 +1,35 @@
+{
+    "book": "Job",
+    "chapter": "Chapter 5",
+    "verses": [
+        {
+            "name": "Job 5:6",
+            "text": "Although affliction cometh not forth of the dust, neither doth trouble spring out of the ground;"
+        },
+        {
+            "name": "Job 5:7",
+            "text": "Yet man is born unto trouble, as the sparks fly upward."
+        },
+        {
+            "name": "Job 5:8",
+            "text": "I would seek unto God, and unto God would I commit my cause:"
+        },
+        {
+            "name": "Job 5:9",
+            "text": "Which doeth great things and unsearchable; marvellous things without number:"
+        },
+        {
+            "name": "Job 5:10",
+            "text": "Who giveth rain upon the earth, and sendeth waters upon the fields:"
+        },
+        {
+            "name": "Job 5:11",
+            "text": "To set up on high those that be low; that those which mourn may be exalted to safety."
+        },
+        {
+            "name": "Job 5:12",
+            "text": "He disappointeth the devices of the crafty, so that their hands cannot perform their enterprise."
+        }
+    ],
+    "tone": "hopeful"
+}

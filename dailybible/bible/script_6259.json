@@ -1,0 +1,19 @@
+{
+    "book": "Matthew",
+    "chapter": "Chapter 13",
+    "verses": [
+        {
+            "name": "Matthew 13:17",
+            "text": "For verily I say unto you, That many prophets and righteous men have desired to see those things which ye see, and have not seen them; and to hear those things which ye hear, and have not heard them."
+        },
+        {
+            "name": "Matthew 13:18",
+            "text": "Hear ye therefore the parable of the sower."
+        },
+        {
+            "name": "Matthew 13:19",
+            "text": "When any one heareth the word of the kingdom, and understandeth it not, then cometh the wicked one, and catcheth away that which was sown in his heart. This is he which received seed by the way side."
+        }
+    ],
+    "tone": "lamenting"
+}

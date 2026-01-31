@@ -1,0 +1,19 @@
+{
+    "book": "Daniel",
+    "chapter": "Chapter 10",
+    "verses": [
+        {
+            "name": "Daniel 10:7",
+            "text": "And I Daniel alone saw the vision: for the men that were with me saw not the vision; but a great quaking fell upon them, so that they fled to hide themselves."
+        },
+        {
+            "name": "Daniel 10:8",
+            "text": "Therefore I was left alone, and saw this great vision, and there remained no strength in me: for my comeliness was turned in me into corruption, and I retained no strength."
+        },
+        {
+            "name": "Daniel 10:9",
+            "text": "Yet heard I the voice of his words: and when I heard the voice of his words, then was I in a deep sleep on my face, and my face toward the ground."
+        }
+    ],
+    "tone": "hopeful"
+}

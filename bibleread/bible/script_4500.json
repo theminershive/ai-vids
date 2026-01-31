@@ -1,0 +1,19 @@
+{
+    "book": "Isaiah",
+    "chapter": "Chapter 1",
+    "verses": [
+        {
+            "name": "Isaiah 1:1",
+            "text": "The vision of Isaiah the son of Amoz, which he saw concerning Judah and Jerusalem in the days of Uzziah, Jotham, Ahaz, and Hezekiah, kings of Judah."
+        },
+        {
+            "name": "Isaiah 1:2",
+            "text": "Hear, O heavens, and give ear, O earth: for the Lord hath spoken, I have nourished and brought up children, and they have rebelled against me."
+        },
+        {
+            "name": "Isaiah 1:3",
+            "text": "The ox knoweth his owner, and the ass his master\u2019s crib: but Israel doth not know, my people doth not consider."
+        }
+    ],
+    "tone": "neutral"
+}

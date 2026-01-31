@@ -1,0 +1,27 @@
+{
+    "book": "Proverbs",
+    "chapter": "Chapter 10",
+    "verses": [
+        {
+            "name": "Proverbs 10:1",
+            "text": "The proverbs of Solomon. A wise son maketh a glad father: but a foolish son is the heaviness of his mother."
+        },
+        {
+            "name": "Proverbs 10:2",
+            "text": "Treasures of wickedness profit nothing: but righteousness delivereth from death."
+        },
+        {
+            "name": "Proverbs 10:3",
+            "text": "The Lord will not suffer the soul of the righteous to famish: but he casteth away the substance of the wicked."
+        },
+        {
+            "name": "Proverbs 10:4",
+            "text": "He becometh poor that dealeth with a slack hand: but the hand of the diligent maketh rich."
+        },
+        {
+            "name": "Proverbs 10:5",
+            "text": "He that gathereth in summer is a wise son: but he that sleepeth in harvest is a son that causeth shame."
+        }
+    ],
+    "tone": "instructional"
+}

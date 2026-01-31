@@ -1,0 +1,19 @@
+{
+    "book": "1 Samuel",
+    "chapter": "Chapter 15",
+    "verses": [
+        {
+            "name": "1 Samuel 15:16",
+            "text": "Then Samuel said unto Saul, Stay, and I will tell thee what the Lord hath said to me this night. And he said unto him, Say on."
+        },
+        {
+            "name": "1 Samuel 15:17",
+            "text": "And Samuel said, When thou wast little in thine own sight, wast thou not made the head of the tribes of Israel, and the Lord anointed thee king over Israel?"
+        },
+        {
+            "name": "1 Samuel 15:18",
+            "text": "And the Lord sent thee on a journey, and said, Go and utterly destroy the sinners the Amalekites, and fight against them until they be consumed."
+        }
+    ],
+    "tone": "neutral"
+}

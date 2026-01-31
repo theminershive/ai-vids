@@ -1,0 +1,31 @@
+{
+    "book": "Proverbs",
+    "chapter": "Chapter 15",
+    "verses": [
+        {
+            "name": "Proverbs 15:1",
+            "text": "A soft answer turneth away wrath: but grievous words stir up anger."
+        },
+        {
+            "name": "Proverbs 15:2",
+            "text": "The tongue of the wise useth knowledge aright: but the mouth of fools poureth out foolishness."
+        },
+        {
+            "name": "Proverbs 15:3",
+            "text": "The eyes of the Lord are in every place, beholding the evil and the good."
+        },
+        {
+            "name": "Proverbs 15:4",
+            "text": "A wholesome tongue is a tree of life: but perverseness therein is a breach in the spirit."
+        },
+        {
+            "name": "Proverbs 15:5",
+            "text": "A fool despiseth his father\u2019s instruction: but he that regardeth reproof is prudent."
+        },
+        {
+            "name": "Proverbs 15:6",
+            "text": "In the house of the righteous is much treasure: but in the revenues of the wicked is trouble."
+        }
+    ],
+    "tone": "instructional"
+}

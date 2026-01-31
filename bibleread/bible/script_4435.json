@@ -1,0 +1,23 @@
+{
+    "book": "Ecclesiastes",
+    "chapter": "Chapter 4",
+    "verses": [
+        {
+            "name": "Ecclesiastes 4:10",
+            "text": "For if they fall, the one will lift up his fellow: but woe to him that is alone when he falleth; for he hath not another to help him up."
+        },
+        {
+            "name": "Ecclesiastes 4:11",
+            "text": "Again, if two lie together, then they have heat: but how can one be warm alone?"
+        },
+        {
+            "name": "Ecclesiastes 4:12",
+            "text": "And if one prevail against him, two shall withstand him; and a threefold cord is not quickly broken."
+        },
+        {
+            "name": "Ecclesiastes 4:13",
+            "text": "Better is a poor and a wise child than an old and foolish king, who will no more be admonished."
+        }
+    ],
+    "tone": "lamenting"
+}

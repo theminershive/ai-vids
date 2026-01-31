@@ -1,0 +1,19 @@
+{
+    "book": "Joshua",
+    "chapter": "Chapter 7",
+    "verses": [
+        {
+            "name": "Joshua 7:10",
+            "text": "And the Lord said unto Joshua, Get thee up; wherefore liest thou thus upon thy face?"
+        },
+        {
+            "name": "Joshua 7:11",
+            "text": "Israel hath sinned, and they have also transgressed my covenant which I commanded them: for they have even taken of the accursed thing, and have also stolen, and dissembled also, and they have put it even among their own stuff."
+        },
+        {
+            "name": "Joshua 7:12",
+            "text": "Therefore the children of Israel could not stand before their enemies, but turned their backs before their enemies, because they were accursed: neither will I be with you any more, except ye destroy the accursed from among you."
+        }
+    ],
+    "tone": "neutral"
+}

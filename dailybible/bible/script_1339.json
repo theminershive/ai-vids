@@ -1,0 +1,19 @@
+{
+    "book": "Deuteronomy",
+    "chapter": "Chapter 1",
+    "verses": [
+        {
+            "name": "Deuteronomy 1:25",
+            "text": "And they took of the fruit of the land in their hands, and brought it down unto us, and brought us word again, and said, It is a good land which the Lord our God doth give us."
+        },
+        {
+            "name": "Deuteronomy 1:26",
+            "text": "Notwithstanding ye would not go up, but rebelled against the commandment of the Lord your God:"
+        },
+        {
+            "name": "Deuteronomy 1:27",
+            "text": "And ye murmured in your tents, and said, Because the Lord hated us, he hath brought us forth out of the land of Egypt, to deliver us into the hand of the Amorites, to destroy us."
+        }
+    ],
+    "tone": "neutral"
+}

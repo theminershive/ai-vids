@@ -1,0 +1,43 @@
+{
+    "book": "Numbers",
+    "chapter": "Chapter 13",
+    "verses": [
+        {
+            "name": "Numbers 13:6",
+            "text": "Of the tribe of Judah, Caleb the son of Jephunneh."
+        },
+        {
+            "name": "Numbers 13:7",
+            "text": "Of the tribe of Issachar, Igal the son of Joseph."
+        },
+        {
+            "name": "Numbers 13:8",
+            "text": "Of the tribe of Ephraim, Oshea the son of Nun."
+        },
+        {
+            "name": "Numbers 13:9",
+            "text": "Of the tribe of Benjamin, Palti the son of Raphu."
+        },
+        {
+            "name": "Numbers 13:10",
+            "text": "Of the tribe of Zebulun, Gaddiel the son of Sodi."
+        },
+        {
+            "name": "Numbers 13:11",
+            "text": "Of the tribe of Joseph, namely, of the tribe of Manasseh, Gaddi the son of Susi."
+        },
+        {
+            "name": "Numbers 13:12",
+            "text": "Of the tribe of Dan, Ammiel the son of Gemalli."
+        },
+        {
+            "name": "Numbers 13:13",
+            "text": "Of the tribe of Asher, Sethur the son of Michael."
+        },
+        {
+            "name": "Numbers 13:14",
+            "text": "Of the tribe of Naphtali, Nahbi the son of Vophsi."
+        }
+    ],
+    "tone": "neutral"
+}

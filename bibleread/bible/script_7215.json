@@ -1,0 +1,19 @@
+{
+    "book": "Acts",
+    "chapter": "Chapter 17",
+    "verses": [
+        {
+            "name": "Acts 17:16",
+            "text": "Now while Paul waited for them at Athens, his spirit was stirred in him, when he saw the city wholly given to idolatry."
+        },
+        {
+            "name": "Acts 17:17",
+            "text": "Therefore disputed he in the synagogue with the Jews, and with the devout persons, and in the market daily with them that met with him."
+        },
+        {
+            "name": "Acts 17:18",
+            "text": "Then certain philosophers of the Epicureans, and of the Stoicks, encountered him. And some said, What will this babbler say? other some, He seemeth to be a setter forth of strange gods: because he preached unto them Jesus, and the resurrection."
+        }
+    ],
+    "tone": "neutral"
+}

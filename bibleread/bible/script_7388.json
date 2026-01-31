@@ -1,0 +1,23 @@
+{
+    "book": "Romans",
+    "chapter": "Chapter 11",
+    "verses": [
+        {
+            "name": "Romans 11:15",
+            "text": "For if the casting away of them be the reconciling of the world, what shall the receiving of them be, but life from the dead?"
+        },
+        {
+            "name": "Romans 11:16",
+            "text": "For if the firstfruit be holy, the lump is also holy: and if the root be holy, so are the branches."
+        },
+        {
+            "name": "Romans 11:17",
+            "text": "And if some of the branches be broken off, and thou, being a wild olive tree, wert graffed in among them, and with them partakest of the root and fatness of the olive tree;"
+        },
+        {
+            "name": "Romans 11:18",
+            "text": "Boast not against the branches. But if thou boast, thou bearest not the root, but the root thee."
+        }
+    ],
+    "tone": "lamenting"
+}

@@ -1,0 +1,19 @@
+{
+    "book": "1 Kings",
+    "chapter": "Chapter 12",
+    "verses": [
+        {
+            "name": "1 Kings 12:1",
+            "text": "And Rehoboam went to Shechem: for all Israel were come to Shechem to make him king."
+        },
+        {
+            "name": "1 Kings 12:2",
+            "text": "And it came to pass, when Jeroboam the son of Nebat, who was yet in Egypt, heard of it, (for he was fled from the presence of king Solomon, and Jeroboam dwelt in Egypt;)"
+        },
+        {
+            "name": "1 Kings 12:3",
+            "text": "That they sent and called him. And Jeroboam and all the congregation of Israel came, and spake unto Rehoboam, saying,"
+        }
+    ],
+    "tone": "neutral"
+}

@@ -1,0 +1,19 @@
+{
+    "book": "1 Peter",
+    "chapter": "Chapter 4",
+    "verses": [
+        {
+            "name": "1 Peter 4:12",
+            "text": "Beloved, think it not strange concerning the fiery trial which is to try you, as though some strange thing happened unto you:"
+        },
+        {
+            "name": "1 Peter 4:13",
+            "text": "But rejoice, inasmuch as ye are partakers of Christ\u2019s sufferings; that, when his glory shall be revealed, ye may be glad also with exceeding joy."
+        },
+        {
+            "name": "1 Peter 4:14",
+            "text": "If ye be reproached for the name of Christ, happy are ye; for the spirit of glory and of God resteth upon you: on their part he is evil spoken of, but on your part he is glorified."
+        }
+    ],
+    "tone": "hopeful"
+}

@@ -1,0 +1,19 @@
+{
+    "book": "Isaiah",
+    "chapter": "Chapter 11",
+    "verses": [
+        {
+            "name": "Isaiah 11:4",
+            "text": "But with righteousness shall he judge the poor, and reprove with equity for the meek of the earth: and he shall smite the earth with the rod of his mouth, and with the breath of his lips shall he slay the wicked."
+        },
+        {
+            "name": "Isaiah 11:5",
+            "text": "And righteousness shall be the girdle of his loins, and faithfulness the girdle of his reins."
+        },
+        {
+            "name": "Isaiah 11:6",
+            "text": "The wolf also shall dwell with the lamb, and the leopard shall lie down with the kid; and the calf and the young lion and the fatling together; and a little child shall lead them."
+        }
+    ],
+    "tone": "instructional"
+}

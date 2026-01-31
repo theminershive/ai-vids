@@ -1,0 +1,19 @@
+{
+    "book": "2 Kings",
+    "chapter": "Chapter 3",
+    "verses": [
+        {
+            "name": "2 Kings 3:1",
+            "text": "Now Jehoram the son of Ahab began to reign over Israel in Samaria the eighteenth year of Jehoshaphat king of Judah, and reigned twelve years."
+        },
+        {
+            "name": "2 Kings 3:2",
+            "text": "And he wrought evil in the sight of the Lord; but not like his father, and like his mother: for he put away the image of Baal that his father had made."
+        },
+        {
+            "name": "2 Kings 3:3",
+            "text": "Nevertheless he cleaved unto the sins of Jeroboam the son of Nebat, which made Israel to sin; he departed not therefrom."
+        }
+    ],
+    "tone": "neutral"
+}

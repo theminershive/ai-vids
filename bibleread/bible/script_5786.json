@@ -1,0 +1,15 @@
+{
+    "book": "Daniel",
+    "chapter": "Chapter 5",
+    "verses": [
+        {
+            "name": "Daniel 5:7",
+            "text": "The king cried aloud to bring in the astrologers, the Chaldeans, and the soothsayers. And the king spake, and said to the wise men of Babylon, Whosoever shall read this writing, and shew me the interpretation thereof, shall be clothed with scarlet, and have a chain of gold about his neck, and shall be the third ruler in the kingdom."
+        },
+        {
+            "name": "Daniel 5:8",
+            "text": "Then came in all the king\u2019s wise men: but they could not read the writing, nor make known to the king the interpretation thereof."
+        }
+    ],
+    "tone": "neutral"
+}

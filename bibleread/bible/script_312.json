@@ -1,0 +1,23 @@
+{
+    "book": "Genesis",
+    "chapter": "Chapter 41",
+    "verses": [
+        {
+            "name": "Genesis 41:1",
+            "text": "And it came to pass at the end of two full years, that Pharaoh dreamed: and, behold, he stood by the river."
+        },
+        {
+            "name": "Genesis 41:2",
+            "text": "And, behold, there came up out of the river seven well favoured kine and fatfleshed; and they fed in a meadow."
+        },
+        {
+            "name": "Genesis 41:3",
+            "text": "And, behold, seven other kine came up after them out of the river, ill favoured and leanfleshed; and stood by the other kine upon the brink of the river."
+        },
+        {
+            "name": "Genesis 41:4",
+            "text": "And the ill favoured and leanfleshed kine did eat up the seven well favoured and fat kine. So Pharaoh awoke."
+        }
+    ],
+    "tone": "hopeful"
+}

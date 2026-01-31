@@ -1,0 +1,19 @@
+{
+    "book": "Matthew",
+    "chapter": "Chapter 6",
+    "verses": [
+        {
+            "name": "Matthew 6:4",
+            "text": "That thine alms may be in secret: and thy Father which seeth in secret himself shall reward thee openly."
+        },
+        {
+            "name": "Matthew 6:5",
+            "text": "And when thou prayest, thou shalt not be as the hypocrites are: for they love to pray standing in the synagogues and in the corners of the streets, that they may be seen of men. Verily I say unto you, They have their reward."
+        },
+        {
+            "name": "Matthew 6:6",
+            "text": "But thou, when thou prayest, enter into thy closet, and when thou hast shut thy door, pray to thy Father which is in secret; and thy Father which seeth in secret shall reward thee openly."
+        }
+    ],
+    "tone": "hopeful"
+}

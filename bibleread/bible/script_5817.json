@@ -1,0 +1,19 @@
+{
+    "book": "Daniel",
+    "chapter": "Chapter 8",
+    "verses": [
+        {
+            "name": "Daniel 8:15",
+            "text": "And it came to pass, when I, even I Daniel, had seen the vision, and sought for the meaning, then, behold, there stood before me as the appearance of a man."
+        },
+        {
+            "name": "Daniel 8:16",
+            "text": "And I heard a man\u2019s voice between the banks of Ulai, which called, and said, Gabriel, make this man to understand the vision."
+        },
+        {
+            "name": "Daniel 8:17",
+            "text": "So he came near where I stood: and when he came, I was afraid, and fell upon my face: but he said unto me, Understand, O son of man: for at the time of the end shall be the vision."
+        }
+    ],
+    "tone": "neutral"
+}

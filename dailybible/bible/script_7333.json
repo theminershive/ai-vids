@@ -1,0 +1,23 @@
+{
+    "book": "Romans",
+    "chapter": "Chapter 2",
+    "verses": [
+        {
+            "name": "Romans 2:18",
+            "text": "And knowest his will, and approvest the things that are more excellent, being instructed out of the law;"
+        },
+        {
+            "name": "Romans 2:19",
+            "text": "And art confident that thou thyself art a guide of the blind, a light of them which are in darkness,"
+        },
+        {
+            "name": "Romans 2:20",
+            "text": "An instructor of the foolish, a teacher of babes, which hast the form of knowledge and of the truth in the law."
+        },
+        {
+            "name": "Romans 2:21",
+            "text": "Thou therefore which teachest another, teachest thou not thyself? thou that preachest a man should not steal, dost thou steal?"
+        }
+    ],
+    "tone": "hopeful"
+}

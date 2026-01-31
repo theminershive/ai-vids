@@ -1,0 +1,19 @@
+{
+    "book": "Amos",
+    "chapter": "Chapter 1",
+    "verses": [
+        {
+            "name": "Amos 1:12",
+            "text": "But I will send a fire upon Teman, which shall devour the palaces of Bozrah."
+        },
+        {
+            "name": "Amos 1:13",
+            "text": "Thus saith the Lord; For three transgressions of the children of Ammon, and for four, I will not turn away the punishment thereof; because they have ripped up the women with child of Gilead, that they might enlarge their border:"
+        },
+        {
+            "name": "Amos 1:14",
+            "text": "But I will kindle a fire in the wall of Rabbah, and it shall devour the palaces thereof, with shouting in the day of battle, with a tempest in the day of the whirlwind:"
+        }
+    ],
+    "tone": "neutral"
+}

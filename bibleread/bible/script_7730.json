@@ -1,0 +1,31 @@
+{
+    "book": "1 Timothy",
+    "chapter": "Chapter 2",
+    "verses": [
+        {
+            "name": "1 Timothy 2:6",
+            "text": "Who gave himself a ransom for all, to be testified in due time."
+        },
+        {
+            "name": "1 Timothy 2:7",
+            "text": "Whereunto I am ordained a preacher, and an apostle, (I speak the truth in Christ, and lie not;) a teacher of the Gentiles in faith and verity."
+        },
+        {
+            "name": "1 Timothy 2:8",
+            "text": "I will therefore that men pray every where, lifting up holy hands, without wrath and doubting."
+        },
+        {
+            "name": "1 Timothy 2:9",
+            "text": "In like manner also, that women adorn themselves in modest apparel, with shamefacedness and sobriety; not with broided hair, or gold, or pearls, or costly array;"
+        },
+        {
+            "name": "1 Timothy 2:10",
+            "text": "But (which becometh women professing godliness) with good works."
+        },
+        {
+            "name": "1 Timothy 2:11",
+            "text": "Let the woman learn in silence with all subjection."
+        }
+    ],
+    "tone": "hopeful"
+}

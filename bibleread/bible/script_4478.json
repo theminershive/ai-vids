@@ -1,0 +1,23 @@
+{
+    "book": "Song of Solomon",
+    "chapter": "Chapter 2",
+    "verses": [
+        {
+            "name": "Song of Songs 2:7",
+            "text": "I charge you, O ye daughters of Jerusalem, by the roes, and by the hinds of the field, that ye stir not up, nor awake my love, till he please."
+        },
+        {
+            "name": "Song of Songs 2:8",
+            "text": "The voice of my beloved! behold, he cometh leaping upon the mountains, skipping upon the hills."
+        },
+        {
+            "name": "Song of Songs 2:9",
+            "text": "My beloved is like a roe or a young hart: behold, he standeth behind our wall, he looketh forth at the windows, shewing himself through the lattice."
+        },
+        {
+            "name": "Song of Songs 2:10",
+            "text": "My beloved spake, and said unto me, Rise up, my love, my fair one, and come away."
+        }
+    ],
+    "tone": "neutral"
+}

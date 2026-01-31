@@ -1,0 +1,19 @@
+{
+    "book": "Joel",
+    "chapter": "Chapter 2",
+    "verses": [
+        {
+            "name": "Joel 2:10",
+            "text": "The earth shall quake before them; the heavens shall tremble: the sun and the moon shall be dark, and the stars shall withdraw their shining:"
+        },
+        {
+            "name": "Joel 2:11",
+            "text": "And the Lord shall utter his voice before his army: for his camp is very great: for he is strong that executeth his word: for the day of the Lord is great and very terrible; and who can abide it?"
+        },
+        {
+            "name": "Joel 2:12",
+            "text": "Therefore also now, saith the Lord, turn ye even to me with all your heart, and with fasting, and with weeping, and with mourning:"
+        }
+    ],
+    "tone": "neutral"
+}

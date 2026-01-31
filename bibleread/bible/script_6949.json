@@ -1,0 +1,19 @@
+{
+    "book": "John",
+    "chapter": "Chapter 9",
+    "verses": [
+        {
+            "name": "John 9:15",
+            "text": "Then again the Pharisees also asked him how he had received his sight. He said unto them, He put clay upon mine eyes, and I washed, and do see."
+        },
+        {
+            "name": "John 9:16",
+            "text": "Therefore said some of the Pharisees, This man is not of God, because he keepeth not the sabbath day. Others said, How can a man that is a sinner do such miracles? And there was a division among them."
+        },
+        {
+            "name": "John 9:17",
+            "text": "They say unto the blind man again, What sayest thou of him, that he hath opened thine eyes? He said, He is a prophet."
+        }
+    ],
+    "tone": "neutral"
+}

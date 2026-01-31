@@ -1,0 +1,27 @@
+{
+    "book": "Psalms",
+    "chapter": "Chapter 2",
+    "verses": [
+        {
+            "name": "Psalms 2:7",
+            "text": "I will declare the decree: the Lord hath said unto me, Thou art my Son; this day have I begotten thee."
+        },
+        {
+            "name": "Psalms 2:8",
+            "text": "Ask of me, and I shall give thee the heathen for thine inheritance, and the uttermost parts of the earth for thy possession."
+        },
+        {
+            "name": "Psalms 2:9",
+            "text": "Thou shalt break them with a rod of iron; thou shalt dash them in pieces like a potter\u2019s vessel."
+        },
+        {
+            "name": "Psalms 2:10",
+            "text": "Be wise now therefore, O ye kings: be instructed, ye judges of the earth."
+        },
+        {
+            "name": "Psalms 2:11",
+            "text": "Serve the Lord with fear, and rejoice with trembling."
+        }
+    ],
+    "tone": "neutral"
+}

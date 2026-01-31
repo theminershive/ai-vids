@@ -1,0 +1,15 @@
+{
+    "book": "Deuteronomy",
+    "chapter": "Chapter 7",
+    "verses": [
+        {
+            "name": "Deuteronomy 7:1",
+            "text": "When the Lord thy God shall bring thee into the land whither thou goest to possess it, and hath cast out many nations before thee, the Hittites, and the Girgashites, and the Amorites, and the Canaanites, and the Perizzites, and the Hivites, and the Jebusites, seven nations greater and mightier than thou;"
+        },
+        {
+            "name": "Deuteronomy 7:2",
+            "text": "And when the Lord thy God shall deliver them before thee; thou shalt smite them, and utterly destroy them; thou shalt make no covenant with them, nor shew mercy unto them:"
+        }
+    ],
+    "tone": "neutral"
+}

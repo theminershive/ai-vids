@@ -1,0 +1,23 @@
+{
+    "book": "Mark",
+    "chapter": "Chapter 10",
+    "verses": [
+        {
+            "name": "Mark 10:49",
+            "text": "And Jesus stood still, and commanded him to be called. And they call the blind man, saying unto him, Be of good comfort, rise; he calleth thee."
+        },
+        {
+            "name": "Mark 10:50",
+            "text": "And he, casting away his garment, rose, and came to Jesus."
+        },
+        {
+            "name": "Mark 10:51",
+            "text": "And Jesus answered and said unto him, What wilt thou that I should do unto thee? The blind man said unto him, Lord, that I might receive my sight."
+        },
+        {
+            "name": "Mark 10:52",
+            "text": "And Jesus said unto him, Go thy way; thy faith hath made thee whole. And immediately he received his sight, and followed Jesus in the way. "
+        }
+    ],
+    "tone": "neutral"
+}

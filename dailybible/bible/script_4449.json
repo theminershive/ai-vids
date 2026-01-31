@@ -1,0 +1,23 @@
+{
+    "book": "Ecclesiastes",
+    "chapter": "Chapter 7",
+    "verses": [
+        {
+            "name": "Ecclesiastes 7:14",
+            "text": "In the day of prosperity be joyful, but in the day of adversity consider: God also hath set the one over against the other, to the end that man should find nothing after him."
+        },
+        {
+            "name": "Ecclesiastes 7:15",
+            "text": "All things have I seen in the days of my vanity: there is a just man that perisheth in his righteousness, and there is a wicked man that prolongeth his life in his wickedness."
+        },
+        {
+            "name": "Ecclesiastes 7:16",
+            "text": "Be not righteous over much; neither make thyself over wise: why shouldest thou destroy thyself?"
+        },
+        {
+            "name": "Ecclesiastes 7:17",
+            "text": "Be not over much wicked, neither be thou foolish: why shouldest thou die before thy time?"
+        }
+    ],
+    "tone": "neutral"
+}

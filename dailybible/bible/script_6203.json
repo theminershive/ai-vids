@@ -1,0 +1,23 @@
+{
+    "book": "Matthew",
+    "chapter": "Chapter 7",
+    "verses": [
+        {
+            "name": "Matthew 7:5",
+            "text": "Thou hypocrite, first cast out the beam out of thine own eye; and then shalt thou see clearly to cast out the mote out of thy brother\u2019s eye."
+        },
+        {
+            "name": "Matthew 7:6",
+            "text": "Give not that which is holy unto the dogs, neither cast ye your pearls before swine, lest they trample them under their feet, and turn again and rend you."
+        },
+        {
+            "name": "Matthew 7:7",
+            "text": "Ask, and it shall be given you; seek, and ye shall find; knock, and it shall be opened unto you:"
+        },
+        {
+            "name": "Matthew 7:8",
+            "text": "For every one that asketh receiveth; and he that seeketh findeth; and to him that knocketh it shall be opened."
+        }
+    ],
+    "tone": "instructional"
+}

@@ -1,0 +1,23 @@
+{
+    "book": "Exodus",
+    "chapter": "Chapter 2",
+    "verses": [
+        {
+            "name": "Exodus 2:21",
+            "text": "And Moses was content to dwell with the man: and he gave Moses Zipporah his daughter."
+        },
+        {
+            "name": "Exodus 2:22",
+            "text": "And she bare him a son, and he called his name Gershom: for he said, I have been a stranger in a strange land."
+        },
+        {
+            "name": "Exodus 2:23",
+            "text": "And it came to pass in process of time, that the king of Egypt died: and the children of Israel sighed by reason of the bondage, and they cried, and their cry came up unto God by reason of the bondage."
+        },
+        {
+            "name": "Exodus 2:24",
+            "text": "And God heard their groaning, and God remembered his covenant with Abraham, with Isaac, and with Jacob."
+        }
+    ],
+    "tone": "lamenting"
+}

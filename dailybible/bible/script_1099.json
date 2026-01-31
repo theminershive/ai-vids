@@ -1,0 +1,19 @@
+{
+    "book": "Numbers",
+    "chapter": "Chapter 10",
+    "verses": [
+        {
+            "name": "Numbers 10:29",
+            "text": "And Moses said unto Hobab, the son of Raguel the Midianite, Moses\u2019 father in law, We are journeying unto the place of which the Lord said, I will give it you: come thou with us, and we will do thee good: for the Lord hath spoken good concerning Israel."
+        },
+        {
+            "name": "Numbers 10:30",
+            "text": "And he said unto him, I will not go; but I will depart to mine own land, and to my kindred."
+        },
+        {
+            "name": "Numbers 10:31",
+            "text": "And he said, Leave us not, I pray thee; forasmuch as thou knowest how we are to encamp in the wilderness, and thou mayest be to us instead of eyes."
+        }
+    ],
+    "tone": "neutral"
+}

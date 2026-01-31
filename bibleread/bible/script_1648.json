@@ -1,0 +1,19 @@
+{
+    "book": "Joshua",
+    "chapter": "Chapter 3",
+    "verses": [
+        {
+            "name": "Joshua 3:7",
+            "text": "And the Lord said unto Joshua, This day will I begin to magnify thee in the sight of all Israel, that they may know that, as I was with Moses, so I will be with thee."
+        },
+        {
+            "name": "Joshua 3:8",
+            "text": "And thou shalt command the priests that bear the ark of the covenant, saying, When ye are come to the brink of the water of Jordan, ye shall stand still in Jordan."
+        },
+        {
+            "name": "Joshua 3:9",
+            "text": "And Joshua said unto the children of Israel, Come hither, and hear the words of the Lord your God."
+        }
+    ],
+    "tone": "neutral"
+}

@@ -1,0 +1,19 @@
+{
+    "book": "Exodus",
+    "chapter": "Chapter 19",
+    "verses": [
+        {
+            "name": "Exodus 19:18",
+            "text": "And mount Sinai was altogether on a smoke, because the Lord descended upon it in fire: and the smoke thereof ascended as the smoke of a furnace, and the whole mount quaked greatly."
+        },
+        {
+            "name": "Exodus 19:19",
+            "text": "And when the voice of the trumpet sounded long, and waxed louder and louder, Moses spake, and God answered him by a voice."
+        },
+        {
+            "name": "Exodus 19:20",
+            "text": "And the Lord came down upon mount Sinai, on the top of the mount: and the Lord called Moses up to the top of the mount; and Moses went up."
+        }
+    ],
+    "tone": "neutral"
+}

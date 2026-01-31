@@ -1,0 +1,31 @@
+{
+    "book": "Psalms",
+    "chapter": "Chapter 118",
+    "verses": [
+        {
+            "name": "Psalms 118:1",
+            "text": "O give thanks unto the Lord; for he is good: because his mercy endureth for ever."
+        },
+        {
+            "name": "Psalms 118:2",
+            "text": "Let Israel now say, that his mercy endureth for ever."
+        },
+        {
+            "name": "Psalms 118:3",
+            "text": "Let the house of Aaron now say, that his mercy endureth for ever."
+        },
+        {
+            "name": "Psalms 118:4",
+            "text": "Let them now that fear the Lord say, that his mercy endureth for ever."
+        },
+        {
+            "name": "Psalms 118:5",
+            "text": "I called upon the Lord in distress: the Lord answered me, and set me in a large place."
+        },
+        {
+            "name": "Psalms 118:6",
+            "text": "The Lord is on my side; I will not fear: what can man do unto me?"
+        }
+    ],
+    "tone": "hopeful"
+}

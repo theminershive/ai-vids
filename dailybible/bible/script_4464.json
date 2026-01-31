@@ -1,0 +1,27 @@
+{
+    "book": "Ecclesiastes",
+    "chapter": "Chapter 10",
+    "verses": [
+        {
+            "name": "Ecclesiastes 10:5",
+            "text": "There is an evil which I have seen under the sun, as an error which proceedeth from the ruler:"
+        },
+        {
+            "name": "Ecclesiastes 10:6",
+            "text": "Folly is set in great dignity, and the rich sit in low place."
+        },
+        {
+            "name": "Ecclesiastes 10:7",
+            "text": "I have seen servants upon horses, and princes walking as servants upon the earth."
+        },
+        {
+            "name": "Ecclesiastes 10:8",
+            "text": "He that diggeth a pit shall fall into it; and whoso breaketh an hedge, a serpent shall bite him."
+        },
+        {
+            "name": "Ecclesiastes 10:9",
+            "text": "Whoso removeth stones shall be hurt therewith; and he that cleaveth wood shall be endangered thereby."
+        }
+    ],
+    "tone": "instructional"
+}

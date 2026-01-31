@@ -1,0 +1,23 @@
+{
+    "book": "Matthew",
+    "chapter": "Chapter 13",
+    "verses": [
+        {
+            "name": "Matthew 13:50",
+            "text": "And shall cast them into the furnace of fire: there shall be wailing and gnashing of teeth."
+        },
+        {
+            "name": "Matthew 13:51",
+            "text": "Jesus saith unto them, Have ye understood all these things? They say unto him, Yea, Lord."
+        },
+        {
+            "name": "Matthew 13:52",
+            "text": "Then said he unto them, Therefore every scribe which is instructed unto the kingdom of heaven is like unto a man that is an householder, which bringeth forth out of his treasure things new and old."
+        },
+        {
+            "name": "Matthew 13:53",
+            "text": "And it came to pass, that when Jesus had finished these parables, he departed thence."
+        }
+    ],
+    "tone": "neutral"
+}

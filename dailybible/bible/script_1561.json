@@ -1,0 +1,19 @@
+{
+    "book": "Deuteronomy",
+    "chapter": "Chapter 28",
+    "verses": [
+        {
+            "name": "Deuteronomy 28:28",
+            "text": "The Lord shall smite thee with madness, and blindness, and astonishment of heart:"
+        },
+        {
+            "name": "Deuteronomy 28:29",
+            "text": "And thou shalt grope at noonday, as the blind gropeth in darkness, and thou shalt not prosper in thy ways: and thou shalt be only oppressed and spoiled evermore, and no man shall save thee."
+        },
+        {
+            "name": "Deuteronomy 28:30",
+            "text": "Thou shalt betroth a wife, and another man shall lie with her: thou shalt build an house, and thou shalt not dwell therein: thou shalt plant a vineyard, and shalt not gather the grapes thereof."
+        }
+    ],
+    "tone": "lamenting"
+}

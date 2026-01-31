@@ -1,0 +1,23 @@
+{
+    "book": "2 Corinthians",
+    "chapter": "Chapter 10",
+    "verses": [
+        {
+            "name": "2 Corinthians 10:8",
+            "text": "For though I should boast somewhat more of our authority, which the Lord hath given us for edification, and not for your destruction, I should not be ashamed:"
+        },
+        {
+            "name": "2 Corinthians 10:9",
+            "text": "That I may not seem as if I would terrify you by letters."
+        },
+        {
+            "name": "2 Corinthians 10:10",
+            "text": "For his letters, say they, are weighty and powerful; but his bodily presence is weak, and his speech contemptible."
+        },
+        {
+            "name": "2 Corinthians 10:11",
+            "text": "Let such an one think this, that, such as we are in word by letters when we are absent, such will we be also in deed when we are present."
+        }
+    ],
+    "tone": "lamenting"
+}

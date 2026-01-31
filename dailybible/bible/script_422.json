@@ -1,0 +1,15 @@
+{
+    "book": "Exodus",
+    "chapter": "Chapter 3",
+    "verses": [
+        {
+            "name": "Exodus 3:16",
+            "text": "Go, and gather the elders of Israel together, and say unto them, The Lord God of your fathers, the God of Abraham, of Isaac, and of Jacob, appeared unto me, saying, I have surely visited you, and seen that which is done to you in Egypt:"
+        },
+        {
+            "name": "Exodus 3:17",
+            "text": "And I have said, I will bring you up out of the affliction of Egypt unto the land of the Canaanites, and the Hittites, and the Amorites, and the Perizzites, and the Hivites, and the Jebusites, unto a land flowing with milk and honey."
+        }
+    ],
+    "tone": "neutral"
+}

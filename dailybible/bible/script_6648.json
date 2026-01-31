@@ -1,0 +1,19 @@
+{
+    "book": "Luke",
+    "chapter": "Chapter 6",
+    "verses": [
+        {
+            "name": "Luke 6:35",
+            "text": "But love ye your enemies, and do good, and lend, hoping for nothing again; and your reward shall be great, and ye shall be the children of the Highest: for he is kind unto the unthankful and to the evil."
+        },
+        {
+            "name": "Luke 6:36",
+            "text": "Be ye therefore merciful, as your Father also is merciful."
+        },
+        {
+            "name": "Luke 6:37",
+            "text": "Judge not, and ye shall not be judged: condemn not, and ye shall not be condemned: forgive, and ye shall be forgiven:"
+        }
+    ],
+    "tone": "hopeful"
+}

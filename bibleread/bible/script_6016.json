@@ -1,0 +1,23 @@
+{
+    "book": "Micah",
+    "chapter": "Chapter 6",
+    "verses": [
+        {
+            "name": "Micah 6:1",
+            "text": "Hear ye now what the Lord saith; Arise, contend thou before the mountains, and let the hills hear thy voice."
+        },
+        {
+            "name": "Micah 6:2",
+            "text": "Hear ye, O mountains, the Lord\u2019s controversy, and ye strong foundations of the earth: for the Lord hath a controversy with his people, and he will plead with Israel."
+        },
+        {
+            "name": "Micah 6:3",
+            "text": "O my people, what have I done unto thee? and wherein have I wearied thee? testify against me."
+        },
+        {
+            "name": "Micah 6:4",
+            "text": "For I brought thee up out of the land of Egypt, and redeemed thee out of the house of servants; and I sent before thee Moses, Aaron, and Miriam."
+        }
+    ],
+    "tone": "neutral"
+}

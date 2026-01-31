@@ -1,0 +1,19 @@
+{
+    "book": "1 Kings",
+    "chapter": "Chapter 1",
+    "verses": [
+        {
+            "name": "1 Kings 1:11",
+            "text": "Wherefore Nathan spake unto Bath\u2013sheba the mother of Solomon, saying, Hast thou not heard that Adonijah the son of Haggith doth reign, and David our lord knoweth it not?"
+        },
+        {
+            "name": "1 Kings 1:12",
+            "text": "Now therefore come, let me, I pray thee, give thee counsel, that thou mayest save thine own life, and the life of thy son Solomon."
+        },
+        {
+            "name": "1 Kings 1:13",
+            "text": "Go and get thee in unto king David, and say unto him, Didst not thou, my lord, O king, swear unto thine handmaid, saying, Assuredly Solomon thy son shall reign after me, and he shall sit upon my throne? why then doth Adonijah reign?"
+        }
+    ],
+    "tone": "neutral"
+}

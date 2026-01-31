@@ -1,0 +1,23 @@
+{
+    "book": "Luke",
+    "chapter": "Chapter 12",
+    "verses": [
+        {
+            "name": "Luke 12:33",
+            "text": "Sell that ye have, and give alms; provide yourselves bags which wax not old, a treasure in the heavens that faileth not, where no thief approacheth, neither moth corrupteth."
+        },
+        {
+            "name": "Luke 12:34",
+            "text": "For where your treasure is, there will your heart be also."
+        },
+        {
+            "name": "Luke 12:35",
+            "text": "Let your loins be girded about, and your lights burning;"
+        },
+        {
+            "name": "Luke 12:36",
+            "text": "And ye yourselves like unto men that wait for their lord, when he will return from the wedding; that when he cometh and knocketh, they may open unto him immediately."
+        }
+    ],
+    "tone": "hopeful"
+}

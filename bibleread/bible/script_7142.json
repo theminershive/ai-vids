@@ -1,0 +1,23 @@
+{
+    "book": "Acts",
+    "chapter": "Chapter 9",
+    "verses": [
+        {
+            "name": "Acts 9:33",
+            "text": "And there he found a certain man named Eneas, which had kept his bed eight years, and was sick of the palsy."
+        },
+        {
+            "name": "Acts 9:34",
+            "text": "And Peter said unto him, Eneas, Jesus Christ maketh thee whole: arise, and make thy bed. And he arose immediately."
+        },
+        {
+            "name": "Acts 9:35",
+            "text": "And all that dwelt at Lydda and Saron saw him, and turned to the Lord."
+        },
+        {
+            "name": "Acts 9:36",
+            "text": "Now there was at Joppa a certain disciple named Tabitha, which by interpretation is called Dorcas: this woman was full of good works and almsdeeds which she did."
+        }
+    ],
+    "tone": "neutral"
+}

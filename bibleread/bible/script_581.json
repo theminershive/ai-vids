@@ -1,0 +1,15 @@
+{
+    "book": "Exodus",
+    "chapter": "Chapter 23",
+    "verses": [
+        {
+            "name": "Exodus 23:11",
+            "text": "But the seventh year thou shalt let it rest and lie still; that the poor of thy people may eat: and what they leave the beasts of the field shall eat. In like manner thou shalt deal with thy vineyard, and with thy oliveyard."
+        },
+        {
+            "name": "Exodus 23:12",
+            "text": "Six days thou shalt do thy work, and on the seventh day thou shalt rest: that thine ox and thine ass may rest, and the son of thy handmaid, and the stranger, may be refreshed."
+        }
+    ],
+    "tone": "neutral"
+}

@@ -1,0 +1,23 @@
+{
+    "book": "Acts",
+    "chapter": "Chapter 22",
+    "verses": [
+        {
+            "name": "Acts 22:18",
+            "text": "And saw him saying unto me, Make haste, and get thee quickly out of Jerusalem: for they will not receive thy testimony concerning me."
+        },
+        {
+            "name": "Acts 22:19",
+            "text": "And I said, Lord, they know that I imprisoned and beat in every synagogue them that believed on thee:"
+        },
+        {
+            "name": "Acts 22:20",
+            "text": "And when the blood of thy martyr Stephen was shed, I also was standing by, and consenting unto his death, and kept the raiment of them that slew him."
+        },
+        {
+            "name": "Acts 22:21",
+            "text": "And he said unto me, Depart: for I will send thee far hence unto the Gentiles."
+        }
+    ],
+    "tone": "neutral"
+}

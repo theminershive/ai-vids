@@ -1,0 +1,27 @@
+{
+    "book": "Luke",
+    "chapter": "Chapter 1",
+    "verses": [
+        {
+            "name": "Luke 1:39",
+            "text": "And Mary arose in those days, and went into the hill country with haste, into a city of Juda;"
+        },
+        {
+            "name": "Luke 1:40",
+            "text": "And entered into the house of Zacharias, and saluted Elisabeth."
+        },
+        {
+            "name": "Luke 1:41",
+            "text": "And it came to pass, that, when Elisabeth heard the salutation of Mary, the babe leaped in her womb; and Elisabeth was filled with the Holy Ghost:"
+        },
+        {
+            "name": "Luke 1:42",
+            "text": "And she spake out with a loud voice, and said, Blessed art thou among women, and blessed is the fruit of thy womb."
+        },
+        {
+            "name": "Luke 1:43",
+            "text": "And whence is this to me, that the mother of my Lord should come to me?"
+        }
+    ],
+    "tone": "neutral"
+}

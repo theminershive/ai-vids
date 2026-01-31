@@ -1,0 +1,27 @@
+{
+    "book": "Mark",
+    "chapter": "Chapter 3",
+    "verses": [
+        {
+            "name": "Mark 3:23",
+            "text": "And he called them unto him, and said unto them in parables, How can Satan cast out Satan?"
+        },
+        {
+            "name": "Mark 3:24",
+            "text": "And if a kingdom be divided against itself, that kingdom cannot stand."
+        },
+        {
+            "name": "Mark 3:25",
+            "text": "And if a house be divided against itself, that house cannot stand."
+        },
+        {
+            "name": "Mark 3:26",
+            "text": "And if Satan rise up against himself, and be divided, he cannot stand, but hath an end."
+        },
+        {
+            "name": "Mark 3:27",
+            "text": "No man can enter into a strong man\u2019s house, and spoil his goods, except he will first bind the strong man; and then he will spoil his house."
+        }
+    ],
+    "tone": "neutral"
+}

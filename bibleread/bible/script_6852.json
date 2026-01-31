@@ -1,0 +1,27 @@
+{
+    "book": "Luke",
+    "chapter": "Chapter 24",
+    "verses": [
+        {
+            "name": "Luke 24:24",
+            "text": "And certain of them which were with us went to the sepulchre, and found it even so as the women had said: but him they saw not."
+        },
+        {
+            "name": "Luke 24:25",
+            "text": "Then he said unto them, O fools, and slow of heart to believe all that the prophets have spoken:"
+        },
+        {
+            "name": "Luke 24:26",
+            "text": "Ought not Christ to have suffered these things, and to enter into his glory?"
+        },
+        {
+            "name": "Luke 24:27",
+            "text": "And beginning at Moses and all the prophets, he expounded unto them in all the scriptures the things concerning himself."
+        },
+        {
+            "name": "Luke 24:28",
+            "text": "And they drew nigh unto the village, whither they went: and he made as though he would have gone further."
+        }
+    ],
+    "tone": "neutral"
+}

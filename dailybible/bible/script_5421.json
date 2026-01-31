@@ -1,0 +1,19 @@
+{
+    "book": "Ezekiel",
+    "chapter": "Chapter 12",
+    "verses": [
+        {
+            "name": "Ezekiel 12:10",
+            "text": "Say thou unto them, Thus saith the Lord God; This burden concerneth the prince in Jerusalem, and all the house of Israel that are among them."
+        },
+        {
+            "name": "Ezekiel 12:11",
+            "text": "Say, I am your sign: like as I have done, so shall it be done unto them: they shall remove and go into captivity."
+        },
+        {
+            "name": "Ezekiel 12:12",
+            "text": "And the prince that is among them shall bear upon his shoulder in the twilight, and shall go forth: they shall dig through the wall to carry out thereby: he shall cover his face, that he see not the ground with his eyes."
+        }
+    ],
+    "tone": "neutral"
+}

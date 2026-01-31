@@ -1,0 +1,23 @@
+{
+    "book": "Luke",
+    "chapter": "Chapter 10",
+    "verses": [
+        {
+            "name": "Luke 10:13",
+            "text": "Woe unto thee, Chorazin! woe unto thee, Bethsaida! for if the mighty works had been done in Tyre and Sidon, which have been done in you, they had a great while ago repented, sitting in sackcloth and ashes."
+        },
+        {
+            "name": "Luke 10:14",
+            "text": "But it shall be more tolerable for Tyre and Sidon at the judgment, than for you."
+        },
+        {
+            "name": "Luke 10:15",
+            "text": "And thou, Capernaum, which art exalted to heaven, shalt be thrust down to hell."
+        },
+        {
+            "name": "Luke 10:16",
+            "text": "He that heareth you heareth me; and he that despiseth you despiseth me; and he that despiseth me despiseth him that sent me."
+        }
+    ],
+    "tone": "lamenting"
+}

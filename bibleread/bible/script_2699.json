@@ -1,0 +1,19 @@
+{
+    "book": "1 Kings",
+    "chapter": "Chapter 20",
+    "verses": [
+        {
+            "name": "1 Kings 20:22",
+            "text": "And the prophet came to the king of Israel, and said unto him, Go, strengthen thyself, and mark, and see what thou doest: for at the return of the year the king of Syria will come up against thee."
+        },
+        {
+            "name": "1 Kings 20:23",
+            "text": "And the servants of the king of Syria said unto him, Their gods are gods of the hills; therefore they were stronger than we; but let us fight against them in the plain, and surely we shall be stronger than they."
+        },
+        {
+            "name": "1 Kings 20:24",
+            "text": "And do this thing, Take the kings away, every man out of his place, and put captains in their rooms:"
+        }
+    ],
+    "tone": "neutral"
+}

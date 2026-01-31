@@ -1,0 +1,31 @@
+{
+    "book": "Proverbs",
+    "chapter": "Chapter 11",
+    "verses": [
+        {
+            "name": "Proverbs 11:12",
+            "text": "He that is void of wisdom despiseth his neighbour: but a man of understanding holdeth his peace."
+        },
+        {
+            "name": "Proverbs 11:13",
+            "text": "A talebearer revealeth secrets: but he that is of a faithful spirit concealeth the matter."
+        },
+        {
+            "name": "Proverbs 11:14",
+            "text": "Where no counsel is, the people fall: but in the multitude of counsellors there is safety."
+        },
+        {
+            "name": "Proverbs 11:15",
+            "text": "He that is surety for a stranger shall smart for it: and he that hateth suretiship is sure."
+        },
+        {
+            "name": "Proverbs 11:16",
+            "text": "A gracious woman retaineth honour: and strong men retain riches."
+        },
+        {
+            "name": "Proverbs 11:17",
+            "text": "The merciful man doeth good to his own soul: but he that is cruel troubleth his own flesh."
+        }
+    ],
+    "tone": "instructional"
+}

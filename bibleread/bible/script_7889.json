@@ -1,0 +1,19 @@
+{
+    "book": "1 Peter",
+    "chapter": "Chapter 3",
+    "verses": [
+        {
+            "name": "1 Peter 3:15",
+            "text": "But sanctify the Lord God in your hearts: and be ready always to give an answer to every man that asketh you a reason of the hope that is in you with meekness and fear:"
+        },
+        {
+            "name": "1 Peter 3:16",
+            "text": "Having a good conscience; that, whereas they speak evil of you, as of evildoers, they may be ashamed that falsely accuse your good conversation in Christ."
+        },
+        {
+            "name": "1 Peter 3:17",
+            "text": "For it is better, if the will of God be so, that ye suffer for well doing, than for evil doing."
+        }
+    ],
+    "tone": "instructional"
+}

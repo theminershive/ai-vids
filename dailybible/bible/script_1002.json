@@ -1,0 +1,19 @@
+{
+    "book": "Numbers",
+    "chapter": "Chapter 1",
+    "verses": [
+        {
+            "name": "Numbers 1:40",
+            "text": "Of the children of Asher, by their generations, after their families, by the house of their fathers, according to the number of the names, from twenty years old and upward, all that were able to go forth to war;"
+        },
+        {
+            "name": "Numbers 1:41",
+            "text": "Those that were numbered of them, even of the tribe of Asher, were forty and one thousand and five hundred."
+        },
+        {
+            "name": "Numbers 1:42",
+            "text": "Of the children of Naphtali, throughout their generations, after their families, by the house of their fathers, according to the number of the names, from twenty years old and upward, all that were able to go forth to war;"
+        }
+    ],
+    "tone": "lamenting"
+}

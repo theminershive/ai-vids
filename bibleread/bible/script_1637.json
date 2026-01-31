@@ -1,0 +1,15 @@
+{
+    "book": "Joshua",
+    "chapter": "Chapter 1",
+    "verses": [
+        {
+            "name": "Joshua 1:15",
+            "text": "Until the Lord have given your brethren rest, as he hath given you, and they also have possessed the land which the Lord your God giveth them: then ye shall return unto the land of your possession, and enjoy it, which Moses the Lord\u2019s servant gave you on this side Jordan toward the sunrising."
+        },
+        {
+            "name": "Joshua 1:16",
+            "text": "And they answered Joshua, saying, All that thou commandest us we will do, and whithersoever thou sendest us, we will go."
+        }
+    ],
+    "tone": "neutral"
+}

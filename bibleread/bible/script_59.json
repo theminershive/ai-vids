@@ -1,0 +1,19 @@
+{
+    "book": "Genesis",
+    "chapter": "Chapter 9",
+    "verses": [
+        {
+            "name": "Genesis 9:15",
+            "text": "And I will remember my covenant, which is between me and you and every living creature of all flesh; and the waters shall no more become a flood to destroy all flesh."
+        },
+        {
+            "name": "Genesis 9:16",
+            "text": "And the bow shall be in the cloud; and I will look upon it, that I may remember the everlasting covenant between God and every living creature of all flesh that is upon the earth."
+        },
+        {
+            "name": "Genesis 9:17",
+            "text": "And God said unto Noah, This is the token of the covenant, which I have established between me and all flesh that is upon the earth."
+        }
+    ],
+    "tone": "neutral"
+}

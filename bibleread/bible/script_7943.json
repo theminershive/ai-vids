@@ -1,0 +1,23 @@
+{
+    "book": "2 John",
+    "chapter": "Chapter 1",
+    "verses": [
+        {
+            "name": "2 John 1:8",
+            "text": "Look to yourselves, that we lose not those things which we have wrought, but that we receive a full reward."
+        },
+        {
+            "name": "2 John 1:9",
+            "text": "Whosoever transgresseth, and abideth not in the doctrine of Christ, hath not God. He that abideth in the doctrine of Christ, he hath both the Father and the Son."
+        },
+        {
+            "name": "2 John 1:10",
+            "text": "If there come any unto you, and bring not this doctrine, receive him not into your house, neither bid him God speed:"
+        },
+        {
+            "name": "2 John 1:11",
+            "text": "For he that biddeth him God speed is partaker of his evil deeds."
+        }
+    ],
+    "tone": "instructional"
+}

@@ -1,0 +1,19 @@
+{
+    "book": "Esther",
+    "chapter": "Chapter 3",
+    "verses": [
+        {
+            "name": "Esther 3:1",
+            "text": "After these things did king Ahasuerus promote Haman the son of Hammedatha the Agagite, and advanced him, and set his seat above all the princes that were with him."
+        },
+        {
+            "name": "Esther 3:2",
+            "text": "And all the king\u2019s servants, that were in the king\u2019s gate, bowed, and reverenced Haman: for the king had so commanded concerning him. But Mordecai bowed not, nor did him reverence."
+        },
+        {
+            "name": "Esther 3:3",
+            "text": "Then the king\u2019s servants, which were in the king\u2019s gate, said unto Mordecai, Why transgressest thou the king\u2019s commandment?"
+        }
+    ],
+    "tone": "neutral"
+}

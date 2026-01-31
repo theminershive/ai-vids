@@ -1,0 +1,19 @@
+{
+    "book": "Leviticus",
+    "chapter": "Chapter 19",
+    "verses": [
+        {
+            "name": "Leviticus 19:13",
+            "text": "Thou shalt not defraud thy neighbour, neither rob him: the wages of him that is hired shall not abide with thee all night until the morning."
+        },
+        {
+            "name": "Leviticus 19:14",
+            "text": "Thou shalt not curse the deaf, nor put a stumblingblock before the blind, but shalt fear thy God: I am the Lord."
+        },
+        {
+            "name": "Leviticus 19:15",
+            "text": "Ye shall do no unrighteousness in judgment: thou shalt not respect the person of the poor, nor honour the person of the mighty: but in righteousness shalt thou judge thy neighbour."
+        }
+    ],
+    "tone": "instructional"
+}

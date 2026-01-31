@@ -1,0 +1,19 @@
+{
+    "book": "Romans",
+    "chapter": "Chapter 13",
+    "verses": [
+        {
+            "name": "Romans 13:4",
+            "text": "For he is the minister of God to thee for good. But if thou do that which is evil, be afraid; for he beareth not the sword in vain: for he is the minister of God, a revenger to execute wrath upon him that doeth evil."
+        },
+        {
+            "name": "Romans 13:5",
+            "text": "Wherefore ye must needs be subject, not only for wrath, but also for conscience sake."
+        },
+        {
+            "name": "Romans 13:6",
+            "text": "For for this cause pay ye tribute also: for they are God\u2019s ministers, attending continually upon this very thing."
+        }
+    ],
+    "tone": "lamenting"
+}

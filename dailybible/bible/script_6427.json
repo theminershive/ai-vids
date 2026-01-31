@@ -1,0 +1,23 @@
+{
+    "book": "Mark",
+    "chapter": "Chapter 2",
+    "verses": [
+        {
+            "name": "Mark 2:8",
+            "text": "And immediately when Jesus perceived in his spirit that they so reasoned within themselves, he said unto them, Why reason ye these things in your hearts?"
+        },
+        {
+            "name": "Mark 2:9",
+            "text": "Whether is it easier to say to the sick of the palsy, Thy sins be forgiven thee; or to say, Arise, and take up thy bed, and walk?"
+        },
+        {
+            "name": "Mark 2:10",
+            "text": "But that ye may know that the Son of man hath power on earth to forgive sins, (he saith to the sick of the palsy,)"
+        },
+        {
+            "name": "Mark 2:11",
+            "text": "I say unto thee, Arise, and take up thy bed, and go thy way into thine house."
+        }
+    ],
+    "tone": "neutral"
+}

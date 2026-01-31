@@ -1,0 +1,23 @@
+{
+    "book": "Exodus",
+    "chapter": "Chapter 26",
+    "verses": [
+        {
+            "name": "Exodus 26:25",
+            "text": "And they shall be eight boards, and their sockets of silver, sixteen sockets; two sockets under one board, and two sockets under another board."
+        },
+        {
+            "name": "Exodus 26:26",
+            "text": "And thou shalt make bars of shittim wood; five for the boards of the one side of the tabernacle,"
+        },
+        {
+            "name": "Exodus 26:27",
+            "text": "And five bars for the boards of the other side of the tabernacle, and five bars for the boards of the side of the tabernacle, for the two sides westward."
+        },
+        {
+            "name": "Exodus 26:28",
+            "text": "And the middle bar in the midst of the boards shall reach from end to end."
+        }
+    ],
+    "tone": "neutral"
+}

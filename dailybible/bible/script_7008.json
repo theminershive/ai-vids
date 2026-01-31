@@ -1,0 +1,27 @@
+{
+    "book": "John",
+    "chapter": "Chapter 15",
+    "verses": [
+        {
+            "name": "John 15:8",
+            "text": "Herein is my Father glorified, that ye bear much fruit; so shall ye be my disciples."
+        },
+        {
+            "name": "John 15:9",
+            "text": "As the Father hath loved me, so have I loved you: continue ye in my love."
+        },
+        {
+            "name": "John 15:10",
+            "text": "If ye keep my commandments, ye shall abide in my love; even as I have kept my Father\u2019s commandments, and abide in his love."
+        },
+        {
+            "name": "John 15:11",
+            "text": "These things have I spoken unto you, that my joy might remain in you, and that your joy might be full."
+        },
+        {
+            "name": "John 15:12",
+            "text": "This is my commandment, That ye love one another, as I have loved you."
+        }
+    ],
+    "tone": "hopeful"
+}

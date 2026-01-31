@@ -1,0 +1,15 @@
+{
+    "book": "Daniel",
+    "chapter": "Chapter 8",
+    "verses": [
+        {
+            "name": "Daniel 8:3",
+            "text": "Then I lifted up mine eyes, and saw, and, behold, there stood before the river a ram which had two horns: and the two horns were high; but one was higher than the other, and the higher came up last."
+        },
+        {
+            "name": "Daniel 8:4",
+            "text": "I saw the ram pushing westward, and northward, and southward; so that no beasts might stand before him, neither was there any that could deliver out of his hand; but he did according to his will, and became great."
+        }
+    ],
+    "tone": "hopeful"
+}

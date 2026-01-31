@@ -1,0 +1,23 @@
+{
+    "book": "Exodus",
+    "chapter": "Chapter 21",
+    "verses": [
+        {
+            "name": "Exodus 21:24",
+            "text": "Eye for eye, tooth for tooth, hand for hand, foot for foot,"
+        },
+        {
+            "name": "Exodus 21:25",
+            "text": "Burning for burning, wound for wound, stripe for stripe."
+        },
+        {
+            "name": "Exodus 21:26",
+            "text": "And if a man smite the eye of his servant, or the eye of his maid, that it perish; he shall let him go free for his eye\u2019s sake."
+        },
+        {
+            "name": "Exodus 21:27",
+            "text": "And if he smite out his manservant\u2019s tooth, or his maidservant\u2019s tooth; he shall let him go free for his tooth\u2019s sake."
+        }
+    ],
+    "tone": "hopeful"
+}

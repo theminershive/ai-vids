@@ -1,0 +1,31 @@
+{
+    "book": "Psalms",
+    "chapter": "Chapter 104",
+    "verses": [
+        {
+            "name": "Psalms 104:6",
+            "text": "Thou coveredst it with the deep as with a garment: the waters stood above the mountains."
+        },
+        {
+            "name": "Psalms 104:7",
+            "text": "At thy rebuke they fled; at the voice of thy thunder they hasted away."
+        },
+        {
+            "name": "Psalms 104:8",
+            "text": "They go up by the mountains; they go down by the valleys unto the place which thou hast founded for them."
+        },
+        {
+            "name": "Psalms 104:9",
+            "text": "Thou hast set a bound that they may not pass over; that they turn not again to cover the earth."
+        },
+        {
+            "name": "Psalms 104:10",
+            "text": "He sendeth the springs into the valleys, which run among the hills."
+        },
+        {
+            "name": "Psalms 104:11",
+            "text": "They give drink to every beast of the field: the wild asses quench their thirst."
+        }
+    ],
+    "tone": "neutral"
+}

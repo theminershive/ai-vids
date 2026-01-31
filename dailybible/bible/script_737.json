@@ -1,0 +1,23 @@
+{
+    "book": "Exodus",
+    "chapter": "Chapter 40",
+    "verses": [
+        {
+            "name": "Exodus 40:1",
+            "text": "And the Lord spake unto Moses, saying,"
+        },
+        {
+            "name": "Exodus 40:2",
+            "text": "On the first day of the first month shalt thou set up the tabernacle of the tent of the congregation."
+        },
+        {
+            "name": "Exodus 40:3",
+            "text": "And thou shalt put therein the ark of the testimony, and cover the ark with the vail."
+        },
+        {
+            "name": "Exodus 40:4",
+            "text": "And thou shalt bring in the table, and set in order the things that are to be set in order upon it; and thou shalt bring in the candlestick, and light the lamps thereof."
+        }
+    ],
+    "tone": "neutral"
+}

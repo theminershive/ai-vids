@@ -1,0 +1,23 @@
+{
+    "book": "Matthew",
+    "chapter": "Chapter 28",
+    "verses": [
+        {
+            "name": "Matthew 28:1",
+            "text": "In the end of the sabbath, as it began to dawn toward the first day of the week, came Mary Magdalene and the other Mary to see the sepulchre."
+        },
+        {
+            "name": "Matthew 28:2",
+            "text": "And, behold, there was a great earthquake: for the angel of the Lord descended from heaven, and came and rolled back the stone from the door, and sat upon it."
+        },
+        {
+            "name": "Matthew 28:3",
+            "text": "His countenance was like lightning, and his raiment white as snow:"
+        },
+        {
+            "name": "Matthew 28:4",
+            "text": "And for fear of him the keepers did shake, and became as dead men. "
+        }
+    ],
+    "tone": "neutral"
+}

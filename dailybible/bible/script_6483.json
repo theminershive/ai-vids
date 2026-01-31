@@ -1,0 +1,23 @@
+{
+    "book": "Mark",
+    "chapter": "Chapter 8",
+    "verses": [
+        {
+            "name": "Mark 8:6",
+            "text": "And he commanded the people to sit down on the ground: and he took the seven loaves, and gave thanks, and brake, and gave to his disciples to set before them; and they did set them before the people."
+        },
+        {
+            "name": "Mark 8:7",
+            "text": "And they had a few small fishes: and he blessed, and commanded to set them also before them. "
+        },
+        {
+            "name": "Mark 8:8",
+            "text": "So they did eat, and were filled: and they took up of the broken meat that was left seven baskets."
+        },
+        {
+            "name": "Mark 8:9",
+            "text": "And they that had eaten were about four thousand: and he sent them away."
+        }
+    ],
+    "tone": "neutral"
+}

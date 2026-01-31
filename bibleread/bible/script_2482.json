@@ -1,0 +1,23 @@
+{
+    "book": "1 Kings",
+    "chapter": "Chapter 1",
+    "verses": [
+        {
+            "name": "1 Kings 1:4",
+            "text": "And the damsel was very fair, and cherished the king, and ministered to him: but the king knew her not."
+        },
+        {
+            "name": "1 Kings 1:5",
+            "text": "Then Adonijah the son of Haggith exalted himself, saying, I will be king: and he prepared him chariots and horsemen, and fifty men to run before him."
+        },
+        {
+            "name": "1 Kings 1:6",
+            "text": "And his father had not displeased him at any time in saying, Why hast thou done so? and he also was a very goodly man; and his mother bare him after Absalom."
+        },
+        {
+            "name": "1 Kings 1:7",
+            "text": "And he conferred with Joab the son of Zeruiah, and with Abiathar the priest: and they following Adonijah helped him."
+        }
+    ],
+    "tone": "neutral"
+}

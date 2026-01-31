@@ -1,0 +1,23 @@
+{
+    "book": "Haggai",
+    "chapter": "Chapter 1",
+    "verses": [
+        {
+            "name": "Haggai 1:4",
+            "text": "Is it time for you, O ye, to dwell in your cieled houses, and this house lie waste?"
+        },
+        {
+            "name": "Haggai 1:5",
+            "text": "Now therefore thus saith the Lord of hosts; Consider your ways."
+        },
+        {
+            "name": "Haggai 1:6",
+            "text": "Ye have sown much, and bring in little; ye eat, but ye have not enough; ye drink, but ye are not filled with drink; ye clothe you, but there is none warm; and he that earneth wages earneth wages to put it into a bag with holes."
+        },
+        {
+            "name": "Haggai 1:7",
+            "text": "Thus saith the Lord of hosts; Consider your ways."
+        }
+    ],
+    "tone": "lamenting"
+}

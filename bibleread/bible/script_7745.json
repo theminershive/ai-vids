@@ -1,0 +1,23 @@
+{
+    "book": "1 Timothy",
+    "chapter": "Chapter 6",
+    "verses": [
+        {
+            "name": "1 Timothy 6:10",
+            "text": "For the love of money is the root of all evil: which while some coveted after, they have erred from the faith, and pierced themselves through with many sorrows."
+        },
+        {
+            "name": "1 Timothy 6:11",
+            "text": "But thou, O man of God, flee these things; and follow after righteousness, godliness, faith, love, patience, meekness."
+        },
+        {
+            "name": "1 Timothy 6:12",
+            "text": "Fight the good fight of faith, lay hold on eternal life, whereunto thou art also called, and hast professed a good profession before many witnesses."
+        },
+        {
+            "name": "1 Timothy 6:13",
+            "text": "I give thee charge in the sight of God, who quickeneth all things, and before Christ Jesus, who before Pontius Pilate witnessed a good confession;"
+        }
+    ],
+    "tone": "hopeful"
+}

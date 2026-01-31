@@ -1,0 +1,19 @@
+{
+    "book": "Ruth",
+    "chapter": "Chapter 1",
+    "verses": [
+        {
+            "name": "Ruth 1:4",
+            "text": "And they took them wives of the women of Moab; the name of the one was Orpah, and the name of the other Ruth: and they dwelled there about ten years."
+        },
+        {
+            "name": "Ruth 1:5",
+            "text": "And Mahlon and Chilion died also both of them; and the woman was left of her two sons and her husband."
+        },
+        {
+            "name": "Ruth 1:6",
+            "text": "Then she arose with her daughters in law, that she might return from the country of Moab: for she had heard in the country of Moab how that the Lord had visited his people in giving them bread."
+        }
+    ],
+    "tone": "neutral"
+}

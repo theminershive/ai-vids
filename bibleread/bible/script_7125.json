@@ -1,0 +1,23 @@
+{
+    "book": "Acts",
+    "chapter": "Chapter 8",
+    "verses": [
+        {
+            "name": "Acts 8:5",
+            "text": "Then Philip went down to the city of Samaria, and preached Christ unto them."
+        },
+        {
+            "name": "Acts 8:6",
+            "text": "And the people with one accord gave heed unto those things which Philip spake, hearing and seeing the miracles which he did."
+        },
+        {
+            "name": "Acts 8:7",
+            "text": "For unclean spirits, crying with loud voice, came out of many that were possessed with them: and many taken with palsies, and that were lame, were healed."
+        },
+        {
+            "name": "Acts 8:8",
+            "text": "And there was great joy in that city."
+        }
+    ],
+    "tone": "neutral"
+}

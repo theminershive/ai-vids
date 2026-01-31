@@ -1,0 +1,19 @@
+{
+    "book": "1 Thessalonians",
+    "chapter": "Chapter 1",
+    "verses": [
+        {
+            "name": "1 Thessalonians 1:8",
+            "text": "For from you sounded out the word of the Lord not only in Macedonia and Achaia, but also in every place your faith to God-ward is spread abroad; so that we need not to speak any thing."
+        },
+        {
+            "name": "1 Thessalonians 1:9",
+            "text": "For they themselves shew of us what manner of entering in we had unto you, and how ye turned to God from idols to serve the living and true God;"
+        },
+        {
+            "name": "1 Thessalonians 1:10",
+            "text": "And to wait for his Son from heaven, whom he raised from the dead, even Jesus, which delivered us from the wrath to come. "
+        }
+    ],
+    "tone": "hopeful"
+}

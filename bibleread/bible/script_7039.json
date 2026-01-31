@@ -1,0 +1,23 @@
+{
+    "book": "John",
+    "chapter": "Chapter 19",
+    "verses": [
+        {
+            "name": "John 19:16",
+            "text": "Then delivered he him therefore unto them to be crucified. And they took Jesus, and led him away."
+        },
+        {
+            "name": "John 19:17",
+            "text": "And he bearing his cross went forth into a place called the place of a skull, which is called in the Hebrew Golgotha:"
+        },
+        {
+            "name": "John 19:18",
+            "text": "Where they crucified him, and two other with him, on either side one, and Jesus in the midst."
+        },
+        {
+            "name": "John 19:19",
+            "text": "And Pilate wrote a title, and put it on the cross. And the writing was, JESUS OF NAZARETH THE KING OF THE JEWS."
+        }
+    ],
+    "tone": "neutral"
+}

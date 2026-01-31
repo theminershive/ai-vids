@@ -1,0 +1,19 @@
+{
+    "book": "Matthew",
+    "chapter": "Chapter 23",
+    "verses": [
+        {
+            "name": "Matthew 23:23",
+            "text": "Woe unto you, scribes and Pharisees, hypocrites! for ye pay tithe of mint and anise and cummin, and have omitted the weightier matters of the law, judgment, mercy, and faith: these ought ye to have done, and not to leave the other undone."
+        },
+        {
+            "name": "Matthew 23:24",
+            "text": "Ye blind guides, which strain at a gnat, and swallow a camel."
+        },
+        {
+            "name": "Matthew 23:25",
+            "text": "Woe unto you, scribes and Pharisees, hypocrites! for ye make clean the outside of the cup and of the platter, but within they are full of extortion and excess."
+        }
+    ],
+    "tone": "lamenting"
+}

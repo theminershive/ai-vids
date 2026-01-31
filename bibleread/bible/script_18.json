@@ -1,0 +1,23 @@
+{
+    "book": "Genesis",
+    "chapter": "Chapter 3",
+    "verses": [
+        {
+            "name": "Genesis 3:7",
+            "text": "And the eyes of them both were opened, and they knew that they were naked; and they sewed fig leaves together, and made themselves aprons."
+        },
+        {
+            "name": "Genesis 3:8",
+            "text": "And they heard the voice of the Lord God walking in the garden in the cool of the day: and Adam and his wife hid themselves from the presence of the Lord God amongst the trees of the garden."
+        },
+        {
+            "name": "Genesis 3:9",
+            "text": "And the Lord God called unto Adam, and said unto him, Where art thou?"
+        },
+        {
+            "name": "Genesis 3:10",
+            "text": "And he said, I heard thy voice in the garden, and I was afraid, because I was naked; and I hid myself."
+        }
+    ],
+    "tone": "neutral"
+}

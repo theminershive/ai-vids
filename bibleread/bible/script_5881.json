@@ -1,0 +1,23 @@
+{
+    "book": "Hosea",
+    "chapter": "Chapter 6",
+    "verses": [
+        {
+            "name": "Hosea 6:4",
+            "text": "O Ephraim, what shall I do unto thee? O Judah, what shall I do unto thee? for your goodness is as a morning cloud, and as the early dew it goeth away."
+        },
+        {
+            "name": "Hosea 6:5",
+            "text": "Therefore have I hewed them by the prophets; I have slain them by the words of my mouth: and thy judgments are as the light that goeth forth."
+        },
+        {
+            "name": "Hosea 6:6",
+            "text": "For I desired mercy, and not sacrifice; and the knowledge of God more than burnt offerings."
+        },
+        {
+            "name": "Hosea 6:7",
+            "text": "But they like men have transgressed the covenant: there have they dealt treacherously against me."
+        }
+    ],
+    "tone": "hopeful"
+}

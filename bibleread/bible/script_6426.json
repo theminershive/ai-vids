@@ -1,0 +1,23 @@
+{
+    "book": "Mark",
+    "chapter": "Chapter 2",
+    "verses": [
+        {
+            "name": "Mark 2:4",
+            "text": "And when they could not come nigh unto him for the press, they uncovered the roof where he was: and when they had broken it up, they let down the bed wherein the sick of the palsy lay."
+        },
+        {
+            "name": "Mark 2:5",
+            "text": "When Jesus saw their faith, he said unto the sick of the palsy, Son, thy sins be forgiven thee."
+        },
+        {
+            "name": "Mark 2:6",
+            "text": "But there were certain of the scribes sitting there, and reasoning in their hearts,"
+        },
+        {
+            "name": "Mark 2:7",
+            "text": "Why doth this man thus speak blasphemies? who can forgive sins but God only?"
+        }
+    ],
+    "tone": "neutral"
+}

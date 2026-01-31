@@ -1,0 +1,23 @@
+{
+    "book": "Song of Solomon",
+    "chapter": "Chapter 7",
+    "verses": [
+        {
+            "name": "Song of Songs 7:5",
+            "text": "Thine head upon thee is like Carmel, and the hair of thine head like purple; the king is held in the galleries."
+        },
+        {
+            "name": "Song of Songs 7:6",
+            "text": "How fair and how pleasant art thou, O love, for delights!"
+        },
+        {
+            "name": "Song of Songs 7:7",
+            "text": "This thy stature is like to a palm tree, and thy breasts to clusters of grapes."
+        },
+        {
+            "name": "Song of Songs 7:8",
+            "text": "I said, I will go up to the palm tree, I will take hold of the boughs thereof: now also thy breasts shall be as clusters of the vine, and the smell of thy nose like apples;"
+        }
+    ],
+    "tone": "neutral"
+}

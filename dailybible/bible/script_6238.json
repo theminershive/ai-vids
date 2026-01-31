@@ -1,0 +1,23 @@
+{
+    "book": "Matthew",
+    "chapter": "Chapter 11",
+    "verses": [
+        {
+            "name": "Matthew 11:5",
+            "text": "The blind receive their sight, and the lame walk, the lepers are cleansed, and the deaf hear, the dead are raised up, and the poor have the gospel preached to them."
+        },
+        {
+            "name": "Matthew 11:6",
+            "text": "And blessed is he, whosoever shall not be offended in me."
+        },
+        {
+            "name": "Matthew 11:7",
+            "text": "And as they departed, Jesus began to say unto the multitudes concerning John, What went ye out into the wilderness to see? A reed shaken with the wind?"
+        },
+        {
+            "name": "Matthew 11:8",
+            "text": "But what went ye out for to see? A man clothed in soft raiment? behold, they that wear soft clothing are in kings\u2019 houses."
+        }
+    ],
+    "tone": "neutral"
+}

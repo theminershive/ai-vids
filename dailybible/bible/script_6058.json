@@ -1,0 +1,19 @@
+{
+    "book": "Zephaniah",
+    "chapter": "Chapter 1",
+    "verses": [
+        {
+            "name": "Zephaniah 1:7",
+            "text": "Hold thy peace at the presence of the Lord God: for the day of the Lord is at hand: for the Lord hath prepared a sacrifice, he hath bid his guests."
+        },
+        {
+            "name": "Zephaniah 1:8",
+            "text": "And it shall come to pass in the day of the Lord\u2019s sacrifice, that I will punish the princes, and the king\u2019s children, and all such as are clothed with strange apparel."
+        },
+        {
+            "name": "Zephaniah 1:9",
+            "text": "In the same day also will I punish all those that leap on the threshold, which fill their masters\u2019 houses with violence and deceit."
+        }
+    ],
+    "tone": "neutral"
+}

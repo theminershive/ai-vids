@@ -1,0 +1,19 @@
+{
+    "book": "Acts",
+    "chapter": "Chapter 25",
+    "verses": [
+        {
+            "name": "Acts 25:25",
+            "text": "But when I found that he had committed nothing worthy of death, and that he himself hath appealed to Augustus, I have determined to send him."
+        },
+        {
+            "name": "Acts 25:26",
+            "text": "Of whom I have no certain thing to write unto my lord. Wherefore I have brought him forth before you, and specially before thee, O king Agrippa, that, after examination had, I might have somewhat to write."
+        },
+        {
+            "name": "Acts 25:27",
+            "text": "For it seemeth to me unreasonable to send a prisoner, and not withal to signify the crimes laid against him. "
+        }
+    ],
+    "tone": "neutral"
+}

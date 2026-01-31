@@ -1,0 +1,23 @@
+{
+    "book": "2 Corinthians",
+    "chapter": "Chapter 1",
+    "verses": [
+        {
+            "name": "2 Corinthians 1:21",
+            "text": "Now he which stablisheth us with you in Christ, and hath anointed us, is God;"
+        },
+        {
+            "name": "2 Corinthians 1:22",
+            "text": "Who hath also sealed us, and given the earnest of the Spirit in our hearts."
+        },
+        {
+            "name": "2 Corinthians 1:23",
+            "text": "Moreover I call God for a record upon my soul, that to spare you I came not as yet unto Corinth."
+        },
+        {
+            "name": "2 Corinthians 1:24",
+            "text": "Not for that we have dominion over your faith, but are helpers of your joy: for by faith ye stand. "
+        }
+    ],
+    "tone": "hopeful"
+}

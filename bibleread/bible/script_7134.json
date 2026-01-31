@@ -1,0 +1,23 @@
+{
+    "book": "Acts",
+    "chapter": "Chapter 9",
+    "verses": [
+        {
+            "name": "Acts 9:1",
+            "text": "And Saul, yet breathing out threatenings and slaughter against the disciples of the Lord, went unto the high priest,"
+        },
+        {
+            "name": "Acts 9:2",
+            "text": "And desired of him letters to Damascus to the synagogues, that if he found any of this way, whether they were men or women, he might bring them bound unto Jerusalem."
+        },
+        {
+            "name": "Acts 9:3",
+            "text": "And as he journeyed, he came near Damascus: and suddenly there shined round about him a light from heaven:"
+        },
+        {
+            "name": "Acts 9:4",
+            "text": "And he fell to the earth, and heard a voice saying unto him, Saul, Saul, why persecutest thou me?"
+        }
+    ],
+    "tone": "neutral"
+}

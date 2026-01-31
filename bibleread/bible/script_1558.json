@@ -1,0 +1,19 @@
+{
+    "book": "Deuteronomy",
+    "chapter": "Chapter 28",
+    "verses": [
+        {
+            "name": "Deuteronomy 28:19",
+            "text": "Cursed shalt thou be when thou comest in, and cursed shalt thou be when thou goest out."
+        },
+        {
+            "name": "Deuteronomy 28:20",
+            "text": "The Lord shall send upon thee cursing, vexation, and rebuke, in all that thou settest thine hand unto for to do, until thou be destroyed, and until thou perish quickly; because of the wickedness of thy doings, whereby thou hast forsaken me."
+        },
+        {
+            "name": "Deuteronomy 28:21",
+            "text": "The Lord shall make the pestilence cleave unto thee, until he have consumed thee from off the land, whither thou goest to possess it."
+        }
+    ],
+    "tone": "lamenting"
+}

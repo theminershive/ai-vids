@@ -1,0 +1,19 @@
+{
+    "book": "Isaiah",
+    "chapter": "Chapter 18",
+    "verses": [
+        {
+            "name": "Isaiah 18:1",
+            "text": "Woe to the land shadowing with wings, which is beyond the rivers of Ethiopia:"
+        },
+        {
+            "name": "Isaiah 18:2",
+            "text": "That sendeth ambassadors by the sea, even in vessels of bulrushes upon the waters, saying, Go, ye swift messengers, to a nation scattered and peeled, to a people terrible from their beginning hitherto; a nation meted out and trodden down, whose land the rivers have spoiled!"
+        },
+        {
+            "name": "Isaiah 18:3",
+            "text": "All ye inhabitants of the world, and dwellers on the earth, see ye, when he lifteth up an ensign on the mountains; and when he bloweth a trumpet, hear ye."
+        }
+    ],
+    "tone": "neutral"
+}

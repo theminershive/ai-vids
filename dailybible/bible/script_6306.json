@@ -1,0 +1,23 @@
+{
+    "book": "Matthew",
+    "chapter": "Chapter 18",
+    "verses": [
+        {
+            "name": "Matthew 18:27",
+            "text": "Then the lord of that servant was moved with compassion, and loosed him, and forgave him the debt."
+        },
+        {
+            "name": "Matthew 18:28",
+            "text": "But the same servant went out, and found one of his fellowservants, which owed him an hundred pence: and he laid hands on him, and took him by the throat, saying, Pay me that thou owest."
+        },
+        {
+            "name": "Matthew 18:29",
+            "text": "And his fellowservant fell down at his feet, and besought him, saying, Have patience with me, and I will pay thee all."
+        },
+        {
+            "name": "Matthew 18:30",
+            "text": "And he would not: but went and cast him into prison, till he should pay the debt."
+        }
+    ],
+    "tone": "neutral"
+}

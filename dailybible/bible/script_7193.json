@@ -1,0 +1,19 @@
+{
+    "book": "Acts",
+    "chapter": "Chapter 15",
+    "verses": [
+        {
+            "name": "Acts 15:4",
+            "text": "And when they were come to Jerusalem, they were received of the church, and of the apostles and elders, and they declared all things that God had done with them."
+        },
+        {
+            "name": "Acts 15:5",
+            "text": "But there rose up certain of the sect of the Pharisees which believed, saying, That it was needful to circumcise them, and to command them to keep the law of Moses."
+        },
+        {
+            "name": "Acts 15:6",
+            "text": "And the apostles and elders came together for to consider of this matter."
+        }
+    ],
+    "tone": "instructional"
+}

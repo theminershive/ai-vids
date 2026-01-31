@@ -1,0 +1,23 @@
+{
+    "book": "Joshua",
+    "chapter": "Chapter 10",
+    "verses": [
+        {
+            "name": "Joshua 10:16",
+            "text": "But these five kings fled, and hid themselves in a cave at Makkedah."
+        },
+        {
+            "name": "Joshua 10:17",
+            "text": "And it was told Joshua, saying, The five kings are found hid in a cave at Makkedah."
+        },
+        {
+            "name": "Joshua 10:18",
+            "text": "And Joshua said, Roll great stones upon the mouth of the cave, and set men by it for to keep them:"
+        },
+        {
+            "name": "Joshua 10:19",
+            "text": "And stay ye not, but pursue after your enemies, and smite the hindmost of them; suffer them not to enter into their cities: for the Lord your God hath delivered them into your hand."
+        }
+    ],
+    "tone": "hopeful"
+}

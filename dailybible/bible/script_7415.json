@@ -1,0 +1,23 @@
+{
+    "book": "Romans",
+    "chapter": "Chapter 16",
+    "verses": [
+        {
+            "name": "Romans 16:1",
+            "text": "I commend unto you Phebe our sister, which is a servant of the church which is at Cenchrea:"
+        },
+        {
+            "name": "Romans 16:2",
+            "text": "That ye receive her in the Lord, as becometh saints, and that ye assist her in whatsoever business she hath need of you: for she hath been a succourer of many, and of myself also."
+        },
+        {
+            "name": "Romans 16:3",
+            "text": "Greet Priscilla and Aquila my helpers in Christ Jesus:"
+        },
+        {
+            "name": "Romans 16:4",
+            "text": "Who have for my life laid down their own necks: unto whom not only I give thanks, but also all the churches of the Gentiles."
+        }
+    ],
+    "tone": "hopeful"
+}

@@ -1,0 +1,19 @@
+{
+    "book": "Matthew",
+    "chapter": "Chapter 11",
+    "verses": [
+        {
+            "name": "Matthew 11:22",
+            "text": "But I say unto you, It shall be more tolerable for Tyre and Sidon at the day of judgment, than for you."
+        },
+        {
+            "name": "Matthew 11:23",
+            "text": "And thou, Capernaum, which art exalted unto heaven, shalt be brought down to hell: for if the mighty works, which have been done in thee, had been done in Sodom, it would have remained until this day."
+        },
+        {
+            "name": "Matthew 11:24",
+            "text": "But I say unto you, That it shall be more tolerable for the land of Sodom in the day of judgment, than for thee."
+        }
+    ],
+    "tone": "neutral"
+}

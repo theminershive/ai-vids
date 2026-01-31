@@ -1,0 +1,23 @@
+{
+    "book": "Deuteronomy",
+    "chapter": "Chapter 5",
+    "verses": [
+        {
+            "name": "Deuteronomy 5:9",
+            "text": "Thou shalt not bow down thyself unto them, nor serve them: for I the Lord thy God am a jealous God, visiting the iniquity of the fathers upon the children unto the third and fourth generation of them that hate me,"
+        },
+        {
+            "name": "Deuteronomy 5:10",
+            "text": "And shewing mercy unto thousands of them that love me and keep my commandments."
+        },
+        {
+            "name": "Deuteronomy 5:11",
+            "text": "Thou shalt not take the name of the Lord thy God in vain: for the Lord will not hold him guiltless that taketh his name in vain."
+        },
+        {
+            "name": "Deuteronomy 5:12",
+            "text": "Keep the sabbath day to sanctify it, as the Lord thy God hath commanded thee."
+        }
+    ],
+    "tone": "hopeful"
+}

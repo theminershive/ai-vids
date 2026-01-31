@@ -1,0 +1,23 @@
+{
+    "book": "Acts",
+    "chapter": "Chapter 19",
+    "verses": [
+        {
+            "name": "Acts 19:17",
+            "text": "And this was known to all the Jews and Greeks also dwelling at Ephesus; and fear fell on them all, and the name of the Lord Jesus was magnified."
+        },
+        {
+            "name": "Acts 19:18",
+            "text": "And many that believed came, and confessed, and shewed their deeds."
+        },
+        {
+            "name": "Acts 19:19",
+            "text": "Many of them also which used curious arts brought their books together, and burned them before all men: and they counted the price of them, and found it fifty thousand pieces of silver."
+        },
+        {
+            "name": "Acts 19:20",
+            "text": "So mightily grew the word of God and prevailed."
+        }
+    ],
+    "tone": "neutral"
+}

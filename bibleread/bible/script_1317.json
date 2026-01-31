@@ -1,0 +1,31 @@
+{
+    "book": "Numbers",
+    "chapter": "Chapter 34",
+    "verses": [
+        {
+            "name": "Numbers 34:18",
+            "text": "And ye shall take one prince of every tribe, to divide the land by inheritance."
+        },
+        {
+            "name": "Numbers 34:19",
+            "text": "And the names of the men are these: Of the tribe of Judah, Caleb the son of Jephunneh."
+        },
+        {
+            "name": "Numbers 34:20",
+            "text": "And of the tribe of the children of Simeon, Shemuel the son of Ammihud."
+        },
+        {
+            "name": "Numbers 34:21",
+            "text": "Of the tribe of Benjamin, Elidad the son of Chislon."
+        },
+        {
+            "name": "Numbers 34:22",
+            "text": "And the prince of the tribe of the children of Dan, Bukki the son of Jogli."
+        },
+        {
+            "name": "Numbers 34:23",
+            "text": "The prince of the children of Joseph, for the tribe of the children of Manasseh, Hanniel the son of Ephod."
+        }
+    ],
+    "tone": "neutral"
+}

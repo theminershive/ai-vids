@@ -1,0 +1,27 @@
+{
+    "book": "Matthew",
+    "chapter": "Chapter 22",
+    "verses": [
+        {
+            "name": "Matthew 22:25",
+            "text": "Now there were with us seven brethren: and the first, when he had married a wife, deceased, and, having no issue, left his wife unto his brother:"
+        },
+        {
+            "name": "Matthew 22:26",
+            "text": "Likewise the second also, and the third, unto the seventh."
+        },
+        {
+            "name": "Matthew 22:27",
+            "text": "And last of all the woman died also."
+        },
+        {
+            "name": "Matthew 22:28",
+            "text": "Therefore in the resurrection whose wife shall she be of the seven? for they all had her."
+        },
+        {
+            "name": "Matthew 22:29",
+            "text": "Jesus answered and said unto them, Ye do err, not knowing the scriptures, nor the power of God."
+        }
+    ],
+    "tone": "neutral"
+}

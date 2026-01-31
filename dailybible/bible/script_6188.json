@@ -1,0 +1,23 @@
+{
+    "book": "Matthew",
+    "chapter": "Chapter 5",
+    "verses": [
+        {
+            "name": "Matthew 5:25",
+            "text": "Agree with thine adversary quickly, whiles thou art in the way with him; lest at any time the adversary deliver thee to the judge, and the judge deliver thee to the officer, and thou be cast into prison."
+        },
+        {
+            "name": "Matthew 5:26",
+            "text": "Verily I say unto thee, Thou shalt by no means come out thence, till thou hast paid the uttermost farthing."
+        },
+        {
+            "name": "Matthew 5:27",
+            "text": "Ye have heard that it was said by them of old time, Thou shalt not commit adultery:"
+        },
+        {
+            "name": "Matthew 5:28",
+            "text": "But I say unto you, That whosoever looketh on a woman to lust after her hath committed adultery with her already in his heart."
+        }
+    ],
+    "tone": "neutral"
+}

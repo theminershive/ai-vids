@@ -1,0 +1,23 @@
+{
+    "book": "2 Timothy",
+    "chapter": "Chapter 2",
+    "verses": [
+        {
+            "name": "2 Timothy 2:16",
+            "text": "But shun profane and vain babblings: for they will increase unto more ungodliness."
+        },
+        {
+            "name": "2 Timothy 2:17",
+            "text": "And their word will eat as doth a canker: of whom is Hymeneus and Philetus;"
+        },
+        {
+            "name": "2 Timothy 2:18",
+            "text": "Who concerning the truth have erred, saying that the resurrection is past already; and overthrow the faith of some."
+        },
+        {
+            "name": "2 Timothy 2:19",
+            "text": "Nevertheless the foundation of God standeth sure, having this seal, The Lord knoweth them that are his. And, Let every one that nameth the name of Christ depart from iniquity."
+        }
+    ],
+    "tone": "hopeful"
+}

@@ -1,0 +1,23 @@
+{
+    "book": "Matthew",
+    "chapter": "Chapter 27",
+    "verses": [
+        {
+            "name": "Matthew 27:40",
+            "text": "And saying, Thou that destroyest the temple, and buildest it in three days, save thyself. If thou be the Son of God, come down from the cross."
+        },
+        {
+            "name": "Matthew 27:41",
+            "text": "Likewise also the chief priests mocking him, with the scribes and elders, said,"
+        },
+        {
+            "name": "Matthew 27:42",
+            "text": "He saved others; himself he cannot save. If he be the King of Israel, let him now come down from the cross, and we will believe him."
+        },
+        {
+            "name": "Matthew 27:43",
+            "text": "He trusted in God; let him deliver him now, if he will have him: for he said, I am the Son of God."
+        }
+    ],
+    "tone": "neutral"
+}

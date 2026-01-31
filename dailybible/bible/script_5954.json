@@ -1,0 +1,23 @@
+{
+    "book": "Amos",
+    "chapter": "Chapter 5",
+    "verses": [
+        {
+            "name": "Amos 5:17",
+            "text": "And in all vineyards shall be wailing: for I will pass through thee, saith the Lord."
+        },
+        {
+            "name": "Amos 5:18",
+            "text": "Woe unto you that desire the day of the Lord! to what end is it for you? the day of the Lord is darkness, and not light."
+        },
+        {
+            "name": "Amos 5:19",
+            "text": "As if a man did flee from a lion, and a bear met him; or went into the house, and leaned his hand on the wall, and a serpent bit him."
+        },
+        {
+            "name": "Amos 5:20",
+            "text": "Shall not the day of the Lord be darkness, and not light? even very dark, and no brightness in it?"
+        }
+    ],
+    "tone": "neutral"
+}

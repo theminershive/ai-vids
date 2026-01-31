@@ -1,0 +1,19 @@
+{
+    "book": "2 Corinthians",
+    "chapter": "Chapter 1",
+    "verses": [
+        {
+            "name": "2 Corinthians 1:5",
+            "text": "For as the sufferings of Christ abound in us, so our consolation also aboundeth by Christ."
+        },
+        {
+            "name": "2 Corinthians 1:6",
+            "text": "And whether we be afflicted, it is for your consolation and salvation, which is effectual in the enduring of the same sufferings which we also suffer: or whether we be comforted, it is for your consolation and salvation."
+        },
+        {
+            "name": "2 Corinthians 1:7",
+            "text": "And our hope of you is stedfast, knowing, that as ye are partakers of the sufferings, so shall ye be also of the consolation."
+        }
+    ],
+    "tone": "hopeful"
+}

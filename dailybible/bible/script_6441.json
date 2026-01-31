@@ -1,0 +1,23 @@
+{
+    "book": "Mark",
+    "chapter": "Chapter 4",
+    "verses": [
+        {
+            "name": "Mark 4:5",
+            "text": "And some fell on stony ground, where it had not much earth; and immediately it sprang up, because it had no depth of earth:"
+        },
+        {
+            "name": "Mark 4:6",
+            "text": "But when the sun was up, it was scorched; and because it had no root, it withered away."
+        },
+        {
+            "name": "Mark 4:7",
+            "text": "And some fell among thorns, and the thorns grew up, and choked it, and it yielded no fruit."
+        },
+        {
+            "name": "Mark 4:8",
+            "text": "And other fell on good ground, and did yield fruit that sprang up and increased; and brought forth, some thirty, and some sixty, and some an hundred."
+        }
+    ],
+    "tone": "lamenting"
+}

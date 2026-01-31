@@ -1,0 +1,23 @@
+{
+    "book": "1 Corinthians",
+    "chapter": "Chapter 10",
+    "verses": [
+        {
+            "name": "1 Corinthians 10:15",
+            "text": "I speak as to wise men; judge ye what I say."
+        },
+        {
+            "name": "1 Corinthians 10:16",
+            "text": "The cup of blessing which we bless, is it not the communion of the blood of Christ? The bread which we break, is it not the communion of the body of Christ?"
+        },
+        {
+            "name": "1 Corinthians 10:17",
+            "text": "For we being many are one bread, and one body: for we are all partakers of that one bread."
+        },
+        {
+            "name": "1 Corinthians 10:18",
+            "text": "Behold Israel after the flesh: are not they which eat of the sacrifices partakers of the altar?"
+        }
+    ],
+    "tone": "hopeful"
+}

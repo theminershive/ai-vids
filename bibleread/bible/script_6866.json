@@ -1,0 +1,23 @@
+{
+    "book": "John",
+    "chapter": "Chapter 1",
+    "verses": [
+        {
+            "name": "John 1:41",
+            "text": "He first findeth his own brother Simon, and saith unto him, We have found the Messias, which is, being interpreted, the Christ."
+        },
+        {
+            "name": "John 1:42",
+            "text": "And he brought him to Jesus. And when Jesus beheld him, he said, Thou art Simon the son of Jona: thou shalt be called Cephas, which is by interpretation, A stone."
+        },
+        {
+            "name": "John 1:43",
+            "text": "The day following Jesus would go forth into Galilee, and findeth Philip, and saith unto him, Follow me."
+        },
+        {
+            "name": "John 1:44",
+            "text": "Now Philip was of Bethsaida, the city of Andrew and Peter."
+        }
+    ],
+    "tone": "neutral"
+}

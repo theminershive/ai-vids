@@ -1,0 +1,19 @@
+{
+    "book": "Exodus",
+    "chapter": "Chapter 12",
+    "verses": [
+        {
+            "name": "Exodus 12:19",
+            "text": "Seven days shall there be no leaven found in your houses: for whosoever eateth that which is leavened, even that soul shall be cut off from the congregation of Israel, whether he be a stranger, or born in the land."
+        },
+        {
+            "name": "Exodus 12:20",
+            "text": "Ye shall eat nothing leavened; in all your habitations shall ye eat unleavened bread."
+        },
+        {
+            "name": "Exodus 12:21",
+            "text": "Then Moses called for all the elders of Israel, and said unto them, Draw out and take you a lamb according to your families, and kill the passover."
+        }
+    ],
+    "tone": "neutral"
+}

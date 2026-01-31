@@ -1,0 +1,23 @@
+{
+    "book": "Genesis",
+    "chapter": "Chapter 8",
+    "verses": [
+        {
+            "name": "Genesis 8:5",
+            "text": "And the waters decreased continually until the tenth month: in the tenth month, on the first day of the month, were the tops of the mountains seen."
+        },
+        {
+            "name": "Genesis 8:6",
+            "text": "And it came to pass at the end of forty days, that Noah opened the window of the ark which he had made:"
+        },
+        {
+            "name": "Genesis 8:7",
+            "text": "And he sent forth a raven, which went forth to and fro, until the waters were dried up from off the earth."
+        },
+        {
+            "name": "Genesis 8:8",
+            "text": "Also he sent forth a dove from him, to see if the waters were abated from off the face of the ground;"
+        }
+    ],
+    "tone": "neutral"
+}

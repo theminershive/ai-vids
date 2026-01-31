@@ -1,0 +1,19 @@
+{
+    "book": "2 Kings",
+    "chapter": "Chapter 4",
+    "verses": [
+        {
+            "name": "2 Kings 4:13",
+            "text": "And he said unto him, Say now unto her, Behold, thou hast been careful for us with all this care; what is to be done for thee? wouldest thou be spoken for to the king, or to the captain of the host? And she answered, I dwell among mine own people."
+        },
+        {
+            "name": "2 Kings 4:14",
+            "text": "And he said, What then is to be done for her? And Gehazi answered, Verily she hath no child, and her husband is old."
+        },
+        {
+            "name": "2 Kings 4:15",
+            "text": "And he said, Call her. And when he had called her, she stood in the door."
+        }
+    ],
+    "tone": "neutral"
+}

@@ -1,0 +1,35 @@
+{
+    "book": "Genesis",
+    "chapter": "Chapter 10",
+    "verses": [
+        {
+            "name": "Genesis 10:24",
+            "text": "And Arphaxad begat Salah; and Salah begat Eber."
+        },
+        {
+            "name": "Genesis 10:25",
+            "text": "And unto Eber were born two sons: the name of one was Peleg; for in his days was the earth divided; and his brother\u2019s name was Joktan."
+        },
+        {
+            "name": "Genesis 10:26",
+            "text": "And Joktan begat Almodad, and Sheleph, and Hazarmaveth, and Jerah,"
+        },
+        {
+            "name": "Genesis 10:27",
+            "text": "And Hadoram, and Uzal, and Diklah,"
+        },
+        {
+            "name": "Genesis 10:28",
+            "text": "And Obal, and Abimael, and Sheba,"
+        },
+        {
+            "name": "Genesis 10:29",
+            "text": "And Ophir, and Havilah, and Jobab: all these were the sons of Joktan."
+        },
+        {
+            "name": "Genesis 10:30",
+            "text": "And their dwelling was from Mesha, as thou goest unto Sephar a mount of the east."
+        }
+    ],
+    "tone": "neutral"
+}

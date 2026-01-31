@@ -1,0 +1,19 @@
+{
+    "book": "Exodus",
+    "chapter": "Chapter 9",
+    "verses": [
+        {
+            "name": "Exodus 9:1",
+            "text": "Then the Lord said unto Moses, Go in unto Pharaoh, and tell him, Thus saith the Lord God of the Hebrews, Let my people go, that they may serve me."
+        },
+        {
+            "name": "Exodus 9:2",
+            "text": "For if thou refuse to let them go, and wilt hold them still,"
+        },
+        {
+            "name": "Exodus 9:3",
+            "text": "Behold, the hand of the Lord is upon thy cattle which is in the field, upon the horses, upon the asses, upon the camels, upon the oxen, and upon the sheep: there shall be a very grievous murrain."
+        }
+    ],
+    "tone": "neutral"
+}

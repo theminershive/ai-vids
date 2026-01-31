@@ -1,0 +1,23 @@
+{
+    "book": "Leviticus",
+    "chapter": "Chapter 11",
+    "verses": [
+        {
+            "name": "Leviticus 11:19",
+            "text": "And the stork, the heron after her kind, and the lapwing, and the bat."
+        },
+        {
+            "name": "Leviticus 11:20",
+            "text": "All fowls that creep, going upon all four, shall be an abomination unto you."
+        },
+        {
+            "name": "Leviticus 11:21",
+            "text": "Yet these may ye eat of every flying creeping thing that goeth upon all four, which have legs above their feet, to leap withal upon the earth;"
+        },
+        {
+            "name": "Leviticus 11:22",
+            "text": "Even these of them ye may eat; the locust after his kind, and the bald locust after his kind, and the beetle after his kind, and the grasshopper after his kind."
+        }
+    ],
+    "tone": "hopeful"
+}

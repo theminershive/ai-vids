@@ -1,0 +1,23 @@
+{
+    "book": "Mark",
+    "chapter": "Chapter 9",
+    "verses": [
+        {
+            "name": "Mark 9:44",
+            "text": "Where their worm dieth not, and the fire is not quenched."
+        },
+        {
+            "name": "Mark 9:45",
+            "text": "And if thy foot offend thee, cut it off: it is better for thee to enter halt into life, than having two feet to be cast into hell, into the fire that never shall be quenched:"
+        },
+        {
+            "name": "Mark 9:46",
+            "text": "Where their worm dieth not, and the fire is not quenched."
+        },
+        {
+            "name": "Mark 9:47",
+            "text": "And if thine eye offend thee, pluck it out: it is better for thee to enter into the kingdom of God with one eye, than having two eyes to be cast into hell fire:"
+        }
+    ],
+    "tone": "lamenting"
+}

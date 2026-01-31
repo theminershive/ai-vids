@@ -1,0 +1,23 @@
+{
+    "book": "John",
+    "chapter": "Chapter 18",
+    "verses": [
+        {
+            "name": "John 18:21",
+            "text": "Why askest thou me? ask them which heard me, what I have said unto them: behold, they know what I said."
+        },
+        {
+            "name": "John 18:22",
+            "text": "And when he had thus spoken, one of the officers which stood by struck Jesus with the palm of his hand, saying, Answerest thou the high priest so?"
+        },
+        {
+            "name": "John 18:23",
+            "text": "Jesus answered him, If I have spoken evil, bear witness of the evil: but if well, why smitest thou me?"
+        },
+        {
+            "name": "John 18:24",
+            "text": "Now Annas had sent him bound unto Caiaphas the high priest."
+        }
+    ],
+    "tone": "neutral"
+}

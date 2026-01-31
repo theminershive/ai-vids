@@ -1,0 +1,23 @@
+{
+    "book": "Matthew",
+    "chapter": "Chapter 5",
+    "verses": [
+        {
+            "name": "Matthew 5:41",
+            "text": "And whosoever shall compel thee to go a mile, go with him twain."
+        },
+        {
+            "name": "Matthew 5:42",
+            "text": "Give to him that asketh thee, and from him that would borrow of thee turn not thou away."
+        },
+        {
+            "name": "Matthew 5:43",
+            "text": "Ye have heard that it hath been said, Thou shalt love thy neighbour, and hate thine enemy."
+        },
+        {
+            "name": "Matthew 5:44",
+            "text": "But I say unto you, Love your enemies, bless them that curse you, do good to them that hate you, and pray for them which despitefully use you, and persecute you;"
+        }
+    ],
+    "tone": "hopeful"
+}

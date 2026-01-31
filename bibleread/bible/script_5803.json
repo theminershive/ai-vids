@@ -1,0 +1,15 @@
+{
+    "book": "Daniel",
+    "chapter": "Chapter 7",
+    "verses": [
+        {
+            "name": "Daniel 7:4",
+            "text": "The first was like a lion, and had eagle\u2019s wings: I beheld till the wings thereof were plucked, and it was lifted up from the earth, and made stand upon the feet as a man, and a man\u2019s heart was given to it."
+        },
+        {
+            "name": "Daniel 7:5",
+            "text": "And behold another beast, a second, like to a bear, and it raised up itself on one side, and it had three ribs in the mouth of it between the teeth of it: and they said thus unto it, Arise, devour much flesh."
+        }
+    ],
+    "tone": "neutral"
+}

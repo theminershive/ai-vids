@@ -1,0 +1,27 @@
+{
+    "book": "Matthew",
+    "chapter": "Chapter 18",
+    "verses": [
+        {
+            "name": "Matthew 18:1",
+            "text": "At the same time came the disciples unto Jesus, saying, Who is the greatest in the kingdom of heaven?"
+        },
+        {
+            "name": "Matthew 18:2",
+            "text": "And Jesus called a little child unto him, and set him in the midst of them,"
+        },
+        {
+            "name": "Matthew 18:3",
+            "text": "And said, Verily I say unto you, Except ye be converted, and become as little children, ye shall not enter into the kingdom of heaven."
+        },
+        {
+            "name": "Matthew 18:4",
+            "text": "Whosoever therefore shall humble himself as this little child, the same is greatest in the kingdom of heaven."
+        },
+        {
+            "name": "Matthew 18:5",
+            "text": "And whoso shall receive one such little child in my name receiveth me."
+        }
+    ],
+    "tone": "hopeful"
+}

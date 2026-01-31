@@ -1,0 +1,27 @@
+{
+    "book": "Psalms",
+    "chapter": "Chapter 46",
+    "verses": [
+        {
+            "name": "Psalms 46:6",
+            "text": "The heathen raged, the kingdoms were moved: he uttered his voice, the earth melted."
+        },
+        {
+            "name": "Psalms 46:7",
+            "text": "The Lord of hosts is with us; the God of Jacob is our refuge. Selah."
+        },
+        {
+            "name": "Psalms 46:8",
+            "text": "Come, behold the works of the Lord, what desolations he hath made in the earth."
+        },
+        {
+            "name": "Psalms 46:9",
+            "text": "He maketh wars to cease unto the end of the earth; he breaketh the bow, and cutteth the spear in sunder; he burneth the chariot in the fire."
+        },
+        {
+            "name": "Psalms 46:10",
+            "text": "Be still, and know that I am God: I will be exalted among the heathen, I will be exalted in the earth."
+        }
+    ],
+    "tone": "lamenting"
+}

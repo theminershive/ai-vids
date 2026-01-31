@@ -1,0 +1,23 @@
+{
+    "book": "Luke",
+    "chapter": "Chapter 9",
+    "verses": [
+        {
+            "name": "Luke 9:19",
+            "text": "They answering said, John the Baptist; but some say, Elias; and others say, that one of the old prophets is risen again."
+        },
+        {
+            "name": "Luke 9:20",
+            "text": "He said unto them, But whom say ye that I am? Peter answering said, The Christ of God."
+        },
+        {
+            "name": "Luke 9:21",
+            "text": "And he straitly charged them, and commanded them to tell no man that thing;"
+        },
+        {
+            "name": "Luke 9:22",
+            "text": "Saying, The Son of man must suffer many things, and be rejected of the elders and chief priests and scribes, and be slain, and be raised the third day."
+        }
+    ],
+    "tone": "neutral"
+}

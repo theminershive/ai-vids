@@ -1,0 +1,19 @@
+{
+    "book": "2 Corinthians",
+    "chapter": "Chapter 12",
+    "verses": [
+        {
+            "name": "2 Corinthians 12:8",
+            "text": "For this thing I besought the Lord thrice, that it might depart from me."
+        },
+        {
+            "name": "2 Corinthians 12:9",
+            "text": "And he said unto me, My grace is sufficient for thee: for my strength is made perfect in weakness. Most gladly therefore will I rather glory in my infirmities, that the power of Christ may rest upon me."
+        },
+        {
+            "name": "2 Corinthians 12:10",
+            "text": "Therefore I take pleasure in infirmities, in reproaches, in necessities, in persecutions, in distresses for Christ\u2019s sake: for when I am weak, then am I strong."
+        }
+    ],
+    "tone": "hopeful"
+}

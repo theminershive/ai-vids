@@ -1,0 +1,27 @@
+{
+    "book": "Matthew",
+    "chapter": "Chapter 24",
+    "verses": [
+        {
+            "name": "Matthew 24:19",
+            "text": "And woe unto them that are with child, and to them that give suck in those days!"
+        },
+        {
+            "name": "Matthew 24:20",
+            "text": "But pray ye that your flight be not in the winter, neither on the sabbath day:"
+        },
+        {
+            "name": "Matthew 24:21",
+            "text": "For then shall be great tribulation, such as was not since the beginning of the world to this time, no, nor ever shall be."
+        },
+        {
+            "name": "Matthew 24:22",
+            "text": "And except those days should be shortened, there should no flesh be saved: but for the elect\u2019s sake those days shall be shortened."
+        },
+        {
+            "name": "Matthew 24:23",
+            "text": "Then if any man shall say unto you, Lo, here is Christ, or there; believe it not."
+        }
+    ],
+    "tone": "lamenting"
+}

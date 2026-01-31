@@ -1,0 +1,19 @@
+{
+    "book": "2 Samuel",
+    "chapter": "Chapter 15",
+    "verses": [
+        {
+            "name": "2 Samuel 15:25",
+            "text": "And the king said unto Zadok, Carry back the ark of God into the city: if I shall find favour in the eyes of the Lord, he will bring me again, and shew me both it, and his habitation:"
+        },
+        {
+            "name": "2 Samuel 15:26",
+            "text": "But if he thus say, I have no delight in thee; behold, here am I, let him do to me as seemeth good unto him."
+        },
+        {
+            "name": "2 Samuel 15:27",
+            "text": "The king said also unto Zadok the priest, Art not thou a seer? return into the city in peace, and your two sons with you, Ahimaaz thy son, and Jonathan the son of Abiathar."
+        }
+    ],
+    "tone": "neutral"
+}

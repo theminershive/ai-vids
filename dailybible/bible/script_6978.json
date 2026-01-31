@@ -1,0 +1,23 @@
+{
+    "book": "John",
+    "chapter": "Chapter 12",
+    "verses": [
+        {
+            "name": "John 12:1",
+            "text": "Then Jesus six days before the passover came to Bethany, where Lazarus was which had been dead, whom he raised from the dead."
+        },
+        {
+            "name": "John 12:2",
+            "text": "There they made him a supper; and Martha served: but Lazarus was one of them that sat at the table with him."
+        },
+        {
+            "name": "John 12:3",
+            "text": "Then took Mary a pound of ointment of spikenard, very costly, and anointed the feet of Jesus, and wiped his feet with her hair: and the house was filled with the odour of the ointment."
+        },
+        {
+            "name": "John 12:4",
+            "text": "Then saith one of his disciples, Judas Iscariot, Simon\u2019s son, which should betray him,"
+        }
+    ],
+    "tone": "lamenting"
+}

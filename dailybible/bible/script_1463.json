@@ -1,0 +1,19 @@
+{
+    "book": "Deuteronomy",
+    "chapter": "Chapter 15",
+    "verses": [
+        {
+            "name": "Deuteronomy 15:11",
+            "text": "For the poor shall never cease out of the land: therefore I command thee, saying, Thou shalt open thine hand wide unto thy brother, to thy poor, and to thy needy, in thy land."
+        },
+        {
+            "name": "Deuteronomy 15:12",
+            "text": "And if thy brother, an Hebrew man, or an Hebrew woman, be sold unto thee, and serve thee six years; then in the seventh year thou shalt let him go free from thee."
+        },
+        {
+            "name": "Deuteronomy 15:13",
+            "text": "And when thou sendest him out free from thee, thou shalt not let him go away empty:"
+        }
+    ],
+    "tone": "instructional"
+}

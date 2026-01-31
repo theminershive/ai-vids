@@ -1,0 +1,27 @@
+{
+    "book": "Matthew",
+    "chapter": "Chapter 24",
+    "verses": [
+        {
+            "name": "Matthew 24:24",
+            "text": "For there shall arise false Christs, and false prophets, and shall shew great signs and wonders; insomuch that, if it were possible, they shall deceive the very elect."
+        },
+        {
+            "name": "Matthew 24:25",
+            "text": "Behold, I have told you before."
+        },
+        {
+            "name": "Matthew 24:26",
+            "text": "Wherefore if they shall say unto you, Behold, he is in the desert; go not forth: behold, he is in the secret chambers; believe it not."
+        },
+        {
+            "name": "Matthew 24:27",
+            "text": "For as the lightning cometh out of the east, and shineth even unto the west; so shall also the coming of the Son of man be."
+        },
+        {
+            "name": "Matthew 24:28",
+            "text": "For wheresoever the carcase is, there will the eagles be gathered together."
+        }
+    ],
+    "tone": "hopeful"
+}

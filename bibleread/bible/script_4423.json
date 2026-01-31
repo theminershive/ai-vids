@@ -1,0 +1,19 @@
+{
+    "book": "Ecclesiastes",
+    "chapter": "Chapter 2",
+    "verses": [
+        {
+            "name": "Ecclesiastes 2:14",
+            "text": "The wise man\u2019s eyes are in his head; but the fool walketh in darkness: and I myself perceived also that one event happeneth to them all."
+        },
+        {
+            "name": "Ecclesiastes 2:15",
+            "text": "Then said I in my heart, As it happeneth to the fool, so it happeneth even to me; and why was I then more wise? Then I said in my heart, that this also is vanity."
+        },
+        {
+            "name": "Ecclesiastes 2:16",
+            "text": "For there is no remembrance of the wise more than of the fool for ever; seeing that which now is in the days to come shall all be forgotten. And how dieth the wise man? as the fool."
+        }
+    ],
+    "tone": "neutral"
+}

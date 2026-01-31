@@ -1,0 +1,19 @@
+{
+    "book": "Mark",
+    "chapter": "Chapter 14",
+    "verses": [
+        {
+            "name": "Mark 14:12",
+            "text": "And the first day of unleavened bread, when they killed the passover, his disciples said unto him, Where wilt thou that we go and prepare that thou mayest eat the passover?"
+        },
+        {
+            "name": "Mark 14:13",
+            "text": "And he sendeth forth two of his disciples, and saith unto them, Go ye into the city, and there shall meet you a man bearing a pitcher of water: follow him."
+        },
+        {
+            "name": "Mark 14:14",
+            "text": "And wheresoever he shall go in, say ye to the goodman of the house, The Master saith, Where is the guestchamber, where I shall eat the passover with my disciples?"
+        }
+    ],
+    "tone": "neutral"
+}

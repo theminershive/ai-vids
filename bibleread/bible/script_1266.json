@@ -1,0 +1,23 @@
+{
+    "book": "Numbers",
+    "chapter": "Chapter 29",
+    "verses": [
+        {
+            "name": "Numbers 29:1",
+            "text": "And in the seventh month, on the first day of the month, ye shall have an holy convocation; ye shall do no servile work: it is a day of blowing the trumpets unto you."
+        },
+        {
+            "name": "Numbers 29:2",
+            "text": "And ye shall offer a burnt offering for a sweet savour unto the Lord; one young bullock, one ram, and seven lambs of the first year without blemish:"
+        },
+        {
+            "name": "Numbers 29:3",
+            "text": "And their meat offering shall be of flour mingled with oil, three tenth deals for a bullock, and two tenth deals for a ram,"
+        },
+        {
+            "name": "Numbers 29:4",
+            "text": "And one tenth deal for one lamb, throughout the seven lambs:"
+        }
+    ],
+    "tone": "neutral"
+}

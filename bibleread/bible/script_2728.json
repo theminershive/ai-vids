@@ -1,0 +1,19 @@
+{
+    "book": "2 Kings",
+    "chapter": "Chapter 1",
+    "verses": [
+        {
+            "name": "2 Kings 1:1",
+            "text": "Then Moab rebelled against Israel after the death of Ahab."
+        },
+        {
+            "name": "2 Kings 1:2",
+            "text": "And Ahaziah fell down through a lattice in his upper chamber that was in Samaria, and was sick: and he sent messengers, and said unto them, Go, enquire of Baal\u2013zebub the god of Ekron whether I shall recover of this disease."
+        },
+        {
+            "name": "2 Kings 1:3",
+            "text": "But the angel of the Lord said to Elijah the Tishbite, Arise, go up to meet the messengers of the king of Samaria, and say unto them, Is it not because there is not a God in Israel, that ye go to enquire of Baal\u2013zebub the god of Ekron?"
+        }
+    ],
+    "tone": "neutral"
+}

@@ -1,0 +1,19 @@
+{
+    "book": "Esther",
+    "chapter": "Chapter 4",
+    "verses": [
+        {
+            "name": "Esther 4:9",
+            "text": "And Hatach came and told Esther the words of Mordecai."
+        },
+        {
+            "name": "Esther 4:10",
+            "text": "Again Esther spake unto Hatach, and gave him commandment unto Mordecai;"
+        },
+        {
+            "name": "Esther 4:11",
+            "text": "All the king\u2019s servants, and the people of the king\u2019s provinces, do know, that whosoever, whether man or woman, shall come unto the king into the inner court, who is not called, there is one law of his to put him to death, except such to whom the king shall hold out the golden sceptre, that he may live: but I have not been called to come in unto the king these thirty days."
+        }
+    ],
+    "tone": "neutral"
+}

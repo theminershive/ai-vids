@@ -1,0 +1,23 @@
+{
+    "book": "1 Corinthians",
+    "chapter": "Chapter 8",
+    "verses": [
+        {
+            "name": "1 Corinthians 8:1",
+            "text": "Now as touching things offered unto idols, we know that we all have knowledge. Knowledge puffeth up, but charity edifieth."
+        },
+        {
+            "name": "1 Corinthians 8:2",
+            "text": "And if any man think that he knoweth any thing, he knoweth nothing yet as he ought to know."
+        },
+        {
+            "name": "1 Corinthians 8:3",
+            "text": "But if any man love God, the same is known of him."
+        },
+        {
+            "name": "1 Corinthians 8:4",
+            "text": "As concerning therefore the eating of those things that are offered in sacrifice unto idols, we know that an idol is nothing in the world, and that there is none other God but one."
+        }
+    ],
+    "tone": "hopeful"
+}

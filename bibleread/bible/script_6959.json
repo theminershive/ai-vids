@@ -1,0 +1,23 @@
+{
+    "book": "John",
+    "chapter": "Chapter 10",
+    "verses": [
+        {
+            "name": "John 10:14",
+            "text": "I am the good shepherd, and know my sheep, and am known of mine."
+        },
+        {
+            "name": "John 10:15",
+            "text": "As the Father knoweth me, even so know I the Father: and I lay down my life for the sheep."
+        },
+        {
+            "name": "John 10:16",
+            "text": "And other sheep I have, which are not of this fold: them also I must bring, and they shall hear my voice; and there shall be one fold, and one shepherd."
+        },
+        {
+            "name": "John 10:17",
+            "text": "Therefore doth my Father love me, because I lay down my life, that I might take it again."
+        }
+    ],
+    "tone": "hopeful"
+}

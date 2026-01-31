@@ -1,0 +1,23 @@
+{
+    "book": "Colossians",
+    "chapter": "Chapter 1",
+    "verses": [
+        {
+            "name": "Colossians 1:25",
+            "text": "Whereof I am made a minister, according to the dispensation of God which is given to me for you, to fulfil the word of God;"
+        },
+        {
+            "name": "Colossians 1:26",
+            "text": "Even the mystery which hath been hid from ages and from generations, but now is made manifest to his saints:"
+        },
+        {
+            "name": "Colossians 1:27",
+            "text": "To whom God would make known what is the riches of the glory of this mystery among the Gentiles; which is Christ in you, the hope of glory:"
+        },
+        {
+            "name": "Colossians 1:28",
+            "text": "Whom we preach, warning every man, and teaching every man in all wisdom; that we may present every man perfect in Christ Jesus:"
+        }
+    ],
+    "tone": "hopeful"
+}

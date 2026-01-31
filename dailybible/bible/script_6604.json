@@ -1,0 +1,23 @@
+{
+    "book": "Luke",
+    "chapter": "Chapter 2",
+    "verses": [
+        {
+            "name": "Luke 2:39",
+            "text": "And when they had performed all things according to the law of the Lord, they returned into Galilee, to their own city Nazareth."
+        },
+        {
+            "name": "Luke 2:40",
+            "text": "And the child grew, and waxed strong in spirit, filled with wisdom: and the grace of God was upon him."
+        },
+        {
+            "name": "Luke 2:41",
+            "text": "Now his parents went to Jerusalem every year at the feast of the passover."
+        },
+        {
+            "name": "Luke 2:42",
+            "text": "And when he was twelve years old, they went up to Jerusalem after the custom of the feast."
+        }
+    ],
+    "tone": "neutral"
+}

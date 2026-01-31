@@ -1,0 +1,19 @@
+{
+    "book": "Ecclesiastes",
+    "chapter": "Chapter 8",
+    "verses": [
+        {
+            "name": "Ecclesiastes 8:9",
+            "text": "All this have I seen, and applied my heart unto every work that is done under the sun: there is a time wherein one man ruleth over another to his own hurt."
+        },
+        {
+            "name": "Ecclesiastes 8:10",
+            "text": "And so I saw the wicked buried, who had come and gone from the place of the holy, and they were forgotten in the city where they had so done: this is also vanity."
+        },
+        {
+            "name": "Ecclesiastes 8:11",
+            "text": "Because sentence against an evil work is not executed speedily, therefore the heart of the sons of men is fully set in them to do evil."
+        }
+    ],
+    "tone": "neutral"
+}

@@ -1,0 +1,23 @@
+{
+    "book": "Ephesians",
+    "chapter": "Chapter 5",
+    "verses": [
+        {
+            "name": "Ephesians 5:23",
+            "text": "For the husband is the head of the wife, even as Christ is the head of the church: and he is the saviour of the body."
+        },
+        {
+            "name": "Ephesians 5:24",
+            "text": "Therefore as the church is subject unto Christ, so let the wives be to their own husbands in every thing."
+        },
+        {
+            "name": "Ephesians 5:25",
+            "text": "Husbands, love your wives, even as Christ also loved the church, and gave himself for it;"
+        },
+        {
+            "name": "Ephesians 5:26",
+            "text": "That he might sanctify and cleanse it with the washing of water by the word,"
+        }
+    ],
+    "tone": "hopeful"
+}

@@ -1,0 +1,19 @@
+{
+    "book": "Acts",
+    "chapter": "Chapter 2",
+    "verses": [
+        {
+            "name": "Acts 2:37",
+            "text": "Now when they heard this, they were pricked in their heart, and said unto Peter and to the rest of the apostles, Men and brethren, what shall we do?"
+        },
+        {
+            "name": "Acts 2:38",
+            "text": "Then Peter said unto them, Repent, and be baptized every one of you in the name of Jesus Christ for the remission of sins, and ye shall receive the gift of the Holy Ghost."
+        },
+        {
+            "name": "Acts 2:39",
+            "text": "For the promise is unto you, and to your children, and to all that are afar off, even as many as the Lord our God shall call."
+        }
+    ],
+    "tone": "neutral"
+}

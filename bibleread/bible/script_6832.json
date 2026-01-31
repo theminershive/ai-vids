@@ -1,0 +1,23 @@
+{
+    "book": "Luke",
+    "chapter": "Chapter 22",
+    "verses": [
+        {
+            "name": "Luke 22:55",
+            "text": "And when they had kindled a fire in the midst of the hall, and were set down together, Peter sat down among them."
+        },
+        {
+            "name": "Luke 22:56",
+            "text": "But a certain maid beheld him as he sat by the fire, and earnestly looked upon him, and said, This man was also with him."
+        },
+        {
+            "name": "Luke 22:57",
+            "text": "And he denied him, saying, Woman, I know him not."
+        },
+        {
+            "name": "Luke 22:58",
+            "text": "And after a little while another saw him, and said, Thou art also of them. And Peter said, Man, I am not."
+        }
+    ],
+    "tone": "lamenting"
+}

@@ -1,0 +1,19 @@
+{
+    "book": "Deuteronomy",
+    "chapter": "Chapter 28",
+    "verses": [
+        {
+            "name": "Deuteronomy 28:64",
+            "text": "And the Lord shall scatter thee among all people, from the one end of the earth even unto the other; and there thou shalt serve other gods, which neither thou nor thy fathers have known, even wood and stone."
+        },
+        {
+            "name": "Deuteronomy 28:65",
+            "text": "And among these nations shalt thou find no ease, neither shall the sole of thy foot have rest: but the Lord shall give thee there a trembling heart, and failing of eyes, and sorrow of mind:"
+        },
+        {
+            "name": "Deuteronomy 28:66",
+            "text": "And thy life shall hang in doubt before thee; and thou shalt fear day and night, and shalt have none assurance of thy life:"
+        }
+    ],
+    "tone": "lamenting"
+}

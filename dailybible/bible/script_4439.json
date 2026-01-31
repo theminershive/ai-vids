@@ -1,0 +1,19 @@
+{
+    "book": "Ecclesiastes",
+    "chapter": "Chapter 5",
+    "verses": [
+        {
+            "name": "Ecclesiastes 5:8",
+            "text": "If thou seest the oppression of the poor, and violent perverting of judgment and justice in a province, marvel not at the matter: for he that is higher than the highest regardeth; and there be higher than they."
+        },
+        {
+            "name": "Ecclesiastes 5:9",
+            "text": "Moreover the profit of the earth is for all: the king himself is served by the field."
+        },
+        {
+            "name": "Ecclesiastes 5:10",
+            "text": "He that loveth silver shall not be satisfied with silver; nor he that loveth abundance with increase: this is also vanity."
+        }
+    ],
+    "tone": "lamenting"
+}

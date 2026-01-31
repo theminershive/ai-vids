@@ -1,0 +1,23 @@
+{
+    "book": "Joshua",
+    "chapter": "Chapter 24",
+    "verses": [
+        {
+            "name": "Joshua 24:19",
+            "text": "And Joshua said unto the people, Ye cannot serve the Lord: for he is an holy God; he is a jealous God; he will not forgive your transgressions nor your sins."
+        },
+        {
+            "name": "Joshua 24:20",
+            "text": "If ye forsake the Lord, and serve strange gods, then he will turn and do you hurt, and consume you, after that he hath done you good."
+        },
+        {
+            "name": "Joshua 24:21",
+            "text": "And the people said unto Joshua, Nay; but we will serve the Lord."
+        },
+        {
+            "name": "Joshua 24:22",
+            "text": "And Joshua said unto the people, Ye are witnesses against yourselves that ye have chosen you the Lord, to serve him. And they said, We are witnesses."
+        }
+    ],
+    "tone": "neutral"
+}

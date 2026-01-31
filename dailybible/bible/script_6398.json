@@ -1,0 +1,23 @@
+{
+    "book": "Matthew",
+    "chapter": "Chapter 27",
+    "verses": [
+        {
+            "name": "Matthew 27:9",
+            "text": "Then was fulfilled that which was spoken by Jeremy the prophet, saying, And they took the thirty pieces of silver, the price of him that was valued, whom they of the children of Israel did value;"
+        },
+        {
+            "name": "Matthew 27:10",
+            "text": "And gave them for the potter\u2019s field, as the Lord appointed me."
+        },
+        {
+            "name": "Matthew 27:11",
+            "text": "And Jesus stood before the governor: and the governor asked him, saying, Art thou the King of the Jews? And Jesus said unto him, Thou sayest."
+        },
+        {
+            "name": "Matthew 27:12",
+            "text": "And when he was accused of the chief priests and elders, he answered nothing."
+        }
+    ],
+    "tone": "neutral"
+}

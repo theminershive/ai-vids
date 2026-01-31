@@ -1,0 +1,15 @@
+{
+    "book": "Genesis",
+    "chapter": "Chapter 3",
+    "verses": [
+        {
+            "name": "Genesis 3:14",
+            "text": "And the Lord God said unto the serpent, Because thou hast done this, thou art cursed above all cattle, and above every beast of the field; upon thy belly shalt thou go, and dust shalt thou eat all the days of thy life:"
+        },
+        {
+            "name": "Genesis 3:15",
+            "text": "And I will put enmity between thee and the woman, and between thy seed and her seed; it shall bruise thy head, and thou shalt bruise his heel."
+        }
+    ],
+    "tone": "neutral"
+}

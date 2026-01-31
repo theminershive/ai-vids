@@ -1,0 +1,43 @@
+{
+    "book": "1 Chronicles",
+    "chapter": "Chapter 6",
+    "verses": [
+        {
+            "name": "1 Chronicles 6:1",
+            "text": "The sons of Levi; Gershon, Kohath, and Merari."
+        },
+        {
+            "name": "1 Chronicles 6:2",
+            "text": "And the sons of Kohath; Amram, Izhar, and Hebron, and Uzziel."
+        },
+        {
+            "name": "1 Chronicles 6:3",
+            "text": "And the children of Amram; Aaron, and Moses, and Miriam. The sons also of Aaron; Nadab, and Abihu, Eleazar, and Ithamar."
+        },
+        {
+            "name": "1 Chronicles 6:4",
+            "text": "Eleazar begat Phinehas, Phinehas begat Abishua,"
+        },
+        {
+            "name": "1 Chronicles 6:5",
+            "text": "And Abishua begat Bukki, and Bukki begat Uzzi,"
+        },
+        {
+            "name": "1 Chronicles 6:6",
+            "text": "And Uzzi begat Zerahiah, and Zerahiah begat Meraioth,"
+        },
+        {
+            "name": "1 Chronicles 6:7",
+            "text": "Meraioth begat Amariah, and Amariah begat Ahitub,"
+        },
+        {
+            "name": "1 Chronicles 6:8",
+            "text": "And Ahitub begat Zadok, and Zadok begat Ahimaaz,"
+        },
+        {
+            "name": "1 Chronicles 6:9",
+            "text": "And Ahimaaz begat Azariah, and Azariah begat Johanan,"
+        }
+    ],
+    "tone": "neutral"
+}

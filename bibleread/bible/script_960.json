@@ -1,0 +1,19 @@
+{
+    "book": "Leviticus",
+    "chapter": "Chapter 25",
+    "verses": [
+        {
+            "name": "Leviticus 25:10",
+            "text": "And ye shall hallow the fiftieth year, and proclaim liberty throughout all the land unto all the inhabitants thereof: it shall be a jubile unto you; and ye shall return every man unto his possession, and ye shall return every man unto his family."
+        },
+        {
+            "name": "Leviticus 25:11",
+            "text": "A jubile shall that fiftieth year be unto you: ye shall not sow, neither reap that which groweth of itself in it, nor gather the grapes in it of thy vine undressed."
+        },
+        {
+            "name": "Leviticus 25:12",
+            "text": "For it is the jubile; it shall be holy unto you: ye shall eat the increase thereof out of the field."
+        }
+    ],
+    "tone": "instructional"
+}

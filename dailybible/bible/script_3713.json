@@ -1,0 +1,23 @@
+{
+    "book": "Job",
+    "chapter": "Chapter 16",
+    "verses": [
+        {
+            "name": "Job 16:7",
+            "text": "But now he hath made me weary: thou hast made desolate all my company."
+        },
+        {
+            "name": "Job 16:8",
+            "text": "And thou hast filled me with wrinkles, which is a witness against me: and my leanness rising up in me beareth witness to my face."
+        },
+        {
+            "name": "Job 16:9",
+            "text": "He teareth me in his wrath, who hateth me: he gnasheth upon me with his teeth; mine enemy sharpeneth his eyes upon me."
+        },
+        {
+            "name": "Job 16:10",
+            "text": "They have gaped upon me with their mouth; they have smitten me upon the cheek reproachfully; they have gathered themselves together against me."
+        }
+    ],
+    "tone": "lamenting"
+}

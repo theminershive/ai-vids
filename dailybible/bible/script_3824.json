@@ -1,0 +1,31 @@
+{
+    "book": "Job",
+    "chapter": "Chapter 41",
+    "verses": [
+        {
+            "name": "Job 41:1",
+            "text": "Canst thou draw out leviathan with an hook? or his tongue with a cord which thou lettest down?"
+        },
+        {
+            "name": "Job 41:2",
+            "text": "Canst thou put an hook into his nose? or bore his jaw through with a thorn?"
+        },
+        {
+            "name": "Job 41:3",
+            "text": "Will he make many supplications unto thee? will he speak soft words unto thee?"
+        },
+        {
+            "name": "Job 41:4",
+            "text": "Will he make a covenant with thee? wilt thou take him for a servant for ever?"
+        },
+        {
+            "name": "Job 41:5",
+            "text": "Wilt thou play with him as with a bird? or wilt thou bind him for thy maidens?"
+        },
+        {
+            "name": "Job 41:6",
+            "text": "Shall the companions make a banquet of him? shall they part him among the merchants?"
+        }
+    ],
+    "tone": "hopeful"
+}

@@ -1,0 +1,19 @@
+{
+    "book": "1 Kings",
+    "chapter": "Chapter 13",
+    "verses": [
+        {
+            "name": "1 Kings 13:7",
+            "text": "And the king said unto the man of God, Come home with me, and refresh thyself, and I will give thee a reward."
+        },
+        {
+            "name": "1 Kings 13:8",
+            "text": "And the man of God said unto the king, If thou wilt give me half thine house, I will not go in with thee, neither will I eat bread nor drink water in this place:"
+        },
+        {
+            "name": "1 Kings 13:9",
+            "text": "For so was it charged me by the word of the Lord, saying, Eat no bread, nor drink water, nor turn again by the same way that thou camest."
+        }
+    ],
+    "tone": "neutral"
+}

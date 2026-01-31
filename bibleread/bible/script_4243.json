@@ -1,0 +1,27 @@
+{
+    "book": "Psalms",
+    "chapter": "Chapter 144",
+    "verses": [
+        {
+            "name": "Psalms 144:1",
+            "text": "Blessed be the Lord my strength, which teacheth my hands to war, and my fingers to fight:"
+        },
+        {
+            "name": "Psalms 144:2",
+            "text": "My goodness, and my fortress; my high tower, and my deliverer; my shield, and he in whom I trust; who subdueth my people under me."
+        },
+        {
+            "name": "Psalms 144:3",
+            "text": "Lord, what is man, that thou takest knowledge of him! or the son of man, that thou makest account of him!"
+        },
+        {
+            "name": "Psalms 144:4",
+            "text": "Man is like to vanity: his days are as a shadow that passeth away."
+        },
+        {
+            "name": "Psalms 144:5",
+            "text": "Bow thy heavens, O Lord, and come down: touch the mountains, and they shall smoke."
+        }
+    ],
+    "tone": "neutral"
+}

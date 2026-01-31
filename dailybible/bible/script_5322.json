@@ -1,0 +1,15 @@
+{
+    "book": "Lamentations",
+    "chapter": "Chapter 2",
+    "verses": [
+        {
+            "name": "Lamentations 2:1",
+            "text": "How hath the Lord covered the daughter of Zion with a cloud in his anger, and cast down from heaven unto the earth the beauty of Israel, and remembered not his footstool in the day of his anger!"
+        },
+        {
+            "name": "Lamentations 2:2",
+            "text": "The Lord hath swallowed up all the habitations of Jacob, and hath not pitied: he hath thrown down in his wrath the strong holds of the daughter of Judah; he hath brought them down to the ground: he hath polluted the kingdom and the princes thereof."
+        }
+    ],
+    "tone": "lamenting"
+}

@@ -1,0 +1,19 @@
+{
+    "book": "Ruth",
+    "chapter": "Chapter 3",
+    "verses": [
+        {
+            "name": "Ruth 3:7",
+            "text": "And when Boaz had eaten and drunk, and his heart was merry, he went to lie down at the end of the heap of corn: and she came softly, and uncovered his feet, and laid her down."
+        },
+        {
+            "name": "Ruth 3:8",
+            "text": "And it came to pass at midnight, that the man was afraid, and turned himself: and, behold, a woman lay at his feet."
+        },
+        {
+            "name": "Ruth 3:9",
+            "text": "And he said, Who art thou? And she answered, I am Ruth thine handmaid: spread therefore thy skirt over thine handmaid; for thou art a near kinsman."
+        }
+    ],
+    "tone": "neutral"
+}

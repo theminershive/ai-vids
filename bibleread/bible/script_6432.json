@@ -1,0 +1,19 @@
+{
+    "book": "Mark",
+    "chapter": "Chapter 2",
+    "verses": [
+        {
+            "name": "Mark 2:24",
+            "text": "And the Pharisees said unto him, Behold, why do they on the sabbath day that which is not lawful?"
+        },
+        {
+            "name": "Mark 2:25",
+            "text": "And he said unto them, Have ye never read what David did, when he had need, and was an hungred, he, and they that were with him?"
+        },
+        {
+            "name": "Mark 2:26",
+            "text": "How he went into the house of God in the days of Abiathar the high priest, and did eat the shewbread, which is not lawful to eat but for the priests, and gave also to them which were with him?"
+        }
+    ],
+    "tone": "neutral"
+}

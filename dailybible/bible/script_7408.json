@@ -1,0 +1,27 @@
+{
+    "book": "Romans",
+    "chapter": "Chapter 15",
+    "verses": [
+        {
+            "name": "Romans 15:6",
+            "text": "That ye may with one mind and one mouth glorify God, even the Father of our Lord Jesus Christ."
+        },
+        {
+            "name": "Romans 15:7",
+            "text": "Wherefore receive ye one another, as Christ also received us to the glory of God."
+        },
+        {
+            "name": "Romans 15:8",
+            "text": "Now I say that Jesus Christ was a minister of the circumcision for the truth of God, to confirm the promises made unto the fathers:"
+        },
+        {
+            "name": "Romans 15:9",
+            "text": "And that the Gentiles might glorify God for his mercy; as it is written, For this cause I will confess to thee among the Gentiles, and sing unto thy name."
+        },
+        {
+            "name": "Romans 15:10",
+            "text": "And again he saith, Rejoice, ye Gentiles, with his people."
+        }
+    ],
+    "tone": "praising"
+}

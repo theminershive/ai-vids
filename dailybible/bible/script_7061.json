@@ -1,0 +1,19 @@
+{
+    "book": "Acts",
+    "chapter": "Chapter 1",
+    "verses": [
+        {
+            "name": "Acts 1:1",
+            "text": "The former treatise have I made, O Theophilus, of all that Jesus began both to do and teach,"
+        },
+        {
+            "name": "Acts 1:2",
+            "text": "Until the day in which he was taken up, after that he through the Holy Ghost had given commandments unto the apostles whom he had chosen:"
+        },
+        {
+            "name": "Acts 1:3",
+            "text": "To whom also he shewed himself alive after his passion by many infallible proofs, being seen of them forty days, and speaking of the things pertaining to the kingdom of God:"
+        }
+    ],
+    "tone": "instructional"
+}

@@ -1,0 +1,15 @@
+{
+    "book": "Joshua",
+    "chapter": "Chapter 8",
+    "verses": [
+        {
+            "name": "Joshua 8:31",
+            "text": "As Moses the servant of the Lord commanded the children of Israel, as it is written in the book of the law of Moses, an altar of whole stones, over which no man hath lift up any iron: and they offered thereon burnt offerings unto the Lord, and sacrificed peace offerings."
+        },
+        {
+            "name": "Joshua 8:32",
+            "text": "And he wrote there upon the stones a copy of the law of Moses, which he wrote in the presence of the children of Israel."
+        }
+    ],
+    "tone": "instructional"
+}

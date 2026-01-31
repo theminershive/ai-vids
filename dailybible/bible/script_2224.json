@@ -1,0 +1,19 @@
+{
+    "book": "1 Samuel",
+    "chapter": "Chapter 25",
+    "verses": [
+        {
+            "name": "1 Samuel 25:3",
+            "text": "Now the name of the man was Nabal; and the name of his wife Abigail: and she was a woman of good understanding, and of a beautiful countenance: but the man was churlish and evil in his doings; and he was of the house of Caleb."
+        },
+        {
+            "name": "1 Samuel 25:4",
+            "text": "And David heard in the wilderness that Nabal did shear his sheep."
+        },
+        {
+            "name": "1 Samuel 25:5",
+            "text": "And David sent out ten young men, and David said unto the young men, Get you up to Carmel, and go to Nabal, and greet him in my name:"
+        }
+    ],
+    "tone": "instructional"
+}

@@ -1,0 +1,23 @@
+{
+    "book": "Joshua",
+    "chapter": "Chapter 1",
+    "verses": [
+        {
+            "name": "Joshua 1:9",
+            "text": "Have not I commanded thee? Be strong and of a good courage; be not afraid, neither be thou dismayed: for the Lord thy God is with thee whithersoever thou goest."
+        },
+        {
+            "name": "Joshua 1:10",
+            "text": "Then Joshua commanded the officers of the people, saying,"
+        },
+        {
+            "name": "Joshua 1:11",
+            "text": "Pass through the host, and command the people, saying, Prepare you victuals; for within three days ye shall pass over this Jordan, to go in to possess the land, which the Lord your God giveth you to possess it."
+        },
+        {
+            "name": "Joshua 1:12",
+            "text": "And to the Reubenites, and to the Gadites, and to half the tribe of Manasseh, spake Joshua, saying,"
+        }
+    ],
+    "tone": "instructional"
+}

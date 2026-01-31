@@ -1,0 +1,27 @@
+{
+    "book": "1 Corinthians",
+    "chapter": "Chapter 1",
+    "verses": [
+        {
+            "name": "1 Corinthians 1:22",
+            "text": "For the Jews require a sign, and the Greeks seek after wisdom:"
+        },
+        {
+            "name": "1 Corinthians 1:23",
+            "text": "But we preach Christ crucified, unto the Jews a stumblingblock, and unto the Greeks foolishness;"
+        },
+        {
+            "name": "1 Corinthians 1:24",
+            "text": "But unto them which are called, both Jews and Greeks, Christ the power of God, and the wisdom of God."
+        },
+        {
+            "name": "1 Corinthians 1:25",
+            "text": "Because the foolishness of God is wiser than men; and the weakness of God is stronger than men."
+        },
+        {
+            "name": "1 Corinthians 1:26",
+            "text": "For ye see your calling, brethren, how that not many wise men after the flesh, not many mighty, not many noble, are called: "
+        }
+    ],
+    "tone": "instructional"
+}

@@ -1,0 +1,23 @@
+{
+    "book": "Luke",
+    "chapter": "Chapter 19",
+    "verses": [
+        {
+            "name": "Luke 19:6",
+            "text": "And he made haste, and came down, and received him joyfully."
+        },
+        {
+            "name": "Luke 19:7",
+            "text": "And when they saw it, they all murmured, saying, That he was gone to be guest with a man that is a sinner."
+        },
+        {
+            "name": "Luke 19:8",
+            "text": "And Zaccheus stood, and said unto the Lord; Behold, Lord, the half of my goods I give to the poor; and if I have taken any thing from any man by false accusation, I restore him fourfold."
+        },
+        {
+            "name": "Luke 19:9",
+            "text": "And Jesus said unto him, This day is salvation come to this house, forsomuch as he also is a son of Abraham."
+        }
+    ],
+    "tone": "neutral"
+}

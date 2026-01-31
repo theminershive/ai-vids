@@ -1,0 +1,23 @@
+{
+    "book": "Matthew",
+    "chapter": "Chapter 7",
+    "verses": [
+        {
+            "name": "Matthew 7:13",
+            "text": "Enter ye in at the strait gate: for wide is the gate, and broad is the way, that leadeth to destruction, and many there be which go in thereat:"
+        },
+        {
+            "name": "Matthew 7:14",
+            "text": "Because strait is the gate, and narrow is the way, which leadeth unto life, and few there be that find it."
+        },
+        {
+            "name": "Matthew 7:15",
+            "text": "Beware of false prophets, which come to you in sheep\u2019s clothing, but inwardly they are ravening wolves."
+        },
+        {
+            "name": "Matthew 7:16",
+            "text": "Ye shall know them by their fruits. Do men gather grapes of thorns, or figs of thistles?"
+        }
+    ],
+    "tone": "lamenting"
+}

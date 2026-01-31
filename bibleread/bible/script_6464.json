@@ -1,0 +1,23 @@
+{
+    "book": "Mark",
+    "chapter": "Chapter 6",
+    "verses": [
+        {
+            "name": "Mark 6:17",
+            "text": "For Herod himself had sent forth and laid hold upon John, and bound him in prison for Herodias\u2019 sake, his brother Philip\u2019s wife: for he had married her."
+        },
+        {
+            "name": "Mark 6:18",
+            "text": "For John had said unto Herod, It is not lawful for thee to have thy brother\u2019s wife."
+        },
+        {
+            "name": "Mark 6:19",
+            "text": "Therefore Herodias had a quarrel against him, and would have killed him; but she could not:"
+        },
+        {
+            "name": "Mark 6:20",
+            "text": "For Herod feared John, knowing that he was a just man and an holy, and observed him; and when he heard him, he did many things, and heard him gladly."
+        }
+    ],
+    "tone": "neutral"
+}

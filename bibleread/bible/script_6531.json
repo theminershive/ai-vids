@@ -1,0 +1,19 @@
+{
+    "book": "Mark",
+    "chapter": "Chapter 12",
+    "verses": [
+        {
+            "name": "Mark 12:25",
+            "text": "For when they shall rise from the dead, they neither marry, nor are given in marriage; but are as the angels which are in heaven."
+        },
+        {
+            "name": "Mark 12:26",
+            "text": "And as touching the dead, that they rise: have ye not read in the book of Moses, how in the bush God spake unto him, saying, I am the God of Abraham, and the God of Isaac, and the God of Jacob?"
+        },
+        {
+            "name": "Mark 12:27",
+            "text": "He is not the God of the dead, but the God of the living: ye therefore do greatly err."
+        }
+    ],
+    "tone": "hopeful"
+}

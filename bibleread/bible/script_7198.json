@@ -1,0 +1,23 @@
+{
+    "book": "Acts",
+    "chapter": "Chapter 15",
+    "verses": [
+        {
+            "name": "Acts 15:24",
+            "text": "Forasmuch as we have heard, that certain which went out from us have troubled you with words, subverting your souls, saying, Ye must be circumcised, and keep the law: to whom we gave no such commandment:"
+        },
+        {
+            "name": "Acts 15:25",
+            "text": "It seemed good unto us, being assembled with one accord, to send chosen men unto you with our beloved Barnabas and Paul,"
+        },
+        {
+            "name": "Acts 15:26",
+            "text": "Men that have hazarded their lives for the name of our Lord Jesus Christ."
+        },
+        {
+            "name": "Acts 15:27",
+            "text": "We have sent therefore Judas and Silas, who shall also tell you the same things by mouth."
+        }
+    ],
+    "tone": "neutral"
+}

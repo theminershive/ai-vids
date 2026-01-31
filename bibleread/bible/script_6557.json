@@ -1,0 +1,27 @@
+{
+    "book": "Mark",
+    "chapter": "Chapter 14",
+    "verses": [
+        {
+            "name": "Mark 14:47",
+            "text": "And one of them that stood by drew a sword, and smote a servant of the high priest, and cut off his ear."
+        },
+        {
+            "name": "Mark 14:48",
+            "text": "And Jesus answered and said unto them, Are ye come out, as against a thief, with swords and with staves to take me?"
+        },
+        {
+            "name": "Mark 14:49",
+            "text": "I was daily with you in the temple teaching, and ye took me not: but the scriptures must be fulfilled."
+        },
+        {
+            "name": "Mark 14:50",
+            "text": "And they all forsook him, and fled."
+        },
+        {
+            "name": "Mark 14:51",
+            "text": "And there followed him a certain young man, having a linen cloth cast about his naked body; and the young men laid hold on him:"
+        }
+    ],
+    "tone": "neutral"
+}

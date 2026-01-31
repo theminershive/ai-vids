@@ -1,0 +1,27 @@
+{
+    "book": "1 Corinthians",
+    "chapter": "Chapter 12",
+    "verses": [
+        {
+            "name": "1 Corinthians 12:7",
+            "text": "But the manifestation of the Spirit is given to every man to profit withal."
+        },
+        {
+            "name": "1 Corinthians 12:8",
+            "text": "For to one is given by the Spirit the word of wisdom; to another the word of knowledge by the same Spirit;"
+        },
+        {
+            "name": "1 Corinthians 12:9",
+            "text": "To another faith by the same Spirit; to another the gifts of healing by the same Spirit;"
+        },
+        {
+            "name": "1 Corinthians 12:10",
+            "text": "To another the working of miracles; to another prophecy; to another discerning of spirits; to another divers kinds of tongues; to another the interpretation of tongues:"
+        },
+        {
+            "name": "1 Corinthians 12:11",
+            "text": "But all these worketh that one and the selfsame Spirit, dividing to every man severally as he will."
+        }
+    ],
+    "tone": "hopeful"
+}

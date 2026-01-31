@@ -1,0 +1,19 @@
+{
+    "book": "1 Kings",
+    "chapter": "Chapter 1",
+    "verses": [
+        {
+            "name": "1 Kings 1:41",
+            "text": "And Adonijah and all the guests that were with him heard it as they had made an end of eating. And when Joab heard the sound of the trumpet, he said, Wherefore is this noise of the city being in an uproar?"
+        },
+        {
+            "name": "1 Kings 1:42",
+            "text": "And while he yet spake, behold, Jonathan the son of Abiathar the priest came: and Adonijah said unto him, Come in; for thou art a valiant man, and bringest good tidings."
+        },
+        {
+            "name": "1 Kings 1:43",
+            "text": "And Jonathan answered and said to Adonijah, Verily our lord king David hath made Solomon king."
+        }
+    ],
+    "tone": "neutral"
+}

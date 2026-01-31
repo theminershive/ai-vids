@@ -1,0 +1,19 @@
+{
+    "book": "Luke",
+    "chapter": "Chapter 14",
+    "verses": [
+        {
+            "name": "Luke 14:9",
+            "text": "And he that bade thee and him come and say to thee, Give this man place; and thou begin with shame to take the lowest room."
+        },
+        {
+            "name": "Luke 14:10",
+            "text": "But when thou art bidden, go and sit down in the lowest room; that when he that bade thee cometh, he may say unto thee, Friend, go up higher: then shalt thou have worship in the presence of them that sit at meat with thee."
+        },
+        {
+            "name": "Luke 14:11",
+            "text": "For whosoever exalteth himself shall be abased; and he that humbleth himself shall be exalted."
+        }
+    ],
+    "tone": "praising"
+}

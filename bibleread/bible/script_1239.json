@@ -1,0 +1,27 @@
+{
+    "book": "Numbers",
+    "chapter": "Chapter 26",
+    "verses": [
+        {
+            "name": "Numbers 26:12",
+            "text": "The sons of Simeon after their families: of Nemuel, the family of the Nemuelites: of Jamin, the family of the Jaminites: of Jachin, the family of the Jachinites:"
+        },
+        {
+            "name": "Numbers 26:13",
+            "text": "Of Zerah, the family of the Zarhites: of Shaul, the family of the Shaulites."
+        },
+        {
+            "name": "Numbers 26:14",
+            "text": "These are the families of the Simeonites, twenty and two thousand and two hundred."
+        },
+        {
+            "name": "Numbers 26:15",
+            "text": "The children of Gad after their families: of Zephon, the family of the Zephonites: of Haggi, the family of the Haggites: of Shuni, the family of the Shunites:"
+        },
+        {
+            "name": "Numbers 26:16",
+            "text": "Of Ozni, the family of the Oznites: of Eri, the family of the Erites:"
+        }
+    ],
+    "tone": "neutral"
+}

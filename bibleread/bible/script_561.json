@@ -1,0 +1,23 @@
+{
+    "book": "Exodus",
+    "chapter": "Chapter 21",
+    "verses": [
+        {
+            "name": "Exodus 21:1",
+            "text": "Now these are the judgments which thou shalt set before them."
+        },
+        {
+            "name": "Exodus 21:2",
+            "text": "If thou buy an Hebrew servant, six years he shall serve: and in the seventh he shall go out free for nothing."
+        },
+        {
+            "name": "Exodus 21:3",
+            "text": "If he came in by himself, he shall go out by himself: if he were married, then his wife shall go out with him."
+        },
+        {
+            "name": "Exodus 21:4",
+            "text": "If his master have given him a wife, and she have born him sons or daughters; the wife and her children shall be her master\u2019s, and he shall go out by himself."
+        }
+    ],
+    "tone": "hopeful"
+}

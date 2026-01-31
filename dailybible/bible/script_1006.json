@@ -1,0 +1,23 @@
+{
+    "book": "Numbers",
+    "chapter": "Chapter 2",
+    "verses": [
+        {
+            "name": "Numbers 2:1",
+            "text": "And the Lord spake unto Moses and unto Aaron, saying,"
+        },
+        {
+            "name": "Numbers 2:2",
+            "text": "Every man of the children of Israel shall pitch by his own standard, with the ensign of their father\u2019s house: far off about the tabernacle of the congregation shall they pitch."
+        },
+        {
+            "name": "Numbers 2:3",
+            "text": "And on the east side toward the rising of the sun shall they of the standard of the camp of Judah pitch throughout their armies: and Nahshon the son of Amminadab shall be captain of the children of Judah."
+        },
+        {
+            "name": "Numbers 2:4",
+            "text": "And his host, and those that were numbered of them, were threescore and fourteen thousand and six hundred."
+        }
+    ],
+    "tone": "neutral"
+}

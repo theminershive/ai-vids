@@ -1,0 +1,23 @@
+{
+    "book": "Acts",
+    "chapter": "Chapter 2",
+    "verses": [
+        {
+            "name": "Acts 2:23",
+            "text": "Him, being delivered by the determinate counsel and foreknowledge of God, ye have taken, and by wicked hands have crucified and slain:"
+        },
+        {
+            "name": "Acts 2:24",
+            "text": "Whom God hath raised up, having loosed the pains of death: because it was not possible that he should be holden of it."
+        },
+        {
+            "name": "Acts 2:25",
+            "text": "For David speaketh concerning him, I foresaw the Lord always before my face, for he is on my right hand, that I should not be moved:"
+        },
+        {
+            "name": "Acts 2:26",
+            "text": "Therefore did my heart rejoice, and my tongue was glad; moreover also my flesh shall rest in hope:"
+        }
+    ],
+    "tone": "hopeful"
+}

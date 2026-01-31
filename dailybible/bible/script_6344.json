@@ -1,0 +1,27 @@
+{
+    "book": "Matthew",
+    "chapter": "Chapter 22",
+    "verses": [
+        {
+            "name": "Matthew 22:30",
+            "text": "For in the resurrection they neither marry, nor are given in marriage, but are as the angels of God in heaven."
+        },
+        {
+            "name": "Matthew 22:31",
+            "text": "But as touching the resurrection of the dead, have ye not read that which was spoken unto you by God, saying,"
+        },
+        {
+            "name": "Matthew 22:32",
+            "text": "I am the God of Abraham, and the God of Isaac, and the God of Jacob? God is not the God of the dead, but of the living."
+        },
+        {
+            "name": "Matthew 22:33",
+            "text": "And when the multitude heard this, they were astonished at his doctrine."
+        },
+        {
+            "name": "Matthew 22:34",
+            "text": "But when the Pharisees had heard that he had put the Sadducees to silence, they were gathered together."
+        }
+    ],
+    "tone": "hopeful"
+}

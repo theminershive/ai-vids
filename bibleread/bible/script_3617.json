@@ -1,0 +1,23 @@
+{
+    "book": "Esther",
+    "chapter": "Chapter 4",
+    "verses": [
+        {
+            "name": "Esther 4:12",
+            "text": "And they told to Mordecai Esther\u2019s words."
+        },
+        {
+            "name": "Esther 4:13",
+            "text": "Then Mordecai commanded to answer Esther, Think not with thyself that thou shalt escape in the king\u2019s house, more than all the Jews."
+        },
+        {
+            "name": "Esther 4:14",
+            "text": "For if thou altogether holdest thy peace at this time, then shall there enlargement and deliverance arise to the Jews from another place; but thou and thy father\u2019s house shall be destroyed: and who knoweth whether thou art come to the kingdom for such a time as this?"
+        },
+        {
+            "name": "Esther 4:15",
+            "text": "Then Esther bade them return Mordecai this answer,"
+        }
+    ],
+    "tone": "hopeful"
+}

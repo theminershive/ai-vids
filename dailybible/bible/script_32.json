@@ -1,0 +1,35 @@
+{
+    "book": "Genesis",
+    "chapter": "Chapter 5",
+    "verses": [
+        {
+            "name": "Genesis 5:5",
+            "text": "And all the days that Adam lived were nine hundred and thirty years: and he died."
+        },
+        {
+            "name": "Genesis 5:6",
+            "text": "And Seth lived an hundred and five years, and begat Enos:"
+        },
+        {
+            "name": "Genesis 5:7",
+            "text": "And Seth lived after he begat Enos eight hundred and seven years, and begat sons and daughters:"
+        },
+        {
+            "name": "Genesis 5:8",
+            "text": "And all the days of Seth were nine hundred and twelve years: and he died."
+        },
+        {
+            "name": "Genesis 5:9",
+            "text": "And Enos lived ninety years, and begat Cainan:"
+        },
+        {
+            "name": "Genesis 5:10",
+            "text": "And Enos lived after he begat Cainan eight hundred and fifteen years, and begat sons and daughters:"
+        },
+        {
+            "name": "Genesis 5:11",
+            "text": "And all the days of Enos were nine hundred and five years: and he died."
+        }
+    ],
+    "tone": "neutral"
+}

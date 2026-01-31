@@ -1,0 +1,19 @@
+{
+    "book": "Ecclesiastes",
+    "chapter": "Chapter 2",
+    "verses": [
+        {
+            "name": "Ecclesiastes 2:11",
+            "text": "Then I looked on all the works that my hands had wrought, and on the labour that I had laboured to do: and, behold, all was vanity and vexation of spirit, and there was no profit under the sun."
+        },
+        {
+            "name": "Ecclesiastes 2:12",
+            "text": "And I turned myself to behold wisdom, and madness, and folly: for what can the man do that cometh after the king? even that which hath been already done."
+        },
+        {
+            "name": "Ecclesiastes 2:13",
+            "text": "Then I saw that wisdom excelleth folly, as far as light excelleth darkness."
+        }
+    ],
+    "tone": "instructional"
+}

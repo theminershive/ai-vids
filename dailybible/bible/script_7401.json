@@ -1,0 +1,23 @@
+{
+    "book": "Romans",
+    "chapter": "Chapter 14",
+    "verses": [
+        {
+            "name": "Romans 14:1",
+            "text": "Him that is weak in the faith receive ye, but not to doubtful disputations."
+        },
+        {
+            "name": "Romans 14:2",
+            "text": "For one believeth that he may eat all things: another, who is weak, eateth herbs."
+        },
+        {
+            "name": "Romans 14:3",
+            "text": "Let not him that eateth despise him that eateth not; and let not him which eateth not judge him that eateth: for God hath received him."
+        },
+        {
+            "name": "Romans 14:4",
+            "text": "Who art thou that judgest another man\u2019s servant? to his own master he standeth or falleth. Yea, he shall be holden up: for God is able to make him stand."
+        }
+    ],
+    "tone": "hopeful"
+}

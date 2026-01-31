@@ -1,0 +1,23 @@
+{
+    "book": "Mark",
+    "chapter": "Chapter 4",
+    "verses": [
+        {
+            "name": "Mark 4:33",
+            "text": "And with many such parables spake he the word unto them, as they were able to hear it. "
+        },
+        {
+            "name": "Mark 4:34",
+            "text": "But without a parable spake he not unto them: and when they were alone, he expounded all things to his disciples."
+        },
+        {
+            "name": "Mark 4:35",
+            "text": "And the same day, when the even was come, he saith unto them, Let us pass over unto the other side."
+        },
+        {
+            "name": "Mark 4:36",
+            "text": "And when they had sent away the multitude, they took him even as he was in the ship. And there were also with him other little ships."
+        }
+    ],
+    "tone": "lamenting"
+}

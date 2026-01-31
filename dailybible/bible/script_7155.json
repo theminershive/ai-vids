@@ -1,0 +1,23 @@
+{
+    "book": "Acts",
+    "chapter": "Chapter 10",
+    "verses": [
+        {
+            "name": "Acts 10:41",
+            "text": "Not to all the people, but unto witnesses chosen before of God, even to us, who did eat and drink with him after he rose from the dead."
+        },
+        {
+            "name": "Acts 10:42",
+            "text": "And he commanded us to preach unto the people, and to testify that it is he which was ordained of God to be the Judge of quick and dead."
+        },
+        {
+            "name": "Acts 10:43",
+            "text": "To him give all the prophets witness, that through his name whosoever believeth in him shall receive remission of sins."
+        },
+        {
+            "name": "Acts 10:44",
+            "text": "While Peter yet spake these words, the Holy Ghost fell on all them which heard the word."
+        }
+    ],
+    "tone": "instructional"
+}

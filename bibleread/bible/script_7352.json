@@ -1,0 +1,27 @@
+{
+    "book": "Romans",
+    "chapter": "Chapter 6",
+    "verses": [
+        {
+            "name": "Romans 6:5",
+            "text": "For if we have been planted together in the likeness of his death, we shall be also in the likeness of his resurrection:"
+        },
+        {
+            "name": "Romans 6:6",
+            "text": "Knowing this, that our old man is crucified with him, that the body of sin might be destroyed, that henceforth we should not serve sin."
+        },
+        {
+            "name": "Romans 6:7",
+            "text": "For he that is dead is freed from sin."
+        },
+        {
+            "name": "Romans 6:8",
+            "text": "Now if we be dead with Christ, we believe that we shall also live with him:"
+        },
+        {
+            "name": "Romans 6:9",
+            "text": "Knowing that Christ being raised from the dead dieth no more; death hath no more dominion over him."
+        }
+    ],
+    "tone": "lamenting"
+}

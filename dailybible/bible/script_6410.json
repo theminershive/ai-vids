@@ -1,0 +1,19 @@
+{
+    "book": "Matthew",
+    "chapter": "Chapter 27",
+    "verses": [
+        {
+            "name": "Matthew 27:62",
+            "text": "Now the next day, that followed the day of the preparation, the chief priests and Pharisees came together unto Pilate,"
+        },
+        {
+            "name": "Matthew 27:63",
+            "text": "Saying, Sir, we remember that that deceiver said, while he was yet alive, After three days I will rise again."
+        },
+        {
+            "name": "Matthew 27:64",
+            "text": "Command therefore that the sepulchre be made sure until the third day, lest his disciples come by night, and steal him away, and say unto the people, He is risen from the dead: so the last error shall be worse than the first."
+        }
+    ],
+    "tone": "instructional"
+}

@@ -1,0 +1,19 @@
+{
+    "book": "Acts",
+    "chapter": "Chapter 9",
+    "verses": [
+        {
+            "name": "Acts 9:5",
+            "text": "And he said, Who art thou, Lord? And the Lord said, I am Jesus whom thou persecutest: it is hard for thee to kick against the pricks."
+        },
+        {
+            "name": "Acts 9:6",
+            "text": "And he trembling and astonished said, Lord, what wilt thou have me to do? And the Lord said unto him, Arise, and go into the city, and it shall be told thee what thou must do."
+        },
+        {
+            "name": "Acts 9:7",
+            "text": "And the men which journeyed with him stood speechless, hearing a voice, but seeing no man."
+        }
+    ],
+    "tone": "neutral"
+}

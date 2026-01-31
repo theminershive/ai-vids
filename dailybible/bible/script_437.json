@@ -1,0 +1,19 @@
+{
+    "book": "Exodus",
+    "chapter": "Chapter 5",
+    "verses": [
+        {
+            "name": "Exodus 5:21",
+            "text": "And they said unto them, The Lord look upon you, and judge; because ye have made our savour to be abhorred in the eyes of Pharaoh, and in the eyes of his servants, to put a sword in their hand to slay us."
+        },
+        {
+            "name": "Exodus 5:22",
+            "text": "And Moses returned unto the Lord, and said, Lord, wherefore hast thou so evil entreated this people? why is it that thou hast sent me?"
+        },
+        {
+            "name": "Exodus 5:23",
+            "text": "For since I came to Pharaoh to speak in thy name, he hath done evil to this people; neither hast thou delivered thy people at all. "
+        }
+    ],
+    "tone": "instructional"
+}

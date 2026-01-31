@@ -1,0 +1,19 @@
+{
+    "book": "Matthew",
+    "chapter": "Chapter 8",
+    "verses": [
+        {
+            "name": "Matthew 8:10",
+            "text": "When Jesus heard it, he marvelled, and said to them that followed, Verily I say unto you, I have not found so great faith, no, not in Israel."
+        },
+        {
+            "name": "Matthew 8:11",
+            "text": "And I say unto you, That many shall come from the east and west, and shall sit down with Abraham, and Isaac, and Jacob, in the kingdom of heaven."
+        },
+        {
+            "name": "Matthew 8:12",
+            "text": "But the children of the kingdom shall be cast out into outer darkness: there shall be weeping and gnashing of teeth."
+        }
+    ],
+    "tone": "neutral"
+}

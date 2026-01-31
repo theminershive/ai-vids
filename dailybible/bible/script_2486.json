@@ -1,0 +1,19 @@
+{
+    "book": "1 Kings",
+    "chapter": "Chapter 1",
+    "verses": [
+        {
+            "name": "1 Kings 1:18",
+            "text": "And now, behold, Adonijah reigneth; and now, my lord the king, thou knowest it not:"
+        },
+        {
+            "name": "1 Kings 1:19",
+            "text": "And he hath slain oxen and fat cattle and sheep in abundance, and hath called all the sons of the king, and Abiathar the priest, and Joab the captain of the host: but Solomon thy servant hath he not called."
+        },
+        {
+            "name": "1 Kings 1:20",
+            "text": "And thou, my lord, O king, the eyes of all Israel are upon thee, that thou shouldest tell them who shall sit on the throne of my lord the king after him."
+        }
+    ],
+    "tone": "neutral"
+}

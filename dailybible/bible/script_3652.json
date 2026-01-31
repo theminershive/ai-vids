@@ -1,0 +1,23 @@
+{
+    "book": "Job",
+    "chapter": "Chapter 1",
+    "verses": [
+        {
+            "name": "Job 1:19",
+            "text": "And, behold, there came a great wind from the wilderness, and smote the four corners of the house, and it fell upon the young men, and they are dead; and I only am escaped alone to tell thee."
+        },
+        {
+            "name": "Job 1:20",
+            "text": "Then Job arose, and rent his mantle, and shaved his head, and fell down upon the ground, and worshipped,"
+        },
+        {
+            "name": "Job 1:21",
+            "text": "And said, Naked came I out of my mother\u2019s womb, and naked shall I return thither: the Lord gave, and the Lord hath taken away; blessed be the name of the Lord."
+        },
+        {
+            "name": "Job 1:22",
+            "text": "In all this Job sinned not, nor charged God foolishly. "
+        }
+    ],
+    "tone": "hopeful"
+}

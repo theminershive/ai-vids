@@ -1,0 +1,19 @@
+{
+    "book": "Ezekiel",
+    "chapter": "Chapter 12",
+    "verses": [
+        {
+            "name": "Ezekiel 12:1",
+            "text": "The word of the Lord also came unto me, saying,"
+        },
+        {
+            "name": "Ezekiel 12:2",
+            "text": "Son of man, thou dwellest in the midst of a rebellious house, which have eyes to see, and see not; they have ears to hear, and hear not: for they are a rebellious house."
+        },
+        {
+            "name": "Ezekiel 12:3",
+            "text": "Therefore, thou son of man, prepare thee stuff for removing, and remove by day in their sight; and thou shalt remove from thy place to another place in their sight: it may be they will consider, though they be a rebellious house."
+        }
+    ],
+    "tone": "neutral"
+}

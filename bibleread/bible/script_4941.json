@@ -1,0 +1,19 @@
+{
+    "book": "Jeremiah",
+    "chapter": "Chapter 7",
+    "verses": [
+        {
+            "name": "Jeremiah 7:14",
+            "text": "Therefore will I do unto this house, which is called by my name, wherein ye trust, and unto the place which I gave to you and to your fathers, as I have done to Shiloh."
+        },
+        {
+            "name": "Jeremiah 7:15",
+            "text": "And I will cast you out of my sight, as I have cast out all your brethren, even the whole seed of Ephraim."
+        },
+        {
+            "name": "Jeremiah 7:16",
+            "text": "Therefore pray not thou for this people, neither lift up cry nor prayer for them, neither make intercession to me: for I will not hear thee."
+        }
+    ],
+    "tone": "lamenting"
+}

@@ -1,0 +1,23 @@
+{
+    "book": "Matthew",
+    "chapter": "Chapter 12",
+    "verses": [
+        {
+            "name": "Matthew 12:36",
+            "text": "But I say unto you, That every idle word that men shall speak, they shall give account thereof in the day of judgment."
+        },
+        {
+            "name": "Matthew 12:37",
+            "text": "For by thy words thou shalt be justified, and by thy words thou shalt be condemned."
+        },
+        {
+            "name": "Matthew 12:38",
+            "text": "Then certain of the scribes and of the Pharisees answered, saying, Master, we would see a sign from thee."
+        },
+        {
+            "name": "Matthew 12:39",
+            "text": "But he answered and said unto them, An evil and adulterous generation seeketh after a sign; and there shall no sign be given to it, but the sign of the prophet Jonas:"
+        }
+    ],
+    "tone": "neutral"
+}

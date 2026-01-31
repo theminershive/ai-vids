@@ -1,0 +1,19 @@
+{
+    "book": "Daniel",
+    "chapter": "Chapter 8",
+    "verses": [
+        {
+            "name": "Daniel 8:12",
+            "text": "And an host was given him against the daily sacrifice by reason of transgression, and it cast down the truth to the ground; and it practised, and prospered."
+        },
+        {
+            "name": "Daniel 8:13",
+            "text": "Then I heard one saint speaking, and another saint said unto that certain saint which spake, How long shall be the vision concerning the daily sacrifice, and the transgression of desolation, to give both the sanctuary and the host to be trodden under foot?"
+        },
+        {
+            "name": "Daniel 8:14",
+            "text": "And he said unto me, Unto two thousand and three hundred days; then shall the sanctuary be cleansed."
+        }
+    ],
+    "tone": "neutral"
+}

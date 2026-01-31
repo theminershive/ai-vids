@@ -1,0 +1,23 @@
+{
+    "book": "Romans",
+    "chapter": "Chapter 6",
+    "verses": [
+        {
+            "name": "Romans 6:1",
+            "text": "What shall we say then? Shall we continue in sin, that grace may abound?"
+        },
+        {
+            "name": "Romans 6:2",
+            "text": "God forbid. How shall we, that are dead to sin, live any longer therein?"
+        },
+        {
+            "name": "Romans 6:3",
+            "text": "Know ye not, that so many of us as were baptized into Jesus Christ were baptized into his death?"
+        },
+        {
+            "name": "Romans 6:4",
+            "text": "Therefore we are buried with him by baptism into death: that like as Christ was raised up from the dead by the glory of the Father, even so we also should walk in newness of life."
+        }
+    ],
+    "tone": "hopeful"
+}

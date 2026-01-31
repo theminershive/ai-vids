@@ -1,0 +1,19 @@
+{
+    "book": "Exodus",
+    "chapter": "Chapter 22",
+    "verses": [
+        {
+            "name": "Exodus 22:11",
+            "text": "Then shall an oath of the Lord be between them both, that he hath not put his hand unto his neighbour\u2019s goods; and the owner of it shall accept thereof, and he shall not make it good."
+        },
+        {
+            "name": "Exodus 22:12",
+            "text": "And if it be stolen from him, he shall make restitution unto the owner thereof."
+        },
+        {
+            "name": "Exodus 22:13",
+            "text": "If it be torn in pieces, then let him bring it for witness, and he shall not make good that which was torn."
+        }
+    ],
+    "tone": "lamenting"
+}

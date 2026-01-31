@@ -1,0 +1,19 @@
+{
+    "book": "Esther",
+    "chapter": "Chapter 5",
+    "verses": [
+        {
+            "name": "Esther 5:9",
+            "text": "Then went Haman forth that day joyful and with a glad heart: but when Haman saw Mordecai in the king\u2019s gate, that he stood not up, nor moved for him, he was full of indignation against Mordecai."
+        },
+        {
+            "name": "Esther 5:10",
+            "text": "Nevertheless Haman refrained himself: and when he came home, he sent and called for his friends, and Zeresh his wife."
+        },
+        {
+            "name": "Esther 5:11",
+            "text": "And Haman told them of the glory of his riches, and the multitude of his children, and all the things wherein the king had promoted him, and how he had advanced him above the princes and servants of the king."
+        }
+    ],
+    "tone": "neutral"
+}

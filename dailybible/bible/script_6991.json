@@ -1,0 +1,23 @@
+{
+    "book": "John",
+    "chapter": "Chapter 13",
+    "verses": [
+        {
+            "name": "John 13:5",
+            "text": "After that he poureth water into a bason, and began to wash the disciples\u2019 feet, and to wipe them with the towel wherewith he was girded."
+        },
+        {
+            "name": "John 13:6",
+            "text": "Then cometh he to Simon Peter: and Peter saith unto him, Lord, dost thou wash my feet?"
+        },
+        {
+            "name": "John 13:7",
+            "text": "Jesus answered and said unto him, What I do thou knowest not now; but thou shalt know hereafter."
+        },
+        {
+            "name": "John 13:8",
+            "text": "Peter saith unto him, Thou shalt never wash my feet. Jesus answered him, If I wash thee not, thou hast no part with me."
+        }
+    ],
+    "tone": "neutral"
+}

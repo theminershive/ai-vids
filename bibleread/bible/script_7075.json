@@ -1,0 +1,23 @@
+{
+    "book": "Acts",
+    "chapter": "Chapter 2",
+    "verses": [
+        {
+            "name": "Acts 2:33",
+            "text": "Therefore being by the right hand of God exalted, and having received of the Father the promise of the Holy Ghost, he hath shed forth this, which ye now see and hear."
+        },
+        {
+            "name": "Acts 2:34",
+            "text": "For David is not ascended into the heavens: but he saith himself, The Lord said unto my Lord, Sit thou on my right hand,"
+        },
+        {
+            "name": "Acts 2:35",
+            "text": "Until I make thy foes thy footstool."
+        },
+        {
+            "name": "Acts 2:36",
+            "text": "Therefore let all the house of Israel know assuredly, that God hath made that same Jesus, whom ye have crucified, both Lord and Christ."
+        }
+    ],
+    "tone": "instructional"
+}

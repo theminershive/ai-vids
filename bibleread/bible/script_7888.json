@@ -1,0 +1,23 @@
+{
+    "book": "1 Peter",
+    "chapter": "Chapter 3",
+    "verses": [
+        {
+            "name": "1 Peter 3:8",
+            "text": "Finally, be ye all of one mind, having compassion one of another, love as brethren, be pitiful, be courteous:"
+        },
+        {
+            "name": "1 Peter 3:9",
+            "text": "Not rendering evil for evil, or railing for railing: but contrariwise blessing; knowing that ye are thereunto called, that ye should inherit a blessing."
+        },
+        {
+            "name": "1 Peter 3:10",
+            "text": "For he that will love life, and see good days, let him refrain his tongue from evil, and his lips that they speak no guile:"
+        },
+        {
+            "name": "1 Peter 3:11",
+            "text": "Let him eschew evil, and do good; let him seek peace, and ensue it."
+        }
+    ],
+    "tone": "hopeful"
+}

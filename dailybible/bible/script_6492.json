@@ -1,0 +1,23 @@
+{
+    "book": "Mark",
+    "chapter": "Chapter 9",
+    "verses": [
+        {
+            "name": "Mark 9:5",
+            "text": "And Peter answered and said to Jesus, Master, it is good for us to be here: and let us make three tabernacles; one for thee, and one for Moses, and one for Elias."
+        },
+        {
+            "name": "Mark 9:6",
+            "text": "For he wist not what to say; for they were sore afraid."
+        },
+        {
+            "name": "Mark 9:7",
+            "text": "And there was a cloud that overshadowed them: and a voice came out of the cloud, saying, This is my beloved Son: hear him."
+        },
+        {
+            "name": "Mark 9:8",
+            "text": "And suddenly, when they had looked round about, they saw no man any more, save Jesus only with themselves."
+        }
+    ],
+    "tone": "neutral"
+}

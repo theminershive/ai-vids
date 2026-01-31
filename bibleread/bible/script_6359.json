@@ -1,0 +1,27 @@
+{
+    "book": "Matthew",
+    "chapter": "Chapter 24",
+    "verses": [
+        {
+            "name": "Matthew 24:14",
+            "text": "And this gospel of the kingdom shall be preached in all the world for a witness unto all nations; and then shall the end come."
+        },
+        {
+            "name": "Matthew 24:15",
+            "text": "When ye therefore shall see the abomination of desolation, spoken of by Daniel the prophet, stand in the holy place, (whoso readeth, let him understand:)"
+        },
+        {
+            "name": "Matthew 24:16",
+            "text": "Then let them which be in Judea flee into the mountains:"
+        },
+        {
+            "name": "Matthew 24:17",
+            "text": "Let him which is on the housetop not come down to take any thing out of his house:"
+        },
+        {
+            "name": "Matthew 24:18",
+            "text": "Neither let him which is in the field return back to take his clothes."
+        }
+    ],
+    "tone": "instructional"
+}

@@ -1,0 +1,27 @@
+{
+    "book": "John",
+    "chapter": "Chapter 8",
+    "verses": [
+        {
+            "name": "John 8:47",
+            "text": "He that is of God heareth God\u2019s words: ye therefore hear them not, because ye are not of God."
+        },
+        {
+            "name": "John 8:48",
+            "text": "Then answered the Jews, and said unto him, Say we not well that thou art a Samaritan, and hast a devil?"
+        },
+        {
+            "name": "John 8:49",
+            "text": "Jesus answered, I have not a devil; but I honour my Father, and ye do dishonour me."
+        },
+        {
+            "name": "John 8:50",
+            "text": "And I seek not mine own glory: there is one that seeketh and judgeth."
+        },
+        {
+            "name": "John 8:51",
+            "text": "Verily, verily, I say unto you, If a man keep my saying, he shall never see death."
+        }
+    ],
+    "tone": "neutral"
+}

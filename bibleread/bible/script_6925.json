@@ -1,0 +1,23 @@
+{
+    "book": "John",
+    "chapter": "Chapter 7",
+    "verses": [
+        {
+            "name": "John 7:17",
+            "text": "If any man will do his will, he shall know of the doctrine, whether it be of God, or whether I speak of myself."
+        },
+        {
+            "name": "John 7:18",
+            "text": "He that speaketh of himself seeketh his own glory: but he that seeketh his glory that sent him, the same is true, and no unrighteousness is in him."
+        },
+        {
+            "name": "John 7:19",
+            "text": "Did not Moses give you the law, and yet none of you keepeth the law? Why go ye about to kill me?"
+        },
+        {
+            "name": "John 7:20",
+            "text": "The people answered and said, Thou hast a devil: who goeth about to kill thee?"
+        }
+    ],
+    "tone": "hopeful"
+}

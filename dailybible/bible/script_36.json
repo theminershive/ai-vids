@@ -1,0 +1,19 @@
+{
+    "book": "Genesis",
+    "chapter": "Chapter 6",
+    "verses": [
+        {
+            "name": "Genesis 6:1",
+            "text": "And it came to pass, when men began to multiply on the face of the earth, and daughters were born unto them,"
+        },
+        {
+            "name": "Genesis 6:2",
+            "text": "That the sons of God saw the daughters of men that they were fair; and they took them wives of all which they chose."
+        },
+        {
+            "name": "Genesis 6:3",
+            "text": "And the Lord said, My spirit shall not always strive with man, for that he also is flesh: yet his days shall be an hundred and twenty years."
+        }
+    ],
+    "tone": "hopeful"
+}

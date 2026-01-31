@@ -1,0 +1,27 @@
+{
+    "book": "Luke",
+    "chapter": "Chapter 23",
+    "verses": [
+        {
+            "name": "Luke 23:14",
+            "text": "Said unto them, Ye have brought this man unto me, as one that perverteth the people: and, behold, I, having examined him before you, have found no fault in this man touching those things whereof ye accuse him:"
+        },
+        {
+            "name": "Luke 23:15",
+            "text": "No, nor yet Herod: for I sent you to him; and, lo, nothing worthy of death is done unto him."
+        },
+        {
+            "name": "Luke 23:16",
+            "text": "I will therefore chastise him, and release him. "
+        },
+        {
+            "name": "Luke 23:17",
+            "text": "(For of necessity he must release one unto them at the feast.)"
+        },
+        {
+            "name": "Luke 23:18",
+            "text": "And they cried out all at once, saying, Away with this man, and release unto us Barabbas:"
+        }
+    ],
+    "tone": "neutral"
+}

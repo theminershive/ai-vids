@@ -1,0 +1,27 @@
+{
+    "book": "Exodus",
+    "chapter": "Chapter 23",
+    "verses": [
+        {
+            "name": "Exodus 23:6",
+            "text": "Thou shalt not wrest the judgment of thy poor in his cause."
+        },
+        {
+            "name": "Exodus 23:7",
+            "text": "Keep thee far from a false matter; and the innocent and righteous slay thou not: for I will not justify the wicked."
+        },
+        {
+            "name": "Exodus 23:8",
+            "text": "And thou shalt take no gift: for the gift blindeth the wise, and perverteth the words of the righteous."
+        },
+        {
+            "name": "Exodus 23:9",
+            "text": "Also thou shalt not oppress a stranger: for ye know the heart of a stranger, seeing ye were strangers in the land of Egypt."
+        },
+        {
+            "name": "Exodus 23:10",
+            "text": "And six years thou shalt sow thy land, and shalt gather in the fruits thereof:"
+        }
+    ],
+    "tone": "lamenting"
+}

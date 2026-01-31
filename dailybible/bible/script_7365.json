@@ -1,0 +1,27 @@
+{
+    "book": "Romans",
+    "chapter": "Chapter 8",
+    "verses": [
+        {
+            "name": "Romans 8:12",
+            "text": "Therefore, brethren, we are debtors, not to the flesh, to live after the flesh."
+        },
+        {
+            "name": "Romans 8:13",
+            "text": "For if ye live after the flesh, ye shall die: but if ye through the Spirit do mortify the deeds of the body, ye shall live."
+        },
+        {
+            "name": "Romans 8:14",
+            "text": "For as many as are led by the Spirit of God, they are the sons of God."
+        },
+        {
+            "name": "Romans 8:15",
+            "text": "For ye have not received the spirit of bondage again to fear; but ye have received the Spirit of adoption, whereby we cry, Abba, Father."
+        },
+        {
+            "name": "Romans 8:16",
+            "text": "The Spirit itself beareth witness with our spirit, that we are the children of God:"
+        }
+    ],
+    "tone": "neutral"
+}

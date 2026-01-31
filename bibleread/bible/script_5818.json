@@ -1,0 +1,23 @@
+{
+    "book": "Daniel",
+    "chapter": "Chapter 8",
+    "verses": [
+        {
+            "name": "Daniel 8:18",
+            "text": "Now as he was speaking with me, I was in a deep sleep on my face toward the ground: but he touched me, and set me upright."
+        },
+        {
+            "name": "Daniel 8:19",
+            "text": "And he said, Behold, I will make thee know what shall be in the last end of the indignation: for at the time appointed the end shall be."
+        },
+        {
+            "name": "Daniel 8:20",
+            "text": "The ram which thou sawest having two horns are the kings of Media and Persia."
+        },
+        {
+            "name": "Daniel 8:21",
+            "text": "And the rough goat is the king of Grecia: and the great horn that is between his eyes is the first king."
+        }
+    ],
+    "tone": "neutral"
+}

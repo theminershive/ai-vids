@@ -1,0 +1,19 @@
+{
+    "book": "Mark",
+    "chapter": "Chapter 12",
+    "verses": [
+        {
+            "name": "Mark 12:31",
+            "text": "And the second is like, namely this, Thou shalt love thy neighbour as thyself. There is none other commandment greater than these."
+        },
+        {
+            "name": "Mark 12:32",
+            "text": "And the scribe said unto him, Well, Master, thou hast said the truth: for there is one God; and there is none other but he:"
+        },
+        {
+            "name": "Mark 12:33",
+            "text": "And to love him with all the heart, and with all the understanding, and with all the soul, and with all the strength, and to love his neighbour as himself, is more than all whole burnt offerings and sacrifices."
+        }
+    ],
+    "tone": "hopeful"
+}

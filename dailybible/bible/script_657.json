@@ -1,0 +1,27 @@
+{
+    "book": "Exodus",
+    "chapter": "Chapter 31",
+    "verses": [
+        {
+            "name": "Exodus 31:1",
+            "text": "And the Lord spake unto Moses, saying,"
+        },
+        {
+            "name": "Exodus 31:2",
+            "text": "See, I have called by name Bezaleel the son of Uri, the son of Hur, of the tribe of Judah:"
+        },
+        {
+            "name": "Exodus 31:3",
+            "text": "And I have filled him with the spirit of God, in wisdom, and in understanding, and in knowledge, and in all manner of workmanship,"
+        },
+        {
+            "name": "Exodus 31:4",
+            "text": "To devise cunning works, to work in gold, and in silver, and in brass,"
+        },
+        {
+            "name": "Exodus 31:5",
+            "text": "And in cutting of stones, to set them, and in carving of timber, to work in all manner of workmanship."
+        }
+    ],
+    "tone": "hopeful"
+}

@@ -1,0 +1,19 @@
+{
+    "book": "Nehemiah",
+    "chapter": "Chapter 9",
+    "verses": [
+        {
+            "name": "Nehemiah 9:33",
+            "text": "Howbeit thou art just in all that is brought upon us; for thou hast done right, but we have done wickedly:"
+        },
+        {
+            "name": "Nehemiah 9:34",
+            "text": "Neither have our kings, our princes, our priests, nor our fathers, kept thy law, nor hearkened unto thy commandments and thy testimonies, wherewith thou didst testify against them."
+        },
+        {
+            "name": "Nehemiah 9:35",
+            "text": "For they have not served thee in their kingdom, and in thy great goodness that thou gavest them, and in the large and fat land which thou gavest before them, neither turned they from their wicked works."
+        }
+    ],
+    "tone": "neutral"
+}

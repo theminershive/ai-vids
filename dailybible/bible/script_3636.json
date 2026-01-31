@@ -1,0 +1,19 @@
+{
+    "book": "Esther",
+    "chapter": "Chapter 9",
+    "verses": [
+        {
+            "name": "Esther 9:2",
+            "text": "The Jews gathered themselves together in their cities throughout all the provinces of the king Ahasuerus, to lay hand on such as sought their hurt: and no man could withstand them; for the fear of them fell upon all people."
+        },
+        {
+            "name": "Esther 9:3",
+            "text": "And all the rulers of the provinces, and the lieutenants, and the deputies, and officers of the king, helped the Jews; because the fear of Mordecai fell upon them."
+        },
+        {
+            "name": "Esther 9:4",
+            "text": "For Mordecai was great in the king\u2019s house, and his fame went out throughout all the provinces: for this man Mordecai waxed greater and greater."
+        }
+    ],
+    "tone": "neutral"
+}

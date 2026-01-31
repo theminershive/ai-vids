@@ -1,0 +1,19 @@
+{
+    "book": "Mark",
+    "chapter": "Chapter 9",
+    "verses": [
+        {
+            "name": "Mark 9:18",
+            "text": "And wheresoever he taketh him, he teareth him: and he foameth, and gnasheth with his teeth, and pineth away: and I spake to thy disciples that they should cast him out; and they could not."
+        },
+        {
+            "name": "Mark 9:19",
+            "text": "He answereth him, and saith, O faithless generation, how long shall I be with you? how long shall I suffer you? bring him unto me."
+        },
+        {
+            "name": "Mark 9:20",
+            "text": "And they brought him unto him: and when he saw him, straightway the spirit tare him; and he fell on the ground, and wallowed foaming."
+        }
+    ],
+    "tone": "lamenting"
+}

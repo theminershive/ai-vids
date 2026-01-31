@@ -1,0 +1,23 @@
+{
+    "book": "Acts",
+    "chapter": "Chapter 13",
+    "verses": [
+        {
+            "name": "Acts 13:34",
+            "text": "And as concerning that he raised him up from the dead, now no more to return to corruption, he said on this wise, I will give you the sure mercies of David."
+        },
+        {
+            "name": "Acts 13:35",
+            "text": "Wherefore he saith also in another psalm, Thou shalt not suffer thine Holy One to see corruption."
+        },
+        {
+            "name": "Acts 13:36",
+            "text": "For David, after he had served his own generation by the will of God, fell on sleep, and was laid unto his fathers, and saw corruption:"
+        },
+        {
+            "name": "Acts 13:37",
+            "text": "But he, whom God raised again, saw no corruption."
+        }
+    ],
+    "tone": "instructional"
+}

@@ -1,0 +1,27 @@
+{
+    "book": "Matthew",
+    "chapter": "Chapter 7",
+    "verses": [
+        {
+            "name": "Matthew 7:17",
+            "text": "Even so every good tree bringeth forth good fruit; but a corrupt tree bringeth forth evil fruit."
+        },
+        {
+            "name": "Matthew 7:18",
+            "text": "A good tree cannot bring forth evil fruit, neither can a corrupt tree bring forth good fruit."
+        },
+        {
+            "name": "Matthew 7:19",
+            "text": "Every tree that bringeth not forth good fruit is hewn down, and cast into the fire."
+        },
+        {
+            "name": "Matthew 7:20",
+            "text": "Wherefore by their fruits ye shall know them."
+        },
+        {
+            "name": "Matthew 7:21",
+            "text": "Not every one that saith unto me, Lord, Lord, shall enter into the kingdom of heaven; but he that doeth the will of my Father which is in heaven."
+        }
+    ],
+    "tone": "instructional"
+}

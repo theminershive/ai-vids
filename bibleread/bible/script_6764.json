@@ -1,0 +1,23 @@
+{
+    "book": "Luke",
+    "chapter": "Chapter 16",
+    "verses": [
+        {
+            "name": "Luke 16:4",
+            "text": "I am resolved what to do, that, when I am put out of the stewardship, they may receive me into their houses."
+        },
+        {
+            "name": "Luke 16:5",
+            "text": "So he called every one of his lord\u2019s debtors unto him, and said unto the first, How much owest thou unto my lord?"
+        },
+        {
+            "name": "Luke 16:6",
+            "text": "And he said, An hundred measures of oil. And he said unto him, Take thy bill, and sit down quickly, and write fifty."
+        },
+        {
+            "name": "Luke 16:7",
+            "text": "Then said he to another, And how much owest thou? And he said, An hundred measures of wheat. And he said unto him, Take thy bill, and write fourscore."
+        }
+    ],
+    "tone": "neutral"
+}

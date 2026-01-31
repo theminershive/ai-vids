@@ -1,0 +1,31 @@
+{
+    "book": "Psalms",
+    "chapter": "Chapter 6",
+    "verses": [
+        {
+            "name": "Psalms 6:1",
+            "text": "O Lord, rebuke me not in thine anger, neither chasten me in thy hot displeasure."
+        },
+        {
+            "name": "Psalms 6:2",
+            "text": "Have mercy upon me, O Lord; for I am weak: O Lord, heal me; for my bones are vexed."
+        },
+        {
+            "name": "Psalms 6:3",
+            "text": "My soul is also sore vexed: but thou, O Lord, how long?"
+        },
+        {
+            "name": "Psalms 6:4",
+            "text": "Return, O Lord, deliver my soul: oh save me for thy mercies\u2019 sake."
+        },
+        {
+            "name": "Psalms 6:5",
+            "text": "For in death there is no remembrance of thee: in the grave who shall give thee thanks?"
+        },
+        {
+            "name": "Psalms 6:6",
+            "text": "I am weary with my groaning; all the night make I my bed to swim; I water my couch with my tears."
+        }
+    ],
+    "tone": "lamenting"
+}

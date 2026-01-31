@@ -1,0 +1,23 @@
+{
+    "book": "Exodus",
+    "chapter": "Chapter 35",
+    "verses": [
+        {
+            "name": "Exodus 35:1",
+            "text": "And Moses gathered all the congregation of the children of Israel together, and said unto them, These are the words which the Lord hath commanded, that ye should do them."
+        },
+        {
+            "name": "Exodus 35:2",
+            "text": "Six days shall work be done, but on the seventh day there shall be to you an holy day, a sabbath of rest to the Lord: whosoever doeth work therein shall be put to death."
+        },
+        {
+            "name": "Exodus 35:3",
+            "text": "Ye shall kindle no fire throughout your habitations upon the sabbath day."
+        },
+        {
+            "name": "Exodus 35:4",
+            "text": "And Moses spake unto all the congregation of the children of Israel, saying, This is the thing which the Lord commanded, saying,"
+        }
+    ],
+    "tone": "neutral"
+}

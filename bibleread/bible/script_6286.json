@@ -1,0 +1,19 @@
+{
+    "book": "Matthew",
+    "chapter": "Chapter 16",
+    "verses": [
+        {
+            "name": "Matthew 16:1",
+            "text": "The Pharisees also with the Sadducees came, and tempting desired him that he would shew them a sign from heaven."
+        },
+        {
+            "name": "Matthew 16:2",
+            "text": "He answered and said unto them, When it is evening, ye say, It will be fair weather: for the sky is red."
+        },
+        {
+            "name": "Matthew 16:3",
+            "text": "And in the morning, It will be foul weather to day: for the sky is red and lowring. O ye hypocrites, ye can discern the face of the sky; but can ye not discern the signs of the times?"
+        }
+    ],
+    "tone": "neutral"
+}

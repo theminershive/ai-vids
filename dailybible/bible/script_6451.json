@@ -1,0 +1,27 @@
+{
+    "book": "Mark",
+    "chapter": "Chapter 5",
+    "verses": [
+        {
+            "name": "Mark 5:5",
+            "text": "And always, night and day, he was in the mountains, and in the tombs, crying, and cutting himself with stones."
+        },
+        {
+            "name": "Mark 5:6",
+            "text": "But when he saw Jesus afar off, he ran and worshipped him,"
+        },
+        {
+            "name": "Mark 5:7",
+            "text": "And cried with a loud voice, and said, What have I to do with thee, Jesus, thou Son of the most high God? I adjure thee by God, that thou torment me not."
+        },
+        {
+            "name": "Mark 5:8",
+            "text": "For he said unto him, Come out of the man, thou unclean spirit."
+        },
+        {
+            "name": "Mark 5:9",
+            "text": "And he asked him, What is thy name? And he answered, saying, My name is Legion: for we are many."
+        }
+    ],
+    "tone": "neutral"
+}

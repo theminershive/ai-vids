@@ -1,0 +1,23 @@
+{
+    "book": "Psalms",
+    "chapter": "Chapter 10",
+    "verses": [
+        {
+            "name": "Psalms 10:6",
+            "text": "He hath said in his heart, I shall not be moved: for I shall never be in adversity."
+        },
+        {
+            "name": "Psalms 10:7",
+            "text": "His mouth is full of cursing and deceit and fraud: under his tongue is mischief and vanity."
+        },
+        {
+            "name": "Psalms 10:8",
+            "text": "He sitteth in the lurking places of the villages: in the secret places doth he murder the innocent: his eyes are privily set against the poor."
+        },
+        {
+            "name": "Psalms 10:9",
+            "text": "He lieth in wait secretly as a lion in his den: he lieth in wait to catch the poor: he doth catch the poor, when he draweth him into his net."
+        }
+    ],
+    "tone": "neutral"
+}

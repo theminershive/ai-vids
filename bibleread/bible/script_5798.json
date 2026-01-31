@@ -1,0 +1,19 @@
+{
+    "book": "Daniel",
+    "chapter": "Chapter 6",
+    "verses": [
+        {
+            "name": "Daniel 6:17",
+            "text": "And a stone was brought, and laid upon the mouth of the den; and the king sealed it with his own signet, and with the signet of his lords; that the purpose might not be changed concerning Daniel."
+        },
+        {
+            "name": "Daniel 6:18",
+            "text": "Then the king went to his palace, and passed the night fasting: neither were instruments of musick brought before him: and his sleep went from him."
+        },
+        {
+            "name": "Daniel 6:19",
+            "text": "Then the king arose very early in the morning, and went in haste unto the den of lions."
+        }
+    ],
+    "tone": "neutral"
+}

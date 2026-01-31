@@ -1,0 +1,23 @@
+{
+    "book": "Luke",
+    "chapter": "Chapter 9",
+    "verses": [
+        {
+            "name": "Luke 9:39",
+            "text": "And, lo, a spirit taketh him, and he suddenly crieth out; and it teareth him that he foameth again, and bruising him hardly departeth from him."
+        },
+        {
+            "name": "Luke 9:40",
+            "text": "And I besought thy disciples to cast him out; and they could not."
+        },
+        {
+            "name": "Luke 9:41",
+            "text": "And Jesus answering said, O faithless and perverse generation, how long shall I be with you, and suffer you? Bring thy son hither."
+        },
+        {
+            "name": "Luke 9:42",
+            "text": "And as he was yet a coming, the devil threw him down, and tare him. And Jesus rebuked the unclean spirit, and healed the child, and delivered him again to his father."
+        }
+    ],
+    "tone": "lamenting"
+}

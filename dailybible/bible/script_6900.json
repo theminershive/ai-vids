@@ -1,0 +1,23 @@
+{
+    "book": "John",
+    "chapter": "Chapter 5",
+    "verses": [
+        {
+            "name": "John 5:25",
+            "text": "Verily, verily, I say unto you, The hour is coming, and now is, when the dead shall hear the voice of the Son of God: and they that hear shall live."
+        },
+        {
+            "name": "John 5:26",
+            "text": "For as the Father hath life in himself; so hath he given to the Son to have life in himself;"
+        },
+        {
+            "name": "John 5:27",
+            "text": "And hath given him authority to execute judgment also, because he is the Son of man."
+        },
+        {
+            "name": "John 5:28",
+            "text": "Marvel not at this: for the hour is coming, in the which all that are in the graves shall hear his voice,"
+        }
+    ],
+    "tone": "lamenting"
+}

@@ -1,0 +1,31 @@
+{
+    "book": "Ephesians",
+    "chapter": "Chapter 4",
+    "verses": [
+        {
+            "name": "Ephesians 4:1",
+            "text": "I therefore, the prisoner of the Lord, beseech you that ye walk worthy of the vocation wherewith ye are called,"
+        },
+        {
+            "name": "Ephesians 4:2",
+            "text": "With all lowliness and meekness, with longsuffering, forbearing one another in love;"
+        },
+        {
+            "name": "Ephesians 4:3",
+            "text": "Endeavouring to keep the unity of the Spirit in the bond of peace."
+        },
+        {
+            "name": "Ephesians 4:4",
+            "text": "There is one body, and one Spirit, even as ye are called in one hope of your calling;"
+        },
+        {
+            "name": "Ephesians 4:5",
+            "text": "One Lord, one faith, one baptism,"
+        },
+        {
+            "name": "Ephesians 4:6",
+            "text": "One God and Father of all, who is above all, and through all, and in you all."
+        }
+    ],
+    "tone": "hopeful"
+}

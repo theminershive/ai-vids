@@ -1,0 +1,19 @@
+{
+    "book": "Deuteronomy",
+    "chapter": "Chapter 17",
+    "verses": [
+        {
+            "name": "Deuteronomy 17:1",
+            "text": "Thou shalt not sacrifice unto the Lord thy God any bullock, or sheep, wherein is blemish, or any evilfavouredness: for that is an abomination unto the Lord thy God."
+        },
+        {
+            "name": "Deuteronomy 17:2",
+            "text": "If there be found among you, within any of thy gates which the Lord thy God giveth thee, man or woman, that hath wrought wickedness in the sight of the Lord thy God, in transgressing his covenant,"
+        },
+        {
+            "name": "Deuteronomy 17:3",
+            "text": "And hath gone and served other gods, and worshipped them, either the sun, or moon, or any of the host of heaven, which I have not commanded;"
+        }
+    ],
+    "tone": "hopeful"
+}

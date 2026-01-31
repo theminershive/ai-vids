@@ -1,0 +1,19 @@
+{
+    "book": "Exodus",
+    "chapter": "Chapter 3",
+    "verses": [
+        {
+            "name": "Exodus 3:4",
+            "text": "And when the Lord saw that he turned aside to see, God called unto him out of the midst of the bush, and said, Moses, Moses. And he said, Here am I."
+        },
+        {
+            "name": "Exodus 3:5",
+            "text": "And he said, Draw not nigh hither: put off thy shoes from off thy feet, for the place whereon thou standest is holy ground."
+        },
+        {
+            "name": "Exodus 3:6",
+            "text": "Moreover he said, I am the God of thy father, the God of Abraham, the God of Isaac, and the God of Jacob. And Moses hid his face; for he was afraid to look upon God."
+        }
+    ],
+    "tone": "instructional"
+}

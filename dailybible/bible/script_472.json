@@ -1,0 +1,23 @@
+{
+    "book": "Exodus",
+    "chapter": "Chapter 9",
+    "verses": [
+        {
+            "name": "Exodus 9:29",
+            "text": "And Moses said unto him, As soon as I am gone out of the city, I will spread abroad my hands unto the Lord; and the thunder shall cease, neither shall there be any more hail; that thou mayest know how that the earth is the Lord\u2019s."
+        },
+        {
+            "name": "Exodus 9:30",
+            "text": "But as for thee and thy servants, I know that ye will not yet fear the Lord God."
+        },
+        {
+            "name": "Exodus 9:31",
+            "text": "And the flax and the barley was smitten: for the barley was in the ear, and the flax was bolled."
+        },
+        {
+            "name": "Exodus 9:32",
+            "text": "But the wheat and the rie were not smitten: for they were not grown up."
+        }
+    ],
+    "tone": "neutral"
+}

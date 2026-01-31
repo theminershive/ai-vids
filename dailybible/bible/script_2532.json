@@ -1,0 +1,23 @@
+{
+    "book": "1 Kings",
+    "chapter": "Chapter 5",
+    "verses": [
+        {
+            "name": "1 Kings 5:11",
+            "text": "And Solomon gave Hiram twenty thousand measures of wheat for food to his household, and twenty measures of pure oil: thus gave Solomon to Hiram year by year."
+        },
+        {
+            "name": "1 Kings 5:12",
+            "text": "And the Lord gave Solomon wisdom, as he promised him: and there was peace between Hiram and Solomon; and they two made a league together."
+        },
+        {
+            "name": "1 Kings 5:13",
+            "text": "And king Solomon raised a levy out of all Israel; and the levy was thirty thousand men."
+        },
+        {
+            "name": "1 Kings 5:14",
+            "text": "And he sent them to Lebanon, ten thousand a month by courses: a month they were in Lebanon, and two months at home: and Adoniram was over the levy."
+        }
+    ],
+    "tone": "hopeful"
+}

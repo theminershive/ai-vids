@@ -1,0 +1,35 @@
+{
+    "book": "Psalms",
+    "chapter": "Chapter 148",
+    "verses": [
+        {
+            "name": "Psalms 148:1",
+            "text": "Praise ye the Lord. Praise ye the Lord from the heavens: praise him in the heights."
+        },
+        {
+            "name": "Psalms 148:2",
+            "text": "Praise ye him, all his angels: praise ye him, all his hosts."
+        },
+        {
+            "name": "Psalms 148:3",
+            "text": "Praise ye him, sun and moon: praise him, all ye stars of light."
+        },
+        {
+            "name": "Psalms 148:4",
+            "text": "Praise him, ye heavens of heavens, and ye waters that be above the heavens."
+        },
+        {
+            "name": "Psalms 148:5",
+            "text": "Let them praise the name of the Lord: for he commanded, and they were created."
+        },
+        {
+            "name": "Psalms 148:6",
+            "text": "He hath also stablished them for ever and ever: he hath made a decree which shall not pass."
+        },
+        {
+            "name": "Psalms 148:7",
+            "text": "Praise the Lord from the earth, ye dragons, and all deeps:"
+        }
+    ],
+    "tone": "praising"
+}

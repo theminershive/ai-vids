@@ -1,0 +1,23 @@
+{
+    "book": "John",
+    "chapter": "Chapter 18",
+    "verses": [
+        {
+            "name": "John 18:1",
+            "text": "When Jesus had spoken these words, he went forth with his disciples over the brook Cedron, where was a garden, into the which he entered, and his disciples."
+        },
+        {
+            "name": "John 18:2",
+            "text": "And Judas also, which betrayed him, knew the place: for Jesus ofttimes resorted thither with his disciples."
+        },
+        {
+            "name": "John 18:3",
+            "text": "Judas then, having received a band of men and officers from the chief priests and Pharisees, cometh thither with lanterns and torches and weapons."
+        },
+        {
+            "name": "John 18:4",
+            "text": "Jesus therefore, knowing all things that should come upon him, went forth, and said unto them, Whom seek ye?"
+        }
+    ],
+    "tone": "neutral"
+}

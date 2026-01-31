@@ -1,0 +1,19 @@
+{
+    "book": "Hosea",
+    "chapter": "Chapter 4",
+    "verses": [
+        {
+            "name": "Hosea 4:4",
+            "text": "Yet let no man strive, nor reprove another: for thy people are as they that strive with the priest."
+        },
+        {
+            "name": "Hosea 4:5",
+            "text": "Therefore shalt thou fall in the day, and the prophet also shall fall with thee in the night, and I will destroy thy mother."
+        },
+        {
+            "name": "Hosea 4:6",
+            "text": "My people are destroyed for lack of knowledge: because thou hast rejected knowledge, I will also reject thee, that thou shalt be no priest to me: seeing thou hast forgotten the law of thy God, I will also forget thy children."
+        }
+    ],
+    "tone": "neutral"
+}

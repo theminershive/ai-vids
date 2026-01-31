@@ -1,0 +1,19 @@
+{
+    "book": "Luke",
+    "chapter": "Chapter 13",
+    "verses": [
+        {
+            "name": "Luke 13:31",
+            "text": "The same day there came certain of the Pharisees, saying unto him, Get thee out, and depart hence: for Herod will kill thee."
+        },
+        {
+            "name": "Luke 13:32",
+            "text": "And he said unto them, Go ye, and tell that fox, Behold, I cast out devils, and I do cures to day and to morrow, and the third day I shall be perfected."
+        },
+        {
+            "name": "Luke 13:33",
+            "text": "Nevertheless I must walk to day, and to morrow, and the day following: for it cannot be that a prophet perish out of Jerusalem."
+        }
+    ],
+    "tone": "neutral"
+}

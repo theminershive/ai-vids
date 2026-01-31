@@ -1,0 +1,19 @@
+{
+    "book": "Mark",
+    "chapter": "Chapter 6",
+    "verses": [
+        {
+            "name": "Mark 6:1",
+            "text": "And he went out from thence, and came into his own country; and his disciples follow him."
+        },
+        {
+            "name": "Mark 6:2",
+            "text": "And when the sabbath day was come, he began to teach in the synagogue: and many hearing him were astonished, saying, From whence hath this man these things? and what wisdom is this which is given unto him, that even such mighty works are wrought by his hands?"
+        },
+        {
+            "name": "Mark 6:3",
+            "text": "Is not this the carpenter, the son of Mary, the brother of James, and Joses, and of Juda, and Simon? and are not his sisters here with us? And they were offended at him."
+        }
+    ],
+    "tone": "instructional"
+}

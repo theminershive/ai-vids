@@ -1,0 +1,19 @@
+{
+    "book": "Leviticus",
+    "chapter": "Chapter 26",
+    "verses": [
+        {
+            "name": "Leviticus 26:13",
+            "text": "I am the Lord your God, which brought you forth out of the land of Egypt, that ye should not be their bondmen; and I have broken the bands of your yoke, and made you go upright."
+        },
+        {
+            "name": "Leviticus 26:14",
+            "text": "But if ye will not hearken unto me, and will not do all these commandments;"
+        },
+        {
+            "name": "Leviticus 26:15",
+            "text": "And if ye shall despise my statutes, or if your soul abhor my judgments, so that ye will not do all my commandments, but that ye break my covenant:"
+        }
+    ],
+    "tone": "neutral"
+}

@@ -1,0 +1,23 @@
+{
+    "book": "Hebrews",
+    "chapter": "Chapter 1",
+    "verses": [
+        {
+            "name": "Hebrews 1:8",
+            "text": "But unto the Son he saith, Thy throne, O God, is for ever and ever: a sceptre of righteousness is the sceptre of thy kingdom."
+        },
+        {
+            "name": "Hebrews 1:9",
+            "text": "Thou hast loved righteousness, and hated iniquity; therefore God, even thy God, hath anointed thee with the oil of gladness above thy fellows."
+        },
+        {
+            "name": "Hebrews 1:10",
+            "text": "And, Thou, Lord, in the beginning hast laid the foundation of the earth; and the heavens are the works of thine hands:"
+        },
+        {
+            "name": "Hebrews 1:11",
+            "text": "They shall perish; but thou remainest; and they all shall wax old as doth a garment;"
+        }
+    ],
+    "tone": "instructional"
+}

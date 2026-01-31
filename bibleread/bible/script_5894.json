@@ -1,0 +1,19 @@
+{
+    "book": "Hosea",
+    "chapter": "Chapter 10",
+    "verses": [
+        {
+            "name": "Hosea 10:1",
+            "text": "Israel is an empty vine, he bringeth forth fruit unto himself: according to the multitude of his fruit he hath increased the altars; according to the goodness of his land they have made goodly images."
+        },
+        {
+            "name": "Hosea 10:2",
+            "text": "Their heart is divided; now shall they be found faulty: he shall break down their altars, he shall spoil their images."
+        },
+        {
+            "name": "Hosea 10:3",
+            "text": "For now they shall say, We have no king, because we feared not the Lord; what then should a king do to us?"
+        }
+    ],
+    "tone": "neutral"
+}

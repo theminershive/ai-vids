@@ -1,0 +1,19 @@
+{
+    "book": "Ecclesiastes",
+    "chapter": "Chapter 2",
+    "verses": [
+        {
+            "name": "Ecclesiastes 2:17",
+            "text": "Therefore I hated life; because the work that is wrought under the sun is grievous unto me: for all is vanity and vexation of spirit."
+        },
+        {
+            "name": "Ecclesiastes 2:18",
+            "text": "Yea, I hated all my labour which I had taken under the sun: because I should leave it unto the man that shall be after me."
+        },
+        {
+            "name": "Ecclesiastes 2:19",
+            "text": "And who knoweth whether he shall be a wise man or a fool? yet shall he have rule over all my labour wherein I have laboured, and wherein I have shewed myself wise under the sun. This is also vanity."
+        }
+    ],
+    "tone": "lamenting"
+}

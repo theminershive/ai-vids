@@ -1,0 +1,23 @@
+{
+    "book": "Acts",
+    "chapter": "Chapter 3",
+    "verses": [
+        {
+            "name": "Acts 3:6",
+            "text": "Then Peter said, Silver and gold have I none; but such as I have give I thee: In the name of Jesus Christ of Nazareth rise up and walk."
+        },
+        {
+            "name": "Acts 3:7",
+            "text": "And he took him by the right hand, and lifted him up: and immediately his feet and ankle bones received strength."
+        },
+        {
+            "name": "Acts 3:8",
+            "text": "And he leaping up stood, and walked, and entered with them into the temple, walking, and leaping, and praising God."
+        },
+        {
+            "name": "Acts 3:9",
+            "text": "And all the people saw him walking and praising God:"
+        }
+    ],
+    "tone": "neutral"
+}

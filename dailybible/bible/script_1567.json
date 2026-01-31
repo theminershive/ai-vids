@@ -1,0 +1,19 @@
+{
+    "book": "Deuteronomy",
+    "chapter": "Chapter 28",
+    "verses": [
+        {
+            "name": "Deuteronomy 28:48",
+            "text": "Therefore shalt thou serve thine enemies which the Lord shall send against thee, in hunger, and in thirst, and in nakedness, and in want of all things: and he shall put a yoke of iron upon thy neck, until he have destroyed thee."
+        },
+        {
+            "name": "Deuteronomy 28:49",
+            "text": "The Lord shall bring a nation against thee from far, from the end of the earth, as swift as the eagle flieth; a nation whose tongue thou shalt not understand;"
+        },
+        {
+            "name": "Deuteronomy 28:50",
+            "text": "A nation of fierce countenance, which shall not regard the person of the old, nor shew favour to the young:"
+        }
+    ],
+    "tone": "lamenting"
+}

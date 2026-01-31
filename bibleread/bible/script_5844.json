@@ -1,0 +1,19 @@
+{
+    "book": "Daniel",
+    "chapter": "Chapter 11",
+    "verses": [
+        {
+            "name": "Daniel 11:12",
+            "text": "And when he hath taken away the multitude, his heart shall be lifted up; and he shall cast down many ten thousands: but he shall not be strengthened by it."
+        },
+        {
+            "name": "Daniel 11:13",
+            "text": "For the king of the north shall return, and shall set forth a multitude greater than the former, and shall certainly come after certain years with a great army and with much riches."
+        },
+        {
+            "name": "Daniel 11:14",
+            "text": "And in those times there shall many stand up against the king of the south: also the robbers of thy people shall exalt themselves to establish the vision; but they shall fall."
+        }
+    ],
+    "tone": "neutral"
+}

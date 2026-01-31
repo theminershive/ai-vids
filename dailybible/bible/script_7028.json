@@ -1,0 +1,19 @@
+{
+    "book": "John",
+    "chapter": "Chapter 18",
+    "verses": [
+        {
+            "name": "John 18:14",
+            "text": "Now Caiaphas was he, which gave counsel to the Jews, that it was expedient that one man should die for the people."
+        },
+        {
+            "name": "John 18:15",
+            "text": "And Simon Peter followed Jesus, and so did another disciple: that disciple was known unto the high priest, and went in with Jesus into the palace of the high priest."
+        },
+        {
+            "name": "John 18:16",
+            "text": "But Peter stood at the door without. Then went out that other disciple, which was known unto the high priest, and spake unto her that kept the door, and brought in Peter."
+        }
+    ],
+    "tone": "neutral"
+}

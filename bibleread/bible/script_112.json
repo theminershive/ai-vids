@@ -1,0 +1,23 @@
+{
+    "book": "Genesis",
+    "chapter": "Chapter 18",
+    "verses": [
+        {
+            "name": "Genesis 18:22",
+            "text": "And the men turned their faces from thence, and went toward Sodom: but Abraham stood yet before the Lord."
+        },
+        {
+            "name": "Genesis 18:23",
+            "text": "And Abraham drew near, and said, Wilt thou also destroy the righteous with the wicked?"
+        },
+        {
+            "name": "Genesis 18:24",
+            "text": "Peradventure there be fifty righteous within the city: wilt thou also destroy and not spare the place for the fifty righteous that are therein?"
+        },
+        {
+            "name": "Genesis 18:25",
+            "text": "That be far from thee to do after this manner, to slay the righteous with the wicked: and that the righteous should be as the wicked, that be far from thee: Shall not the Judge of all the earth do right?"
+        }
+    ],
+    "tone": "neutral"
+}

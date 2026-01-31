@@ -1,0 +1,31 @@
+{
+    "book": "Mark",
+    "chapter": "Chapter 3",
+    "verses": [
+        {
+            "name": "Mark 3:12",
+            "text": "And he straitly charged them that they should not make him known."
+        },
+        {
+            "name": "Mark 3:13",
+            "text": "And he goeth up into a mountain, and calleth unto him whom he would: and they came unto him."
+        },
+        {
+            "name": "Mark 3:14",
+            "text": "And he ordained twelve, that they should be with him, and that he might send them forth to preach,"
+        },
+        {
+            "name": "Mark 3:15",
+            "text": "And to have power to heal sicknesses, and to cast out devils:"
+        },
+        {
+            "name": "Mark 3:16",
+            "text": "And Simon he surnamed Peter;"
+        },
+        {
+            "name": "Mark 3:17",
+            "text": "And James the son of Zebedee, and John the brother of James; and he surnamed them Boanerges, which is, The sons of thunder:"
+        }
+    ],
+    "tone": "lamenting"
+}

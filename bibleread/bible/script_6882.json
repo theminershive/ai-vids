@@ -1,0 +1,27 @@
+{
+    "book": "John",
+    "chapter": "Chapter 3",
+    "verses": [
+        {
+            "name": "John 3:32",
+            "text": "And what he hath seen and heard, that he testifieth; and no man receiveth his testimony."
+        },
+        {
+            "name": "John 3:33",
+            "text": "He that hath received his testimony hath set to his seal that God is true."
+        },
+        {
+            "name": "John 3:34",
+            "text": "For he whom God hath sent speaketh the words of God: for God giveth not the Spirit by measure unto him. "
+        },
+        {
+            "name": "John 3:35",
+            "text": "The Father loveth the Son, and hath given all things into his hand."
+        },
+        {
+            "name": "John 3:36",
+            "text": "He that believeth on the Son hath everlasting life: and he that believeth not the Son shall not see life; but the wrath of God abideth on him. "
+        }
+    ],
+    "tone": "lamenting"
+}

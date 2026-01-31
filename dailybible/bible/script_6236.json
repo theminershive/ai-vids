@@ -1,0 +1,15 @@
+{
+    "book": "Matthew",
+    "chapter": "Chapter 10",
+    "verses": [
+        {
+            "name": "Matthew 10:41",
+            "text": "He that receiveth a prophet in the name of a prophet shall receive a prophet\u2019s reward; and he that receiveth a righteous man in the name of a righteous man shall receive a righteous man\u2019s reward."
+        },
+        {
+            "name": "Matthew 10:42",
+            "text": "And whosoever shall give to drink unto one of these little ones a cup of cold water only in the name of a disciple, verily I say unto you, he shall in no wise lose his reward. "
+        }
+    ],
+    "tone": "hopeful"
+}

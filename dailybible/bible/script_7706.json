@@ -1,0 +1,27 @@
+{
+    "book": "1 Thessalonians",
+    "chapter": "Chapter 4",
+    "verses": [
+        {
+            "name": "1 Thessalonians 4:1",
+            "text": "Furthermore then we beseech you, brethren, and exhort you by the Lord Jesus, that as ye have received of us how ye ought to walk and to please God, so ye would abound more and more."
+        },
+        {
+            "name": "1 Thessalonians 4:2",
+            "text": "For ye know what commandments we gave you by the Lord Jesus."
+        },
+        {
+            "name": "1 Thessalonians 4:3",
+            "text": "For this is the will of God, even your sanctification, that ye should abstain from fornication:"
+        },
+        {
+            "name": "1 Thessalonians 4:4",
+            "text": "That every one of you should know how to possess his vessel in sanctification and honour;"
+        },
+        {
+            "name": "1 Thessalonians 4:5",
+            "text": "Not in the lust of concupiscence, even as the Gentiles which know not God:"
+        }
+    ],
+    "tone": "hopeful"
+}

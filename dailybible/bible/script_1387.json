@@ -1,0 +1,19 @@
+{
+    "book": "Deuteronomy",
+    "chapter": "Chapter 5",
+    "verses": [
+        {
+            "name": "Deuteronomy 5:25",
+            "text": "Now therefore why should we die? for this great fire will consume us: if we hear the voice of the Lord our God any more, then we shall die."
+        },
+        {
+            "name": "Deuteronomy 5:26",
+            "text": "For who is there of all flesh, that hath heard the voice of the living God speaking out of the midst of the fire, as we have, and lived?"
+        },
+        {
+            "name": "Deuteronomy 5:27",
+            "text": "Go thou near, and hear all that the Lord our God shall say: and speak thou unto us all that the Lord our God shall speak unto thee; and we will hear it, and do it."
+        }
+    ],
+    "tone": "lamenting"
+}

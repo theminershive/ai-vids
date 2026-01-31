@@ -1,0 +1,23 @@
+{
+    "book": "Luke",
+    "chapter": "Chapter 23",
+    "verses": [
+        {
+            "name": "Luke 23:24",
+            "text": "And Pilate gave sentence that it should be as they required."
+        },
+        {
+            "name": "Luke 23:25",
+            "text": "And he released unto them him that for sedition and murder was cast into prison, whom they had desired; but he delivered Jesus to their will."
+        },
+        {
+            "name": "Luke 23:26",
+            "text": "And as they led him away, they laid hold upon one Simon, a Cyrenian, coming out of the country, and on him they laid the cross, that he might bear it after Jesus."
+        },
+        {
+            "name": "Luke 23:27",
+            "text": "And there followed him a great company of people, and of women, which also bewailed and lamented him."
+        }
+    ],
+    "tone": "neutral"
+}

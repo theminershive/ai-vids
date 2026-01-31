@@ -1,0 +1,19 @@
+{
+    "book": "Daniel",
+    "chapter": "Chapter 7",
+    "verses": [
+        {
+            "name": "Daniel 7:24",
+            "text": "And the ten horns out of this kingdom are ten kings that shall arise: and another shall rise after them; and he shall be diverse from the first, and he shall subdue three kings."
+        },
+        {
+            "name": "Daniel 7:25",
+            "text": "And he shall speak great words against the most High, and shall wear out the saints of the most High, and think to change times and laws: and they shall be given into his hand until a time and times and the dividing of time."
+        },
+        {
+            "name": "Daniel 7:26",
+            "text": "But the judgment shall sit, and they shall take away his dominion, to consume and to destroy it unto the end."
+        }
+    ],
+    "tone": "lamenting"
+}

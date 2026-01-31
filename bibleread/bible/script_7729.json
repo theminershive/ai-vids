@@ -1,0 +1,27 @@
+{
+    "book": "1 Timothy",
+    "chapter": "Chapter 2",
+    "verses": [
+        {
+            "name": "1 Timothy 2:1",
+            "text": "I exhort therefore, that, first of all, supplications, prayers, intercessions, and giving of thanks, be made for all men;"
+        },
+        {
+            "name": "1 Timothy 2:2",
+            "text": "For kings, and for all that are in authority; that we may lead a quiet and peaceable life in all godliness and honesty."
+        },
+        {
+            "name": "1 Timothy 2:3",
+            "text": "For this is good and acceptable in the sight of God our Saviour;"
+        },
+        {
+            "name": "1 Timothy 2:4",
+            "text": "Who will have all men to be saved, and to come unto the knowledge of the truth."
+        },
+        {
+            "name": "1 Timothy 2:5",
+            "text": "For there is one God, and one mediator between God and men, the man Christ Jesus;"
+        }
+    ],
+    "tone": "hopeful"
+}

@@ -1,0 +1,19 @@
+{
+    "book": "Joel",
+    "chapter": "Chapter 2",
+    "verses": [
+        {
+            "name": "Joel 2:7",
+            "text": "They shall run like mighty men; they shall climb the wall like men of war; and they shall march every one on his ways, and they shall not break their ranks:"
+        },
+        {
+            "name": "Joel 2:8",
+            "text": "Neither shall one thrust another; they shall walk every one in his path: and when they fall upon the sword, they shall not be wounded."
+        },
+        {
+            "name": "Joel 2:9",
+            "text": "They shall run to and fro in the city; they shall run upon the wall, they shall climb up upon the houses; they shall enter in at the windows like a thief."
+        }
+    ],
+    "tone": "lamenting"
+}

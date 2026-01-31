@@ -1,0 +1,43 @@
+{
+    "book": "Ezra",
+    "chapter": "Chapter 2",
+    "verses": [
+        {
+            "name": "Ezra 2:6",
+            "text": "The children of Pahath\u2013moab, of the children of Jeshua and Joab, two thousand eight hundred and twelve."
+        },
+        {
+            "name": "Ezra 2:7",
+            "text": "The children of Elam, a thousand two hundred fifty and four."
+        },
+        {
+            "name": "Ezra 2:8",
+            "text": "The children of Zattu, nine hundred forty and five."
+        },
+        {
+            "name": "Ezra 2:9",
+            "text": "The children of Zaccai, seven hundred and threescore."
+        },
+        {
+            "name": "Ezra 2:10",
+            "text": "The children of Bani, six hundred forty and two."
+        },
+        {
+            "name": "Ezra 2:11",
+            "text": "The children of Bebai, six hundred twenty and three."
+        },
+        {
+            "name": "Ezra 2:12",
+            "text": "The children of Azgad, a thousand two hundred twenty and two."
+        },
+        {
+            "name": "Ezra 2:13",
+            "text": "The children of Adonikam, six hundred sixty and six."
+        },
+        {
+            "name": "Ezra 2:14",
+            "text": "The children of Bigvai, two thousand fifty and six."
+        }
+    ],
+    "tone": "neutral"
+}

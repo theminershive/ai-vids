@@ -1,0 +1,27 @@
+{
+    "book": "Genesis",
+    "chapter": "Chapter 9",
+    "verses": [
+        {
+            "name": "Genesis 9:18",
+            "text": "And the sons of Noah, that went forth of the ark, were Shem, and Ham, and Japheth: and Ham is the father of Canaan."
+        },
+        {
+            "name": "Genesis 9:19",
+            "text": "These are the three sons of Noah: and of them was the whole earth overspread."
+        },
+        {
+            "name": "Genesis 9:20",
+            "text": "And Noah began to be an husbandman, and he planted a vineyard:"
+        },
+        {
+            "name": "Genesis 9:21",
+            "text": "And he drank of the wine, and was drunken; and he was uncovered within his tent."
+        },
+        {
+            "name": "Genesis 9:22",
+            "text": "And Ham, the father of Canaan, saw the nakedness of his father, and told his two brethren without."
+        }
+    ],
+    "tone": "neutral"
+}

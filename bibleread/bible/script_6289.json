@@ -1,0 +1,27 @@
+{
+    "book": "Matthew",
+    "chapter": "Chapter 16",
+    "verses": [
+        {
+            "name": "Matthew 16:12",
+            "text": "Then understood they how that he bade them not beware of the leaven of bread, but of the doctrine of the Pharisees and of the Sadducees."
+        },
+        {
+            "name": "Matthew 16:13",
+            "text": "When Jesus came into the coasts of Cesarea Philippi, he asked his disciples, saying, Whom do men say that I the Son of man am?"
+        },
+        {
+            "name": "Matthew 16:14",
+            "text": "And they said, Some say that thou art John the Baptist: some, Elias; and others, Jeremias, or one of the prophets."
+        },
+        {
+            "name": "Matthew 16:15",
+            "text": "He saith unto them, But whom say ye that I am?"
+        },
+        {
+            "name": "Matthew 16:16",
+            "text": "And Simon Peter answered and said, Thou art the Christ, the Son of the living God."
+        }
+    ],
+    "tone": "hopeful"
+}

@@ -1,0 +1,19 @@
+{
+    "book": "1 Kings",
+    "chapter": "Chapter 4",
+    "verses": [
+        {
+            "name": "1 Kings 4:31",
+            "text": "For he was wiser than all men; than Ethan the Ezrahite, and Heman, and Chalcol, and Darda, the sons of Mahol: and his fame was in all nations round about."
+        },
+        {
+            "name": "1 Kings 4:32",
+            "text": "And he spake three thousand proverbs: and his songs were a thousand and five."
+        },
+        {
+            "name": "1 Kings 4:33",
+            "text": "And he spake of trees, from the cedar tree that is in Lebanon even unto the hyssop that springeth out of the wall: he spake also of beasts, and of fowl, and of creeping things, and of fishes."
+        }
+    ],
+    "tone": "hopeful"
+}

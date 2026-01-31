@@ -1,0 +1,15 @@
+{
+    "book": "Deuteronomy",
+    "chapter": "Chapter 4",
+    "verses": [
+        {
+            "name": "Deuteronomy 4:1",
+            "text": "Now therefore hearken, O Israel, unto the statutes and unto the judgments, which I teach you, for to do them, that ye may live, and go in and possess the land which the Lord God of your fathers giveth you."
+        },
+        {
+            "name": "Deuteronomy 4:2",
+            "text": "Ye shall not add unto the word which I command you, neither shall ye diminish ought from it, that ye may keep the commandments of the Lord your God which I command you."
+        }
+    ],
+    "tone": "instructional"
+}

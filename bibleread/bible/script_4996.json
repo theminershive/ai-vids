@@ -1,0 +1,15 @@
+{
+    "book": "Jeremiah",
+    "chapter": "Chapter 15",
+    "verses": [
+        {
+            "name": "Jeremiah 15:1",
+            "text": "Then said the Lord unto me, Though Moses and Samuel stood before me, yet my mind could not be toward this people: cast them out of my sight, and let them go forth."
+        },
+        {
+            "name": "Jeremiah 15:2",
+            "text": "And it shall come to pass, if they say unto thee, Whither shall we go forth? then thou shalt tell them, Thus saith the Lord; Such as are for death, to death; and such as are for the sword, to the sword; and such as are for the famine, to the famine; and such as are for the captivity, to the captivity."
+        }
+    ],
+    "tone": "neutral"
+}

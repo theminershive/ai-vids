@@ -1,0 +1,23 @@
+{
+    "book": "Song of Solomon",
+    "chapter": "Chapter 7",
+    "verses": [
+        {
+            "name": "Song of Songs 7:1",
+            "text": "How beautiful are thy feet with shoes, O prince\u2019s daughter! the joints of thy thighs are like jewels, the work of the hands of a cunning workman."
+        },
+        {
+            "name": "Song of Songs 7:2",
+            "text": "Thy navel is like a round goblet, which wanteth not liquor: thy belly is like an heap of wheat set about with lilies."
+        },
+        {
+            "name": "Song of Songs 7:3",
+            "text": "Thy two breasts are like two young roes that are twins."
+        },
+        {
+            "name": "Song of Songs 7:4",
+            "text": "Thy neck is as a tower of ivory; thine eyes like the fishpools in Heshbon, by the gate of Bath\u2013rabbim: thy nose is as the tower of Lebanon which looketh toward Damascus."
+        }
+    ],
+    "tone": "hopeful"
+}

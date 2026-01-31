@@ -1,0 +1,23 @@
+{
+    "book": "Acts",
+    "chapter": "Chapter 6",
+    "verses": [
+        {
+            "name": "Acts 6:1",
+            "text": "And in those days, when the number of the disciples was multiplied, there arose a murmuring of the Grecians against the Hebrews, because their widows were neglected in the daily ministration."
+        },
+        {
+            "name": "Acts 6:2",
+            "text": "Then the twelve called the multitude of the disciples unto them, and said, It is not reason that we should leave the word of God, and serve tables."
+        },
+        {
+            "name": "Acts 6:3",
+            "text": "Wherefore, brethren, look ye out among you seven men of honest report, full of the Holy Ghost and wisdom, whom we may appoint over this business."
+        },
+        {
+            "name": "Acts 6:4",
+            "text": "But we will give ourselves continually to prayer, and to the ministry of the word."
+        }
+    ],
+    "tone": "instructional"
+}

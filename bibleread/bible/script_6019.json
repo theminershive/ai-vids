@@ -1,0 +1,19 @@
+{
+    "book": "Micah",
+    "chapter": "Chapter 6",
+    "verses": [
+        {
+            "name": "Micah 6:12",
+            "text": "For the rich men thereof are full of violence, and the inhabitants thereof have spoken lies, and their tongue is deceitful in their mouth."
+        },
+        {
+            "name": "Micah 6:13",
+            "text": "Therefore also will I make thee sick in smiting thee, in making thee desolate because of thy sins."
+        },
+        {
+            "name": "Micah 6:14",
+            "text": "Thou shalt eat, but not be satisfied; and thy casting down shall be in the midst of thee; and thou shalt take hold, but shalt not deliver; and that which thou deliverest will I give up to the sword."
+        }
+    ],
+    "tone": "lamenting"
+}

@@ -1,0 +1,19 @@
+{
+    "book": "Ephesians",
+    "chapter": "Chapter 1",
+    "verses": [
+        {
+            "name": "Ephesians 1:17",
+            "text": "That the God of our Lord Jesus Christ, the Father of glory, may give unto you the spirit of wisdom and revelation in the knowledge of him:"
+        },
+        {
+            "name": "Ephesians 1:18",
+            "text": "The eyes of your understanding being enlightened; that ye may know what is the hope of his calling, and what the riches of the glory of his inheritance in the saints,"
+        },
+        {
+            "name": "Ephesians 1:19",
+            "text": "And what is the exceeding greatness of his power to us-ward who believe, according to the working of his mighty power,"
+        }
+    ],
+    "tone": "hopeful"
+}

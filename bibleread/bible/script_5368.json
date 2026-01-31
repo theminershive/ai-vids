@@ -1,0 +1,15 @@
+{
+    "book": "Ezekiel",
+    "chapter": "Chapter 3",
+    "verses": [
+        {
+            "name": "Ezekiel 3:18",
+            "text": "When I say unto the wicked, Thou shalt surely die; and thou givest him not warning, nor speakest to warn the wicked from his wicked way, to save his life; the same wicked man shall die in his iniquity; but his blood will I require at thine hand."
+        },
+        {
+            "name": "Ezekiel 3:19",
+            "text": "Yet if thou warn the wicked, and he turn not from his wickedness, nor from his wicked way, he shall die in his iniquity; but thou hast delivered thy soul."
+        }
+    ],
+    "tone": "lamenting"
+}

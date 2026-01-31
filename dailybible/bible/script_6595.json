@@ -1,0 +1,27 @@
+{
+    "book": "Luke",
+    "chapter": "Chapter 2",
+    "verses": [
+        {
+            "name": "Luke 2:1",
+            "text": "And it came to pass in those days, that there went out a decree from Cesar Augustus, that all the world should be taxed."
+        },
+        {
+            "name": "Luke 2:2",
+            "text": "(And this taxing was first made when Cyrenius was governor of Syria.)"
+        },
+        {
+            "name": "Luke 2:3",
+            "text": "And all went to be taxed, every one into his own city."
+        },
+        {
+            "name": "Luke 2:4",
+            "text": "And Joseph also went up from Galilee, out of the city of Nazareth, into Judea, unto the city of David, which is called Bethlehem; (because he was of the house and lineage of David:)"
+        },
+        {
+            "name": "Luke 2:5",
+            "text": "To be taxed with Mary his espoused wife, being great with child."
+        }
+    ],
+    "tone": "neutral"
+}

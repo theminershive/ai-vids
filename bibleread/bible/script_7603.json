@@ -1,0 +1,27 @@
+{
+    "book": "Galatians",
+    "chapter": "Chapter 3",
+    "verses": [
+        {
+            "name": "Galatians 3:22",
+            "text": "But the scripture hath concluded all under sin, that the promise by faith of Jesus Christ might be given to them that believe."
+        },
+        {
+            "name": "Galatians 3:23",
+            "text": "But before faith came, we were kept under the law, shut up unto the faith which should afterwards be revealed."
+        },
+        {
+            "name": "Galatians 3:24",
+            "text": "Wherefore the law was our schoolmaster to bring us unto Christ, that we might be justified by faith."
+        },
+        {
+            "name": "Galatians 3:25",
+            "text": "But after that faith is come, we are no longer under a schoolmaster."
+        },
+        {
+            "name": "Galatians 3:26",
+            "text": "For ye are all the children of God by faith in Christ Jesus."
+        }
+    ],
+    "tone": "hopeful"
+}

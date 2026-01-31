@@ -1,0 +1,23 @@
+{
+    "book": "Matthew",
+    "chapter": "Chapter 12",
+    "verses": [
+        {
+            "name": "Matthew 12:26",
+            "text": "And if Satan cast out Satan, he is divided against himself; how shall then his kingdom stand?"
+        },
+        {
+            "name": "Matthew 12:27",
+            "text": "And if I by Beelzebub cast out devils, by whom do your children cast them out? therefore they shall be your judges."
+        },
+        {
+            "name": "Matthew 12:28",
+            "text": "But if I cast out devils by the Spirit of God, then the kingdom of God is come unto you."
+        },
+        {
+            "name": "Matthew 12:29",
+            "text": "Or else how can one enter into a strong man\u2019s house, and spoil his goods, except he first bind the strong man? and then he will spoil his house."
+        }
+    ],
+    "tone": "hopeful"
+}

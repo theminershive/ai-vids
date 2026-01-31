@@ -1,0 +1,23 @@
+{
+    "book": "Romans",
+    "chapter": "Chapter 6",
+    "verses": [
+        {
+            "name": "Romans 6:14",
+            "text": "For sin shall not have dominion over you: for ye are not under the law, but under grace."
+        },
+        {
+            "name": "Romans 6:15",
+            "text": "What then? shall we sin, because we are not under the law, but under grace? God forbid."
+        },
+        {
+            "name": "Romans 6:16",
+            "text": "Know ye not, that to whom ye yield yourselves servants to obey, his servants ye are to whom ye obey; whether of sin unto death, or of obedience unto righteousness?"
+        },
+        {
+            "name": "Romans 6:17",
+            "text": "But God be thanked, that ye were the servants of sin, but ye have obeyed from the heart that form of doctrine which was delivered you."
+        }
+    ],
+    "tone": "lamenting"
+}

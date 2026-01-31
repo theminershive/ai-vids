@@ -1,0 +1,23 @@
+{
+    "book": "1 Corinthians",
+    "chapter": "Chapter 2",
+    "verses": [
+        {
+            "name": "1 Corinthians 2:12",
+            "text": "Now we have received, not the spirit of the world, but the spirit which is of God; that we might know the things that are freely given to us of God."
+        },
+        {
+            "name": "1 Corinthians 2:13",
+            "text": "Which things also we speak, not in the words which man\u2019s wisdom teacheth, but which the Holy Ghost teacheth; comparing spiritual things with spiritual."
+        },
+        {
+            "name": "1 Corinthians 2:14",
+            "text": "But the natural man receiveth not the things of the Spirit of God: for they are foolishness unto him: neither can he know them, because they are spiritually discerned."
+        },
+        {
+            "name": "1 Corinthians 2:15",
+            "text": "But he that is spiritual judgeth all things, yet he himself is judged of no man."
+        }
+    ],
+    "tone": "instructional"
+}

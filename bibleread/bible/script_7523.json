@@ -1,0 +1,19 @@
+{
+    "book": "2 Corinthians",
+    "chapter": "Chapter 1",
+    "verses": [
+        {
+            "name": "2 Corinthians 1:8",
+            "text": "For we would not, brethren, have you ignorant of our trouble which came to us in Asia, that we were pressed out of measure, above strength, insomuch that we despaired even of life:"
+        },
+        {
+            "name": "2 Corinthians 1:9",
+            "text": "But we had the sentence of death in ourselves, that we should not trust in ourselves, but in God which raiseth the dead:"
+        },
+        {
+            "name": "2 Corinthians 1:10",
+            "text": "Who delivered us from so great a death, and doth deliver: in whom we trust that he will yet deliver us; "
+        }
+    ],
+    "tone": "hopeful"
+}

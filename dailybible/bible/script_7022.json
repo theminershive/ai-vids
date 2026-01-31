@@ -1,0 +1,27 @@
+{
+    "book": "John",
+    "chapter": "Chapter 17",
+    "verses": [
+        {
+            "name": "John 17:13",
+            "text": "And now come I to thee; and these things I speak in the world, that they might have my joy fulfilled in themselves."
+        },
+        {
+            "name": "John 17:14",
+            "text": "I have given them thy word; and the world hath hated them, because they are not of the world, even as I am not of the world."
+        },
+        {
+            "name": "John 17:15",
+            "text": "I pray not that thou shouldest take them out of the world, but that thou shouldest keep them from the evil."
+        },
+        {
+            "name": "John 17:16",
+            "text": "They are not of the world, even as I am not of the world."
+        },
+        {
+            "name": "John 17:17",
+            "text": "Sanctify them through thy truth: thy word is truth."
+        }
+    ],
+    "tone": "neutral"
+}

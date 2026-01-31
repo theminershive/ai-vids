@@ -1,0 +1,19 @@
+{
+    "book": "Acts",
+    "chapter": "Chapter 26",
+    "verses": [
+        {
+            "name": "Acts 26:13",
+            "text": "At midday, O king, I saw in the way a light from heaven, above the brightness of the sun, shining round about me and them which journeyed with me."
+        },
+        {
+            "name": "Acts 26:14",
+            "text": "And when we were all fallen to the earth, I heard a voice speaking unto me, and saying in the Hebrew tongue, Saul, Saul, why persecutest thou me? it is hard for thee to kick against the pricks."
+        },
+        {
+            "name": "Acts 26:15",
+            "text": "And I said, Who art thou, Lord? And he said, I am Jesus whom thou persecutest."
+        }
+    ],
+    "tone": "hopeful"
+}

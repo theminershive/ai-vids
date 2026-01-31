@@ -1,0 +1,19 @@
+{
+    "book": "Esther",
+    "chapter": "Chapter 7",
+    "verses": [
+        {
+            "name": "Esther 7:4",
+            "text": "For we are sold, I and my people, to be destroyed, to be slain, and to perish. But if we had been sold for bondmen and bondwomen, I had held my tongue, although the enemy could not countervail the king\u2019s damage."
+        },
+        {
+            "name": "Esther 7:5",
+            "text": "Then the king Ahasuerus answered and said unto Esther the queen, Who is he, and where is he, that durst presume in his heart to do so?"
+        },
+        {
+            "name": "Esther 7:6",
+            "text": "And Esther said, The adversary and enemy is this wicked Haman. Then Haman was afraid before the king and the queen."
+        }
+    ],
+    "tone": "neutral"
+}

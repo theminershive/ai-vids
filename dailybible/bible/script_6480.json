@@ -1,0 +1,23 @@
+{
+    "book": "Mark",
+    "chapter": "Chapter 7",
+    "verses": [
+        {
+            "name": "Mark 7:27",
+            "text": "But Jesus said unto her, Let the children first be filled: for it is not meet to take the children\u2019s bread, and to cast it unto the dogs."
+        },
+        {
+            "name": "Mark 7:28",
+            "text": "And she answered and said unto him, Yes, Lord: yet the dogs under the table eat of the children\u2019s crumbs."
+        },
+        {
+            "name": "Mark 7:29",
+            "text": "And he said unto her, For this saying go thy way; the devil is gone out of thy daughter."
+        },
+        {
+            "name": "Mark 7:30",
+            "text": "And when she was come to her house, she found the devil gone out, and her daughter laid upon the bed."
+        }
+    ],
+    "tone": "neutral"
+}

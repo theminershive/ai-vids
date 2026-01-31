@@ -1,0 +1,19 @@
+{
+    "book": "1 Kings",
+    "chapter": "Chapter 22",
+    "verses": [
+        {
+            "name": "1 Kings 22:23",
+            "text": "Now therefore, behold, the Lord hath put a lying spirit in the mouth of all these thy prophets, and the Lord hath spoken evil concerning thee."
+        },
+        {
+            "name": "1 Kings 22:24",
+            "text": "But Zedekiah the son of Chenaanah went near, and smote Micaiah on the cheek, and said, Which way went the Spirit of the Lord from me to speak unto thee?"
+        },
+        {
+            "name": "1 Kings 22:25",
+            "text": "And Micaiah said, Behold, thou shalt see in that day, when thou shalt go into an inner chamber to hide thyself."
+        }
+    ],
+    "tone": "neutral"
+}

@@ -1,0 +1,23 @@
+{
+    "book": "John",
+    "chapter": "Chapter 3",
+    "verses": [
+        {
+            "name": "John 3:12",
+            "text": "If I have told you earthly things, and ye believe not, how shall ye believe, if I tell you of heavenly things?"
+        },
+        {
+            "name": "John 3:13",
+            "text": "And no man hath ascended up to heaven, but he that came down from heaven, even the Son of man which is in heaven."
+        },
+        {
+            "name": "John 3:14",
+            "text": "And as Moses lifted up the serpent in the wilderness, even so must the Son of man be lifted up:"
+        },
+        {
+            "name": "John 3:15",
+            "text": "That whosoever believeth in him should not perish, but have eternal life."
+        }
+    ],
+    "tone": "hopeful"
+}

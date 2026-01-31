@@ -1,0 +1,23 @@
+{
+    "book": "Romans",
+    "chapter": "Chapter 6",
+    "verses": [
+        {
+            "name": "Romans 6:10",
+            "text": "For in that he died, he died unto sin once: but in that he liveth, he liveth unto God."
+        },
+        {
+            "name": "Romans 6:11",
+            "text": "Likewise reckon ye also yourselves to be dead indeed unto sin, but alive unto God through Jesus Christ our Lord."
+        },
+        {
+            "name": "Romans 6:12",
+            "text": "Let not sin therefore reign in your mortal body, that ye should obey it in the lusts thereof."
+        },
+        {
+            "name": "Romans 6:13",
+            "text": "Neither yield ye your members as instruments of unrighteousness unto sin: but yield yourselves unto God, as those that are alive from the dead, and your members as instruments of righteousness unto God."
+        }
+    ],
+    "tone": "lamenting"
+}

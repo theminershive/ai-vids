@@ -1,0 +1,19 @@
+{
+    "book": "Luke",
+    "chapter": "Chapter 3",
+    "verses": [
+        {
+            "name": "Luke 3:14",
+            "text": "And the soldiers likewise demanded of him, saying, And what shall we do? And he said unto them, Do violence to no man, neither accuse any falsely; and be content with your wages."
+        },
+        {
+            "name": "Luke 3:15",
+            "text": "And as the people were in expectation, and all men mused in their hearts of John, whether he were the Christ, or not;"
+        },
+        {
+            "name": "Luke 3:16",
+            "text": "John answered, saying unto them all, I indeed baptize you with water; but one mightier than I cometh, the latchet of whose shoes I am not worthy to unloose: he shall baptize you with the Holy Ghost and with fire:"
+        }
+    ],
+    "tone": "neutral"
+}

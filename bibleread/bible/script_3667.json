@@ -1,0 +1,27 @@
+{
+    "book": "Job",
+    "chapter": "Chapter 5",
+    "verses": [
+        {
+            "name": "Job 5:19",
+            "text": "He shall deliver thee in six troubles: yea, in seven there shall no evil touch thee."
+        },
+        {
+            "name": "Job 5:20",
+            "text": "In famine he shall redeem thee from death: and in war from the power of the sword."
+        },
+        {
+            "name": "Job 5:21",
+            "text": "Thou shalt be hid from the scourge of the tongue: neither shalt thou be afraid of destruction when it cometh."
+        },
+        {
+            "name": "Job 5:22",
+            "text": "At destruction and famine thou shalt laugh: neither shalt thou be afraid of the beasts of the earth."
+        },
+        {
+            "name": "Job 5:23",
+            "text": "For thou shalt be in league with the stones of the field: and the beasts of the field shall be at peace with thee."
+        }
+    ],
+    "tone": "hopeful"
+}

@@ -1,0 +1,23 @@
+{
+    "book": "Mark",
+    "chapter": "Chapter 9",
+    "verses": [
+        {
+            "name": "Mark 9:1",
+            "text": "And he said unto them, Verily I say unto you, That there be some of them that stand here, which shall not taste of death, till they have seen the kingdom of God come with power."
+        },
+        {
+            "name": "Mark 9:2",
+            "text": "And after six days Jesus taketh with him Peter, and James, and John, and leadeth them up into an high mountain apart by themselves: and he was transfigured before them."
+        },
+        {
+            "name": "Mark 9:3",
+            "text": "And his raiment became shining, exceeding white as snow; so as no fuller on earth can white them."
+        },
+        {
+            "name": "Mark 9:4",
+            "text": "And there appeared unto them Elias with Moses: and they were talking with Jesus."
+        }
+    ],
+    "tone": "neutral"
+}

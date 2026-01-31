@@ -1,0 +1,31 @@
+{
+    "book": "2 Timothy",
+    "chapter": "Chapter 4",
+    "verses": [
+        {
+            "name": "2 Timothy 4:10",
+            "text": "For Demas hath forsaken me, having loved this present world, and is departed unto Thessalonica; Crescens to Galatia, Titus unto Dalmatia."
+        },
+        {
+            "name": "2 Timothy 4:11",
+            "text": "Only Luke is with me. Take Mark, and bring him with thee: for he is profitable to me for the ministry."
+        },
+        {
+            "name": "2 Timothy 4:12",
+            "text": "And Tychicus have I sent to Ephesus."
+        },
+        {
+            "name": "2 Timothy 4:13",
+            "text": "The cloke that I left at Troas with Carpus, when thou comest, bring with thee, and the books, but especially the parchments."
+        },
+        {
+            "name": "2 Timothy 4:14",
+            "text": "Alexander the coppersmith did me much evil: the Lord reward him according to his works:"
+        },
+        {
+            "name": "2 Timothy 4:15",
+            "text": "Of whom be thou ware also; for he hath greatly withstood our words."
+        }
+    ],
+    "tone": "hopeful"
+}

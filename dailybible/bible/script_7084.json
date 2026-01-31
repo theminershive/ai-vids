@@ -1,0 +1,23 @@
+{
+    "book": "Acts",
+    "chapter": "Chapter 4",
+    "verses": [
+        {
+            "name": "Acts 4:6",
+            "text": "And Annas the high priest, and Caiaphas, and John, and Alexander, and as many as were of the kindred of the high priest, were gathered together at Jerusalem."
+        },
+        {
+            "name": "Acts 4:7",
+            "text": "And when they had set them in the midst, they asked, By what power, or by what name, have ye done this?"
+        },
+        {
+            "name": "Acts 4:8",
+            "text": "Then Peter, filled with the Holy Ghost, said unto them, Ye rulers of the people, and elders of Israel,"
+        },
+        {
+            "name": "Acts 4:9",
+            "text": "If we this day be examined of the good deed done to the impotent man, by what means he is made whole;"
+        }
+    ],
+    "tone": "neutral"
+}

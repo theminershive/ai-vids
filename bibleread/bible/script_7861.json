@@ -1,0 +1,27 @@
+{
+    "book": "James",
+    "chapter": "Chapter 2",
+    "verses": [
+        {
+            "name": "James 2:18",
+            "text": "Yea, a man may say, Thou hast faith, and I have works: shew me thy faith without thy works, and I will shew thee my faith by my works."
+        },
+        {
+            "name": "James 2:19",
+            "text": "Thou believest that there is one God; thou doest well: the devils also believe, and tremble."
+        },
+        {
+            "name": "James 2:20",
+            "text": "But wilt thou know, O vain man, that faith without works is dead?"
+        },
+        {
+            "name": "James 2:21",
+            "text": "Was not Abraham our father justified by works, when he had offered Isaac his son upon the altar?"
+        },
+        {
+            "name": "James 2:22",
+            "text": "Seest thou how faith wrought with his works, and by works was faith made perfect?"
+        }
+    ],
+    "tone": "hopeful"
+}

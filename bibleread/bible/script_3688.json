@@ -1,0 +1,31 @@
+{
+    "book": "Job",
+    "chapter": "Chapter 10",
+    "verses": [
+        {
+            "name": "Job 10:6",
+            "text": "That thou enquirest after mine iniquity, and searchest after my sin?"
+        },
+        {
+            "name": "Job 10:7",
+            "text": "Thou knowest that I am not wicked; and there is none that can deliver out of thine hand."
+        },
+        {
+            "name": "Job 10:8",
+            "text": "Thine hands have made me and fashioned me together round about; yet thou dost destroy me."
+        },
+        {
+            "name": "Job 10:9",
+            "text": "Remember, I beseech thee, that thou hast made me as the clay; and wilt thou bring me into dust again?"
+        },
+        {
+            "name": "Job 10:10",
+            "text": "Hast thou not poured me out as milk, and curdled me like cheese?"
+        },
+        {
+            "name": "Job 10:11",
+            "text": "Thou hast clothed me with skin and flesh, and hast fenced me with bones and sinews."
+        }
+    ],
+    "tone": "hopeful"
+}

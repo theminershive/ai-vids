@@ -1,0 +1,19 @@
+{
+    "book": "Acts",
+    "chapter": "Chapter 16",
+    "verses": [
+        {
+            "name": "Acts 16:15",
+            "text": "And when she was baptized, and her household, she besought us, saying, If ye have judged me to be faithful to the Lord, come into my house, and abide there. And she constrained us."
+        },
+        {
+            "name": "Acts 16:16",
+            "text": "And it came to pass, as we went to prayer, a certain damsel possessed with a spirit of divination met us, which brought her masters much gain by soothsaying:"
+        },
+        {
+            "name": "Acts 16:17",
+            "text": "The same followed Paul and us, and cried, saying, These men are the servants of the most high God, which shew unto us the way of salvation."
+        }
+    ],
+    "tone": "neutral"
+}

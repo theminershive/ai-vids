@@ -1,0 +1,23 @@
+{
+    "book": "Mark",
+    "chapter": "Chapter 11",
+    "verses": [
+        {
+            "name": "Mark 11:24",
+            "text": "Therefore I say unto you, What things soever ye desire, when ye pray, believe that ye receive them, and ye shall have them."
+        },
+        {
+            "name": "Mark 11:25",
+            "text": "And when ye stand praying, forgive, if ye have ought against any: that your Father also which is in heaven may forgive you your trespasses."
+        },
+        {
+            "name": "Mark 11:26",
+            "text": "But if ye do not forgive, neither will your Father which is in heaven forgive your trespasses."
+        },
+        {
+            "name": "Mark 11:27",
+            "text": "And they come again to Jerusalem: and as he was walking in the temple, there come to him the chief priests, and the scribes, and the elders,"
+        }
+    ],
+    "tone": "hopeful"
+}

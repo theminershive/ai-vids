@@ -1,0 +1,19 @@
+{
+    "book": "Matthew",
+    "chapter": "Chapter 19",
+    "verses": [
+        {
+            "name": "Matthew 19:9",
+            "text": "And I say unto you, Whosoever shall put away his wife, except it be for fornication, and shall marry another, committeth adultery: and whoso marrieth her which is put away doth commit adultery."
+        },
+        {
+            "name": "Matthew 19:10",
+            "text": "His disciples say unto him, If the case of the man be so with his wife, it is not good to marry."
+        },
+        {
+            "name": "Matthew 19:11",
+            "text": "But he said unto them, All men cannot receive this saying, save they to whom it is given."
+        }
+    ],
+    "tone": "neutral"
+}

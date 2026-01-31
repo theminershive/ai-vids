@@ -1,0 +1,23 @@
+{
+    "book": "Luke",
+    "chapter": "Chapter 9",
+    "verses": [
+        {
+            "name": "Luke 9:43",
+            "text": "And they were all amazed at the mighty power of God. But while they wondered every one at all things which Jesus did, he said unto his disciples,"
+        },
+        {
+            "name": "Luke 9:44",
+            "text": "Let these sayings sink down into your ears: for the Son of man shall be delivered into the hands of men."
+        },
+        {
+            "name": "Luke 9:45",
+            "text": "But they understood not this saying, and it was hid from them, that they perceived it not: and they feared to ask him of that saying."
+        },
+        {
+            "name": "Luke 9:46",
+            "text": "Then there arose a reasoning among them, which of them should be greatest."
+        }
+    ],
+    "tone": "neutral"
+}

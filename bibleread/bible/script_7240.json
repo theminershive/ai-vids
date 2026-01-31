@@ -1,0 +1,19 @@
+{
+    "book": "Acts",
+    "chapter": "Chapter 20",
+    "verses": [
+        {
+            "name": "Acts 20:9",
+            "text": "And there sat in a window a certain young man named Eutychus, being fallen into a deep sleep: and as Paul was long preaching, he sunk down with sleep, and fell down from the third loft, and was taken up dead."
+        },
+        {
+            "name": "Acts 20:10",
+            "text": "And Paul went down, and fell on him, and embracing him said, Trouble not yourselves; for his life is in him."
+        },
+        {
+            "name": "Acts 20:11",
+            "text": "When he therefore was come up again, and had broken bread, and eaten, and talked a long while, even till break of day, so he departed."
+        }
+    ],
+    "tone": "neutral"
+}

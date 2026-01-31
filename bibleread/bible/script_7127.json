@@ -1,0 +1,27 @@
+{
+    "book": "Acts",
+    "chapter": "Chapter 8",
+    "verses": [
+        {
+            "name": "Acts 8:13",
+            "text": "Then Simon himself believed also: and when he was baptized, he continued with Philip, and wondered, beholding the miracles and signs which were done."
+        },
+        {
+            "name": "Acts 8:14",
+            "text": "Now when the apostles which were at Jerusalem heard that Samaria had received the word of God, they sent unto them Peter and John:"
+        },
+        {
+            "name": "Acts 8:15",
+            "text": "Who, when they were come down, prayed for them, that they might receive the Holy Ghost:"
+        },
+        {
+            "name": "Acts 8:16",
+            "text": "(For as yet he was fallen upon none of them: only they were baptized in the name of the Lord Jesus.)"
+        },
+        {
+            "name": "Acts 8:17",
+            "text": "Then laid they their hands on them, and they received the Holy Ghost."
+        }
+    ],
+    "tone": "instructional"
+}

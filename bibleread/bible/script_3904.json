@@ -1,0 +1,23 @@
+{
+    "book": "Psalms",
+    "chapter": "Chapter 30",
+    "verses": [
+        {
+            "name": "Psalms 30:1",
+            "text": "I will extol thee, O Lord; for thou hast lifted me up, and hast not made my foes to rejoice over me."
+        },
+        {
+            "name": "Psalms 30:2",
+            "text": "O Lord my God, I cried unto thee, and thou hast healed me."
+        },
+        {
+            "name": "Psalms 30:3",
+            "text": "O Lord, thou hast brought up my soul from the grave: thou hast kept me alive, that I should not go down to the pit."
+        },
+        {
+            "name": "Psalms 30:4",
+            "text": "Sing unto the Lord, O ye saints of his, and give thanks at the remembrance of his holiness."
+        }
+    ],
+    "tone": "hopeful"
+}

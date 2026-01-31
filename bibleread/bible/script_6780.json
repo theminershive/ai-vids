@@ -1,0 +1,27 @@
+{
+    "book": "Luke",
+    "chapter": "Chapter 18",
+    "verses": [
+        {
+            "name": "Luke 18:6",
+            "text": "And the Lord said, Hear what the unjust judge saith."
+        },
+        {
+            "name": "Luke 18:7",
+            "text": "And shall not God avenge his own elect, which cry day and night unto him, though he bear long with them?"
+        },
+        {
+            "name": "Luke 18:8",
+            "text": "I tell you that he will avenge them speedily. Nevertheless when the Son of man cometh, shall he find faith on the earth?"
+        },
+        {
+            "name": "Luke 18:9",
+            "text": "And he spake this parable unto certain which trusted in themselves that they were righteous, and despised others:"
+        },
+        {
+            "name": "Luke 18:10",
+            "text": "Two men went up into the temple to pray; the one a Pharisee, and the other a publican."
+        }
+    ],
+    "tone": "neutral"
+}

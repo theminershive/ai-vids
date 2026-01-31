@@ -1,0 +1,23 @@
+{
+    "book": "Mark",
+    "chapter": "Chapter 9",
+    "verses": [
+        {
+            "name": "Mark 9:29",
+            "text": "And he said unto them, This kind can come forth by nothing, but by prayer and fasting."
+        },
+        {
+            "name": "Mark 9:30",
+            "text": "And they departed thence, and passed through Galilee; and he would not that any man should know it. "
+        },
+        {
+            "name": "Mark 9:31",
+            "text": "For he taught his disciples, and said unto them, The Son of man is delivered into the hands of men, and they shall kill him; and after that he is killed, he shall rise the third day."
+        },
+        {
+            "name": "Mark 9:32",
+            "text": "But they understood not that saying, and were afraid to ask him."
+        }
+    ],
+    "tone": "neutral"
+}

@@ -1,0 +1,27 @@
+{
+    "book": "Luke",
+    "chapter": "Chapter 15",
+    "verses": [
+        {
+            "name": "Luke 15:1",
+            "text": "Then drew near unto him all the publicans and sinners for to hear him."
+        },
+        {
+            "name": "Luke 15:2",
+            "text": "And the Pharisees and scribes murmured, saying, This man receiveth sinners, and eateth with them."
+        },
+        {
+            "name": "Luke 15:3",
+            "text": "And he spake this parable unto them, saying,"
+        },
+        {
+            "name": "Luke 15:4",
+            "text": "What man of you, having an hundred sheep, if he lose one of them, doth not leave the ninety and nine in the wilderness, and go after that which is lost, until he find it?"
+        },
+        {
+            "name": "Luke 15:5",
+            "text": "And when he hath found it, he layeth it on his shoulders, rejoicing."
+        }
+    ],
+    "tone": "neutral"
+}

@@ -1,0 +1,23 @@
+{
+    "book": "Luke",
+    "chapter": "Chapter 20",
+    "verses": [
+        {
+            "name": "Luke 20:20",
+            "text": "And they watched him, and sent forth spies, which should feign themselves just men, that they might take hold of his words, that so they might deliver him unto the power and authority of the governor."
+        },
+        {
+            "name": "Luke 20:21",
+            "text": "And they asked him, saying, Master, we know that thou sayest and teachest rightly, neither acceptest thou the person of any, but teachest the way of God truly:"
+        },
+        {
+            "name": "Luke 20:22",
+            "text": "Is it lawful for us to give tribute unto Cesar, or no?"
+        },
+        {
+            "name": "Luke 20:23",
+            "text": "But he perceived their craftiness, and said unto them, Why tempt ye me?"
+        }
+    ],
+    "tone": "neutral"
+}

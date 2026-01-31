@@ -1,0 +1,23 @@
+{
+    "book": "John",
+    "chapter": "Chapter 12",
+    "verses": [
+        {
+            "name": "John 12:26",
+            "text": "If any man serve me, let him follow me; and where I am, there shall also my servant be: if any man serve me, him will my Father honour."
+        },
+        {
+            "name": "John 12:27",
+            "text": "Now is my soul troubled; and what shall I say? Father, save me from this hour: but for this cause came I unto this hour."
+        },
+        {
+            "name": "John 12:28",
+            "text": "Father, glorify thy name. Then came there a voice from heaven, saying, I have both glorified it, and will glorify it again."
+        },
+        {
+            "name": "John 12:29",
+            "text": "The people therefore, that stood by, and heard it, said that it thundered: others said, An angel spake to him."
+        }
+    ],
+    "tone": "praising"
+}

@@ -1,0 +1,23 @@
+{
+    "book": "Mark",
+    "chapter": "Chapter 13",
+    "verses": [
+        {
+            "name": "Mark 13:24",
+            "text": "But in those days, after that tribulation, the sun shall be darkened, and the moon shall not give her light,"
+        },
+        {
+            "name": "Mark 13:25",
+            "text": "And the stars of heaven shall fall, and the powers that are in heaven shall be shaken."
+        },
+        {
+            "name": "Mark 13:26",
+            "text": "And then shall they see the Son of man coming in the clouds with great power and glory."
+        },
+        {
+            "name": "Mark 13:27",
+            "text": "And then shall he send his angels, and shall gather together his elect from the four winds, from the uttermost part of the earth to the uttermost part of heaven."
+        }
+    ],
+    "tone": "hopeful"
+}

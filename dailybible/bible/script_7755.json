@@ -1,0 +1,27 @@
+{
+    "book": "2 Timothy",
+    "chapter": "Chapter 2",
+    "verses": [
+        {
+            "name": "2 Timothy 2:11",
+            "text": "It is a faithful saying: For if we be dead with him, we shall also live with him: "
+        },
+        {
+            "name": "2 Timothy 2:12",
+            "text": "If we suffer, we shall also reign with him: if we deny him, he also will deny us:"
+        },
+        {
+            "name": "2 Timothy 2:13",
+            "text": "If we believe not, yet he abideth faithful: he cannot deny himself."
+        },
+        {
+            "name": "2 Timothy 2:14",
+            "text": "Of these things put them in remembrance, charging them before the Lord that they strive not about words to no profit, but to the subverting of the hearers."
+        },
+        {
+            "name": "2 Timothy 2:15",
+            "text": "Study to shew thyself approved unto God, a workman that needeth not to be ashamed, rightly dividing the word of truth."
+        }
+    ],
+    "tone": "hopeful"
+}

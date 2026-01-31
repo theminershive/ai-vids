@@ -1,0 +1,31 @@
+{
+    "book": "Psalms",
+    "chapter": "Chapter 24",
+    "verses": [
+        {
+            "name": "Psalms 24:1",
+            "text": "The earth is the Lord\u2019s, and the fulness thereof; the world, and they that dwell therein."
+        },
+        {
+            "name": "Psalms 24:2",
+            "text": "For he hath founded it upon the seas, and established it upon the floods."
+        },
+        {
+            "name": "Psalms 24:3",
+            "text": "Who shall ascend into the hill of the Lord? or who shall stand in his holy place?"
+        },
+        {
+            "name": "Psalms 24:4",
+            "text": "He that hath clean hands, and a pure heart; who hath not lifted up his soul unto vanity, nor sworn deceitfully."
+        },
+        {
+            "name": "Psalms 24:5",
+            "text": "He shall receive the blessing from the Lord, and righteousness from the God of his salvation."
+        },
+        {
+            "name": "Psalms 24:6",
+            "text": "This is the generation of them that seek him, that seek thy face, O Jacob. Selah."
+        }
+    ],
+    "tone": "instructional"
+}

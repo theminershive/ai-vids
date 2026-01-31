@@ -1,0 +1,19 @@
+{
+    "book": "Genesis",
+    "chapter": "Chapter 4",
+    "verses": [
+        {
+            "name": "Genesis 4:13",
+            "text": "And Cain said unto the Lord, My punishment is greater than I can bear."
+        },
+        {
+            "name": "Genesis 4:14",
+            "text": "Behold, thou hast driven me out this day from the face of the earth; and from thy face shall I be hid; and I shall be a fugitive and a vagabond in the earth; and it shall come to pass, that every one that findeth me shall slay me."
+        },
+        {
+            "name": "Genesis 4:15",
+            "text": "And the Lord said unto him, Therefore whosoever slayeth Cain, vengeance shall be taken on him sevenfold. And the Lord set a mark upon Cain, lest any finding him should kill him."
+        }
+    ],
+    "tone": "neutral"
+}

@@ -1,0 +1,23 @@
+{
+    "book": "Hebrews",
+    "chapter": "Chapter 11",
+    "verses": [
+        {
+            "name": "Hebrews 11:1",
+            "text": "Now faith is the substance of things hoped for, the evidence of things not seen."
+        },
+        {
+            "name": "Hebrews 11:2",
+            "text": "For by it the elders obtained a good report."
+        },
+        {
+            "name": "Hebrews 11:3",
+            "text": "Through faith we understand that the worlds were framed by the word of God, so that things which are seen were not made of things which do appear."
+        },
+        {
+            "name": "Hebrews 11:4",
+            "text": "By faith Abel offered unto God a more excellent sacrifice than Cain, by which he obtained witness that he was righteous, God testifying of his gifts: and by it he being dead yet speaketh."
+        }
+    ],
+    "tone": "hopeful"
+}

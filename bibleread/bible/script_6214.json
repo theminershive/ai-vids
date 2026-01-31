@@ -1,0 +1,27 @@
+{
+    "book": "Matthew",
+    "chapter": "Chapter 8",
+    "verses": [
+        {
+            "name": "Matthew 8:21",
+            "text": "And another of his disciples said unto him, Lord, suffer me first to go and bury my father."
+        },
+        {
+            "name": "Matthew 8:22",
+            "text": "But Jesus said unto him, Follow me; and let the dead bury their dead."
+        },
+        {
+            "name": "Matthew 8:23",
+            "text": "And when he was entered into a ship, his disciples followed him."
+        },
+        {
+            "name": "Matthew 8:24",
+            "text": "And, behold, there arose a great tempest in the sea, insomuch that the ship was covered with the waves: but he was asleep."
+        },
+        {
+            "name": "Matthew 8:25",
+            "text": "And his disciples came to him, and awoke him, saying, Lord, save us: we perish."
+        }
+    ],
+    "tone": "neutral"
+}

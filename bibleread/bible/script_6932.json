@@ -1,0 +1,35 @@
+{
+    "book": "John",
+    "chapter": "Chapter 7",
+    "verses": [
+        {
+            "name": "John 7:47",
+            "text": "Then answered them the Pharisees, Are ye also deceived?"
+        },
+        {
+            "name": "John 7:48",
+            "text": "Have any of the rulers or of the Pharisees believed on him?"
+        },
+        {
+            "name": "John 7:49",
+            "text": "But this people who knoweth not the law are cursed."
+        },
+        {
+            "name": "John 7:50",
+            "text": "Nicodemus saith unto them, (he that came to Jesus by night, being one of them,)"
+        },
+        {
+            "name": "John 7:51",
+            "text": "Doth our law judge any man, before it hear him, and know what he doeth?"
+        },
+        {
+            "name": "John 7:52",
+            "text": "They answered and said unto him, Art thou also of Galilee? Search, and look: for out of Galilee ariseth no prophet."
+        },
+        {
+            "name": "John 7:53",
+            "text": "And every man went unto his own house. "
+        }
+    ],
+    "tone": "neutral"
+}

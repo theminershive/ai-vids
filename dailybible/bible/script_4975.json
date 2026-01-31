@@ -1,0 +1,19 @@
+{
+    "book": "Jeremiah",
+    "chapter": "Chapter 12",
+    "verses": [
+        {
+            "name": "Jeremiah 12:1",
+            "text": "Righteous art thou, O Lord, when I plead with thee: yet let me talk with thee of thy judgments: Wherefore doth the way of the wicked prosper? wherefore are all they happy that deal very treacherously?"
+        },
+        {
+            "name": "Jeremiah 12:2",
+            "text": "Thou hast planted them, yea, they have taken root: they grow, yea, they bring forth fruit: thou art near in their mouth, and far from their reins."
+        },
+        {
+            "name": "Jeremiah 12:3",
+            "text": "But thou, O Lord, knowest me: thou hast seen me, and tried mine heart toward thee: pull them out like sheep for the slaughter, and prepare them for the day of slaughter."
+        }
+    ],
+    "tone": "neutral"
+}

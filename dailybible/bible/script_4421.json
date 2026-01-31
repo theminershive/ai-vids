@@ -1,0 +1,19 @@
+{
+    "book": "Ecclesiastes",
+    "chapter": "Chapter 2",
+    "verses": [
+        {
+            "name": "Ecclesiastes 2:8",
+            "text": "I gathered me also silver and gold, and the peculiar treasure of kings and of the provinces: I gat me men singers and women singers, and the delights of the sons of men, as musical instruments, and that of all sorts."
+        },
+        {
+            "name": "Ecclesiastes 2:9",
+            "text": "So I was great, and increased more than all that were before me in Jerusalem: also my wisdom remained with me."
+        },
+        {
+            "name": "Ecclesiastes 2:10",
+            "text": "And whatsoever mine eyes desired I kept not from them, I withheld not my heart from any joy; for my heart rejoiced in all my labour: and this was my portion of all my labour."
+        }
+    ],
+    "tone": "instructional"
+}

@@ -1,0 +1,31 @@
+{
+    "book": "Philemon",
+    "chapter": "Chapter 1",
+    "verses": [
+        {
+            "name": "Philemon 1:20",
+            "text": "Yea, brother, let me have joy of thee in the Lord: refresh my bowels in the Lord."
+        },
+        {
+            "name": "Philemon 1:21",
+            "text": "Having confidence in thy obedience I wrote unto thee, knowing that thou wilt also do more than I say."
+        },
+        {
+            "name": "Philemon 1:22",
+            "text": "But withal prepare me also a lodging: for I trust that through your prayers I shall be given unto you."
+        },
+        {
+            "name": "Philemon 1:23",
+            "text": "There salute thee Epaphras, my fellowprisoner in Christ Jesus;"
+        },
+        {
+            "name": "Philemon 1:24",
+            "text": "Marcus, Aristarchus, Demas, Lucas, my fellowlabourers."
+        },
+        {
+            "name": "Philemon 1:25",
+            "text": "The grace of our Lord Jesus Christ be with your spirit. Amen.  Written from Rome to Philemon, by Onesimus a servant. "
+        }
+    ],
+    "tone": "hopeful"
+}

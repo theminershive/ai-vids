@@ -1,0 +1,27 @@
+{
+    "book": "Romans",
+    "chapter": "Chapter 9",
+    "verses": [
+        {
+            "name": "Romans 9:1",
+            "text": "I say the truth in Christ, I lie not, my conscience also bearing me witness in the Holy Ghost,"
+        },
+        {
+            "name": "Romans 9:2",
+            "text": "That I have great heaviness and continual sorrow in my heart."
+        },
+        {
+            "name": "Romans 9:3",
+            "text": "For I could wish that myself were accursed from Christ for my brethren, my kinsmen according to the flesh:"
+        },
+        {
+            "name": "Romans 9:4",
+            "text": "Who are Israelites; to whom pertaineth the adoption, and the glory, and the covenants, and the giving of the law, and the service of God, and the promises;"
+        },
+        {
+            "name": "Romans 9:5",
+            "text": "Whose are the fathers, and of whom as concerning the flesh Christ came, who is over all, God blessed for ever. Amen."
+        }
+    ],
+    "tone": "lamenting"
+}

@@ -1,0 +1,23 @@
+{
+    "book": "Genesis",
+    "chapter": "Chapter 4",
+    "verses": [
+        {
+            "name": "Genesis 4:5",
+            "text": "But unto Cain and to his offering he had not respect. And Cain was very wroth, and his countenance fell."
+        },
+        {
+            "name": "Genesis 4:6",
+            "text": "And the Lord said unto Cain, Why art thou wroth? and why is thy countenance fallen?"
+        },
+        {
+            "name": "Genesis 4:7",
+            "text": "If thou doest well, shalt thou not be accepted? and if thou doest not well, sin lieth at the door. And unto thee shall be his desire, and thou shalt rule over him."
+        },
+        {
+            "name": "Genesis 4:8",
+            "text": "And Cain talked with Abel his brother: and it came to pass, when they were in the field, that Cain rose up against Abel his brother, and slew him."
+        }
+    ],
+    "tone": "lamenting"
+}

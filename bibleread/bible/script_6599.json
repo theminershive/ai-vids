@@ -1,0 +1,23 @@
+{
+    "book": "Luke",
+    "chapter": "Chapter 2",
+    "verses": [
+        {
+            "name": "Luke 2:19",
+            "text": "But Mary kept all these things, and pondered them in her heart."
+        },
+        {
+            "name": "Luke 2:20",
+            "text": "And the shepherds returned, glorifying and praising God for all the things that they had heard and seen, as it was told unto them."
+        },
+        {
+            "name": "Luke 2:21",
+            "text": "And when eight days were accomplished for the circumcising of the child, his name was called JESUS, which was so named of the angel before he was conceived in the womb."
+        },
+        {
+            "name": "Luke 2:22",
+            "text": "And when the days of her purification according to the law of Moses were accomplished, they brought him to Jerusalem, to present him to the Lord;"
+        }
+    ],
+    "tone": "instructional"
+}

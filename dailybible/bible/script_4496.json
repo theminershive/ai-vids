@@ -1,0 +1,23 @@
+{
+    "book": "Song of Solomon",
+    "chapter": "Chapter 8",
+    "verses": [
+        {
+            "name": "Song of Songs 8:1",
+            "text": "O that thou wert as my brother, that sucked the breasts of my mother! when I should find thee without, I would kiss thee; yea, I should not be despised."
+        },
+        {
+            "name": "Song of Songs 8:2",
+            "text": "I would lead thee, and bring thee into my mother\u2019s house, who would instruct me: I would cause thee to drink of spiced wine of the juice of my pomegranate."
+        },
+        {
+            "name": "Song of Songs 8:3",
+            "text": "His left hand should be under my head, and his right hand should embrace me."
+        },
+        {
+            "name": "Song of Songs 8:4",
+            "text": "I charge you, O daughters of Jerusalem, that ye stir not up, nor awake my love, until he please."
+        }
+    ],
+    "tone": "instructional"
+}

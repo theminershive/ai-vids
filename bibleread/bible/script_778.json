@@ -1,0 +1,19 @@
+{
+    "book": "Leviticus",
+    "chapter": "Chapter 6",
+    "verses": [
+        {
+            "name": "Leviticus 6:1",
+            "text": "And the Lord spake unto Moses, saying,"
+        },
+        {
+            "name": "Leviticus 6:2",
+            "text": "If a soul sin, and commit a trespass against the Lord, and lie unto his neighbour in that which was delivered him to keep, or in fellowship, or in a thing taken away by violence, or hath deceived his neighbour;"
+        },
+        {
+            "name": "Leviticus 6:3",
+            "text": "Or have found that which was lost, and lieth concerning it, and sweareth falsely; in any of all these that a man doeth, sinning therein:"
+        }
+    ],
+    "tone": "lamenting"
+}

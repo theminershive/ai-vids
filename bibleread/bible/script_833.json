@@ -1,0 +1,23 @@
+{
+    "book": "Leviticus",
+    "chapter": "Chapter 12",
+    "verses": [
+        {
+            "name": "Leviticus 12:1",
+            "text": "And the Lord spake unto Moses, saying,"
+        },
+        {
+            "name": "Leviticus 12:2",
+            "text": "Speak unto the children of Israel, saying, If a woman have conceived seed, and born a man child: then she shall be unclean seven days; according to the days of the separation for her infirmity shall she be unclean."
+        },
+        {
+            "name": "Leviticus 12:3",
+            "text": "And in the eighth day the flesh of his foreskin shall be circumcised."
+        },
+        {
+            "name": "Leviticus 12:4",
+            "text": "And she shall then continue in the blood of her purifying three and thirty days; she shall touch no hallowed thing, nor come into the sanctuary, until the days of her purifying be fulfilled."
+        }
+    ],
+    "tone": "neutral"
+}

@@ -1,0 +1,27 @@
+{
+    "book": "Matthew",
+    "chapter": "Chapter 6",
+    "verses": [
+        {
+            "name": "Matthew 6:17",
+            "text": "But thou, when thou fastest, anoint thine head, and wash thy face;"
+        },
+        {
+            "name": "Matthew 6:18",
+            "text": "That thou appear not unto men to fast, but unto thy Father which is in secret: and thy Father, which seeth in secret, shall reward thee openly."
+        },
+        {
+            "name": "Matthew 6:19",
+            "text": "Lay not up for yourselves treasures upon earth, where moth and rust doth corrupt, and where thieves break through and steal:"
+        },
+        {
+            "name": "Matthew 6:20",
+            "text": "But lay up for yourselves treasures in heaven, where neither moth nor rust doth corrupt, and where thieves do not break through nor steal:"
+        },
+        {
+            "name": "Matthew 6:21",
+            "text": "For where your treasure is, there will your heart be also."
+        }
+    ],
+    "tone": "hopeful"
+}

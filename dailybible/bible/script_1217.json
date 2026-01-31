@@ -1,0 +1,23 @@
+{
+    "book": "Numbers",
+    "chapter": "Chapter 23",
+    "verses": [
+        {
+            "name": "Numbers 23:4",
+            "text": "And God met Balaam: and he said unto him, I have prepared seven altars, and I have offered upon every altar a bullock and a ram."
+        },
+        {
+            "name": "Numbers 23:5",
+            "text": "And the Lord put a word in Balaam\u2019s mouth, and said, Return unto Balak, and thus thou shalt speak."
+        },
+        {
+            "name": "Numbers 23:6",
+            "text": "And he returned unto him, and, lo, he stood by his burnt sacrifice, he, and all the princes of Moab."
+        },
+        {
+            "name": "Numbers 23:7",
+            "text": "And he took up his parable, and said, Balak the king of Moab hath brought me from Aram, out of the mountains of the east, saying, Come, curse me Jacob, and come, defy Israel."
+        }
+    ],
+    "tone": "neutral"
+}

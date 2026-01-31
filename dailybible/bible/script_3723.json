@@ -1,0 +1,27 @@
+{
+    "book": "Job",
+    "chapter": "Chapter 19",
+    "verses": [
+        {
+            "name": "Job 19:8",
+            "text": "He hath fenced up my way that I cannot pass, and he hath set darkness in my paths."
+        },
+        {
+            "name": "Job 19:9",
+            "text": "He hath stripped me of my glory, and taken the crown from my head."
+        },
+        {
+            "name": "Job 19:10",
+            "text": "He hath destroyed me on every side, and I am gone: and mine hope hath he removed like a tree."
+        },
+        {
+            "name": "Job 19:11",
+            "text": "He hath also kindled his wrath against me, and he counteth me unto him as one of his enemies."
+        },
+        {
+            "name": "Job 19:12",
+            "text": "His troops come together, and raise up their way against me, and encamp round about my tabernacle."
+        }
+    ],
+    "tone": "hopeful"
+}

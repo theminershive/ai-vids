@@ -1,0 +1,23 @@
+{
+    "book": "Leviticus",
+    "chapter": "Chapter 7",
+    "verses": [
+        {
+            "name": "Leviticus 7:1",
+            "text": "Likewise this is the law of the trespass offering: it is most holy."
+        },
+        {
+            "name": "Leviticus 7:2",
+            "text": "In the place where they kill the burnt offering shall they kill the trespass offering: and the blood thereof shall he sprinkle round about upon the altar."
+        },
+        {
+            "name": "Leviticus 7:3",
+            "text": "And he shall offer of it all the fat thereof; the rump, and the fat that covereth the inwards,"
+        },
+        {
+            "name": "Leviticus 7:4",
+            "text": "And the two kidneys, and the fat that is on them, which is by the flanks, and the caul that is above the liver, with the kidneys, it shall he take away:"
+        }
+    ],
+    "tone": "instructional"
+}

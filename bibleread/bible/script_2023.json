@@ -1,0 +1,19 @@
+{
+    "book": "Ruth",
+    "chapter": "Chapter 4",
+    "verses": [
+        {
+            "name": "Ruth 4:6",
+            "text": "And the kinsman said, I cannot redeem it for myself, lest I mar mine own inheritance: redeem thou my right to thyself; for I cannot redeem it."
+        },
+        {
+            "name": "Ruth 4:7",
+            "text": "Now this was the manner in former time in Israel concerning redeeming and concerning changing, for to confirm all things; a man plucked off his shoe, and gave it to his neighbour: and this was a testimony in Israel."
+        },
+        {
+            "name": "Ruth 4:8",
+            "text": "Therefore the kinsman said unto Boaz, Buy it for thee. So he drew off his shoe."
+        }
+    ],
+    "tone": "neutral"
+}

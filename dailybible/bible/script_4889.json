@@ -1,0 +1,15 @@
+{
+    "book": "Jeremiah",
+    "chapter": "Chapter 1",
+    "verses": [
+        {
+            "name": "Jeremiah 1:15",
+            "text": "For, lo, I will call all the families of the kingdoms of the north, saith the Lord; and they shall come, and they shall set every one his throne at the entering of the gates of Jerusalem, and against all the walls thereof round about, and against all the cities of Judah."
+        },
+        {
+            "name": "Jeremiah 1:16",
+            "text": "And I will utter my judgments against them touching all their wickedness, who have forsaken me, and have burned incense unto other gods, and worshipped the works of their own hands."
+        }
+    ],
+    "tone": "neutral"
+}

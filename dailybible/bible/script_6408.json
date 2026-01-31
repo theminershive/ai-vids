@@ -1,0 +1,23 @@
+{
+    "book": "Matthew",
+    "chapter": "Chapter 27",
+    "verses": [
+        {
+            "name": "Matthew 27:53",
+            "text": "And came out of the graves after his resurrection, and went into the holy city, and appeared unto many."
+        },
+        {
+            "name": "Matthew 27:54",
+            "text": "Now when the centurion, and they that were with him, watching Jesus, saw the earthquake, and those things that were done, they feared greatly, saying, Truly this was the Son of God."
+        },
+        {
+            "name": "Matthew 27:55",
+            "text": "And many women were there beholding afar off, which followed Jesus from Galilee, ministering unto him:"
+        },
+        {
+            "name": "Matthew 27:56",
+            "text": "Among which was Mary Magdalene, and Mary the mother of James and Joses, and the mother of Zebedee\u2019s children."
+        }
+    ],
+    "tone": "instructional"
+}

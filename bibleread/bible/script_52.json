@@ -1,0 +1,23 @@
+{
+    "book": "Genesis",
+    "chapter": "Chapter 8",
+    "verses": [
+        {
+            "name": "Genesis 8:12",
+            "text": "And he stayed yet other seven days; and sent forth the dove; which returned not again unto him any more."
+        },
+        {
+            "name": "Genesis 8:13",
+            "text": "And it came to pass in the six hundredth and first year, in the first month, the first day of the month, the waters were dried up from off the earth: and Noah removed the covering of the ark, and looked, and, behold, the face of the ground was dry."
+        },
+        {
+            "name": "Genesis 8:14",
+            "text": "And in the second month, on the seven and twentieth day of the month, was the earth dried."
+        },
+        {
+            "name": "Genesis 8:15",
+            "text": "And God spake unto Noah, saying,"
+        }
+    ],
+    "tone": "neutral"
+}

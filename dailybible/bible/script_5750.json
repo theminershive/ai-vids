@@ -1,0 +1,23 @@
+{
+    "book": "Daniel",
+    "chapter": "Chapter 2",
+    "verses": [
+        {
+            "name": "Daniel 2:13",
+            "text": "And the decree went forth that the wise men should be slain; and they sought Daniel and his fellows to be slain."
+        },
+        {
+            "name": "Daniel 2:14",
+            "text": "Then Daniel answered with counsel and wisdom to Arioch the captain of the king\u2019s guard, which was gone forth to slay the wise men of Babylon:"
+        },
+        {
+            "name": "Daniel 2:15",
+            "text": "He answered and said to Arioch the king\u2019s captain, Why is the decree so hasty from the king? Then Arioch made the thing known to Daniel."
+        },
+        {
+            "name": "Daniel 2:16",
+            "text": "Then Daniel went in, and desired of the king that he would give him time, and that he would shew the king the interpretation."
+        }
+    ],
+    "tone": "neutral"
+}

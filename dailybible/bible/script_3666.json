@@ -1,0 +1,31 @@
+{
+    "book": "Job",
+    "chapter": "Chapter 5",
+    "verses": [
+        {
+            "name": "Job 5:13",
+            "text": "He taketh the wise in their own craftiness: and the counsel of the froward is carried headlong."
+        },
+        {
+            "name": "Job 5:14",
+            "text": "They meet with darkness in the daytime, and grope in the noonday as in the night."
+        },
+        {
+            "name": "Job 5:15",
+            "text": "But he saveth the poor from the sword, from their mouth, and from the hand of the mighty."
+        },
+        {
+            "name": "Job 5:16",
+            "text": "So the poor hath hope, and iniquity stoppeth her mouth."
+        },
+        {
+            "name": "Job 5:17",
+            "text": "Behold, happy is the man whom God correcteth: therefore despise not thou the chastening of the Almighty:"
+        },
+        {
+            "name": "Job 5:18",
+            "text": "For he maketh sore, and bindeth up: he woundeth, and his hands make whole."
+        }
+    ],
+    "tone": "hopeful"
+}

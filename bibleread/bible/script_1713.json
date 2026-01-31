@@ -1,0 +1,19 @@
+{
+    "book": "Joshua",
+    "chapter": "Chapter 11",
+    "verses": [
+        {
+            "name": "Joshua 11:3",
+            "text": "And to the Canaanite on the east and on the west, and to the Amorite, and the Hittite, and the Perizzite, and the Jebusite in the mountains, and to the Hivite under Hermon in the land of Mizpeh."
+        },
+        {
+            "name": "Joshua 11:4",
+            "text": "And they went out, they and all their hosts with them, much people, even as the sand that is upon the sea shore in multitude, with horses and chariots very many."
+        },
+        {
+            "name": "Joshua 11:5",
+            "text": "And when all these kings were met together, they came and pitched together at the waters of Merom, to fight against Israel."
+        }
+    ],
+    "tone": "neutral"
+}

@@ -1,0 +1,19 @@
+{
+    "book": "Leviticus",
+    "chapter": "Chapter 20",
+    "verses": [
+        {
+            "name": "Leviticus 20:10",
+            "text": "And the man that committeth adultery with another man\u2019s wife, even he that committeth adultery with his neighbour\u2019s wife, the adulterer and the adulteress shall surely be put to death."
+        },
+        {
+            "name": "Leviticus 20:11",
+            "text": "And the man that lieth with his father\u2019s wife hath uncovered his father\u2019s nakedness: both of them shall surely be put to death; their blood shall be upon them."
+        },
+        {
+            "name": "Leviticus 20:12",
+            "text": "And if a man lie with his daughter in law, both of them shall surely be put to death: they have wrought confusion; their blood shall be upon them."
+        }
+    ],
+    "tone": "lamenting"
+}

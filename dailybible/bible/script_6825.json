@@ -1,0 +1,23 @@
+{
+    "book": "Luke",
+    "chapter": "Chapter 22",
+    "verses": [
+        {
+            "name": "Luke 22:25",
+            "text": "And he said unto them, The kings of the Gentiles exercise lordship over them; and they that exercise authority upon them are called benefactors."
+        },
+        {
+            "name": "Luke 22:26",
+            "text": "But ye shall not be so: but he that is greatest among you, let him be as the younger; and he that is chief, as he that doth serve."
+        },
+        {
+            "name": "Luke 22:27",
+            "text": "For whether is greater, he that sitteth at meat, or he that serveth? is not he that sitteth at meat? but I am among you as he that serveth."
+        },
+        {
+            "name": "Luke 22:28",
+            "text": "Ye are they which have continued with me in my temptations."
+        }
+    ],
+    "tone": "neutral"
+}

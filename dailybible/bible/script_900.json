@@ -1,0 +1,23 @@
+{
+    "book": "Leviticus",
+    "chapter": "Chapter 18",
+    "verses": [
+        {
+            "name": "Leviticus 18:5",
+            "text": "Ye shall therefore keep my statutes, and my judgments: which if a man do, he shall live in them: I am the Lord."
+        },
+        {
+            "name": "Leviticus 18:6",
+            "text": "None of you shall approach to any that is near of kin to him, to uncover their nakedness: I am the Lord."
+        },
+        {
+            "name": "Leviticus 18:7",
+            "text": "The nakedness of thy father, or the nakedness of thy mother, shalt thou not uncover: she is thy mother; thou shalt not uncover her nakedness."
+        },
+        {
+            "name": "Leviticus 18:8",
+            "text": "The nakedness of thy father\u2019s wife shalt thou not uncover: it is thy father\u2019s nakedness."
+        }
+    ],
+    "tone": "neutral"
+}

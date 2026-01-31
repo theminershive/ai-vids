@@ -1,0 +1,19 @@
+{
+    "book": "Exodus",
+    "chapter": "Chapter 12",
+    "verses": [
+        {
+            "name": "Exodus 12:41",
+            "text": "And it came to pass at the end of the four hundred and thirty years, even the selfsame day it came to pass, that all the hosts of the Lord went out from the land of Egypt."
+        },
+        {
+            "name": "Exodus 12:42",
+            "text": "It is a night to be much observed unto the Lord for bringing them out from the land of Egypt: this is that night of the Lord to be observed of all the children of Israel in their generations."
+        },
+        {
+            "name": "Exodus 12:43",
+            "text": "And the Lord said unto Moses and Aaron, This is the ordinance of the passover: There shall no stranger eat thereof:"
+        }
+    ],
+    "tone": "neutral"
+}

@@ -1,0 +1,23 @@
+{
+    "book": "Leviticus",
+    "chapter": "Chapter 25",
+    "verses": [
+        {
+            "name": "Leviticus 25:23",
+            "text": "The land shall not be sold for ever: for the land is mine; for ye are strangers and sojourners with me."
+        },
+        {
+            "name": "Leviticus 25:24",
+            "text": "And in all the land of your possession ye shall grant a redemption for the land."
+        },
+        {
+            "name": "Leviticus 25:25",
+            "text": "If thy brother be waxen poor, and hath sold away some of his possession, and if any of his kin come to redeem it, then shall he redeem that which his brother sold."
+        },
+        {
+            "name": "Leviticus 25:26",
+            "text": "And if the man have none to redeem it, and himself be able to redeem it;"
+        }
+    ],
+    "tone": "neutral"
+}

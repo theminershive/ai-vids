@@ -1,0 +1,23 @@
+{
+    "book": "Mark",
+    "chapter": "Chapter 15",
+    "verses": [
+        {
+            "name": "Mark 15:36",
+            "text": "And one ran and filled a spunge full of vinegar, and put it on a reed, and gave him to drink, saying, Let alone; let us see whether Elias will come to take him down."
+        },
+        {
+            "name": "Mark 15:37",
+            "text": "And Jesus cried with a loud voice, and gave up the ghost."
+        },
+        {
+            "name": "Mark 15:38",
+            "text": "And the veil of the temple was rent in twain from the top to the bottom."
+        },
+        {
+            "name": "Mark 15:39",
+            "text": "And when the centurion, which stood over against him, saw that he so cried out, and gave up the ghost, he said, Truly this man was the Son of God."
+        }
+    ],
+    "tone": "lamenting"
+}

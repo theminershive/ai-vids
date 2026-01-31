@@ -1,0 +1,19 @@
+{
+    "book": "Isaiah",
+    "chapter": "Chapter 1",
+    "verses": [
+        {
+            "name": "Isaiah 1:11",
+            "text": "To what purpose is the multitude of your sacrifices unto me? saith the Lord: I am full of the burnt offerings of rams, and the fat of fed beasts; and I delight not in the blood of bullocks, or of lambs, or of he goats."
+        },
+        {
+            "name": "Isaiah 1:12",
+            "text": "When ye come to appear before me, who hath required this at your hand, to tread my courts?"
+        },
+        {
+            "name": "Isaiah 1:13",
+            "text": "Bring no more vain oblations; incense is an abomination unto me; the new moons and sabbaths, the calling of assemblies, I cannot away with; it is iniquity, even the solemn meeting."
+        }
+    ],
+    "tone": "hopeful"
+}

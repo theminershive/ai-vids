@@ -1,0 +1,15 @@
+{
+    "book": "2 Kings",
+    "chapter": "Chapter 4",
+    "verses": [
+        {
+            "name": "2 Kings 4:1",
+            "text": "Now there cried a certain woman of the wives of the sons of the prophets unto Elisha, saying, Thy servant my husband is dead; and thou knowest that thy servant did fear the Lord: and the creditor is come to take unto him my two sons to be bondmen."
+        },
+        {
+            "name": "2 Kings 4:2",
+            "text": "And Elisha said unto her, What shall I do for thee? tell me, what hast thou in the house? And she said, Thine handmaid hath not any thing in the house, save a pot of oil."
+        }
+    ],
+    "tone": "neutral"
+}

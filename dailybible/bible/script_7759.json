@@ -1,0 +1,27 @@
+{
+    "book": "2 Timothy",
+    "chapter": "Chapter 3",
+    "verses": [
+        {
+            "name": "2 Timothy 3:7",
+            "text": "Ever learning, and never able to come to the knowledge of the truth."
+        },
+        {
+            "name": "2 Timothy 3:8",
+            "text": "Now as Jannes and Jambres withstood Moses, so do these also resist the truth: men of corrupt minds, reprobate concerning the faith."
+        },
+        {
+            "name": "2 Timothy 3:9",
+            "text": "But they shall proceed no further: for their folly shall be manifest unto all men, as theirs also was."
+        },
+        {
+            "name": "2 Timothy 3:10",
+            "text": "But thou hast fully known my doctrine, manner of life, purpose, faith, longsuffering, charity, patience,"
+        },
+        {
+            "name": "2 Timothy 3:11",
+            "text": "Persecutions, afflictions, which came unto me at Antioch, at Iconium, at Lystra; what persecutions I endured: but out of them all the Lord delivered me."
+        }
+    ],
+    "tone": "hopeful"
+}

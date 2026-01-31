@@ -1,0 +1,23 @@
+{
+    "book": "Luke",
+    "chapter": "Chapter 22",
+    "verses": [
+        {
+            "name": "Luke 22:37",
+            "text": "For I say unto you, that this that is written must yet be accomplished in me, And he was reckoned among the transgressors: for the things concerning me have an end."
+        },
+        {
+            "name": "Luke 22:38",
+            "text": "And they said, Lord, behold, here are two swords. And he said unto them, It is enough."
+        },
+        {
+            "name": "Luke 22:39",
+            "text": "And he came out, and went, as he was wont, to the mount of Olives; and his disciples also followed him."
+        },
+        {
+            "name": "Luke 22:40",
+            "text": "And when he was at the place, he said unto them, Pray that ye enter not into temptation."
+        }
+    ],
+    "tone": "neutral"
+}

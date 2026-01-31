@@ -1,0 +1,27 @@
+{
+    "book": "Matthew",
+    "chapter": "Chapter 20",
+    "verses": [
+        {
+            "name": "Matthew 20:26",
+            "text": "But it shall not be so among you: but whosoever will be great among you, let him be your minister;"
+        },
+        {
+            "name": "Matthew 20:27",
+            "text": "And whosoever will be chief among you, let him be your servant:"
+        },
+        {
+            "name": "Matthew 20:28",
+            "text": "Even as the Son of man came not to be ministered unto, but to minister, and to give his life a ransom for many."
+        },
+        {
+            "name": "Matthew 20:29",
+            "text": "And as they departed from Jericho, a great multitude followed him."
+        },
+        {
+            "name": "Matthew 20:30",
+            "text": "And, behold, two blind men sitting by the way side, when they heard that Jesus passed by, cried out, saying, Have mercy on us, O Lord, thou Son of David."
+        }
+    ],
+    "tone": "hopeful"
+}

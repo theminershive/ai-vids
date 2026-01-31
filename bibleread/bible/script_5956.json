@@ -1,0 +1,19 @@
+{
+    "book": "Amos",
+    "chapter": "Chapter 6",
+    "verses": [
+        {
+            "name": "Amos 6:1",
+            "text": "Woe to them that are at ease in Zion, and trust in the mountain of Samaria, which are named chief of the nations, to whom the house of Israel came!"
+        },
+        {
+            "name": "Amos 6:2",
+            "text": "Pass ye unto Calneh, and see; and from thence go ye to Hamath the great: then go down to Gath of the Philistines: be they better than these kingdoms? or their border greater than your border?"
+        },
+        {
+            "name": "Amos 6:3",
+            "text": "Ye that put far away the evil day, and cause the seat of violence to come near;"
+        }
+    ],
+    "tone": "hopeful"
+}

@@ -1,0 +1,23 @@
+{
+    "book": "Philemon",
+    "chapter": "Chapter 1",
+    "verses": [
+        {
+            "name": "Philemon 1:16",
+            "text": "Not now as a servant, but above a servant, a brother beloved, specially to me, but how much more unto thee, both in the flesh, and in the Lord?"
+        },
+        {
+            "name": "Philemon 1:17",
+            "text": "If thou count me therefore a partner, receive him as myself."
+        },
+        {
+            "name": "Philemon 1:18",
+            "text": "If he hath wronged thee, or oweth thee ought, put that on mine account;"
+        },
+        {
+            "name": "Philemon 1:19",
+            "text": "I Paul have written it with mine own hand, I will repay it: albeit I do not say to thee how thou owest unto me even thine own self besides."
+        }
+    ],
+    "tone": "hopeful"
+}

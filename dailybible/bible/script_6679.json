@@ -1,0 +1,19 @@
+{
+    "book": "Luke",
+    "chapter": "Chapter 8",
+    "verses": [
+        {
+            "name": "Luke 8:45",
+            "text": "And Jesus said, Who touched me? When all denied, Peter and they that were with him said, Master, the multitude throng thee and press thee, and sayest thou, Who touched me?"
+        },
+        {
+            "name": "Luke 8:46",
+            "text": "And Jesus said, Somebody hath touched me: for I perceive that virtue is gone out of me."
+        },
+        {
+            "name": "Luke 8:47",
+            "text": "And when the woman saw that she was not hid, she came trembling, and falling down before him, she declared unto him before all the people for what cause she had touched him, and how she was healed immediately."
+        }
+    ],
+    "tone": "neutral"
+}

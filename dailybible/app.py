@@ -263,27 +263,27 @@ def main():
     assembled["final_video"] = str(out_path)
 
     logging.info("=== 7. Uploading =====================================================")
-    try:
-        from oauth_get2 import refresh_token
-        refresh_token()
-        logging.info("OAuth refresh: SUCCESS")
-    except Exception as e:
-        logging.error(f"OAuth refresh failed: {e}")
-    try:
-        yt_url = upload_youtube(str(script_path))
-        logging.info(f"YouTube upload ✓ {yt_url}")
-    except Exception as exc:
-        logging.error(f"YouTube upload failed: {exc}")
-    try:
-        upload_facebook(str(script_path))
-        logging.info("Facebook upload ✓")
-    except Exception as exc:
-        logging.error(f"Facebook upload failed: {exc}")
-    try:
-        upload_instagram(str(script_path))
-        logging.info("Instagram upload ✓")
-    except Exception as exc:
-        logging.error(f"Instagram upload failed: {exc}")
+    #try:
+    #    from oauth_get2 import refresh_token
+    #    refresh_token()
+    #    logging.info("OAuth refresh: SUCCESS")
+    #except Exception as e:
+    #    logging.error(f"OAuth refresh failed: {e}")
+    #try:
+    #    yt_url = upload_youtube(str(script_path))
+    #    logging.info(f"YouTube upload ✓ {yt_url}")
+    #except Exception as exc:
+    #    logging.error(f"YouTube upload failed: {exc}")
+    #try:
+    #    upload_facebook(str(script_path))
+    #    logging.info("Facebook upload ✓")
+    #except Exception as exc:
+    #    logging.error(f"Facebook upload failed: {exc}")
+    #try:
+    #    upload_instagram(str(script_path))
+    #    logging.info("Instagram upload ✓")
+    #except Exception as exc:
+    #    logging.error(f"Instagram upload failed: {exc}")
 
     logging.info("=== Pipeline finished successfully ====================================")
 

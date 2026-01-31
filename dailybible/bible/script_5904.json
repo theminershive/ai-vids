@@ -1,0 +1,19 @@
+{
+    "book": "Hosea",
+    "chapter": "Chapter 13",
+    "verses": [
+        {
+            "name": "Hosea 13:1",
+            "text": "When Ephraim spake trembling, he exalted himself in Israel; but when he offended in Baal, he died."
+        },
+        {
+            "name": "Hosea 13:2",
+            "text": "And now they sin more and more, and have made them molten images of their silver, and idols according to their own understanding, all of it the work of the craftsmen: they say of them, Let the men that sacrifice kiss the calves."
+        },
+        {
+            "name": "Hosea 13:3",
+            "text": "Therefore they shall be as the morning cloud, and as the early dew that passeth away, as the chaff that is driven with the whirlwind out of the floor, and as the smoke out of the chimney."
+        }
+    ],
+    "tone": "lamenting"
+}

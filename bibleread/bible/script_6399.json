@@ -1,0 +1,31 @@
+{
+    "book": "Matthew",
+    "chapter": "Chapter 27",
+    "verses": [
+        {
+            "name": "Matthew 27:13",
+            "text": "Then said Pilate unto him, Hearest thou not how many things they witness against thee?"
+        },
+        {
+            "name": "Matthew 27:14",
+            "text": "And he answered him to never a word; insomuch that the governor marvelled greatly."
+        },
+        {
+            "name": "Matthew 27:15",
+            "text": "Now at that feast the governor was wont to release unto the people a prisoner, whom they would."
+        },
+        {
+            "name": "Matthew 27:16",
+            "text": "And they had then a notable prisoner, called Barabbas."
+        },
+        {
+            "name": "Matthew 27:17",
+            "text": "Therefore when they were gathered together, Pilate said unto them, Whom will ye that I release unto you? Barabbas, or Jesus which is called Christ?"
+        },
+        {
+            "name": "Matthew 27:18",
+            "text": "For he knew that for envy they had delivered him."
+        }
+    ],
+    "tone": "neutral"
+}

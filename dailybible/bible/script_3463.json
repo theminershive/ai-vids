@@ -1,0 +1,23 @@
+{
+    "book": "Ezra",
+    "chapter": "Chapter 8",
+    "verses": [
+        {
+            "name": "Ezra 8:11",
+            "text": "And of the sons of Bebai; Zechariah the son of Bebai, and with him twenty and eight males."
+        },
+        {
+            "name": "Ezra 8:12",
+            "text": "And of the sons of Azgad; Johanan the son of Hakkatan, and with him an hundred and ten males."
+        },
+        {
+            "name": "Ezra 8:13",
+            "text": "And of the last sons of Adonikam, whose names are these, Eliphelet, Jeiel, and Shemaiah, and with them threescore males."
+        },
+        {
+            "name": "Ezra 8:14",
+            "text": "Of the sons also of Bigvai; Uthai, and Zabbud, and with them seventy males."
+        }
+    ],
+    "tone": "neutral"
+}

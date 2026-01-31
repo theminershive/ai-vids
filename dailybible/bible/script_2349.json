@@ -1,0 +1,19 @@
+{
+    "book": "2 Samuel",
+    "chapter": "Chapter 11",
+    "verses": [
+        {
+            "name": "2 Samuel 11:12",
+            "text": "And David said to Uriah, Tarry here to day also, and to morrow I will let thee depart. So Uriah abode in Jerusalem that day, and the morrow."
+        },
+        {
+            "name": "2 Samuel 11:13",
+            "text": "And when David had called him, he did eat and drink before him; and he made him drunk: and at even he went out to lie on his bed with the servants of his lord, but went not down to his house."
+        },
+        {
+            "name": "2 Samuel 11:14",
+            "text": "And it came to pass in the morning, that David wrote a letter to Joab, and sent it by the hand of Uriah."
+        }
+    ],
+    "tone": "neutral"
+}

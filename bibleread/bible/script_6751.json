@@ -1,0 +1,19 @@
+{
+    "book": "Luke",
+    "chapter": "Chapter 14",
+    "verses": [
+        {
+            "name": "Luke 14:21",
+            "text": "So that servant came, and shewed his lord these things. Then the master of the house being angry said to his servant, Go out quickly into the streets and lanes of the city, and bring in hither the poor, and the maimed, and the halt, and the blind."
+        },
+        {
+            "name": "Luke 14:22",
+            "text": "And the servant said, Lord, it is done as thou hast commanded, and yet there is room."
+        },
+        {
+            "name": "Luke 14:23",
+            "text": "And the lord said unto the servant, Go out into the highways and hedges, and compel them to come in, that my house may be filled."
+        }
+    ],
+    "tone": "neutral"
+}

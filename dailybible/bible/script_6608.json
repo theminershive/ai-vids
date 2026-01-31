@@ -1,0 +1,19 @@
+{
+    "book": "Luke",
+    "chapter": "Chapter 3",
+    "verses": [
+        {
+            "name": "Luke 3:4",
+            "text": "As it is written in the book of the words of Esaias the prophet, saying, The voice of one crying in the wilderness, Prepare ye the way of the Lord, make his paths straight."
+        },
+        {
+            "name": "Luke 3:5",
+            "text": "Every valley shall be filled, and every mountain and hill shall be brought low; and the crooked shall be made straight, and the rough ways shall be made smooth;"
+        },
+        {
+            "name": "Luke 3:6",
+            "text": "And all flesh shall see the salvation of God."
+        }
+    ],
+    "tone": "hopeful"
+}

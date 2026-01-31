@@ -1,0 +1,23 @@
+{
+    "book": "Matthew",
+    "chapter": "Chapter 13",
+    "verses": [
+        {
+            "name": "Matthew 13:42",
+            "text": "And shall cast them into a furnace of fire: there shall be wailing and gnashing of teeth."
+        },
+        {
+            "name": "Matthew 13:43",
+            "text": "Then shall the righteous shine forth as the sun in the kingdom of their Father. Who hath ears to hear, let him hear."
+        },
+        {
+            "name": "Matthew 13:44",
+            "text": "Again, the kingdom of heaven is like unto treasure hid in a field; the which when a man hath found, he hideth, and for joy thereof goeth and selleth all that he hath, and buyeth that field."
+        },
+        {
+            "name": "Matthew 13:45",
+            "text": "Again, the kingdom of heaven is like unto a merchant man, seeking goodly pearls:"
+        }
+    ],
+    "tone": "hopeful"
+}

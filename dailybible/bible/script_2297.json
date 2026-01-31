@@ -1,0 +1,19 @@
+{
+    "book": "2 Samuel",
+    "chapter": "Chapter 3",
+    "verses": [
+        {
+            "name": "2 Samuel 3:23",
+            "text": "When Joab and all the host that was with him were come, they told Joab, saying, Abner the son of Ner came to the king, and he hath sent him away, and he is gone in peace."
+        },
+        {
+            "name": "2 Samuel 3:24",
+            "text": "Then Joab came to the king, and said, What hast thou done? behold, Abner came unto thee; why is it that thou hast sent him away, and he is quite gone?"
+        },
+        {
+            "name": "2 Samuel 3:25",
+            "text": "Thou knowest Abner the son of Ner, that he came to deceive thee, and to know thy going out and thy coming in, and to know all that thou doest."
+        }
+    ],
+    "tone": "hopeful"
+}

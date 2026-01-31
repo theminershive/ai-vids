@@ -1,0 +1,27 @@
+{
+    "book": "Leviticus",
+    "chapter": "Chapter 19",
+    "verses": [
+        {
+            "name": "Leviticus 19:1",
+            "text": "And the Lord spake unto Moses, saying,"
+        },
+        {
+            "name": "Leviticus 19:2",
+            "text": "Speak unto all the congregation of the children of Israel, and say unto them, Ye shall be holy: for I the Lord your God am holy."
+        },
+        {
+            "name": "Leviticus 19:3",
+            "text": "Ye shall fear every man his mother, and his father, and keep my sabbaths: I am the Lord your God."
+        },
+        {
+            "name": "Leviticus 19:4",
+            "text": "Turn ye not unto idols, nor make to yourselves molten gods: I am the Lord your God."
+        },
+        {
+            "name": "Leviticus 19:5",
+            "text": "And if ye offer a sacrifice of peace offerings unto the Lord, ye shall offer it at your own will."
+        }
+    ],
+    "tone": "hopeful"
+}

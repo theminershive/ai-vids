@@ -1,0 +1,23 @@
+{
+    "book": "Luke",
+    "chapter": "Chapter 5",
+    "verses": [
+        {
+            "name": "Luke 5:36",
+            "text": "And he spake also a parable unto them; No man putteth a piece of a new garment upon an old; if otherwise, then both the new maketh a rent, and the piece that was taken out of the new agreeth not with the old."
+        },
+        {
+            "name": "Luke 5:37",
+            "text": "And no man putteth new wine into old bottles; else the new wine will burst the bottles, and be spilled, and the bottles shall perish."
+        },
+        {
+            "name": "Luke 5:38",
+            "text": "But new wine must be put into new bottles; and both are preserved."
+        },
+        {
+            "name": "Luke 5:39",
+            "text": "No man also having drunk old wine straightway desireth new: for he saith, The old is better. "
+        }
+    ],
+    "tone": "lamenting"
+}

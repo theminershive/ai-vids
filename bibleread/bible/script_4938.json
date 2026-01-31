@@ -1,0 +1,23 @@
+{
+    "book": "Jeremiah",
+    "chapter": "Chapter 7",
+    "verses": [
+        {
+            "name": "Jeremiah 7:1",
+            "text": "The word that came to Jeremiah from the Lord, saying,"
+        },
+        {
+            "name": "Jeremiah 7:2",
+            "text": "Stand in the gate of the Lord\u2019s house, and proclaim there this word, and say, Hear the word of the Lord, all ye of Judah, that enter in at these gates to worship the Lord."
+        },
+        {
+            "name": "Jeremiah 7:3",
+            "text": "Thus saith the Lord of hosts, the God of Israel, Amend your ways and your doings, and I will cause you to dwell in this place."
+        },
+        {
+            "name": "Jeremiah 7:4",
+            "text": "Trust ye not in lying words, saying, The temple of the Lord, The temple of the Lord, The temple of the Lord, are these."
+        }
+    ],
+    "tone": "hopeful"
+}

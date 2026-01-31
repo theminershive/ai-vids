@@ -1,0 +1,19 @@
+{
+    "book": "1 Samuel",
+    "chapter": "Chapter 15",
+    "verses": [
+        {
+            "name": "1 Samuel 15:1",
+            "text": "Samuel also said unto Saul, The Lord sent me to anoint thee to be king over his people, over Israel: now therefore hearken thou unto the voice of the words of the Lord."
+        },
+        {
+            "name": "1 Samuel 15:2",
+            "text": "Thus saith the Lord of hosts, I remember that which Amalek did to Israel, how he laid wait for him in the way, when he came up from Egypt."
+        },
+        {
+            "name": "1 Samuel 15:3",
+            "text": "Now go and smite Amalek, and utterly destroy all that they have, and spare them not; but slay both man and woman, infant and suckling, ox and sheep, camel and ass."
+        }
+    ],
+    "tone": "neutral"
+}

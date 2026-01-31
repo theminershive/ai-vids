@@ -1,0 +1,27 @@
+{
+    "book": "Colossians",
+    "chapter": "Chapter 1",
+    "verses": [
+        {
+            "name": "Colossians 1:13",
+            "text": "Who hath delivered us from the power of darkness, and hath translated us into the kingdom of his dear Son:"
+        },
+        {
+            "name": "Colossians 1:14",
+            "text": "In whom we have redemption through his blood, even the forgiveness of sins:"
+        },
+        {
+            "name": "Colossians 1:15",
+            "text": "Who is the image of the invisible God, the firstborn of every creature:"
+        },
+        {
+            "name": "Colossians 1:16",
+            "text": "For by him were all things created, that are in heaven, and that are in earth, visible and invisible, whether they be thrones, or dominions, or principalities, or powers: all things were created by him, and for him:"
+        },
+        {
+            "name": "Colossians 1:17",
+            "text": "And he is before all things, and by him all things consist."
+        }
+    ],
+    "tone": "hopeful"
+}

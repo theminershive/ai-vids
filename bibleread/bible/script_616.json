@@ -1,0 +1,23 @@
+{
+    "book": "Exodus",
+    "chapter": "Chapter 27",
+    "verses": [
+        {
+            "name": "Exodus 27:11",
+            "text": "And likewise for the north side in length there shall be hangings of an hundred cubits long, and his twenty pillars and their twenty sockets of brass; the hooks of the pillars and their fillets of silver."
+        },
+        {
+            "name": "Exodus 27:12",
+            "text": "And for the breadth of the court on the west side shall be hangings of fifty cubits: their pillars ten, and their sockets ten."
+        },
+        {
+            "name": "Exodus 27:13",
+            "text": "And the breadth of the court on the east side eastward shall be fifty cubits."
+        },
+        {
+            "name": "Exodus 27:14",
+            "text": "The hangings of one side of the gate shall be fifteen cubits: their pillars three, and their sockets three."
+        }
+    ],
+    "tone": "neutral"
+}

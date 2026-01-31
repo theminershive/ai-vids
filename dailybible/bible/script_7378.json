@@ -1,0 +1,23 @@
+{
+    "book": "Romans",
+    "chapter": "Chapter 9",
+    "verses": [
+        {
+            "name": "Romans 9:27",
+            "text": "Esaias also crieth concerning Israel, Though the number of the children of Israel be as the sand of the sea, a remnant shall be saved:"
+        },
+        {
+            "name": "Romans 9:28",
+            "text": "For he will finish the work, and cut it short in righteousness: because a short work will the Lord make upon the earth."
+        },
+        {
+            "name": "Romans 9:29",
+            "text": "And as Esaias said before, Except the Lord of Sabaoth had left us a seed, we had been as Sodoma, and been made like unto Gomorrha."
+        },
+        {
+            "name": "Romans 9:30",
+            "text": "What shall we say then? That the Gentiles, which followed not after righteousness, have attained to righteousness, even the righteousness which is of faith."
+        }
+    ],
+    "tone": "instructional"
+}

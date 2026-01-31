@@ -1,0 +1,23 @@
+{
+    "book": "Luke",
+    "chapter": "Chapter 16",
+    "verses": [
+        {
+            "name": "Luke 16:26",
+            "text": "And beside all this, between us and you there is a great gulf fixed: so that they which would pass from hence to you cannot; neither can they pass to us, that would come from thence."
+        },
+        {
+            "name": "Luke 16:27",
+            "text": "Then he said, I pray thee therefore, father, that thou wouldest send him to my father\u2019s house:"
+        },
+        {
+            "name": "Luke 16:28",
+            "text": "For I have five brethren; that he may testify unto them, lest they also come into this place of torment."
+        },
+        {
+            "name": "Luke 16:29",
+            "text": "Abraham saith unto him, They have Moses and the prophets; let them hear them."
+        }
+    ],
+    "tone": "neutral"
+}

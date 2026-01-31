@@ -1,0 +1,15 @@
+{
+    "book": "2 Kings",
+    "chapter": "Chapter 3",
+    "verses": [
+        {
+            "name": "2 Kings 3:7",
+            "text": "And he went and sent to Jehoshaphat the king of Judah, saying, The king of Moab hath rebelled against me: wilt thou go with me against Moab to battle? And he said, I will go up: I am as thou art, my people as thy people, and my horses as thy horses."
+        },
+        {
+            "name": "2 Kings 3:8",
+            "text": "And he said, Which way shall we go up? And he answered, The way through the wilderness of Edom."
+        }
+    ],
+    "tone": "neutral"
+}

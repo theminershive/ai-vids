@@ -1,0 +1,19 @@
+{
+    "book": "Galatians",
+    "chapter": "Chapter 2",
+    "verses": [
+        {
+            "name": "Galatians 2:16",
+            "text": "Knowing that a man is not justified by the works of the law, but by the faith of Jesus Christ, even we have believed in Jesus Christ, that we might be justified by the faith of Christ, and not by the works of the law: for by the works of the law shall no flesh be justified."
+        },
+        {
+            "name": "Galatians 2:17",
+            "text": "But if, while we seek to be justified by Christ, we ourselves also are found sinners, is therefore Christ the minister of sin? God forbid."
+        },
+        {
+            "name": "Galatians 2:18",
+            "text": "For if I build again the things which I destroyed, I make myself a transgressor."
+        }
+    ],
+    "tone": "hopeful"
+}

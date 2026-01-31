@@ -1,0 +1,23 @@
+{
+    "book": "John",
+    "chapter": "Chapter 3",
+    "verses": [
+        {
+            "name": "John 3:19",
+            "text": "And this is the condemnation, that light is come into the world, and men loved darkness rather than light, because their deeds were evil."
+        },
+        {
+            "name": "John 3:20",
+            "text": "For every one that doeth evil hateth the light, neither cometh to the light, lest his deeds should be reproved."
+        },
+        {
+            "name": "John 3:21",
+            "text": "But he that doeth truth cometh to the light, that his deeds may be made manifest, that they are wrought in God."
+        },
+        {
+            "name": "John 3:22",
+            "text": "After these things came Jesus and his disciples into the land of Judea; and there he tarried with them, and baptized."
+        }
+    ],
+    "tone": "instructional"
+}

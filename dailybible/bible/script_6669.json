@@ -1,0 +1,19 @@
+{
+    "book": "Luke",
+    "chapter": "Chapter 8",
+    "verses": [
+        {
+            "name": "Luke 8:13",
+            "text": "They on the rock are they, which, when they hear, receive the word with joy; and these have no root, which for a while believe, and in time of temptation fall away."
+        },
+        {
+            "name": "Luke 8:14",
+            "text": "And that which fell among thorns are they, which, when they have heard, go forth, and are choked with cares and riches and pleasures of this life, and bring no fruit to perfection."
+        },
+        {
+            "name": "Luke 8:15",
+            "text": "But that on the good ground are they, which in an honest and good heart, having heard the word, keep it, and bring forth fruit with patience."
+        }
+    ],
+    "tone": "hopeful"
+}

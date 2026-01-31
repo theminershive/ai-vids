@@ -1,0 +1,19 @@
+{
+    "book": "1 Kings",
+    "chapter": "Chapter 12",
+    "verses": [
+        {
+            "name": "1 Kings 12:24",
+            "text": "Thus saith the Lord, Ye shall not go up, nor fight against your brethren the children of Israel: return every man to his house; for this thing is from me. They hearkened therefore to the word of the Lord, and returned to depart, according to the word of the Lord."
+        },
+        {
+            "name": "1 Kings 12:25",
+            "text": "Then Jeroboam built Shechem in mount Ephraim, and dwelt therein; and went out from thence, and built Penuel."
+        },
+        {
+            "name": "1 Kings 12:26",
+            "text": "And Jeroboam said in his heart, Now shall the kingdom return to the house of David:"
+        }
+    ],
+    "tone": "neutral"
+}

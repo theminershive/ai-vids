@@ -1,0 +1,15 @@
+{
+    "book": "Joshua",
+    "chapter": "Chapter 5",
+    "verses": [
+        {
+            "name": "Joshua 5:1",
+            "text": "And it came to pass, when all the kings of the Amorites, which were on the side of Jordan westward, and all the kings of the Canaanites, which were by the sea, heard that the Lord had dried up the waters of Jordan from before the children of Israel, until we were passed over, that their heart melted, neither was there spirit in them any more, because of the children of Israel."
+        },
+        {
+            "name": "Joshua 5:2",
+            "text": "At that time the Lord said unto Joshua, Make thee sharp knives, and circumcise again the children of Israel the second time."
+        }
+    ],
+    "tone": "neutral"
+}

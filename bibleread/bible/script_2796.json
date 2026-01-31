@@ -1,0 +1,19 @@
+{
+    "book": "2 Kings",
+    "chapter": "Chapter 8",
+    "verses": [
+        {
+            "name": "2 Kings 8:16",
+            "text": "And in the fifth year of Joram the son of Ahab king of Israel, Jehoshaphat being then king of Judah, Jehoram the son of Jehoshaphat king of Judah began to reign."
+        },
+        {
+            "name": "2 Kings 8:17",
+            "text": "Thirty and two years old was he when he began to reign; and he reigned eight years in Jerusalem."
+        },
+        {
+            "name": "2 Kings 8:18",
+            "text": "And he walked in the way of the kings of Israel, as did the house of Ahab: for the daughter of Ahab was his wife: and he did evil in the sight of the Lord."
+        }
+    ],
+    "tone": "neutral"
+}

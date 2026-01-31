@@ -1,0 +1,23 @@
+{
+    "book": "Exodus",
+    "chapter": "Chapter 33",
+    "verses": [
+        {
+            "name": "Exodus 33:18",
+            "text": "And he said, I beseech thee, shew me thy glory."
+        },
+        {
+            "name": "Exodus 33:19",
+            "text": "And he said, I will make all my goodness pass before thee, and I will proclaim the name of the Lord before thee; and will be gracious to whom I will be gracious, and will shew mercy on whom I will shew mercy."
+        },
+        {
+            "name": "Exodus 33:20",
+            "text": "And he said, Thou canst not see my face: for there shall no man see me, and live."
+        },
+        {
+            "name": "Exodus 33:21",
+            "text": "And the Lord said, Behold, there is a place by me, and thou shalt stand upon a rock:"
+        }
+    ],
+    "tone": "neutral"
+}

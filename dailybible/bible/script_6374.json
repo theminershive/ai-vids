@@ -1,0 +1,23 @@
+{
+    "book": "Matthew",
+    "chapter": "Chapter 25",
+    "verses": [
+        {
+            "name": "Matthew 25:31",
+            "text": "When the Son of man shall come in his glory, and all the holy angels with him, then shall he sit upon the throne of his glory:"
+        },
+        {
+            "name": "Matthew 25:32",
+            "text": "And before him shall be gathered all nations: and he shall separate them one from another, as a shepherd divideth his sheep from the goats:"
+        },
+        {
+            "name": "Matthew 25:33",
+            "text": "And he shall set the sheep on his right hand, but the goats on the left."
+        },
+        {
+            "name": "Matthew 25:34",
+            "text": "Then shall the King say unto them on his right hand, Come, ye blessed of my Father, inherit the kingdom prepared for you from the foundation of the world:"
+        }
+    ],
+    "tone": "instructional"
+}

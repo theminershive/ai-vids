@@ -1,0 +1,23 @@
+{
+    "book": "Acts",
+    "chapter": "Chapter 26",
+    "verses": [
+        {
+            "name": "Acts 26:9",
+            "text": "I verily thought with myself, that I ought to do many things contrary to the name of Jesus of Nazareth."
+        },
+        {
+            "name": "Acts 26:10",
+            "text": "Which thing I also did in Jerusalem: and many of the saints did I shut up in prison, having received authority from the chief priests; and when they were put to death, I gave my voice against them. "
+        },
+        {
+            "name": "Acts 26:11",
+            "text": "And I punished them oft in every synagogue, and compelled them to blaspheme; and being exceedingly mad against them, I persecuted them even unto strange cities."
+        },
+        {
+            "name": "Acts 26:12",
+            "text": "Whereupon as I went to Damascus with authority and commission from the chief priests,"
+        }
+    ],
+    "tone": "neutral"
+}

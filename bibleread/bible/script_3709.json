@@ -1,0 +1,27 @@
+{
+    "book": "Job",
+    "chapter": "Chapter 15",
+    "verses": [
+        {
+            "name": "Job 15:20",
+            "text": "The wicked man travaileth with pain all his days, and the number of years is hidden to the oppressor."
+        },
+        {
+            "name": "Job 15:21",
+            "text": "A dreadful sound is in his ears: in prosperity the destroyer shall come upon him."
+        },
+        {
+            "name": "Job 15:22",
+            "text": "He believeth not that he shall return out of darkness, and he is waited for of the sword."
+        },
+        {
+            "name": "Job 15:23",
+            "text": "He wandereth abroad for bread, saying, Where is it? he knoweth that the day of darkness is ready at his hand."
+        },
+        {
+            "name": "Job 15:24",
+            "text": "Trouble and anguish shall make him afraid; they shall prevail against him, as a king ready to the battle."
+        }
+    ],
+    "tone": "neutral"
+}

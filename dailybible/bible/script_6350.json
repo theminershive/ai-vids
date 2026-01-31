@@ -1,0 +1,19 @@
+{
+    "book": "Matthew",
+    "chapter": "Chapter 23",
+    "verses": [
+        {
+            "name": "Matthew 23:15",
+            "text": "Woe unto you, scribes and Pharisees, hypocrites! for ye compass sea and land to make one proselyte, and when he is made, ye make him twofold more the child of hell than yourselves."
+        },
+        {
+            "name": "Matthew 23:16",
+            "text": "Woe unto you, ye blind guides, which say, Whosoever shall swear by the temple, it is nothing; but whosoever shall swear by the gold of the temple, he is a debtor!"
+        },
+        {
+            "name": "Matthew 23:17",
+            "text": "Ye fools and blind: for whether is greater, the gold, or the temple that sanctifieth the gold?"
+        }
+    ],
+    "tone": "lamenting"
+}

@@ -1,0 +1,31 @@
+{
+    "book": "Romans",
+    "chapter": "Chapter 5",
+    "verses": [
+        {
+            "name": "Romans 5:1",
+            "text": "Therefore being justified by faith, we have peace with God through our Lord Jesus Christ:"
+        },
+        {
+            "name": "Romans 5:2",
+            "text": "By whom also we have access by faith into this grace wherein we stand, and rejoice in hope of the glory of God."
+        },
+        {
+            "name": "Romans 5:3",
+            "text": "And not only so, but we glory in tribulations also: knowing that tribulation worketh patience;"
+        },
+        {
+            "name": "Romans 5:4",
+            "text": "And patience, experience; and experience, hope:"
+        },
+        {
+            "name": "Romans 5:5",
+            "text": "And hope maketh not ashamed; because the love of God is shed abroad in our hearts by the Holy Ghost which is given unto us."
+        },
+        {
+            "name": "Romans 5:6",
+            "text": "For when we were yet without strength, in due time Christ died for the ungodly."
+        }
+    ],
+    "tone": "hopeful"
+}

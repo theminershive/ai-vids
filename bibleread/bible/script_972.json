@@ -1,0 +1,23 @@
+{
+    "book": "Leviticus",
+    "chapter": "Chapter 26",
+    "verses": [
+        {
+            "name": "Leviticus 26:1",
+            "text": "Ye shall make you no idols nor graven image, neither rear you up a standing image, neither shall ye set up any image of stone in your land, to bow down unto it: for I am the Lord your God."
+        },
+        {
+            "name": "Leviticus 26:2",
+            "text": "Ye shall keep my sabbaths, and reverence my sanctuary: I am the Lord."
+        },
+        {
+            "name": "Leviticus 26:3",
+            "text": "If ye walk in my statutes, and keep my commandments, and do them;"
+        },
+        {
+            "name": "Leviticus 26:4",
+            "text": "Then I will give you rain in due season, and the land shall yield her increase, and the trees of the field shall yield their fruit."
+        }
+    ],
+    "tone": "neutral"
+}

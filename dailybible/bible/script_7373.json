@@ -1,0 +1,23 @@
+{
+    "book": "Romans",
+    "chapter": "Chapter 9",
+    "verses": [
+        {
+            "name": "Romans 9:6",
+            "text": "Not as though the word of God hath taken none effect. For they are not all Israel, which are of Israel:"
+        },
+        {
+            "name": "Romans 9:7",
+            "text": "Neither, because they are the seed of Abraham, are they all children: but, In Isaac shall thy seed be called."
+        },
+        {
+            "name": "Romans 9:8",
+            "text": "That is, They which are the children of the flesh, these are not the children of God: but the children of the promise are counted for the seed."
+        },
+        {
+            "name": "Romans 9:9",
+            "text": "For this is the word of promise, At this time will I come, and Sara shall have a son."
+        }
+    ],
+    "tone": "hopeful"
+}

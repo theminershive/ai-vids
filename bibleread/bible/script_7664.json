@@ -1,0 +1,23 @@
+{
+    "book": "Philippians",
+    "chapter": "Chapter 3",
+    "verses": [
+        {
+            "name": "Philippians 3:1",
+            "text": "Finally, my brethren, rejoice in the Lord. To write the same things to you, to me indeed is not grievous, but for you it is safe."
+        },
+        {
+            "name": "Philippians 3:2",
+            "text": "Beware of dogs, beware of evil workers, beware of the concision."
+        },
+        {
+            "name": "Philippians 3:3",
+            "text": "For we are the circumcision, which worship God in the spirit, and rejoice in Christ Jesus, and have no confidence in the flesh."
+        },
+        {
+            "name": "Philippians 3:4",
+            "text": "Though I might also have confidence in the flesh. If any other man thinketh that he hath whereof he might trust in the flesh, I more:"
+        }
+    ],
+    "tone": "hopeful"
+}

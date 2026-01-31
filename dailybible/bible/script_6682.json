@@ -1,0 +1,27 @@
+{
+    "book": "Luke",
+    "chapter": "Chapter 9",
+    "verses": [
+        {
+            "name": "Luke 9:1",
+            "text": "Then he called his twelve disciples together, and gave them power and authority over all devils, and to cure diseases."
+        },
+        {
+            "name": "Luke 9:2",
+            "text": "And he sent them to preach the kingdom of God, and to heal the sick."
+        },
+        {
+            "name": "Luke 9:3",
+            "text": "And he said unto them, Take nothing for your journey, neither staves, nor scrip, neither bread, neither money; neither have two coats apiece."
+        },
+        {
+            "name": "Luke 9:4",
+            "text": "And whatsoever house ye enter into, there abide, and thence depart."
+        },
+        {
+            "name": "Luke 9:5",
+            "text": "And whosoever will not receive you, when ye go out of that city, shake off the very dust from your feet for a testimony against them."
+        }
+    ],
+    "tone": "neutral"
+}

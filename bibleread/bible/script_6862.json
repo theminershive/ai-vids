@@ -1,0 +1,27 @@
+{
+    "book": "John",
+    "chapter": "Chapter 1",
+    "verses": [
+        {
+            "name": "John 1:22",
+            "text": "Then said they unto him, Who art thou? that we may give an answer to them that sent us. What sayest thou of thyself?"
+        },
+        {
+            "name": "John 1:23",
+            "text": "He said, I am the voice of one crying in the wilderness, Make straight the way of the Lord, as said the prophet Esaias."
+        },
+        {
+            "name": "John 1:24",
+            "text": "And they which were sent were of the Pharisees."
+        },
+        {
+            "name": "John 1:25",
+            "text": "And they asked him, and said unto him, Why baptizest thou then, if thou be not that Christ, nor Elias, neither that prophet?"
+        },
+        {
+            "name": "John 1:26",
+            "text": "John answered them, saying, I baptize with water: but there standeth one among you, whom ye know not;"
+        }
+    ],
+    "tone": "neutral"
+}

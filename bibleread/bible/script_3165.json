@@ -1,0 +1,19 @@
+{
+    "book": "2 Chronicles",
+    "chapter": "Chapter 2",
+    "verses": [
+        {
+            "name": "2 Chronicles 2:1",
+            "text": "And Solomon determined to build an house for the name of the Lord, and an house for his kingdom."
+        },
+        {
+            "name": "2 Chronicles 2:2",
+            "text": "And Solomon told out threescore and ten thousand men to bear burdens, and fourscore thousand to hew in the mountain, and three thousand and six hundred to oversee them."
+        },
+        {
+            "name": "2 Chronicles 2:3",
+            "text": "And Solomon sent to Huram the king of Tyre, saying, As thou didst deal with David my father, and didst send him cedars to build him an house to dwell therein, even so deal with me."
+        }
+    ],
+    "tone": "neutral"
+}

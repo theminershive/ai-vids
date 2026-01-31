@@ -1,0 +1,19 @@
+{
+    "book": "Matthew",
+    "chapter": "Chapter 18",
+    "verses": [
+        {
+            "name": "Matthew 18:13",
+            "text": "And if so be that he find it, verily I say unto you, he rejoiceth more of that sheep, than of the ninety and nine which went not astray."
+        },
+        {
+            "name": "Matthew 18:14",
+            "text": "Even so it is not the will of your Father which is in heaven, that one of these little ones should perish."
+        },
+        {
+            "name": "Matthew 18:15",
+            "text": "Moreover if thy brother shall trespass against thee, go and tell him his fault between thee and him alone: if he shall hear thee, thou hast gained thy brother."
+        }
+    ],
+    "tone": "neutral"
+}

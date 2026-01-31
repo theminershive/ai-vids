@@ -1,0 +1,23 @@
+{
+    "book": "Luke",
+    "chapter": "Chapter 19",
+    "verses": [
+        {
+            "name": "Luke 19:39",
+            "text": "And some of the Pharisees from among the multitude said unto him, Master, rebuke thy disciples."
+        },
+        {
+            "name": "Luke 19:40",
+            "text": "And he answered and said unto them, I tell you that, if these should hold their peace, the stones would immediately cry out."
+        },
+        {
+            "name": "Luke 19:41",
+            "text": "And when he was come near, he beheld the city, and wept over it,"
+        },
+        {
+            "name": "Luke 19:42",
+            "text": "Saying, If thou hadst known, even thou, at least in this thy day, the things which belong unto thy peace! but now they are hid from thine eyes."
+        }
+    ],
+    "tone": "neutral"
+}

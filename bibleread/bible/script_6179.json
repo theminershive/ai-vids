@@ -1,0 +1,27 @@
+{
+    "book": "Matthew",
+    "chapter": "Chapter 4",
+    "verses": [
+        {
+            "name": "Matthew 4:13",
+            "text": "And leaving Nazareth, he came and dwelt in Capernaum, which is upon the sea coast, in the borders of Zabulon and Nephthalim:"
+        },
+        {
+            "name": "Matthew 4:14",
+            "text": "That it might be fulfilled which was spoken by Esaias the prophet, saying,"
+        },
+        {
+            "name": "Matthew 4:15",
+            "text": "The land of Zabulon, and the land of Nephthalim, by the way of the sea, beyond Jordan, Galilee of the Gentiles;"
+        },
+        {
+            "name": "Matthew 4:16",
+            "text": "The people which sat in darkness saw great light; and to them which sat in the region and shadow of death light is sprung up."
+        },
+        {
+            "name": "Matthew 4:17",
+            "text": "From that time Jesus began to preach, and to say, Repent: for the kingdom of heaven is at hand."
+        }
+    ],
+    "tone": "neutral"
+}

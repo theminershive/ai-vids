@@ -1,0 +1,23 @@
+{
+    "book": "Matthew",
+    "chapter": "Chapter 26",
+    "verses": [
+        {
+            "name": "Matthew 26:11",
+            "text": "For ye have the poor always with you; but me ye have not always."
+        },
+        {
+            "name": "Matthew 26:12",
+            "text": "For in that she hath poured this ointment on my body, she did it for my burial."
+        },
+        {
+            "name": "Matthew 26:13",
+            "text": "Verily I say unto you, Wheresoever this gospel shall be preached in the whole world, there shall also this, that this woman hath done, be told for a memorial of her."
+        },
+        {
+            "name": "Matthew 26:14",
+            "text": "Then one of the twelve, called Judas Iscariot, went unto the chief priests,"
+        }
+    ],
+    "tone": "neutral"
+}

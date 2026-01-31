@@ -1,0 +1,23 @@
+{
+    "book": "John",
+    "chapter": "Chapter 8",
+    "verses": [
+        {
+            "name": "John 8:28",
+            "text": "Then said Jesus unto them, When ye have lifted up the Son of man, then shall ye know that I am he, and that I do nothing of myself; but as my Father hath taught me, I speak these things."
+        },
+        {
+            "name": "John 8:29",
+            "text": "And he that sent me is with me: the Father hath not left me alone; for I do always those things that please him."
+        },
+        {
+            "name": "John 8:30",
+            "text": "As he spake these words, many believed on him."
+        },
+        {
+            "name": "John 8:31",
+            "text": "Then said Jesus to those Jews which believed on him, If ye continue in my word, then are ye my disciples indeed;"
+        }
+    ],
+    "tone": "neutral"
+}

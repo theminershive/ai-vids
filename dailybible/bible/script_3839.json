@@ -1,0 +1,31 @@
+{
+    "book": "Psalms",
+    "chapter": "Chapter 5",
+    "verses": [
+        {
+            "name": "Psalms 5:1",
+            "text": "Give ear to my words, O Lord, consider my meditation."
+        },
+        {
+            "name": "Psalms 5:2",
+            "text": "Hearken unto the voice of my cry, my King, and my God: for unto thee will I pray."
+        },
+        {
+            "name": "Psalms 5:3",
+            "text": "My voice shalt thou hear in the morning, O Lord; in the morning will I direct my prayer unto thee, and will look up."
+        },
+        {
+            "name": "Psalms 5:4",
+            "text": "For thou art not a God that hath pleasure in wickedness: neither shall evil dwell with thee."
+        },
+        {
+            "name": "Psalms 5:5",
+            "text": "The foolish shall not stand in thy sight: thou hatest all workers of iniquity."
+        },
+        {
+            "name": "Psalms 5:6",
+            "text": "Thou shalt destroy them that speak leasing: the Lord will abhor the bloody and deceitful man."
+        }
+    ],
+    "tone": "instructional"
+}

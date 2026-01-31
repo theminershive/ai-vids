@@ -1,0 +1,19 @@
+{
+    "book": "Exodus",
+    "chapter": "Chapter 9",
+    "verses": [
+        {
+            "name": "Exodus 9:19",
+            "text": "Send therefore now, and gather thy cattle, and all that thou hast in the field; for upon every man and beast which shall be found in the field, and shall not be brought home, the hail shall come down upon them, and they shall die."
+        },
+        {
+            "name": "Exodus 9:20",
+            "text": "He that feared the word of the Lord among the servants of Pharaoh made his servants and his cattle flee into the houses:"
+        },
+        {
+            "name": "Exodus 9:21",
+            "text": "And he that regarded not the word of the Lord left his servants and his cattle in the field."
+        }
+    ],
+    "tone": "lamenting"
+}

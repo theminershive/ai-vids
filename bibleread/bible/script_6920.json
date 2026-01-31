@@ -1,0 +1,23 @@
+{
+    "book": "John",
+    "chapter": "Chapter 6",
+    "verses": [
+        {
+            "name": "John 6:61",
+            "text": "When Jesus knew in himself that his disciples murmured at it, he said unto them, Doth this offend you?"
+        },
+        {
+            "name": "John 6:62",
+            "text": "What and if ye shall see the Son of man ascend up where he was before?"
+        },
+        {
+            "name": "John 6:63",
+            "text": "It is the spirit that quickeneth; the flesh profiteth nothing: the words that I speak unto you, they are spirit, and they are life."
+        },
+        {
+            "name": "John 6:64",
+            "text": "But there are some of you that believe not. For Jesus knew from the beginning who they were that believed not, and who should betray him."
+        }
+    ],
+    "tone": "neutral"
+}

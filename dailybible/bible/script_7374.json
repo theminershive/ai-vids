@@ -1,0 +1,27 @@
+{
+    "book": "Romans",
+    "chapter": "Chapter 9",
+    "verses": [
+        {
+            "name": "Romans 9:10",
+            "text": "And not only this; but when Rebecca also had conceived by one, even by our father Isaac;"
+        },
+        {
+            "name": "Romans 9:11",
+            "text": "(For the children being not yet born, neither having done any good or evil, that the purpose of God according to election might stand, not of works, but of him that calleth;)"
+        },
+        {
+            "name": "Romans 9:12",
+            "text": "It was said unto her, The elder shall serve the younger."
+        },
+        {
+            "name": "Romans 9:13",
+            "text": "As it is written, Jacob have I loved, but Esau have I hated."
+        },
+        {
+            "name": "Romans 9:14",
+            "text": "What shall we say then? Is there unrighteousness with God? God forbid."
+        }
+    ],
+    "tone": "neutral"
+}

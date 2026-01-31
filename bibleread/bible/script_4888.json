@@ -1,0 +1,19 @@
+{
+    "book": "Jeremiah",
+    "chapter": "Chapter 1",
+    "verses": [
+        {
+            "name": "Jeremiah 1:12",
+            "text": "Then said the Lord unto me, Thou hast well seen: for I will hasten my word to perform it."
+        },
+        {
+            "name": "Jeremiah 1:13",
+            "text": "And the word of the Lord came unto me the second time, saying, What seest thou? And I said, I see a seething pot; and the face thereof is toward the north."
+        },
+        {
+            "name": "Jeremiah 1:14",
+            "text": "Then the Lord said unto me, Out of the north an evil shall break forth upon all the inhabitants of the land."
+        }
+    ],
+    "tone": "neutral"
+}

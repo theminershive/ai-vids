@@ -1,0 +1,19 @@
+{
+    "book": "Ezekiel",
+    "chapter": "Chapter 7",
+    "verses": [
+        {
+            "name": "Ezekiel 7:14",
+            "text": "They have blown the trumpet, even to make all ready; but none goeth to the battle: for my wrath is upon all the multitude thereof."
+        },
+        {
+            "name": "Ezekiel 7:15",
+            "text": "The sword is without, and the pestilence and the famine within: he that is in the field shall die with the sword; and he that is in the city, famine and pestilence shall devour him."
+        },
+        {
+            "name": "Ezekiel 7:16",
+            "text": "But they that escape of them shall escape, and shall be on the mountains like doves of the valleys, all of them mourning, every one for his iniquity."
+        }
+    ],
+    "tone": "lamenting"
+}

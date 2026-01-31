@@ -1,0 +1,27 @@
+{
+    "book": "Romans",
+    "chapter": "Chapter 1",
+    "verses": [
+        {
+            "name": "Romans 1:28",
+            "text": "And even as they did not like to retain God in their knowledge, God gave them over to a reprobate mind, to do those things which are not convenient;"
+        },
+        {
+            "name": "Romans 1:29",
+            "text": "Being filled with all unrighteousness, fornication, wickedness, covetousness, maliciousness; full of envy, murder, debate, deceit, malignity; whisperers,"
+        },
+        {
+            "name": "Romans 1:30",
+            "text": "Backbiters, haters of God, despiteful, proud, boasters, inventors of evil things, disobedient to parents,"
+        },
+        {
+            "name": "Romans 1:31",
+            "text": "Without understanding, covenantbreakers, without natural affection, implacable, unmerciful:"
+        },
+        {
+            "name": "Romans 1:32",
+            "text": "Who knowing the judgment of God, that they which commit such things are worthy of death, not only do the same, but have pleasure in them that do them. "
+        }
+    ],
+    "tone": "lamenting"
+}

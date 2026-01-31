@@ -1,0 +1,23 @@
+{
+    "book": "Hosea",
+    "chapter": "Chapter 13",
+    "verses": [
+        {
+            "name": "Hosea 13:4",
+            "text": "Yet I am the Lord thy God from the land of Egypt, and thou shalt know no god but me: for there is no saviour beside me."
+        },
+        {
+            "name": "Hosea 13:5",
+            "text": "I did know thee in the wilderness, in the land of great drought."
+        },
+        {
+            "name": "Hosea 13:6",
+            "text": "According to their pasture, so were they filled; they were filled, and their heart was exalted; therefore have they forgotten me."
+        },
+        {
+            "name": "Hosea 13:7",
+            "text": "Therefore I will be unto them as a lion: as a leopard by the way will I observe them:"
+        }
+    ],
+    "tone": "neutral"
+}

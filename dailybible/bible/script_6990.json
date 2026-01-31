@@ -1,0 +1,23 @@
+{
+    "book": "John",
+    "chapter": "Chapter 13",
+    "verses": [
+        {
+            "name": "John 13:1",
+            "text": "Now before the feast of the passover, when Jesus knew that his hour was come that he should depart out of this world unto the Father, having loved his own which were in the world, he loved them unto the end."
+        },
+        {
+            "name": "John 13:2",
+            "text": "And supper being ended, the devil having now put into the heart of Judas Iscariot, Simon\u2019s son, to betray him;"
+        },
+        {
+            "name": "John 13:3",
+            "text": "Jesus knowing that the Father had given all things into his hands, and that he was come from God, and went to God;"
+        },
+        {
+            "name": "John 13:4",
+            "text": "He riseth from supper, and laid aside his garments; and took a towel, and girded himself."
+        }
+    ],
+    "tone": "neutral"
+}

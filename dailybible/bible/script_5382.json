@@ -1,0 +1,23 @@
+{
+    "book": "Ezekiel",
+    "chapter": "Chapter 6",
+    "verses": [
+        {
+            "name": "Ezekiel 6:1",
+            "text": "And the word of the Lord came unto me, saying,"
+        },
+        {
+            "name": "Ezekiel 6:2",
+            "text": "Son of man, set thy face toward the mountains of Israel, and prophesy against them,"
+        },
+        {
+            "name": "Ezekiel 6:3",
+            "text": "And say, Ye mountains of Israel, hear the word of the Lord God; Thus saith the Lord God to the mountains, and to the hills, to the rivers, and to the valleys; Behold, I, even I, will bring a sword upon you, and I will destroy your high places."
+        },
+        {
+            "name": "Ezekiel 6:4",
+            "text": "And your altars shall be desolate, and your images shall be broken: and I will cast down your slain men before your idols."
+        }
+    ],
+    "tone": "lamenting"
+}

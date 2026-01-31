@@ -1,0 +1,23 @@
+{
+    "book": "John",
+    "chapter": "Chapter 11",
+    "verses": [
+        {
+            "name": "John 11:50",
+            "text": "Nor consider that it is expedient for us, that one man should die for the people, and that the whole nation perish not."
+        },
+        {
+            "name": "John 11:51",
+            "text": "And this spake he not of himself: but being high priest that year, he prophesied that Jesus should die for that nation;"
+        },
+        {
+            "name": "John 11:52",
+            "text": "And not for that nation only, but that also he should gather together in one the children of God that were scattered abroad."
+        },
+        {
+            "name": "John 11:53",
+            "text": "Then from that day forth they took counsel together for to put him to death."
+        }
+    ],
+    "tone": "lamenting"
+}

@@ -1,0 +1,15 @@
+{
+    "book": "Esther",
+    "chapter": "Chapter 7",
+    "verses": [
+        {
+            "name": "Esther 7:7",
+            "text": "And the king arising from the banquet of wine in his wrath went into the palace garden: and Haman stood up to make request for his life to Esther the queen; for he saw that there was evil determined against him by the king."
+        },
+        {
+            "name": "Esther 7:8",
+            "text": "Then the king returned out of the palace garden into the place of the banquet of wine; and Haman was fallen upon the bed whereon Esther was. Then said the king, Will he force the queen also before me in the house? As the word went out of the king\u2019s mouth, they covered Haman\u2019s face."
+        }
+    ],
+    "tone": "neutral"
+}

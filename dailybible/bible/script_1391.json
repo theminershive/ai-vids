@@ -1,0 +1,23 @@
+{
+    "book": "Deuteronomy",
+    "chapter": "Chapter 6",
+    "verses": [
+        {
+            "name": "Deuteronomy 6:3",
+            "text": "Hear therefore, O Israel, and observe to do it; that it may be well with thee, and that ye may increase mightily, as the Lord God of thy fathers hath promised thee, in the land that floweth with milk and honey."
+        },
+        {
+            "name": "Deuteronomy 6:4",
+            "text": "Hear, O Israel: The Lord our God is one Lord:"
+        },
+        {
+            "name": "Deuteronomy 6:5",
+            "text": "And thou shalt love the Lord thy God with all thine heart, and with all thy soul, and with all thy might."
+        },
+        {
+            "name": "Deuteronomy 6:6",
+            "text": "And these words, which I command thee this day, shall be in thine heart:"
+        }
+    ],
+    "tone": "hopeful"
+}

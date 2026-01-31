@@ -1,0 +1,27 @@
+{
+    "book": "Genesis",
+    "chapter": "Chapter 10",
+    "verses": [
+        {
+            "name": "Genesis 10:7",
+            "text": "And the sons of Cush; Seba, and Havilah, and Sabtah, and Raamah, and Sabtecha: and the sons of Raamah; Sheba, and Dedan."
+        },
+        {
+            "name": "Genesis 10:8",
+            "text": "And Cush begat Nimrod: he began to be a mighty one in the earth."
+        },
+        {
+            "name": "Genesis 10:9",
+            "text": "He was a mighty hunter before the Lord: wherefore it is said, Even as Nimrod the mighty hunter before the Lord."
+        },
+        {
+            "name": "Genesis 10:10",
+            "text": "And the beginning of his kingdom was Babel, and Erech, and Accad, and Calneh, in the land of Shinar."
+        },
+        {
+            "name": "Genesis 10:11",
+            "text": "Out of that land went forth Asshur, and builded Nineveh, and the city Rehoboth, and Calah,"
+        }
+    ],
+    "tone": "neutral"
+}

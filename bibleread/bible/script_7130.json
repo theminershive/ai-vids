@@ -1,0 +1,23 @@
+{
+    "book": "Acts",
+    "chapter": "Chapter 8",
+    "verses": [
+        {
+            "name": "Acts 8:26",
+            "text": "And the angel of the Lord spake unto Philip, saying, Arise, and go toward the south unto the way that goeth down from Jerusalem unto Gaza, which is desert."
+        },
+        {
+            "name": "Acts 8:27",
+            "text": "And he arose and went: and, behold, a man of Ethiopia, an eunuch of great authority under Candace queen of the Ethiopians, who had the charge of all her treasure, and had come to Jerusalem for to worship,"
+        },
+        {
+            "name": "Acts 8:28",
+            "text": "Was returning, and sitting in his chariot read Esaias the prophet."
+        },
+        {
+            "name": "Acts 8:29",
+            "text": "Then the Spirit said unto Philip, Go near, and join thyself to this chariot."
+        }
+    ],
+    "tone": "neutral"
+}

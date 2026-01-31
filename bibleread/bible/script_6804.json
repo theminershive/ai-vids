@@ -1,0 +1,19 @@
+{
+    "book": "Luke",
+    "chapter": "Chapter 20",
+    "verses": [
+        {
+            "name": "Luke 20:17",
+            "text": "And he beheld them, and said, What is this then that is written, The stone which the builders rejected, the same is become the head of the corner?"
+        },
+        {
+            "name": "Luke 20:18",
+            "text": "Whosoever shall fall upon that stone shall be broken; but on whomsoever it shall fall, it will grind him to powder."
+        },
+        {
+            "name": "Luke 20:19",
+            "text": "And the chief priests and the scribes the same hour sought to lay hands on him; and they feared the people: for they perceived that he had spoken this parable against them."
+        }
+    ],
+    "tone": "lamenting"
+}

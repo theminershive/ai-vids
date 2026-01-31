@@ -1,0 +1,15 @@
+{
+    "book": "Daniel",
+    "chapter": "Chapter 4",
+    "verses": [
+        {
+            "name": "Daniel 4:14",
+            "text": "He cried aloud, and said thus, Hew down the tree, and cut off his branches, shake off his leaves, and scatter his fruit: let the beasts get away from under it, and the fowls from his branches:"
+        },
+        {
+            "name": "Daniel 4:15",
+            "text": "Nevertheless leave the stump of his roots in the earth, even with a band of iron and brass, in the tender grass of the field; and let it be wet with the dew of heaven, and let his portion be with the beasts in the grass of the earth:"
+        }
+    ],
+    "tone": "neutral"
+}

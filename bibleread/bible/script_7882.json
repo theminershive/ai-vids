@@ -1,0 +1,19 @@
+{
+    "book": "1 Peter",
+    "chapter": "Chapter 2",
+    "verses": [
+        {
+            "name": "1 Peter 2:6",
+            "text": "Wherefore also it is contained in the scripture, Behold, I lay in Sion a chief corner stone, elect, precious: and he that believeth on him shall not be confounded."
+        },
+        {
+            "name": "1 Peter 2:7",
+            "text": "Unto you therefore which believe he is precious: but unto them which be disobedient, the stone which the builders disallowed, the same is made the head of the corner,"
+        },
+        {
+            "name": "1 Peter 2:8",
+            "text": "And a stone of stumbling, and a rock of offence, even to them which stumble at the word, being disobedient: whereunto also they were appointed."
+        }
+    ],
+    "tone": "hopeful"
+}

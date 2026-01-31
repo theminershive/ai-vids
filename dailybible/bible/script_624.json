@@ -1,0 +1,23 @@
+{
+    "book": "Exodus",
+    "chapter": "Chapter 28",
+    "verses": [
+        {
+            "name": "Exodus 28:17",
+            "text": "And thou shalt set in it settings of stones, even four rows of stones: the first row shall be a sardius, a topaz, and a carbuncle: this shall be the first row."
+        },
+        {
+            "name": "Exodus 28:18",
+            "text": "And the second row shall be an emerald, a sapphire, and a diamond."
+        },
+        {
+            "name": "Exodus 28:19",
+            "text": "And the third row a ligure, an agate, and an amethyst."
+        },
+        {
+            "name": "Exodus 28:20",
+            "text": "And the fourth row a beryl, and an onyx, and a jasper: they shall be set in gold in their inclosings."
+        }
+    ],
+    "tone": "hopeful"
+}

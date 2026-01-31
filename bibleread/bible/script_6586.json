@@ -1,0 +1,23 @@
+{
+    "book": "Luke",
+    "chapter": "Chapter 1",
+    "verses": [
+        {
+            "name": "Luke 1:35",
+            "text": "And the angel answered and said unto her, The Holy Ghost shall come upon thee, and the power of the Highest shall overshadow thee: therefore also that holy thing which shall be born of thee shall be called the Son of God."
+        },
+        {
+            "name": "Luke 1:36",
+            "text": "And, behold, thy cousin Elisabeth, she hath also conceived a son in her old age: and this is the sixth month with her, who was called barren."
+        },
+        {
+            "name": "Luke 1:37",
+            "text": "For with God nothing shall be impossible."
+        },
+        {
+            "name": "Luke 1:38",
+            "text": "And Mary said, Behold the handmaid of the Lord; be it unto me according to thy word. And the angel departed from her."
+        }
+    ],
+    "tone": "instructional"
+}

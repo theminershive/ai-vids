@@ -1,0 +1,19 @@
+{
+    "book": "John",
+    "chapter": "Chapter 14",
+    "verses": [
+        {
+            "name": "John 14:28",
+            "text": "Ye have heard how I said unto you, I go away, and come again unto you. If ye loved me, ye would rejoice, because I said, I go unto the Father: for my Father is greater than I."
+        },
+        {
+            "name": "John 14:29",
+            "text": "And now I have told you before it come to pass, that, when it is come to pass, ye might believe."
+        },
+        {
+            "name": "John 14:30",
+            "text": "Hereafter I will not talk much with you: for the prince of this world cometh, and hath nothing in me."
+        }
+    ],
+    "tone": "neutral"
+}

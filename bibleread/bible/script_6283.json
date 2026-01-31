@@ -1,0 +1,23 @@
+{
+    "book": "Matthew",
+    "chapter": "Chapter 15",
+    "verses": [
+        {
+            "name": "Matthew 15:26",
+            "text": "But he answered and said, It is not meet to take the children\u2019s bread, and to cast it to dogs."
+        },
+        {
+            "name": "Matthew 15:27",
+            "text": "And she said, Truth, Lord: yet the dogs eat of the crumbs which fall from their masters\u2019 table."
+        },
+        {
+            "name": "Matthew 15:28",
+            "text": "Then Jesus answered and said unto her, O woman, great is thy faith: be it unto thee even as thou wilt. And her daughter was made whole from that very hour."
+        },
+        {
+            "name": "Matthew 15:29",
+            "text": "And Jesus departed from thence, and came nigh unto the sea of Galilee; and went up into a mountain, and sat down there."
+        }
+    ],
+    "tone": "neutral"
+}

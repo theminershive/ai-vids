@@ -1,0 +1,35 @@
+{
+    "book": "Psalms",
+    "chapter": "Chapter 105",
+    "verses": [
+        {
+            "name": "Psalms 105:1",
+            "text": "O give thanks unto the Lord; call upon his name: make known his deeds among the people."
+        },
+        {
+            "name": "Psalms 105:2",
+            "text": "Sing unto him, sing psalms unto him: talk ye of all his wondrous works."
+        },
+        {
+            "name": "Psalms 105:3",
+            "text": "Glory ye in his holy name: let the heart of them rejoice that seek the Lord."
+        },
+        {
+            "name": "Psalms 105:4",
+            "text": "Seek the Lord, and his strength: seek his face evermore."
+        },
+        {
+            "name": "Psalms 105:5",
+            "text": "Remember his marvellous works that he hath done; his wonders, and the judgments of his mouth;"
+        },
+        {
+            "name": "Psalms 105:6",
+            "text": "O ye seed of Abraham his servant, ye children of Jacob his chosen."
+        },
+        {
+            "name": "Psalms 105:7",
+            "text": "He is the Lord our God: his judgments are in all the earth."
+        }
+    ],
+    "tone": "hopeful"
+}

@@ -1,0 +1,19 @@
+{
+    "book": "Joshua",
+    "chapter": "Chapter 24",
+    "verses": [
+        {
+            "name": "Joshua 24:8",
+            "text": "And I brought you into the land of the Amorites, which dwelt on the other side Jordan; and they fought with you: and I gave them into your hand, that ye might possess their land; and I destroyed them from before you."
+        },
+        {
+            "name": "Joshua 24:9",
+            "text": "Then Balak the son of Zippor, king of Moab, arose and warred against Israel, and sent and called Balaam the son of Beor to curse you:"
+        },
+        {
+            "name": "Joshua 24:10",
+            "text": "But I would not hearken unto Balaam; therefore he blessed you still: so I delivered you out of his hand."
+        }
+    ],
+    "tone": "neutral"
+}

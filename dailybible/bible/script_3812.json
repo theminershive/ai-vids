@@ -1,0 +1,27 @@
+{
+    "book": "Job",
+    "chapter": "Chapter 38",
+    "verses": [
+        {
+            "name": "Job 38:23",
+            "text": "Which I have reserved against the time of trouble, against the day of battle and war?"
+        },
+        {
+            "name": "Job 38:24",
+            "text": "By what way is the light parted, which scattereth the east wind upon the earth?"
+        },
+        {
+            "name": "Job 38:25",
+            "text": "Who hath divided a watercourse for the overflowing of waters, or a way for the lightning of thunder;"
+        },
+        {
+            "name": "Job 38:26",
+            "text": "To cause it to rain on the earth, where no man is; on the wilderness, wherein there is no man;"
+        },
+        {
+            "name": "Job 38:27",
+            "text": "To satisfy the desolate and waste ground; and to cause the bud of the tender herb to spring forth?"
+        }
+    ],
+    "tone": "neutral"
+}

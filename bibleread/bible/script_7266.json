@@ -1,0 +1,23 @@
+{
+    "book": "Acts",
+    "chapter": "Chapter 22",
+    "verses": [
+        {
+            "name": "Acts 22:25",
+            "text": "And as they bound him with thongs, Paul said unto the centurion that stood by, Is it lawful for you to scourge a man that is a Roman, and uncondemned?"
+        },
+        {
+            "name": "Acts 22:26",
+            "text": "When the centurion heard that, he went and told the chief captain, saying, Take heed what thou doest: for this man is a Roman."
+        },
+        {
+            "name": "Acts 22:27",
+            "text": "Then the chief captain came, and said unto him, Tell me, art thou a Roman? He said, Yea."
+        },
+        {
+            "name": "Acts 22:28",
+            "text": "And the chief captain answered, With a great sum obtained I this freedom. And Paul said, But I was free born."
+        }
+    ],
+    "tone": "neutral"
+}

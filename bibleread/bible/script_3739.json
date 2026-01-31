@@ -1,0 +1,31 @@
+{
+    "book": "Job",
+    "chapter": "Chapter 22",
+    "verses": [
+        {
+            "name": "Job 22:7",
+            "text": "Thou hast not given water to the weary to drink, and thou hast withholden bread from the hungry."
+        },
+        {
+            "name": "Job 22:8",
+            "text": "But as for the mighty man, he had the earth; and the honourable man dwelt in it."
+        },
+        {
+            "name": "Job 22:9",
+            "text": "Thou hast sent widows away empty, and the arms of the fatherless have been broken."
+        },
+        {
+            "name": "Job 22:10",
+            "text": "Therefore snares are round about thee, and sudden fear troubleth thee;"
+        },
+        {
+            "name": "Job 22:11",
+            "text": "Or darkness, that thou canst not see; and abundance of waters cover thee."
+        },
+        {
+            "name": "Job 22:12",
+            "text": "Is not God in the height of heaven? and behold the height of the stars, how high they are!"
+        }
+    ],
+    "tone": "lamenting"
+}

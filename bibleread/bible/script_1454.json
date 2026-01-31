@@ -1,0 +1,19 @@
+{
+    "book": "Deuteronomy",
+    "chapter": "Chapter 14",
+    "verses": [
+        {
+            "name": "Deuteronomy 14:5",
+            "text": "The hart, and the roebuck, and the fallow deer, and the wild goat, and the pygarg, and the wild ox, and the chamois."
+        },
+        {
+            "name": "Deuteronomy 14:6",
+            "text": "And every beast that parteth the hoof, and cleaveth the cleft into two claws, and cheweth the cud among the beasts, that ye shall eat."
+        },
+        {
+            "name": "Deuteronomy 14:7",
+            "text": "Nevertheless these ye shall not eat of them that chew the cud, or of them that divide the cloven hoof; as the camel, and the hare, and the coney: for they chew the cud, but divide not the hoof; therefore they are unclean unto you."
+        }
+    ],
+    "tone": "neutral"
+}

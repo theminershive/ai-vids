@@ -1,0 +1,19 @@
+{
+    "book": "Mark",
+    "chapter": "Chapter 10",
+    "verses": [
+        {
+            "name": "Mark 10:46",
+            "text": "And they came to Jericho: and as he went out of Jericho with his disciples and a great number of people, blind Bartimeus, the son of Timeus, sat by the highway side begging."
+        },
+        {
+            "name": "Mark 10:47",
+            "text": "And when he heard that it was Jesus of Nazareth, he began to cry out, and say, Jesus, thou Son of David, have mercy on me."
+        },
+        {
+            "name": "Mark 10:48",
+            "text": "And many charged him that he should hold his peace: but he cried the more a great deal, Thou Son of David, have mercy on me."
+        }
+    ],
+    "tone": "lamenting"
+}

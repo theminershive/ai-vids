@@ -1,0 +1,23 @@
+{
+    "book": "Matthew",
+    "chapter": "Chapter 13",
+    "verses": [
+        {
+            "name": "Matthew 13:38",
+            "text": "The field is the world; the good seed are the children of the kingdom; but the tares are the children of the wicked one;"
+        },
+        {
+            "name": "Matthew 13:39",
+            "text": "The enemy that sowed them is the devil; the harvest is the end of the world; and the reapers are the angels."
+        },
+        {
+            "name": "Matthew 13:40",
+            "text": "As therefore the tares are gathered and burned in the fire; so shall it be in the end of this world."
+        },
+        {
+            "name": "Matthew 13:41",
+            "text": "The Son of man shall send forth his angels, and they shall gather out of his kingdom all things that offend, and them which do iniquity;"
+        }
+    ],
+    "tone": "lamenting"
+}

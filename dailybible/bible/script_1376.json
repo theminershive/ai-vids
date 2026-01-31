@@ -1,0 +1,19 @@
+{
+    "book": "Deuteronomy",
+    "chapter": "Chapter 4",
+    "verses": [
+        {
+            "name": "Deuteronomy 4:36",
+            "text": "Out of heaven he made thee to hear his voice, that he might instruct thee: and upon earth he shewed thee his great fire; and thou heardest his words out of the midst of the fire."
+        },
+        {
+            "name": "Deuteronomy 4:37",
+            "text": "And because he loved thy fathers, therefore he chose their seed after them, and brought thee out in his sight with his mighty power out of Egypt;"
+        },
+        {
+            "name": "Deuteronomy 4:38",
+            "text": "To drive out nations from before thee greater and mightier than thou art, to bring thee in, to give thee their land for an inheritance, as it is this day."
+        }
+    ],
+    "tone": "instructional"
+}

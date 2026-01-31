@@ -1,0 +1,19 @@
+{
+    "book": "1 Kings",
+    "chapter": "Chapter 11",
+    "verses": [
+        {
+            "name": "1 Kings 11:11",
+            "text": "Wherefore the Lord said unto Solomon, Forasmuch as this is done of thee, and thou hast not kept my covenant and my statutes, which I have commanded thee, I will surely rend the kingdom from thee, and will give it to thy servant."
+        },
+        {
+            "name": "1 Kings 11:12",
+            "text": "Notwithstanding in thy days I will not do it for David thy father\u2019s sake: but I will rend it out of the hand of thy son."
+        },
+        {
+            "name": "1 Kings 11:13",
+            "text": "Howbeit I will not rend away all the kingdom; but will give one tribe to thy son for David my servant\u2019s sake, and for Jerusalem\u2019s sake which I have chosen."
+        }
+    ],
+    "tone": "neutral"
+}

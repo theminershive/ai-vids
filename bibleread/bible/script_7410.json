@@ -1,0 +1,19 @@
+{
+    "book": "Romans",
+    "chapter": "Chapter 15",
+    "verses": [
+        {
+            "name": "Romans 15:15",
+            "text": "Nevertheless, brethren, I have written the more boldly unto you in some sort, as putting you in mind, because of the grace that is given to me of God,"
+        },
+        {
+            "name": "Romans 15:16",
+            "text": "That I should be the minister of Jesus Christ to the Gentiles, ministering the gospel of God, that the offering up of the Gentiles might be acceptable, being sanctified by the Holy Ghost."
+        },
+        {
+            "name": "Romans 15:17",
+            "text": "I have therefore whereof I may glory through Jesus Christ in those things which pertain to God."
+        }
+    ],
+    "tone": "hopeful"
+}

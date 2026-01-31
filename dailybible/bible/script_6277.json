@@ -1,0 +1,27 @@
+{
+    "book": "Matthew",
+    "chapter": "Chapter 14",
+    "verses": [
+        {
+            "name": "Matthew 14:30",
+            "text": "But when he saw the wind boisterous, he was afraid; and beginning to sink, he cried, saying, Lord, save me."
+        },
+        {
+            "name": "Matthew 14:31",
+            "text": "And immediately Jesus stretched forth his hand, and caught him, and said unto him, O thou of little faith, wherefore didst thou doubt?"
+        },
+        {
+            "name": "Matthew 14:32",
+            "text": "And when they were come into the ship, the wind ceased."
+        },
+        {
+            "name": "Matthew 14:33",
+            "text": "Then they that were in the ship came and worshipped him, saying, Of a truth thou art the Son of God."
+        },
+        {
+            "name": "Matthew 14:34",
+            "text": "And when they were gone over, they came into the land of Gennesaret."
+        }
+    ],
+    "tone": "neutral"
+}

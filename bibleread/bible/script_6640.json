@@ -1,0 +1,19 @@
+{
+    "book": "Luke",
+    "chapter": "Chapter 6",
+    "verses": [
+        {
+            "name": "Luke 6:4",
+            "text": "How he went into the house of God, and did take and eat the shewbread, and gave also to them that were with him; which it is not lawful to eat but for the priests alone?"
+        },
+        {
+            "name": "Luke 6:5",
+            "text": "And he said unto them, That the Son of man is Lord also of the sabbath."
+        },
+        {
+            "name": "Luke 6:6",
+            "text": "And it came to pass also on another sabbath, that he entered into the synagogue and taught: and there was a man whose right hand was withered."
+        }
+    ],
+    "tone": "neutral"
+}

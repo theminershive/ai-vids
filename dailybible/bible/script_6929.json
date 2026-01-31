@@ -1,0 +1,23 @@
+{
+    "book": "John",
+    "chapter": "Chapter 7",
+    "verses": [
+        {
+            "name": "John 7:33",
+            "text": "Then said Jesus unto them, Yet a little while am I with you, and then I go unto him that sent me."
+        },
+        {
+            "name": "John 7:34",
+            "text": "Ye shall seek me, and shall not find me: and where I am, thither ye cannot come."
+        },
+        {
+            "name": "John 7:35",
+            "text": "Then said the Jews among themselves, Whither will he go, that we shall not find him? will he go unto the dispersed among the Gentiles, and teach the Gentiles?"
+        },
+        {
+            "name": "John 7:36",
+            "text": "What manner of saying is this that he said, Ye shall seek me, and shall not find me: and where I am, thither ye cannot come?"
+        }
+    ],
+    "tone": "neutral"
+}

@@ -1,0 +1,23 @@
+{
+    "book": "John",
+    "chapter": "Chapter 15",
+    "verses": [
+        {
+            "name": "John 15:1",
+            "text": "I am the true vine, and my Father is the husbandman."
+        },
+        {
+            "name": "John 15:2",
+            "text": "Every branch in me that beareth not fruit he taketh away: and every branch that beareth fruit, he purgeth it, that it may bring forth more fruit."
+        },
+        {
+            "name": "John 15:3",
+            "text": "Now ye are clean through the word which I have spoken unto you."
+        },
+        {
+            "name": "John 15:4",
+            "text": "Abide in me, and I in you. As the branch cannot bear fruit of itself, except it abide in the vine; no more can ye, except ye abide in me."
+        }
+    ],
+    "tone": "hopeful"
+}

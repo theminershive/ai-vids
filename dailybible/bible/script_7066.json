@@ -1,0 +1,19 @@
+{
+    "book": "Acts",
+    "chapter": "Chapter 1",
+    "verses": [
+        {
+            "name": "Acts 1:18",
+            "text": "Now this man purchased a field with the reward of iniquity; and falling headlong, he burst asunder in the midst, and all his bowels gushed out."
+        },
+        {
+            "name": "Acts 1:19",
+            "text": "And it was known unto all the dwellers at Jerusalem; insomuch as that field is called in their proper tongue, Aceldama, that is to say, The field of blood."
+        },
+        {
+            "name": "Acts 1:20",
+            "text": "For it is written in the book of Psalms, Let his habitation be desolate, and let no man dwell therein: and his bishoprick let another take."
+        }
+    ],
+    "tone": "hopeful"
+}

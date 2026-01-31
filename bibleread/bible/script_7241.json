@@ -1,0 +1,23 @@
+{
+    "book": "Acts",
+    "chapter": "Chapter 20",
+    "verses": [
+        {
+            "name": "Acts 20:12",
+            "text": "And they brought the young man alive, and were not a little comforted."
+        },
+        {
+            "name": "Acts 20:13",
+            "text": "And we went before to ship, and sailed unto Assos, there intending to take in Paul: for so had he appointed, minding himself to go afoot."
+        },
+        {
+            "name": "Acts 20:14",
+            "text": "And when he met with us at Assos, we took him in, and came to Mitylene."
+        },
+        {
+            "name": "Acts 20:15",
+            "text": "And we sailed thence, and came the next day over against Chios; and the next day we arrived at Samos, and tarried at Trogyllium; and the next day we came to Miletus."
+        }
+    ],
+    "tone": "neutral"
+}

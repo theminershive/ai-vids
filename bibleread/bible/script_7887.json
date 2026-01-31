@@ -1,0 +1,19 @@
+{
+    "book": "1 Peter",
+    "chapter": "Chapter 3",
+    "verses": [
+        {
+            "name": "1 Peter 3:5",
+            "text": "For after this manner in the old time the holy women also, who trusted in God, adorned themselves, being in subjection unto their own husbands:"
+        },
+        {
+            "name": "1 Peter 3:6",
+            "text": "Even as Sara obeyed Abraham, calling him lord: whose daughters ye are, as long as ye do well, and are not afraid with any amazement."
+        },
+        {
+            "name": "1 Peter 3:7",
+            "text": "Likewise, ye husbands, dwell with them according to knowledge, giving honour unto the wife, as unto the weaker vessel, and as being heirs together of the grace of life; that your prayers be not hindered."
+        }
+    ],
+    "tone": "instructional"
+}

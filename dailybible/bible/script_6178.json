@@ -1,0 +1,27 @@
+{
+    "book": "Matthew",
+    "chapter": "Chapter 4",
+    "verses": [
+        {
+            "name": "Matthew 4:8",
+            "text": "Again, the devil taketh him up into an exceeding high mountain, and sheweth him all the kingdoms of the world, and the glory of them;"
+        },
+        {
+            "name": "Matthew 4:9",
+            "text": "And saith unto him, All these things will I give thee, if thou wilt fall down and worship me."
+        },
+        {
+            "name": "Matthew 4:10",
+            "text": "Then saith Jesus unto him, Get thee hence, Satan: for it is written, Thou shalt worship the Lord thy God, and him only shalt thou serve."
+        },
+        {
+            "name": "Matthew 4:11",
+            "text": "Then the devil leaveth him, and, behold, angels came and ministered unto him."
+        },
+        {
+            "name": "Matthew 4:12",
+            "text": "Now when Jesus had heard that John was cast into prison, he departed into Galilee;"
+        }
+    ],
+    "tone": "praising"
+}

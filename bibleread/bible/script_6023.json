@@ -1,0 +1,19 @@
+{
+    "book": "Micah",
+    "chapter": "Chapter 7",
+    "verses": [
+        {
+            "name": "Micah 7:7",
+            "text": "Therefore I will look unto the Lord; I will wait for the God of my salvation: my God will hear me."
+        },
+        {
+            "name": "Micah 7:8",
+            "text": "Rejoice not against me, O mine enemy: when I fall, I shall arise; when I sit in darkness, the Lord shall be a light unto me."
+        },
+        {
+            "name": "Micah 7:9",
+            "text": "I will bear the indignation of the Lord, because I have sinned against him, until he plead my cause, and execute judgment for me: he will bring me forth to the light, and I shall behold his righteousness."
+        }
+    ],
+    "tone": "hopeful"
+}

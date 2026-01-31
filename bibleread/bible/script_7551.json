@@ -1,0 +1,19 @@
+{
+    "book": "2 Corinthians",
+    "chapter": "Chapter 7",
+    "verses": [
+        {
+            "name": "2 Corinthians 7:8",
+            "text": "For though I made you sorry with a letter, I do not repent, though I did repent: for I perceive that the same epistle hath made you sorry, though it were but for a season."
+        },
+        {
+            "name": "2 Corinthians 7:9",
+            "text": "Now I rejoice, not that ye were made sorry, but that ye sorrowed to repentance: for ye were made sorry after a godly manner, that ye might receive damage by us in nothing."
+        },
+        {
+            "name": "2 Corinthians 7:10",
+            "text": "For godly sorrow worketh repentance to salvation not to be repented of: but the sorrow of the world worketh death."
+        }
+    ],
+    "tone": "lamenting"
+}

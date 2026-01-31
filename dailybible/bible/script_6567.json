@@ -1,0 +1,31 @@
+{
+    "book": "Mark",
+    "chapter": "Chapter 15",
+    "verses": [
+        {
+            "name": "Mark 15:21",
+            "text": "And they compel one Simon a Cyrenian, who passed by, coming out of the country, the father of Alexander and Rufus, to bear his cross."
+        },
+        {
+            "name": "Mark 15:22",
+            "text": "And they bring him unto the place Golgotha, which is, being interpreted, The place of a skull."
+        },
+        {
+            "name": "Mark 15:23",
+            "text": "And they gave him to drink wine mingled with myrrh: but he received it not."
+        },
+        {
+            "name": "Mark 15:24",
+            "text": "And when they had crucified him, they parted his garments, casting lots upon them, what every man should take."
+        },
+        {
+            "name": "Mark 15:25",
+            "text": "And it was the third hour, and they crucified him."
+        },
+        {
+            "name": "Mark 15:26",
+            "text": "And the superscription of his accusation was written over, THE KING OF THE JEWS."
+        }
+    ],
+    "tone": "neutral"
+}

@@ -1,0 +1,23 @@
+{
+    "book": "Acts",
+    "chapter": "Chapter 20",
+    "verses": [
+        {
+            "name": "Acts 20:26",
+            "text": "Wherefore I take you to record this day, that I am pure from the blood of all men. "
+        },
+        {
+            "name": "Acts 20:27",
+            "text": "For I have not shunned to declare unto you all the counsel of God."
+        },
+        {
+            "name": "Acts 20:28",
+            "text": "Take heed therefore unto yourselves, and to all the flock, over the which the Holy Ghost hath made you overseers, to feed the church of God, which he hath purchased with his own blood."
+        },
+        {
+            "name": "Acts 20:29",
+            "text": "For I know this, that after my departing shall grievous wolves enter in among you, not sparing the flock."
+        }
+    ],
+    "tone": "instructional"
+}

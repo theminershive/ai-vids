@@ -1,0 +1,23 @@
+{
+    "book": "Romans",
+    "chapter": "Chapter 8",
+    "verses": [
+        {
+            "name": "Romans 8:21",
+            "text": "Because the creature itself also shall be delivered from the bondage of corruption into the glorious liberty of the children of God."
+        },
+        {
+            "name": "Romans 8:22",
+            "text": "For we know that the whole creation groaneth and travaileth in pain together until now."
+        },
+        {
+            "name": "Romans 8:23",
+            "text": "And not only they, but ourselves also, which have the firstfruits of the Spirit, even we ourselves groan within ourselves, waiting for the adoption, to wit, the redemption of our body."
+        },
+        {
+            "name": "Romans 8:24",
+            "text": "For we are saved by hope: but hope that is seen is not hope: for what a man seeth, why doth he yet hope for?"
+        }
+    ],
+    "tone": "hopeful"
+}

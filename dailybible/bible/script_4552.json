@@ -1,0 +1,19 @@
+{
+    "book": "Isaiah",
+    "chapter": "Chapter 10",
+    "verses": [
+        {
+            "name": "Isaiah 10:1",
+            "text": "Woe unto them that decree unrighteous decrees, and that write grievousness which they have prescribed;"
+        },
+        {
+            "name": "Isaiah 10:2",
+            "text": "To turn aside the needy from judgment, and to take away the right from the poor of my people, that widows may be their prey, and that they may rob the fatherless!"
+        },
+        {
+            "name": "Isaiah 10:3",
+            "text": "And what will ye do in the day of visitation, and in the desolation which shall come from far? to whom will ye flee for help? and where will ye leave your glory?"
+        }
+    ],
+    "tone": "lamenting"
+}

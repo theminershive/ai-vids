@@ -1,0 +1,23 @@
+{
+    "book": "Exodus",
+    "chapter": "Chapter 21",
+    "verses": [
+        {
+            "name": "Exodus 21:16",
+            "text": "And he that stealeth a man, and selleth him, or if he be found in his hand, he shall surely be put to death."
+        },
+        {
+            "name": "Exodus 21:17",
+            "text": "And he that curseth his father, or his mother, shall surely be put to death."
+        },
+        {
+            "name": "Exodus 21:18",
+            "text": "And if men strive together, and one smite another with a stone, or with his fist, and he die not, but keepeth his bed:"
+        },
+        {
+            "name": "Exodus 21:19",
+            "text": "If he rise again, and walk abroad upon his staff, then shall he that smote him be quit: only he shall pay for the loss of his time, and shall cause him to be thoroughly healed."
+        }
+    ],
+    "tone": "lamenting"
+}

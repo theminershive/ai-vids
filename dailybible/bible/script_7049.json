@@ -1,0 +1,19 @@
+{
+    "book": "John",
+    "chapter": "Chapter 20",
+    "verses": [
+        {
+            "name": "John 20:18",
+            "text": "Mary Magdalene came and told the disciples that she had seen the Lord, and that he had spoken these things unto her."
+        },
+        {
+            "name": "John 20:19",
+            "text": "Then the same day at evening, being the first day of the week, when the doors were shut where the disciples were assembled for fear of the Jews, came Jesus and stood in the midst, and saith unto them, Peace be unto you."
+        },
+        {
+            "name": "John 20:20",
+            "text": "And when he had so said, he shewed unto them his hands and his side. Then were the disciples glad, when they saw the Lord."
+        }
+    ],
+    "tone": "neutral"
+}

@@ -1,0 +1,23 @@
+{
+    "book": "2 Peter",
+    "chapter": "Chapter 1",
+    "verses": [
+        {
+            "name": "2 Peter 1:13",
+            "text": "Yea, I think it meet, as long as I am in this tabernacle, to stir you up by putting you in remembrance;"
+        },
+        {
+            "name": "2 Peter 1:14",
+            "text": "Knowing that shortly I must put off this my tabernacle, even as our Lord Jesus Christ hath shewed me."
+        },
+        {
+            "name": "2 Peter 1:15",
+            "text": "Moreover I will endeavour that ye may be able after my decease to have these things always in remembrance."
+        },
+        {
+            "name": "2 Peter 1:16",
+            "text": "For we have not followed cunningly devised fables, when we made known unto you the power and coming of our Lord Jesus Christ, but were eyewitnesses of his majesty."
+        }
+    ],
+    "tone": "neutral"
+}

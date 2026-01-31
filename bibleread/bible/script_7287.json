@@ -1,0 +1,19 @@
+{
+    "book": "Acts",
+    "chapter": "Chapter 25",
+    "verses": [
+        {
+            "name": "Acts 25:9",
+            "text": "But Festus, willing to do the Jews a pleasure, answered Paul, and said, Wilt thou go up to Jerusalem, and there be judged of these things before me?"
+        },
+        {
+            "name": "Acts 25:10",
+            "text": "Then said Paul, I stand at Cesar\u2019s judgment seat, where I ought to be judged: to the Jews have I done no wrong, as thou very well knowest."
+        },
+        {
+            "name": "Acts 25:11",
+            "text": "For if I be an offender, or have committed any thing worthy of death, I refuse not to die: but if there be none of these things whereof these accuse me, no man may deliver me unto them. I appeal unto Cesar."
+        }
+    ],
+    "tone": "lamenting"
+}

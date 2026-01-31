@@ -1,0 +1,27 @@
+{
+    "book": "1 Kings",
+    "chapter": "Chapter 4",
+    "verses": [
+        {
+            "name": "1 Kings 4:7",
+            "text": "And Solomon had twelve officers over all Israel, which provided victuals for the king and his household: each man his month in a year made provision."
+        },
+        {
+            "name": "1 Kings 4:8",
+            "text": "And these are their names: The son of Hur, in mount Ephraim:"
+        },
+        {
+            "name": "1 Kings 4:9",
+            "text": "The son of Dekar, in Makaz, and in Shaalbim, and Beth\u2013shemesh, and Elon\u2013beth\u2013hanan:"
+        },
+        {
+            "name": "1 Kings 4:10",
+            "text": "The son of Hesed, in Aruboth; to him pertained Sochoh, and all the land of Hepher:"
+        },
+        {
+            "name": "1 Kings 4:11",
+            "text": "The son of Abinadab, in all the region of Dor; which had Taphath the daughter of Solomon to wife:"
+        }
+    ],
+    "tone": "neutral"
+}

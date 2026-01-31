@@ -1,0 +1,19 @@
+{
+    "book": "Jeremiah",
+    "chapter": "Chapter 4",
+    "verses": [
+        {
+            "name": "Jeremiah 4:10",
+            "text": "Then said I, Ah, Lord God! surely thou hast greatly deceived this people and Jerusalem, saying, Ye shall have peace; whereas the sword reacheth unto the soul."
+        },
+        {
+            "name": "Jeremiah 4:11",
+            "text": "At that time shall it be said to this people and to Jerusalem, A dry wind of the high places in the wilderness toward the daughter of my people, not to fan, nor to cleanse,"
+        },
+        {
+            "name": "Jeremiah 4:12",
+            "text": "Even a full wind from those places shall come unto me: now also will I give sentence against them."
+        }
+    ],
+    "tone": "neutral"
+}

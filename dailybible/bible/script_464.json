@@ -1,0 +1,19 @@
+{
+    "book": "Exodus",
+    "chapter": "Chapter 9",
+    "verses": [
+        {
+            "name": "Exodus 9:4",
+            "text": "And the Lord shall sever between the cattle of Israel and the cattle of Egypt: and there shall nothing die of all that is the children\u2019s of Israel."
+        },
+        {
+            "name": "Exodus 9:5",
+            "text": "And the Lord appointed a set time, saying, To morrow the Lord shall do this thing in the land."
+        },
+        {
+            "name": "Exodus 9:6",
+            "text": "And the Lord did that thing on the morrow, and all the cattle of Egypt died: but of the cattle of the children of Israel died not one."
+        }
+    ],
+    "tone": "lamenting"
+}

@@ -1,0 +1,23 @@
+{
+    "book": "Genesis",
+    "chapter": "Chapter 20",
+    "verses": [
+        {
+            "name": "Genesis 20:1",
+            "text": "And Abraham journeyed from thence toward the south country, and dwelled between Kadesh and Shur, and sojourned in Gerar."
+        },
+        {
+            "name": "Genesis 20:2",
+            "text": "And Abraham said of Sarah his wife, She is my sister: and Abimelech king of Gerar sent, and took Sarah."
+        },
+        {
+            "name": "Genesis 20:3",
+            "text": "But God came to Abimelech in a dream by night, and said to him, Behold, thou art but a dead man, for the woman which thou hast taken; for she is a man\u2019s wife."
+        },
+        {
+            "name": "Genesis 20:4",
+            "text": "But Abimelech had not come near her: and he said, Lord, wilt thou slay also a righteous nation?"
+        }
+    ],
+    "tone": "neutral"
+}

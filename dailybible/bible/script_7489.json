@@ -1,0 +1,23 @@
+{
+    "book": "1 Corinthians",
+    "chapter": "Chapter 12",
+    "verses": [
+        {
+            "name": "1 Corinthians 12:21",
+            "text": "And the eye cannot say unto the hand, I have no need of thee: nor again the head to the feet, I have no need of you."
+        },
+        {
+            "name": "1 Corinthians 12:22",
+            "text": "Nay, much more those members of the body, which seem to be more feeble, are necessary:"
+        },
+        {
+            "name": "1 Corinthians 12:23",
+            "text": "And those members of the body, which we think to be less honourable, upon these we bestow more abundant honour; and our uncomely parts have more abundant comeliness."
+        },
+        {
+            "name": "1 Corinthians 12:24",
+            "text": "For our comely parts have no need: but God hath tempered the body together, having given more abundant honour to that part which lacked:"
+        }
+    ],
+    "tone": "hopeful"
+}

@@ -1,0 +1,19 @@
+{
+    "book": "Esther",
+    "chapter": "Chapter 8",
+    "verses": [
+        {
+            "name": "Esther 8:12",
+            "text": "Upon one day in all the provinces of king Ahasuerus, namely, upon the thirteenth day of the twelfth month, which is the month Adar."
+        },
+        {
+            "name": "Esther 8:13",
+            "text": "The copy of the writing for a commandment to be given in every province was published unto all people, and that the Jews should be ready against that day to avenge themselves on their enemies."
+        },
+        {
+            "name": "Esther 8:14",
+            "text": "So the posts that rode upon mules and camels went out, being hastened and pressed on by the king\u2019s commandment. And the decree was given at Shushan the palace."
+        }
+    ],
+    "tone": "neutral"
+}

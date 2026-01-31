@@ -1,0 +1,19 @@
+{
+    "book": "2 Kings",
+    "chapter": "Chapter 20",
+    "verses": [
+        {
+            "name": "2 Kings 20:9",
+            "text": "And Isaiah said, This sign shalt thou have of the Lord, that the Lord will do the thing that he hath spoken: shall the shadow go forward ten degrees, or go back ten degrees?"
+        },
+        {
+            "name": "2 Kings 20:10",
+            "text": "And Hezekiah answered, It is a light thing for the shadow to go down ten degrees: nay, but let the shadow return backward ten degrees."
+        },
+        {
+            "name": "2 Kings 20:11",
+            "text": "And Isaiah the prophet cried unto the Lord: and he brought the shadow ten degrees backward, by which it had gone down in the dial of Ahaz."
+        }
+    ],
+    "tone": "lamenting"
+}

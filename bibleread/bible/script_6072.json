@@ -1,0 +1,19 @@
+{
+    "book": "Zephaniah",
+    "chapter": "Chapter 3",
+    "verses": [
+        {
+            "name": "Zephaniah 3:16",
+            "text": "In that day it shall be said to Jerusalem, Fear thou not: and to Zion, Let not thine hands be slack."
+        },
+        {
+            "name": "Zephaniah 3:17",
+            "text": "The Lord thy God in the midst of thee is mighty; he will save, he will rejoice over thee with joy; he will rest in his love, he will joy over thee with singing."
+        },
+        {
+            "name": "Zephaniah 3:18",
+            "text": "I will gather them that are sorrowful for the solemn assembly, who are of thee, to whom the reproach of it was a burden."
+        }
+    ],
+    "tone": "neutral"
+}

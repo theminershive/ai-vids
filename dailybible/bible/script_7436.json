@@ -1,0 +1,23 @@
+{
+    "book": "1 Corinthians",
+    "chapter": "Chapter 4",
+    "verses": [
+        {
+            "name": "1 Corinthians 4:1",
+            "text": "Let a man so account of us, as of the ministers of Christ, and stewards of the mysteries of God."
+        },
+        {
+            "name": "1 Corinthians 4:2",
+            "text": "Moreover it is required in stewards, that a man be found faithful."
+        },
+        {
+            "name": "1 Corinthians 4:3",
+            "text": "But with me it is a very small thing that I should be judged of you, or of man\u2019s judgment: yea, I judge not mine own self."
+        },
+        {
+            "name": "1 Corinthians 4:4",
+            "text": "For I know nothing by myself; yet am I not hereby justified: but he that judgeth me is the Lord."
+        }
+    ],
+    "tone": "neutral"
+}

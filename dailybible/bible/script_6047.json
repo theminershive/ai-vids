@@ -1,0 +1,23 @@
+{
+    "book": "Habakkuk",
+    "chapter": "Chapter 2",
+    "verses": [
+        {
+            "name": "Habakkuk 2:9",
+            "text": "Woe to him that coveteth an evil covetousness to his house, that he may set his nest on high, that he may be delivered from the power of evil!"
+        },
+        {
+            "name": "Habakkuk 2:10",
+            "text": "Thou hast consulted shame to thy house by cutting off many people, and hast sinned against thy soul."
+        },
+        {
+            "name": "Habakkuk 2:11",
+            "text": "For the stone shall cry out of the wall, and the beam out of the timber shall answer it."
+        },
+        {
+            "name": "Habakkuk 2:12",
+            "text": "Woe to him that buildeth a town with blood, and stablisheth a city by iniquity!"
+        }
+    ],
+    "tone": "lamenting"
+}

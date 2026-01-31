@@ -1,0 +1,23 @@
+{
+    "book": "John",
+    "chapter": "Chapter 20",
+    "verses": [
+        {
+            "name": "John 20:1",
+            "text": "The first day of the week cometh Mary Magdalene early, when it was yet dark, unto the sepulchre, and seeth the stone taken away from the sepulchre."
+        },
+        {
+            "name": "John 20:2",
+            "text": "Then she runneth, and cometh to Simon Peter, and to the other disciple, whom Jesus loved, and saith unto them, They have taken away the Lord out of the sepulchre, and we know not where they have laid him."
+        },
+        {
+            "name": "John 20:3",
+            "text": "Peter therefore went forth, and that other disciple, and came to the sepulchre."
+        },
+        {
+            "name": "John 20:4",
+            "text": "So they ran both together: and the other disciple did outrun Peter, and came first to the sepulchre."
+        }
+    ],
+    "tone": "neutral"
+}

@@ -1,0 +1,23 @@
+{
+    "book": "John",
+    "chapter": "Chapter 6",
+    "verses": [
+        {
+            "name": "John 6:18",
+            "text": "And the sea arose by reason of a great wind that blew."
+        },
+        {
+            "name": "John 6:19",
+            "text": "So when they had rowed about five and twenty or thirty furlongs, they see Jesus walking on the sea, and drawing nigh unto the ship: and they were afraid."
+        },
+        {
+            "name": "John 6:20",
+            "text": "But he saith unto them, It is I; be not afraid."
+        },
+        {
+            "name": "John 6:21",
+            "text": "Then they willingly received him into the ship: and immediately the ship was at the land whither they went."
+        }
+    ],
+    "tone": "neutral"
+}

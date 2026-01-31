@@ -1,0 +1,23 @@
+{
+    "book": "John",
+    "chapter": "Chapter 2",
+    "verses": [
+        {
+            "name": "John 2:6",
+            "text": "And there were set there six waterpots of stone, after the manner of the purifying of the Jews, containing two or three firkins apiece."
+        },
+        {
+            "name": "John 2:7",
+            "text": "Jesus saith unto them, Fill the waterpots with water. And they filled them up to the brim."
+        },
+        {
+            "name": "John 2:8",
+            "text": "And he saith unto them, Draw out now, and bear unto the governor of the feast. And they bare it. "
+        },
+        {
+            "name": "John 2:9",
+            "text": "When the ruler of the feast had tasted the water that was made wine, and knew not whence it was: (but the servants which drew the water knew;) the governor of the feast called the bridegroom,"
+        }
+    ],
+    "tone": "neutral"
+}

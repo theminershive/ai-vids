@@ -1,0 +1,19 @@
+{
+    "book": "Exodus",
+    "chapter": "Chapter 12",
+    "verses": [
+        {
+            "name": "Exodus 12:38",
+            "text": "And a mixed multitude went up also with them; and flocks, and herds, even very much cattle."
+        },
+        {
+            "name": "Exodus 12:39",
+            "text": "And they baked unleavened cakes of the dough which they brought forth out of Egypt, for it was not leavened; because they were thrust out of Egypt, and could not tarry, neither had they prepared for themselves any victual."
+        },
+        {
+            "name": "Exodus 12:40",
+            "text": "Now the sojourning of the children of Israel, who dwelt in Egypt, was four hundred and thirty years."
+        }
+    ],
+    "tone": "neutral"
+}

@@ -1,0 +1,19 @@
+{
+    "book": "Daniel",
+    "chapter": "Chapter 6",
+    "verses": [
+        {
+            "name": "Daniel 6:25",
+            "text": "Then king Darius wrote unto all people, nations, and languages, that dwell in all the earth; Peace be multiplied unto you."
+        },
+        {
+            "name": "Daniel 6:26",
+            "text": "I make a decree, That in every dominion of my kingdom men tremble and fear before the God of Daniel: for he is the living God, and stedfast for ever, and his kingdom that which shall not be destroyed, and his dominion shall be even unto the end."
+        },
+        {
+            "name": "Daniel 6:27",
+            "text": "He delivereth and rescueth, and he worketh signs and wonders in heaven and in earth, who hath delivered Daniel from the power of the lions."
+        }
+    ],
+    "tone": "hopeful"
+}

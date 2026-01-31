@@ -1,0 +1,23 @@
+{
+    "book": "Luke",
+    "chapter": "Chapter 6",
+    "verses": [
+        {
+            "name": "Luke 6:18",
+            "text": "And they that were vexed with unclean spirits: and they were healed."
+        },
+        {
+            "name": "Luke 6:19",
+            "text": "And the whole multitude sought to touch him: for there went virtue out of him, and healed them all."
+        },
+        {
+            "name": "Luke 6:20",
+            "text": "And he lifted up his eyes on his disciples, and said, Blessed be ye poor: for yours is the kingdom of God."
+        },
+        {
+            "name": "Luke 6:21",
+            "text": "Blessed are ye that hunger now: for ye shall be filled. Blessed are ye that weep now: for ye shall laugh."
+        }
+    ],
+    "tone": "lamenting"
+}

@@ -1,0 +1,27 @@
+{
+    "book": "John",
+    "chapter": "Chapter 1",
+    "verses": [
+        {
+            "name": "John 1:27",
+            "text": "He it is, who coming after me is preferred before me, whose shoe\u2019s latchet I am not worthy to unloose."
+        },
+        {
+            "name": "John 1:28",
+            "text": "These things were done in Bethabara beyond Jordan, where John was baptizing."
+        },
+        {
+            "name": "John 1:29",
+            "text": "The next day John seeth Jesus coming unto him, and saith, Behold the Lamb of God, which taketh away the sin of the world."
+        },
+        {
+            "name": "John 1:30",
+            "text": "This is he of whom I said, After me cometh a man which is preferred before me: for he was before me."
+        },
+        {
+            "name": "John 1:31",
+            "text": "And I knew him not: but that he should be made manifest to Israel, therefore am I come baptizing with water."
+        }
+    ],
+    "tone": "lamenting"
+}

@@ -1,0 +1,27 @@
+{
+    "book": "Titus",
+    "chapter": "Chapter 1",
+    "verses": [
+        {
+            "name": "Titus 1:9",
+            "text": "Holding fast the faithful word as he hath been taught, that he may be able by sound doctrine both to exhort and to convince the gainsayers."
+        },
+        {
+            "name": "Titus 1:10",
+            "text": "For there are many unruly and vain talkers and deceivers, specially they of the circumcision:"
+        },
+        {
+            "name": "Titus 1:11",
+            "text": "Whose mouths must be stopped, who subvert whole houses, teaching things which they ought not, for filthy lucre\u2019s sake."
+        },
+        {
+            "name": "Titus 1:12",
+            "text": "One of themselves, even a prophet of their own, said, The Cretians are alway liars, evil beasts, slow bellies."
+        },
+        {
+            "name": "Titus 1:13",
+            "text": "This witness is true. Wherefore rebuke them sharply, that they may be sound in the faith;"
+        }
+    ],
+    "tone": "instructional"
+}

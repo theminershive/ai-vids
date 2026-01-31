@@ -1,0 +1,19 @@
+{
+    "book": "Matthew",
+    "chapter": "Chapter 20",
+    "verses": [
+        {
+            "name": "Matthew 20:23",
+            "text": "And he saith unto them, Ye shall drink indeed of my cup, and be baptized with the baptism that I am baptized with: but to sit on my right hand, and on my left, is not mine to give, but it shall be given to them for whom it is prepared of my Father."
+        },
+        {
+            "name": "Matthew 20:24",
+            "text": "And when the ten heard it, they were moved with indignation against the two brethren."
+        },
+        {
+            "name": "Matthew 20:25",
+            "text": "But Jesus called them unto him, and said, Ye know that the princes of the Gentiles exercise dominion over them, and they that are great exercise authority upon them."
+        }
+    ],
+    "tone": "hopeful"
+}

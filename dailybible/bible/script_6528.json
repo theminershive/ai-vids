@@ -1,0 +1,19 @@
+{
+    "book": "Mark",
+    "chapter": "Chapter 12",
+    "verses": [
+        {
+            "name": "Mark 12:13",
+            "text": "And they send unto him certain of the Pharisees and of the Herodians, to catch him in his words."
+        },
+        {
+            "name": "Mark 12:14",
+            "text": "And when they were come, they say unto him, Master, we know that thou art true, and carest for no man: for thou regardest not the person of men, but teachest the way of God in truth: Is it lawful to give tribute to Cesar, or not?"
+        },
+        {
+            "name": "Mark 12:15",
+            "text": "Shall we give, or shall we not give? But he, knowing their hypocrisy, said unto them, Why tempt ye me? bring me a penny, that I may see it."
+        }
+    ],
+    "tone": "neutral"
+}

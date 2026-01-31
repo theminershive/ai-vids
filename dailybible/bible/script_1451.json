@@ -1,0 +1,19 @@
+{
+    "book": "Deuteronomy",
+    "chapter": "Chapter 13",
+    "verses": [
+        {
+            "name": "Deuteronomy 13:11",
+            "text": "And all Israel shall hear, and fear, and shall do no more any such wickedness as this is among you."
+        },
+        {
+            "name": "Deuteronomy 13:12",
+            "text": "If thou shalt hear say in one of thy cities, which the Lord thy God hath given thee to dwell there, saying,"
+        },
+        {
+            "name": "Deuteronomy 13:13",
+            "text": "Certain men, the children of Belial, are gone out from among you, and have withdrawn the inhabitants of their city, saying, Let us go and serve other gods, which ye have not known;"
+        }
+    ],
+    "tone": "lamenting"
+}

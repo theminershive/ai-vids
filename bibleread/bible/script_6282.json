@@ -1,0 +1,23 @@
+{
+    "book": "Matthew",
+    "chapter": "Chapter 15",
+    "verses": [
+        {
+            "name": "Matthew 15:22",
+            "text": "And, behold, a woman of Canaan came out of the same coasts, and cried unto him, saying, Have mercy on me, O Lord, thou Son of David; my daughter is grievously vexed with a devil."
+        },
+        {
+            "name": "Matthew 15:23",
+            "text": "But he answered her not a word. And his disciples came and besought him, saying, Send her away; for she crieth after us."
+        },
+        {
+            "name": "Matthew 15:24",
+            "text": "But he answered and said, I am not sent but unto the lost sheep of the house of Israel."
+        },
+        {
+            "name": "Matthew 15:25",
+            "text": "Then came she and worshipped him, saying, Lord, help me."
+        }
+    ],
+    "tone": "hopeful"
+}

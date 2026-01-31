@@ -1,0 +1,19 @@
+{
+    "book": "Luke",
+    "chapter": "Chapter 7",
+    "verses": [
+        {
+            "name": "Luke 7:6",
+            "text": "Then Jesus went with them. And when he was now not far from the house, the centurion sent friends to him, saying unto him, Lord, trouble not thyself: for I am not worthy that thou shouldest enter under my roof:"
+        },
+        {
+            "name": "Luke 7:7",
+            "text": "Wherefore neither thought I myself worthy to come unto thee: but say in a word, and my servant shall be healed."
+        },
+        {
+            "name": "Luke 7:8",
+            "text": "For I also am a man set under authority, having under me soldiers, and I say unto one, Go, and he goeth; and to another, Come, and he cometh; and to my servant, Do this, and he doeth it. "
+        }
+    ],
+    "tone": "neutral"
+}

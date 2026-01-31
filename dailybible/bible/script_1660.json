@@ -1,0 +1,19 @@
+{
+    "book": "Joshua",
+    "chapter": "Chapter 5",
+    "verses": [
+        {
+            "name": "Joshua 5:3",
+            "text": "And Joshua made him sharp knives, and circumcised the children of Israel at the hill of the foreskins."
+        },
+        {
+            "name": "Joshua 5:4",
+            "text": "And this is the cause why Joshua did circumcise: All the people that came out of Egypt, that were males, even all the men of war, died in the wilderness by the way, after they came out of Egypt."
+        },
+        {
+            "name": "Joshua 5:5",
+            "text": "Now all the people that came out were circumcised: but all the people that were born in the wilderness by the way as they came forth out of Egypt, them they had not circumcised."
+        }
+    ],
+    "tone": "neutral"
+}

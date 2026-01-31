@@ -1,0 +1,23 @@
+{
+    "book": "Matthew",
+    "chapter": "Chapter 10",
+    "verses": [
+        {
+            "name": "Matthew 10:37",
+            "text": "He that loveth father or mother more than me is not worthy of me: and he that loveth son or daughter more than me is not worthy of me."
+        },
+        {
+            "name": "Matthew 10:38",
+            "text": "And he that taketh not his cross, and followeth after me, is not worthy of me."
+        },
+        {
+            "name": "Matthew 10:39",
+            "text": "He that findeth his life shall lose it: and he that loseth his life for my sake shall find it."
+        },
+        {
+            "name": "Matthew 10:40",
+            "text": "He that receiveth you receiveth me, and he that receiveth me receiveth him that sent me."
+        }
+    ],
+    "tone": "lamenting"
+}

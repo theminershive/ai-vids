@@ -1,0 +1,27 @@
+{
+    "book": "Hebrews",
+    "chapter": "Chapter 11",
+    "verses": [
+        {
+            "name": "Hebrews 11:27",
+            "text": "By faith he forsook Egypt, not fearing the wrath of the king: for he endured, as seeing him who is invisible."
+        },
+        {
+            "name": "Hebrews 11:28",
+            "text": "Through faith he kept the passover, and the sprinkling of blood, lest he that destroyed the firstborn should touch them."
+        },
+        {
+            "name": "Hebrews 11:29",
+            "text": "By faith they passed through the Red sea as by dry land: which the Egyptians assaying to do were drowned."
+        },
+        {
+            "name": "Hebrews 11:30",
+            "text": "By faith the walls of Jericho fell down, after they were compassed about seven days."
+        },
+        {
+            "name": "Hebrews 11:31",
+            "text": "By faith the harlot Rahab perished not with them that believed not, when she had received the spies with peace."
+        }
+    ],
+    "tone": "hopeful"
+}

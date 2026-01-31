@@ -1,0 +1,19 @@
+{
+    "book": "Genesis",
+    "chapter": "Chapter 6",
+    "verses": [
+        {
+            "name": "Genesis 6:12",
+            "text": "And God looked upon the earth, and, behold, it was corrupt; for all flesh had corrupted his way upon the earth."
+        },
+        {
+            "name": "Genesis 6:13",
+            "text": "And God said unto Noah, The end of all flesh is come before me; for the earth is filled with violence through them; and, behold, I will destroy them with the earth."
+        },
+        {
+            "name": "Genesis 6:14",
+            "text": "Make thee an ark of gopher wood; rooms shalt thou make in the ark, and shalt pitch it within and without with pitch."
+        }
+    ],
+    "tone": "neutral"
+}

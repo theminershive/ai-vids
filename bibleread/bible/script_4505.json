@@ -1,0 +1,27 @@
+{
+    "book": "Isaiah",
+    "chapter": "Chapter 1",
+    "verses": [
+        {
+            "name": "Isaiah 1:18",
+            "text": "Come now, and let us reason together, saith the Lord: though your sins be as scarlet, they shall be as white as snow; though they be red like crimson, they shall be as wool."
+        },
+        {
+            "name": "Isaiah 1:19",
+            "text": "If ye be willing and obedient, ye shall eat the good of the land:"
+        },
+        {
+            "name": "Isaiah 1:20",
+            "text": "But if ye refuse and rebel, ye shall be devoured with the sword: for the mouth of the Lord hath spoken it."
+        },
+        {
+            "name": "Isaiah 1:21",
+            "text": "How is the faithful city become an harlot! it was full of judgment; righteousness lodged in it; but now murderers."
+        },
+        {
+            "name": "Isaiah 1:22",
+            "text": "Thy silver is become dross, thy wine mixed with water:"
+        }
+    ],
+    "tone": "instructional"
+}

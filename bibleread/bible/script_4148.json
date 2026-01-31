@@ -1,0 +1,31 @@
+{
+    "book": "Psalms",
+    "chapter": "Chapter 107",
+    "verses": [
+        {
+            "name": "Psalms 107:1",
+            "text": "O give thanks unto the Lord, for he is good: for his mercy endureth for ever."
+        },
+        {
+            "name": "Psalms 107:2",
+            "text": "Let the redeemed of the Lord say so, whom he hath redeemed from the hand of the enemy;"
+        },
+        {
+            "name": "Psalms 107:3",
+            "text": "And gathered them out of the lands, from the east, and from the west, from the north, and from the south."
+        },
+        {
+            "name": "Psalms 107:4",
+            "text": "They wandered in the wilderness in a solitary way; they found no city to dwell in."
+        },
+        {
+            "name": "Psalms 107:5",
+            "text": "Hungry and thirsty, their soul fainted in them."
+        },
+        {
+            "name": "Psalms 107:6",
+            "text": "Then they cried unto the Lord in their trouble, and he delivered them out of their distresses."
+        }
+    ],
+    "tone": "neutral"
+}

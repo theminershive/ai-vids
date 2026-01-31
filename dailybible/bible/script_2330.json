@@ -1,0 +1,19 @@
+{
+    "book": "2 Samuel",
+    "chapter": "Chapter 8",
+    "verses": [
+        {
+            "name": "2 Samuel 8:1",
+            "text": "And after this it came to pass, that David smote the Philistines, and subdued them: and David took Metheg\u2013ammah out of the hand of the Philistines."
+        },
+        {
+            "name": "2 Samuel 8:2",
+            "text": "And he smote Moab, and measured them with a line, casting them down to the ground; even with two lines measured he to put to death, and with one full line to keep alive. And so the Moabites became David\u2019s servants, and brought gifts."
+        },
+        {
+            "name": "2 Samuel 8:3",
+            "text": "David smote also Hadadezer, the son of Rehob, king of Zobah, as he went to recover his border at the river Euphrates."
+        }
+    ],
+    "tone": "neutral"
+}

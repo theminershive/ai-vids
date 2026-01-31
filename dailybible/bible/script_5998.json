@@ -1,0 +1,23 @@
+{
+    "book": "Micah",
+    "chapter": "Chapter 1",
+    "verses": [
+        {
+            "name": "Micah 1:8",
+            "text": "Therefore I will wail and howl, I will go stripped and naked: I will make a wailing like the dragons, and mourning as the owls."
+        },
+        {
+            "name": "Micah 1:9",
+            "text": "For her wound is incurable; for it is come unto Judah; he is come unto the gate of my people, even to Jerusalem."
+        },
+        {
+            "name": "Micah 1:10",
+            "text": "Declare ye it not at Gath, weep ye not at all: in the house of Aphrah roll thyself in the dust."
+        },
+        {
+            "name": "Micah 1:11",
+            "text": "Pass ye away, thou inhabitant of Saphir, having thy shame naked: the inhabitant of Zaanan came not forth in the mourning of Beth\u2013ezel; he shall receive of you his standing."
+        }
+    ],
+    "tone": "lamenting"
+}

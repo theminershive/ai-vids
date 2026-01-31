@@ -1,0 +1,19 @@
+{
+    "book": "Luke",
+    "chapter": "Chapter 18",
+    "verses": [
+        {
+            "name": "Luke 18:14",
+            "text": "I tell you, this man went down to his house justified rather than the other: for every one that exalteth himself shall be abased; and he that humbleth himself shall be exalted."
+        },
+        {
+            "name": "Luke 18:15",
+            "text": "And they brought unto him also infants, that he would touch them: but when his disciples saw it, they rebuked them."
+        },
+        {
+            "name": "Luke 18:16",
+            "text": "But Jesus called them unto him, and said, Suffer little children to come unto me, and forbid them not: for of such is the kingdom of God."
+        }
+    ],
+    "tone": "neutral"
+}

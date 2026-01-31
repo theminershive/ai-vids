@@ -1,0 +1,23 @@
+{
+    "book": "John",
+    "chapter": "Chapter 6",
+    "verses": [
+        {
+            "name": "John 6:57",
+            "text": "As the living Father hath sent me, and I live by the Father: so he that eateth me, even he shall live by me."
+        },
+        {
+            "name": "John 6:58",
+            "text": "This is that bread which came down from heaven: not as your fathers did eat manna, and are dead: he that eateth of this bread shall live for ever."
+        },
+        {
+            "name": "John 6:59",
+            "text": "These things said he in the synagogue, as he taught in Capernaum."
+        },
+        {
+            "name": "John 6:60",
+            "text": "Many therefore of his disciples, when they had heard this, said, This is an hard saying; who can hear it?"
+        }
+    ],
+    "tone": "neutral"
+}

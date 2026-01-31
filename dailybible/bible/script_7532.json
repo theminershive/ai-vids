@@ -1,0 +1,23 @@
+{
+    "book": "2 Corinthians",
+    "chapter": "Chapter 3",
+    "verses": [
+        {
+            "name": "2 Corinthians 3:1",
+            "text": "Do we begin again to commend ourselves? or need we, as some others, epistles of commendation to you, or letters of commendation from you?"
+        },
+        {
+            "name": "2 Corinthians 3:2",
+            "text": "Ye are our epistle written in our hearts, known and read of all men:"
+        },
+        {
+            "name": "2 Corinthians 3:3",
+            "text": "Forasmuch as ye are manifestly declared to be the epistle of Christ ministered by us, written not with ink, but with the Spirit of the living God; not in tables of stone, but in fleshy tables of the heart."
+        },
+        {
+            "name": "2 Corinthians 3:4",
+            "text": "And such trust have we through Christ to God-ward:"
+        }
+    ],
+    "tone": "hopeful"
+}

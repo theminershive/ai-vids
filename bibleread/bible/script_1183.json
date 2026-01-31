@@ -1,0 +1,23 @@
+{
+    "book": "Numbers",
+    "chapter": "Chapter 20",
+    "verses": [
+        {
+            "name": "Numbers 20:1",
+            "text": "Then came the children of Israel, even the whole congregation, into the desert of Zin in the first month: and the people abode in Kadesh; and Miriam died there, and was buried there."
+        },
+        {
+            "name": "Numbers 20:2",
+            "text": "And there was no water for the congregation: and they gathered themselves together against Moses and against Aaron."
+        },
+        {
+            "name": "Numbers 20:3",
+            "text": "And the people chode with Moses, and spake, saying, Would God that we had died when our brethren died before the Lord!"
+        },
+        {
+            "name": "Numbers 20:4",
+            "text": "And why have ye brought up the congregation of the Lord into this wilderness, that we and our cattle should die there?"
+        }
+    ],
+    "tone": "neutral"
+}

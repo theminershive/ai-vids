@@ -1,0 +1,23 @@
+{
+    "book": "Leviticus",
+    "chapter": "Chapter 22",
+    "verses": [
+        {
+            "name": "Leviticus 22:7",
+            "text": "And when the sun is down, he shall be clean, and shall afterward eat of the holy things; because it is his food."
+        },
+        {
+            "name": "Leviticus 22:8",
+            "text": "That which dieth of itself, or is torn with beasts, he shall not eat to defile himself therewith: I am the Lord."
+        },
+        {
+            "name": "Leviticus 22:9",
+            "text": "They shall therefore keep mine ordinance, lest they bear sin for it, and die therefore, if they profane it: I the Lord do sanctify them."
+        },
+        {
+            "name": "Leviticus 22:10",
+            "text": "There shall no stranger eat of the holy thing: a sojourner of the priest, or an hired servant, shall not eat of the holy thing."
+        }
+    ],
+    "tone": "instructional"
+}

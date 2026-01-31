@@ -1,0 +1,23 @@
+{
+    "book": "Genesis",
+    "chapter": "Chapter 1",
+    "verses": [
+        {
+            "name": "Genesis 1:17",
+            "text": "And God set them in the firmament of the heaven to give light upon the earth,"
+        },
+        {
+            "name": "Genesis 1:18",
+            "text": "And to rule over the day and over the night, and to divide the light from the darkness: and God saw that it was good."
+        },
+        {
+            "name": "Genesis 1:19",
+            "text": "And the evening and the morning were the fourth day."
+        },
+        {
+            "name": "Genesis 1:20",
+            "text": "And God said, Let the waters bring forth abundantly the moving creature that hath life, and fowl that may fly above the earth in the open firmament of heaven."
+        }
+    ],
+    "tone": "neutral"
+}

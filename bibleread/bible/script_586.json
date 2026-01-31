@@ -1,0 +1,23 @@
+{
+    "book": "Exodus",
+    "chapter": "Chapter 23",
+    "verses": [
+        {
+            "name": "Exodus 23:25",
+            "text": "And ye shall serve the Lord your God, and he shall bless thy bread, and thy water; and I will take sickness away from the midst of thee."
+        },
+        {
+            "name": "Exodus 23:26",
+            "text": "There shall nothing cast their young, nor be barren, in thy land: the number of thy days I will fulfil."
+        },
+        {
+            "name": "Exodus 23:27",
+            "text": "I will send my fear before thee, and will destroy all the people to whom thou shalt come, and I will make all thine enemies turn their backs unto thee."
+        },
+        {
+            "name": "Exodus 23:28",
+            "text": "And I will send hornets before thee, which shall drive out the Hivite, the Canaanite, and the Hittite, from before thee."
+        }
+    ],
+    "tone": "praising"
+}

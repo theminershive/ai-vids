@@ -1,0 +1,23 @@
+{
+    "book": "2 Corinthians",
+    "chapter": "Chapter 11",
+    "verses": [
+        {
+            "name": "2 Corinthians 11:4",
+            "text": "For if he that cometh preacheth another Jesus, whom we have not preached, or if ye receive another spirit, which ye have not received, or another gospel, which ye have not accepted, ye might well bear with him. "
+        },
+        {
+            "name": "2 Corinthians 11:5",
+            "text": "For I suppose I was not a whit behind the very chiefest apostles."
+        },
+        {
+            "name": "2 Corinthians 11:6",
+            "text": "But though I be rude in speech, yet not in knowledge; but we have been throughly made manifest among you in all things."
+        },
+        {
+            "name": "2 Corinthians 11:7",
+            "text": "Have I committed an offence in abasing myself that ye might be exalted, because I have preached to you the gospel of God freely?"
+        }
+    ],
+    "tone": "hopeful"
+}

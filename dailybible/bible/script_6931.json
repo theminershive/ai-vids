@@ -1,0 +1,31 @@
+{
+    "book": "John",
+    "chapter": "Chapter 7",
+    "verses": [
+        {
+            "name": "John 7:41",
+            "text": "Others said, This is the Christ. But some said, Shall Christ come out of Galilee?"
+        },
+        {
+            "name": "John 7:42",
+            "text": "Hath not the scripture said, That Christ cometh of the seed of David, and out of the town of Bethlehem, where David was?"
+        },
+        {
+            "name": "John 7:43",
+            "text": "So there was a division among the people because of him."
+        },
+        {
+            "name": "John 7:44",
+            "text": "And some of them would have taken him; but no man laid hands on him."
+        },
+        {
+            "name": "John 7:45",
+            "text": "Then came the officers to the chief priests and Pharisees; and they said unto them, Why have ye not brought him?"
+        },
+        {
+            "name": "John 7:46",
+            "text": "The officers answered, Never man spake like this man."
+        }
+    ],
+    "tone": "neutral"
+}

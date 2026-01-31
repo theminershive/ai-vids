@@ -1,0 +1,23 @@
+{
+    "book": "Joshua",
+    "chapter": "Chapter 13",
+    "verses": [
+        {
+            "name": "Joshua 13:7",
+            "text": "Now therefore divide this land for an inheritance unto the nine tribes, and the half tribe of Manasseh,"
+        },
+        {
+            "name": "Joshua 13:8",
+            "text": "With whom the Reubenites and the Gadites have received their inheritance, which Moses gave them, beyond Jordan eastward, even as Moses the servant of the Lord gave them;"
+        },
+        {
+            "name": "Joshua 13:9",
+            "text": "From Aroer, that is upon the bank of the river Arnon, and the city that is in the midst of the river, and all the plain of Medeba unto Dibon;"
+        },
+        {
+            "name": "Joshua 13:10",
+            "text": "And all the cities of Sihon king of the Amorites, which reigned in Heshbon, unto the border of the children of Ammon;"
+        }
+    ],
+    "tone": "neutral"
+}

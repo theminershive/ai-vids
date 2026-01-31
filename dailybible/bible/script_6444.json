@@ -1,0 +1,23 @@
+{
+    "book": "Mark",
+    "chapter": "Chapter 4",
+    "verses": [
+        {
+            "name": "Mark 4:17",
+            "text": "And have no root in themselves, and so endure but for a time: afterward, when affliction or persecution ariseth for the word\u2019s sake, immediately they are offended."
+        },
+        {
+            "name": "Mark 4:18",
+            "text": "And these are they which are sown among thorns; such as hear the word,"
+        },
+        {
+            "name": "Mark 4:19",
+            "text": "And the cares of this world, and the deceitfulness of riches, and the lusts of other things entering in, choke the word, and it becometh unfruitful."
+        },
+        {
+            "name": "Mark 4:20",
+            "text": "And these are they which are sown on good ground; such as hear the word, and receive it, and bring forth fruit, some thirtyfold, some sixty, and some an hundred."
+        }
+    ],
+    "tone": "hopeful"
+}

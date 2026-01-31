@@ -1,0 +1,19 @@
+{
+    "book": "Exodus",
+    "chapter": "Chapter 9",
+    "verses": [
+        {
+            "name": "Exodus 9:7",
+            "text": "And Pharaoh sent, and, behold, there was not one of the cattle of the Israelites dead. And the heart of Pharaoh was hardened, and he did not let the people go."
+        },
+        {
+            "name": "Exodus 9:8",
+            "text": "And the Lord said unto Moses and unto Aaron, Take to you handfuls of ashes of the furnace, and let Moses sprinkle it toward the heaven in the sight of Pharaoh."
+        },
+        {
+            "name": "Exodus 9:9",
+            "text": "And it shall become small dust in all the land of Egypt, and shall be a boil breaking forth with blains upon man, and upon beast, throughout all the land of Egypt."
+        }
+    ],
+    "tone": "neutral"
+}

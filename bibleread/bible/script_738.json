@@ -1,0 +1,23 @@
+{
+    "book": "Exodus",
+    "chapter": "Chapter 40",
+    "verses": [
+        {
+            "name": "Exodus 40:5",
+            "text": "And thou shalt set the altar of gold for the incense before the ark of the testimony, and put the hanging of the door to the tabernacle."
+        },
+        {
+            "name": "Exodus 40:6",
+            "text": "And thou shalt set the altar of the burnt offering before the door of the tabernacle of the tent of the congregation."
+        },
+        {
+            "name": "Exodus 40:7",
+            "text": "And thou shalt set the laver between the tent of the congregation and the altar, and shalt put water therein."
+        },
+        {
+            "name": "Exodus 40:8",
+            "text": "And thou shalt set up the court round about, and hang up the hanging at the court gate."
+        }
+    ],
+    "tone": "neutral"
+}

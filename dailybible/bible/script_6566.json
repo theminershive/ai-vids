@@ -1,0 +1,23 @@
+{
+    "book": "Mark",
+    "chapter": "Chapter 15",
+    "verses": [
+        {
+            "name": "Mark 15:17",
+            "text": "And they clothed him with purple, and platted a crown of thorns, and put it about his head, "
+        },
+        {
+            "name": "Mark 15:18",
+            "text": "And began to salute him, Hail, King of the Jews!"
+        },
+        {
+            "name": "Mark 15:19",
+            "text": "And they smote him on the head with a reed, and did spit upon him, and bowing their knees worshipped him."
+        },
+        {
+            "name": "Mark 15:20",
+            "text": "And when they had mocked him, they took off the purple from him, and put his own clothes on him, and led him out to crucify him."
+        }
+    ],
+    "tone": "neutral"
+}

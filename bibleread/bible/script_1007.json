@@ -1,0 +1,23 @@
+{
+    "book": "Numbers",
+    "chapter": "Chapter 2",
+    "verses": [
+        {
+            "name": "Numbers 2:5",
+            "text": "And those that do pitch next unto him shall be the tribe of Issachar: and Nethaneel the son of Zuar shall be captain of the children of Issachar."
+        },
+        {
+            "name": "Numbers 2:6",
+            "text": "And his host, and those that were numbered thereof, were fifty and four thousand and four hundred."
+        },
+        {
+            "name": "Numbers 2:7",
+            "text": "Then the tribe of Zebulun: and Eliab the son of Helon shall be captain of the children of Zebulun."
+        },
+        {
+            "name": "Numbers 2:8",
+            "text": "And his host, and those that were numbered thereof, were fifty and seven thousand and four hundred."
+        }
+    ],
+    "tone": "neutral"
+}

@@ -1,0 +1,23 @@
+{
+    "book": "John",
+    "chapter": "Chapter 11",
+    "verses": [
+        {
+            "name": "John 11:27",
+            "text": "She saith unto him, Yea, Lord: I believe that thou art the Christ, the Son of God, which should come into the world."
+        },
+        {
+            "name": "John 11:28",
+            "text": "And when she had so said, she went her way, and called Mary her sister secretly, saying, The Master is come, and calleth for thee."
+        },
+        {
+            "name": "John 11:29",
+            "text": "As soon as she heard that, she arose quickly, and came unto him."
+        },
+        {
+            "name": "John 11:30",
+            "text": "Now Jesus was not yet come into the town, but was in that place where Martha met him."
+        }
+    ],
+    "tone": "neutral"
+}

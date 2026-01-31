@@ -1,0 +1,19 @@
+{
+    "book": "Ezekiel",
+    "chapter": "Chapter 1",
+    "verses": [
+        {
+            "name": "Ezekiel 1:19",
+            "text": "And when the living creatures went, the wheels went by them: and when the living creatures were lifted up from the earth, the wheels were lifted up."
+        },
+        {
+            "name": "Ezekiel 1:20",
+            "text": "Whithersoever the spirit was to go, they went, thither was their spirit to go; and the wheels were lifted up over against them: for the spirit of the living creature was in the wheels."
+        },
+        {
+            "name": "Ezekiel 1:21",
+            "text": "When those went, these went; and when those stood, these stood; and when those were lifted up from the earth, the wheels were lifted up over against them: for the spirit of the living creature was in the wheels."
+        }
+    ],
+    "tone": "neutral"
+}

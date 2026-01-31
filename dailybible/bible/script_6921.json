@@ -1,0 +1,27 @@
+{
+    "book": "John",
+    "chapter": "Chapter 6",
+    "verses": [
+        {
+            "name": "John 6:65",
+            "text": "And he said, Therefore said I unto you, that no man can come unto me, except it were given unto him of my Father."
+        },
+        {
+            "name": "John 6:66",
+            "text": "From that time many of his disciples went back, and walked no more with him."
+        },
+        {
+            "name": "John 6:67",
+            "text": "Then said Jesus unto the twelve, Will ye also go away?"
+        },
+        {
+            "name": "John 6:68",
+            "text": "Then Simon Peter answered him, Lord, to whom shall we go? thou hast the words of eternal life."
+        },
+        {
+            "name": "John 6:69",
+            "text": "And we believe and are sure that thou art that Christ, the Son of the living God."
+        }
+    ],
+    "tone": "neutral"
+}

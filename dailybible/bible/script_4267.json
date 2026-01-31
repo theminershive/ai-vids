@@ -1,0 +1,31 @@
+{
+    "book": "Proverbs",
+    "chapter": "Chapter 3",
+    "verses": [
+        {
+            "name": "Proverbs 3:7",
+            "text": "Be not wise in thine own eyes: fear the Lord, and depart from evil."
+        },
+        {
+            "name": "Proverbs 3:8",
+            "text": "It shall be health to thy navel, and marrow to thy bones."
+        },
+        {
+            "name": "Proverbs 3:9",
+            "text": "Honour the Lord with thy substance, and with the firstfruits of all thine increase:"
+        },
+        {
+            "name": "Proverbs 3:10",
+            "text": "So shall thy barns be filled with plenty, and thy presses shall burst out with new wine."
+        },
+        {
+            "name": "Proverbs 3:11",
+            "text": "My son, despise not the chastening of the Lord; neither be weary of his correction:"
+        },
+        {
+            "name": "Proverbs 3:12",
+            "text": "For whom the Lord loveth he correcteth; even as a father the son in whom he delighteth."
+        }
+    ],
+    "tone": "lamenting"
+}

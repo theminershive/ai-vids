@@ -1,0 +1,15 @@
+{
+    "book": "Daniel",
+    "chapter": "Chapter 3",
+    "verses": [
+        {
+            "name": "Daniel 3:15",
+            "text": "Now if ye be ready that at what time ye hear the sound of the cornet, flute, harp, sackbut, psaltery, and dulcimer, and all kinds of musick, ye fall down and worship the image which I have made; well: but if ye worship not, ye shall be cast the same hour into the midst of a burning fiery furnace; and who is that God that shall deliver you out of my hands?"
+        },
+        {
+            "name": "Daniel 3:16",
+            "text": "Shadrach, Meshach, and Abed\u2013nego, answered and said to the king, O Nebuchadnezzar, we are not careful to answer thee in this matter."
+        }
+    ],
+    "tone": "praising"
+}

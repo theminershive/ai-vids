@@ -1,0 +1,23 @@
+{
+    "book": "Matthew",
+    "chapter": "Chapter 17",
+    "verses": [
+        {
+            "name": "Matthew 17:5",
+            "text": "While he yet spake, behold, a bright cloud overshadowed them: and behold a voice out of the cloud, which said, This is my beloved Son, in whom I am well pleased; hear ye him."
+        },
+        {
+            "name": "Matthew 17:6",
+            "text": "And when the disciples heard it, they fell on their face, and were sore afraid."
+        },
+        {
+            "name": "Matthew 17:7",
+            "text": "And Jesus came and touched them, and said, Arise, and be not afraid."
+        },
+        {
+            "name": "Matthew 17:8",
+            "text": "And when they had lifted up their eyes, they saw no man, save Jesus only."
+        }
+    ],
+    "tone": "hopeful"
+}

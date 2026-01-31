@@ -1,0 +1,23 @@
+{
+    "book": "Acts",
+    "chapter": "Chapter 18",
+    "verses": [
+        {
+            "name": "Acts 18:8",
+            "text": "And Crispus, the chief ruler of the synagogue, believed on the Lord with all his house; and many of the Corinthians hearing believed, and were baptized."
+        },
+        {
+            "name": "Acts 18:9",
+            "text": "Then spake the Lord to Paul in the night by a vision, Be not afraid, but speak, and hold not thy peace:"
+        },
+        {
+            "name": "Acts 18:10",
+            "text": "For I am with thee, and no man shall set on thee to hurt thee: for I have much people in this city."
+        },
+        {
+            "name": "Acts 18:11",
+            "text": "And he continued there a year and six months, teaching the word of God among them."
+        }
+    ],
+    "tone": "neutral"
+}

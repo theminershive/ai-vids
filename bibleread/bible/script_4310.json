@@ -1,0 +1,27 @@
+{
+    "book": "Proverbs",
+    "chapter": "Chapter 12",
+    "verses": [
+        {
+            "name": "Proverbs 12:1",
+            "text": "Whoso loveth instruction loveth knowledge: but he that hateth reproof is brutish."
+        },
+        {
+            "name": "Proverbs 12:2",
+            "text": "A good man obtaineth favour of the Lord: but a man of wicked devices will he condemn."
+        },
+        {
+            "name": "Proverbs 12:3",
+            "text": "A man shall not be established by wickedness: but the root of the righteous shall not be moved."
+        },
+        {
+            "name": "Proverbs 12:4",
+            "text": "A virtuous woman is a crown to her husband: but she that maketh ashamed is as rottenness in his bones."
+        },
+        {
+            "name": "Proverbs 12:5",
+            "text": "The thoughts of the righteous are right: but the counsels of the wicked are deceit."
+        }
+    ],
+    "tone": "lamenting"
+}

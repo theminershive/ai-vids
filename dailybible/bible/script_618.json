@@ -1,0 +1,19 @@
+{
+    "book": "Exodus",
+    "chapter": "Chapter 27",
+    "verses": [
+        {
+            "name": "Exodus 27:18",
+            "text": "The length of the court shall be an hundred cubits, and the breadth fifty every where, and the height five cubits of fine twined linen, and their sockets of brass."
+        },
+        {
+            "name": "Exodus 27:19",
+            "text": "All the vessels of the tabernacle in all the service thereof, and all the pins thereof, and all the pins of the court, shall be of brass."
+        },
+        {
+            "name": "Exodus 27:20",
+            "text": "And thou shalt command the children of Israel, that they bring thee pure oil olive beaten for the light, to cause the lamp to burn always."
+        }
+    ],
+    "tone": "instructional"
+}

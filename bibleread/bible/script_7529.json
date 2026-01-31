@@ -1,0 +1,23 @@
+{
+    "book": "2 Corinthians",
+    "chapter": "Chapter 2",
+    "verses": [
+        {
+            "name": "2 Corinthians 2:4",
+            "text": "For out of much affliction and anguish of heart I wrote unto you with many tears; not that ye should be grieved, but that ye might know the love which I have more abundantly unto you."
+        },
+        {
+            "name": "2 Corinthians 2:5",
+            "text": "But if any have caused grief, he hath not grieved me, but in part: that I may not overcharge you all."
+        },
+        {
+            "name": "2 Corinthians 2:6",
+            "text": "Sufficient to such a man is this punishment, which was inflicted of many."
+        },
+        {
+            "name": "2 Corinthians 2:7",
+            "text": "So that contrariwise ye ought rather to forgive him, and comfort him, lest perhaps such a one should be swallowed up with overmuch sorrow."
+        }
+    ],
+    "tone": "hopeful"
+}

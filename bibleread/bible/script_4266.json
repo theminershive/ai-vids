@@ -1,0 +1,31 @@
+{
+    "book": "Proverbs",
+    "chapter": "Chapter 3",
+    "verses": [
+        {
+            "name": "Proverbs 3:1",
+            "text": "My son, forget not my law; but let thine heart keep my commandments:"
+        },
+        {
+            "name": "Proverbs 3:2",
+            "text": "For length of days, and long life, and peace, shall they add to thee."
+        },
+        {
+            "name": "Proverbs 3:3",
+            "text": "Let not mercy and truth forsake thee: bind them about thy neck; write them upon the table of thine heart:"
+        },
+        {
+            "name": "Proverbs 3:4",
+            "text": "So shalt thou find favour and good understanding in the sight of God and man."
+        },
+        {
+            "name": "Proverbs 3:5",
+            "text": "Trust in the Lord with all thine heart; and lean not unto thine own understanding."
+        },
+        {
+            "name": "Proverbs 3:6",
+            "text": "In all thy ways acknowledge him, and he shall direct thy paths."
+        }
+    ],
+    "tone": "hopeful"
+}

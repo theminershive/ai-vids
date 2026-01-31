@@ -1,0 +1,23 @@
+{
+    "book": "Acts",
+    "chapter": "Chapter 10",
+    "verses": [
+        {
+            "name": "Acts 10:45",
+            "text": "And they of the circumcision which believed were astonished, as many as came with Peter, because that on the Gentiles also was poured out the gift of the Holy Ghost."
+        },
+        {
+            "name": "Acts 10:46",
+            "text": "For they heard them speak with tongues, and magnify God. Then answered Peter,"
+        },
+        {
+            "name": "Acts 10:47",
+            "text": "Can any man forbid water, that these should not be baptized, which have received the Holy Ghost as well as we?"
+        },
+        {
+            "name": "Acts 10:48",
+            "text": "And he commanded them to be baptized in the name of the Lord. Then prayed they him to tarry certain days. "
+        }
+    ],
+    "tone": "instructional"
+}

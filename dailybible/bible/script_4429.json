@@ -1,0 +1,23 @@
+{
+    "book": "Ecclesiastes",
+    "chapter": "Chapter 3",
+    "verses": [
+        {
+            "name": "Ecclesiastes 3:10",
+            "text": "I have seen the travail, which God hath given to the sons of men to be exercised in it."
+        },
+        {
+            "name": "Ecclesiastes 3:11",
+            "text": "He hath made every thing beautiful in his time: also he hath set the world in their heart, so that no man can find out the work that God maketh from the beginning to the end."
+        },
+        {
+            "name": "Ecclesiastes 3:12",
+            "text": "I know that there is no good in them, but for a man to rejoice, and to do good in his life."
+        },
+        {
+            "name": "Ecclesiastes 3:13",
+            "text": "And also that every man should eat and drink, and enjoy the good of all his labour, it is the gift of God."
+        }
+    ],
+    "tone": "hopeful"
+}

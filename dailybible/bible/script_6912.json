@@ -1,0 +1,23 @@
+{
+    "book": "John",
+    "chapter": "Chapter 6",
+    "verses": [
+        {
+            "name": "John 6:28",
+            "text": "Then said they unto him, What shall we do, that we might work the works of God?"
+        },
+        {
+            "name": "John 6:29",
+            "text": "Jesus answered and said unto them, This is the work of God, that ye believe on him whom he hath sent."
+        },
+        {
+            "name": "John 6:30",
+            "text": "They said therefore unto him, What sign shewest thou then, that we may see, and believe thee? what dost thou work?"
+        },
+        {
+            "name": "John 6:31",
+            "text": "Our fathers did eat manna in the desert; as it is written, He gave them bread from heaven to eat."
+        }
+    ],
+    "tone": "neutral"
+}

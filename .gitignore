@@ -68,3 +68,15 @@ models/
 *.jpg
 *.jpeg
 *.webp
+
+# Secrets / env
+.env
+**/.env
+*.env
+client_secret*.json
+**/client_secret*.json
+credentials*.json
+**/credentials*.json
+token*.json
+**/token*.json
+

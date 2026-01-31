@@ -1,0 +1,19 @@
+{
+    "book": "Zephaniah",
+    "chapter": "Chapter 3",
+    "verses": [
+        {
+            "name": "Zephaniah 3:13",
+            "text": "The remnant of Israel shall not do iniquity, nor speak lies; neither shall a deceitful tongue be found in their mouth: for they shall feed and lie down, and none shall make them afraid."
+        },
+        {
+            "name": "Zephaniah 3:14",
+            "text": "Sing, O daughter of Zion; shout, O Israel; be glad and rejoice with all the heart, O daughter of Jerusalem."
+        },
+        {
+            "name": "Zephaniah 3:15",
+            "text": "The Lord hath taken away thy judgments, he hath cast out thine enemy: the king of Israel, even the Lord, is in the midst of thee: thou shalt not see evil any more."
+        }
+    ],
+    "tone": "hopeful"
+}

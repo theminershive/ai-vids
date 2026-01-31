@@ -1,0 +1,23 @@
+{
+    "book": "Psalms",
+    "chapter": "Chapter 78",
+    "verses": [
+        {
+            "name": "Psalms 78:1",
+            "text": "Give ear, O my people, to my law: incline your ears to the words of my mouth."
+        },
+        {
+            "name": "Psalms 78:2",
+            "text": "I will open my mouth in a parable: I will utter dark sayings of old:"
+        },
+        {
+            "name": "Psalms 78:3",
+            "text": "Which we have heard and known, and our fathers have told us."
+        },
+        {
+            "name": "Psalms 78:4",
+            "text": "We will not hide them from their children, shewing to the generation to come the praises of the Lord, and his strength, and his wonderful works that he hath done."
+        }
+    ],
+    "tone": "hopeful"
+}

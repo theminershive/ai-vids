@@ -1,0 +1,19 @@
+{
+    "book": "Deuteronomy",
+    "chapter": "Chapter 7",
+    "verses": [
+        {
+            "name": "Deuteronomy 7:15",
+            "text": "And the Lord will take away from thee all sickness, and will put none of the evil diseases of Egypt, which thou knowest, upon thee; but will lay them upon all them that hate thee."
+        },
+        {
+            "name": "Deuteronomy 7:16",
+            "text": "And thou shalt consume all the people which the Lord thy God shall deliver thee; thine eye shall have no pity upon them: neither shalt thou serve their gods; for that will be a snare unto thee."
+        },
+        {
+            "name": "Deuteronomy 7:17",
+            "text": "If thou shalt say in thine heart, These nations are more than I; how can I dispossess them?"
+        }
+    ],
+    "tone": "instructional"
+}

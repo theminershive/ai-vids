@@ -1,0 +1,31 @@
+{
+    "book": "Matthew",
+    "chapter": "Chapter 6",
+    "verses": [
+        {
+            "name": "Matthew 6:7",
+            "text": "But when ye pray, use not vain repetitions, as the heathen do: for they think that they shall be heard for their much speaking."
+        },
+        {
+            "name": "Matthew 6:8",
+            "text": "Be not ye therefore like unto them: for your Father knoweth what things ye have need of, before ye ask him."
+        },
+        {
+            "name": "Matthew 6:9",
+            "text": "After this manner therefore pray ye: Our Father which art in heaven, Hallowed be thy name."
+        },
+        {
+            "name": "Matthew 6:10",
+            "text": "Thy kingdom come. Thy will be done in earth, as it is in heaven."
+        },
+        {
+            "name": "Matthew 6:11",
+            "text": "Give us this day our daily bread."
+        },
+        {
+            "name": "Matthew 6:12",
+            "text": "And forgive us our debts, as we forgive our debtors."
+        }
+    ],
+    "tone": "neutral"
+}

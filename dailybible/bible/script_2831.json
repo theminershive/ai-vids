@@ -1,0 +1,19 @@
+{
+    "book": "2 Kings",
+    "chapter": "Chapter 12",
+    "verses": [
+        {
+            "name": "2 Kings 12:6",
+            "text": "But it was so, that in the three and twentieth year of king Jehoash the priests had not repaired the breaches of the house."
+        },
+        {
+            "name": "2 Kings 12:7",
+            "text": "Then king Jehoash called for Jehoiada the priest, and the other priests, and said unto them, Why repair ye not the breaches of the house? now therefore receive no more money of your acquaintance, but deliver it for the breaches of the house."
+        },
+        {
+            "name": "2 Kings 12:8",
+            "text": "And the priests consented to receive no more money of the people, neither to repair the breaches of the house."
+        }
+    ],
+    "tone": "neutral"
+}

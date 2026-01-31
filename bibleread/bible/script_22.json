@@ -1,0 +1,23 @@
+{
+    "book": "Genesis",
+    "chapter": "Chapter 3",
+    "verses": [
+        {
+            "name": "Genesis 3:18",
+            "text": "Thorns also and thistles shall it bring forth to thee; and thou shalt eat the herb of the field;"
+        },
+        {
+            "name": "Genesis 3:19",
+            "text": "In the sweat of thy face shalt thou eat bread, till thou return unto the ground; for out of it wast thou taken: for dust thou art, and unto dust shalt thou return."
+        },
+        {
+            "name": "Genesis 3:20",
+            "text": "And Adam called his wife\u2019s name Eve; because she was the mother of all living."
+        },
+        {
+            "name": "Genesis 3:21",
+            "text": "Unto Adam also and to his wife did the Lord God make coats of skins, and clothed them."
+        }
+    ],
+    "tone": "hopeful"
+}

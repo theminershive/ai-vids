@@ -1,0 +1,23 @@
+{
+    "book": "1 Corinthians",
+    "chapter": "Chapter 7",
+    "verses": [
+        {
+            "name": "1 Corinthians 7:9",
+            "text": "But if they cannot contain, let them marry: for it is better to marry than to burn."
+        },
+        {
+            "name": "1 Corinthians 7:10",
+            "text": "And unto the married I command, yet not I, but the Lord, Let not the wife depart from her husband:"
+        },
+        {
+            "name": "1 Corinthians 7:11",
+            "text": "But and if she depart, let her remain unmarried, or be reconciled to her husband: and let not the husband put away his wife."
+        },
+        {
+            "name": "1 Corinthians 7:12",
+            "text": "But to the rest speak I, not the Lord: If any brother hath a wife that believeth not, and she be pleased to dwell with him, let him not put her away."
+        }
+    ],
+    "tone": "hopeful"
+}

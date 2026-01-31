@@ -1,0 +1,31 @@
+{
+    "book": "Matthew",
+    "chapter": "Chapter 28",
+    "verses": [
+        {
+            "name": "Matthew 28:13",
+            "text": "Saying, Say ye, His disciples came by night, and stole him away while we slept."
+        },
+        {
+            "name": "Matthew 28:14",
+            "text": "And if this come to the governor\u2019s ears, we will persuade him, and secure you."
+        },
+        {
+            "name": "Matthew 28:15",
+            "text": "So they took the money, and did as they were taught: and this saying is commonly reported among the Jews until this day."
+        },
+        {
+            "name": "Matthew 28:16",
+            "text": "Then the eleven disciples went away into Galilee, into a mountain where Jesus had appointed them."
+        },
+        {
+            "name": "Matthew 28:17",
+            "text": "And when they saw him, they worshipped him: but some doubted."
+        },
+        {
+            "name": "Matthew 28:18",
+            "text": "And Jesus came and spake unto them, saying, All power is given unto me in heaven and in earth."
+        }
+    ],
+    "tone": "neutral"
+}

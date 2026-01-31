@@ -1,0 +1,23 @@
+{
+    "book": "Romans",
+    "chapter": "Chapter 8",
+    "verses": [
+        {
+            "name": "Romans 8:1",
+            "text": "There is therefore now no condemnation to them which are in Christ Jesus, who walk not after the flesh, but after the Spirit."
+        },
+        {
+            "name": "Romans 8:2",
+            "text": "For the law of the Spirit of life in Christ Jesus hath made me free from the law of sin and death."
+        },
+        {
+            "name": "Romans 8:3",
+            "text": "For what the law could not do, in that it was weak through the flesh, God sending his own Son in the likeness of sinful flesh, and for sin, condemned sin in the flesh:"
+        },
+        {
+            "name": "Romans 8:4",
+            "text": "That the righteousness of the law might be fulfilled in us, who walk not after the flesh, but after the Spirit."
+        }
+    ],
+    "tone": "instructional"
+}

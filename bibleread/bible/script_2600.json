@@ -1,0 +1,19 @@
+{
+    "book": "1 Kings",
+    "chapter": "Chapter 11",
+    "verses": [
+        {
+            "name": "1 Kings 11:4",
+            "text": "For it came to pass, when Solomon was old, that his wives turned away his heart after other gods: and his heart was not perfect with the Lord his God, as was the heart of David his father."
+        },
+        {
+            "name": "1 Kings 11:5",
+            "text": "For Solomon went after Ashtoreth the goddess of the Zidonians, and after Milcom the abomination of the Ammonites."
+        },
+        {
+            "name": "1 Kings 11:6",
+            "text": "And Solomon did evil in the sight of the Lord, and went not fully after the Lord, as did David his father."
+        }
+    ],
+    "tone": "neutral"
+}

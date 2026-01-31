@@ -1,0 +1,27 @@
+{
+    "book": "1 Corinthians",
+    "chapter": "Chapter 10",
+    "verses": [
+        {
+            "name": "1 Corinthians 10:6",
+            "text": "Now these things were our examples, to the intent we should not lust after evil things, as they also lusted."
+        },
+        {
+            "name": "1 Corinthians 10:7",
+            "text": "Neither be ye idolaters, as were some of them; as it is written, The people sat down to eat and drink, and rose up to play."
+        },
+        {
+            "name": "1 Corinthians 10:8",
+            "text": "Neither let us commit fornication, as some of them committed, and fell in one day three and twenty thousand."
+        },
+        {
+            "name": "1 Corinthians 10:9",
+            "text": "Neither let us tempt Christ, as some of them also tempted, and were destroyed of serpents."
+        },
+        {
+            "name": "1 Corinthians 10:10",
+            "text": "Neither murmur ye, as some of them also murmured, and were destroyed of the destroyer."
+        }
+    ],
+    "tone": "neutral"
+}

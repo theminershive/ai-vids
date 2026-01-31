@@ -1,0 +1,23 @@
+{
+    "book": "James",
+    "chapter": "Chapter 4",
+    "verses": [
+        {
+            "name": "James 4:13",
+            "text": "Go to now, ye that say, To day or to morrow we will go into such a city, and continue there a year, and buy and sell, and get gain:"
+        },
+        {
+            "name": "James 4:14",
+            "text": "Whereas ye know not what shall be on the morrow. For what is your life? It is even a vapour, that appeareth for a little time, and then vanisheth away."
+        },
+        {
+            "name": "James 4:15",
+            "text": "For that ye ought to say, If the Lord will, we shall live, and do this, or that."
+        },
+        {
+            "name": "James 4:16",
+            "text": "But now ye rejoice in your boastings: all such rejoicing is evil."
+        }
+    ],
+    "tone": "hopeful"
+}

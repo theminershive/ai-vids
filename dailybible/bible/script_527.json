@@ -1,0 +1,19 @@
+{
+    "book": "Exodus",
+    "chapter": "Chapter 16",
+    "verses": [
+        {
+            "name": "Exodus 16:10",
+            "text": "And it came to pass, as Aaron spake unto the whole congregation of the children of Israel, that they looked toward the wilderness, and, behold, the glory of the Lord appeared in the cloud."
+        },
+        {
+            "name": "Exodus 16:11",
+            "text": "And the Lord spake unto Moses, saying,"
+        },
+        {
+            "name": "Exodus 16:12",
+            "text": "I have heard the murmurings of the children of Israel: speak unto them, saying, At even ye shall eat flesh, and in the morning ye shall be filled with bread; and ye shall know that I am the Lord your God."
+        }
+    ],
+    "tone": "hopeful"
+}

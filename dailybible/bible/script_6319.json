@@ -1,0 +1,23 @@
+{
+    "book": "Matthew",
+    "chapter": "Chapter 20",
+    "verses": [
+        {
+            "name": "Matthew 20:14",
+            "text": "Take that thine is, and go thy way: I will give unto this last, even as unto thee."
+        },
+        {
+            "name": "Matthew 20:15",
+            "text": "Is it not lawful for me to do what I will with mine own? Is thine eye evil, because I am good?"
+        },
+        {
+            "name": "Matthew 20:16",
+            "text": "So the last shall be first, and the first last: for many be called, but few chosen."
+        },
+        {
+            "name": "Matthew 20:17",
+            "text": "And Jesus going up to Jerusalem took the twelve disciples apart in the way, and said unto them,"
+        }
+    ],
+    "tone": "neutral"
+}

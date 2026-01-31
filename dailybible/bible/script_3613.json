@@ -1,0 +1,19 @@
+{
+    "book": "Esther",
+    "chapter": "Chapter 4",
+    "verses": [
+        {
+            "name": "Esther 4:1",
+            "text": "When Mordecai perceived all that was done, Mordecai rent his clothes, and put on sackcloth with ashes, and went out into the midst of the city, and cried with a loud and a bitter cry;"
+        },
+        {
+            "name": "Esther 4:2",
+            "text": "And came even before the king\u2019s gate: for none might enter into the king\u2019s gate clothed with sackcloth."
+        },
+        {
+            "name": "Esther 4:3",
+            "text": "And in every province, whithersoever the king\u2019s commandment and his decree came, there was great mourning among the Jews, and fasting, and weeping, and wailing; and many lay in sackcloth and ashes."
+        }
+    ],
+    "tone": "neutral"
+}

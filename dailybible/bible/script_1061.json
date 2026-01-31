@@ -1,0 +1,23 @@
+{
+    "book": "Numbers",
+    "chapter": "Chapter 7",
+    "verses": [
+        {
+            "name": "Numbers 7:11",
+            "text": "And the Lord said unto Moses, They shall offer their offering, each prince on his day, for the dedicating of the altar."
+        },
+        {
+            "name": "Numbers 7:12",
+            "text": "And he that offered his offering the first day was Nahshon the son of Amminadab, of the tribe of Judah:"
+        },
+        {
+            "name": "Numbers 7:13",
+            "text": "And his offering was one silver charger, the weight thereof was an hundred and thirty shekels, one silver bowl of seventy shekels, after the shekel of the sanctuary; both of them were full of fine flour mingled with oil for a meat offering:"
+        },
+        {
+            "name": "Numbers 7:14",
+            "text": "One spoon of ten shekels of gold, full of incense:"
+        }
+    ],
+    "tone": "neutral"
+}

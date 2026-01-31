@@ -1,0 +1,27 @@
+{
+    "book": "1 Corinthians",
+    "chapter": "Chapter 3",
+    "verses": [
+        {
+            "name": "1 Corinthians 3:5",
+            "text": "Who then is Paul, and who is Apollos, but ministers by whom ye believed, even as the Lord gave to every man?"
+        },
+        {
+            "name": "1 Corinthians 3:6",
+            "text": "I have planted, Apollos watered; but God gave the increase."
+        },
+        {
+            "name": "1 Corinthians 3:7",
+            "text": "So then neither is he that planteth any thing, neither he that watereth; but God that giveth the increase."
+        },
+        {
+            "name": "1 Corinthians 3:8",
+            "text": "Now he that planteth and he that watereth are one: and every man shall receive his own reward according to his own labour."
+        },
+        {
+            "name": "1 Corinthians 3:9",
+            "text": "For we are labourers together with God: ye are God\u2019s husbandry, ye are God\u2019s building."
+        }
+    ],
+    "tone": "hopeful"
+}

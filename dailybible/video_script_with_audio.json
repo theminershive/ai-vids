@@ -5,27 +5,27 @@
         "use_background_music": true,
         "background_music_type": "uplifting",
         "image_generation_style": "Leonardo Phoenix 1.0",
-        "style_selection_reason": "Selected for its warm, respectful, and emotionally resonant style to honor Charlie Kirk."
+        "style_selection_reason": "Selected based on script content."
     },
     "sections": [
         {
-            "original_name": "Opening Tribute",
-            "title": "In Memory of Charlie Kirk",
-            "section_duration": 10,
+            "original_name": "Genesis 22:12",
+            "title": "Genesis 22:12 \u2013 And he said, Lay not",
+            "section_duration": 9,
             "segments": [
                 {
                     "segment_number": 1,
                     "narration": {
-                        "text": "Today we pause in sorrow, remembering Charlie Kirk \u2014 a voice of conviction and faith, taken far too soon.",
+                        "text": "And he said, Lay not thine hand upon the lad, neither do thou any thing unto him: for",
                         "start": 0,
-                        "duration": 10,
-                        "audio_path": "audio/section_1_segment_1.mp3"
+                        "duration": 9,
+                        "audio_path": "audio/section_1_segment_1_Bible_Reader.mp3"
                     },
                     "visual": {
                         "type": "image",
-                        "prompt": "Soft sunrise sky over peaceful hills, glowing light symbolizing remembrance and faith. Subtle cross silhouette in the distance with gentle sparkles.",
+                        "prompt": "Vivid scene for: And he said, Lay not thine hand upon the lad, neither do thou any thing unto him: for now I know that thou fearest God, seeing thou hast not withheld thy son, thine only son from me.",
                         "start": 0,
-                        "duration": 10,
+                        "duration": 9,
                         "image_path": "visuals/section_1_segment_1.png"
                     },
                     "sound": {
@@ -36,77 +36,77 @@
             "section_number": 1
         },
         {
-            "original_name": "Psalm 34:18",
-            "title": "Psalm 34:18",
-            "section_duration": 12,
+            "original_name": "Genesis 22:12",
+            "title": "Genesis 22:12 \u2013 now I know that thou",
+            "section_duration": 9,
             "segments": [
                 {
                     "segment_number": 1,
                     "narration": {
-                        "text": "The LORD is close to the brokenhearted and saves those who are crushed in spirit.",
+                        "text": "now I know that thou fearest God, seeing thou hast not withheld thy son, thine only son from me.",
                         "start": 0,
-                        "duration": 12,
-                        "audio_path": "audio/section_2_segment_1.mp3"
+                        "duration": 9,
+                        "audio_path": "audio/section_2_segment_1_Bible_Reader.mp3"
                     },
                     "visual": {
                         "type": "image",
-                        "prompt": "Calming woodland clearing with golden light filtering through trees, open Bible resting on a wooden bench, atmosphere of peace and hope.",
+                        "prompt": "Vivid scene for: And he said, Lay not thine hand upon the lad, neither do thou any thing unto him: for now I know that thou fearest God, seeing thou hast not withheld thy son, thine only son from me. (continued)",
                         "start": 0,
-                        "duration": 12,
+                        "duration": 9,
                         "image_path": "visuals/section_2_segment_1.png"
                     },
                     "sound": {
-                        "transition_effect": "soft_crossfade"
+                        "transition_effect": "fade_in"
                     }
                 }
             ],
             "section_number": 2
         },
         {
-            "original_name": "Matthew 5:4",
-            "title": "Matthew 5:4",
-            "section_duration": 12,
+            "original_name": "Genesis 22:13",
+            "title": "Genesis 22:13 \u2013 And Abraham lifted up his",
+            "section_duration": 10,
             "segments": [
                 {
                     "segment_number": 1,
                     "narration": {
-                        "text": "Blessed are those who mourn, for they shall be comforted.",
+                        "text": "And Abraham lifted up his eyes, and looked, and behold behind him a ram caught in a thicket by his horns:",
                         "start": 0,
-                        "duration": 12,
-                        "audio_path": "audio/section_3_segment_1.mp3"
+                        "duration": 10,
+                        "audio_path": "audio/section_3_segment_1_Bible_Reader.mp3"
                     },
                     "visual": {
                         "type": "image",
-                        "prompt": "Quiet hillside at dusk, soft light with gentle doves in the distance, flowers in bloom symbolizing renewal and comfort.",
+                        "prompt": "Vivid scene for: And Abraham lifted up his eyes, and looked, and behold behind him a ram caught in a thicket by his horns: and Abraham went and took the ram, and offered him up for a burnt offering in the stead of his son.",
                         "start": 0,
-                        "duration": 12,
+                        "duration": 10,
                         "image_path": "visuals/section_3_segment_1.png"
                     },
                     "sound": {
-                        "transition_effect": "gentle_fade"
+                        "transition_effect": "fade_in"
                     }
                 }
             ],
             "section_number": 3
         },
         {
-            "original_name": "John 14:1-3",
-            "title": "John 14:1-3",
-            "section_duration": 14,
+            "original_name": "Genesis 22:13",
+            "title": "Genesis 22:13 \u2013 and Abraham went and took",
+            "section_duration": 10,
             "segments": [
                 {
                     "segment_number": 1,
                     "narration": {
-                        "text": "Do not let your hearts be troubled. Trust in God; trust also in me. In my Father\u2019s house are many rooms... I go to prepare a place for you.",
+                        "text": "and Abraham went and took the ram, and offered him up for a burnt offering in the stead of his son.",
                         "start": 0,
-                        "duration": 14,
-                        "audio_path": "audio/section_4_segment_1.mp3"
+                        "duration": 10,
+                        "audio_path": "audio/section_4_segment_1_Bible_Reader.mp3"
                     },
                     "visual": {
                         "type": "image",
-                        "prompt": "Heavenly golden light shining over a peaceful path leading toward a radiant house on a hill, surrounded by blossoms and open skies, symbolic of eternal promise.",
+                        "prompt": "Vivid scene for: And Abraham lifted up his eyes, and looked, and behold behind him a ram caught in a thicket by his horns: and Abraham went and took the ram, and offered him up for a burnt offering in the stead of his son. (continued)",
                         "start": 0,
-                        "duration": 14,
+                        "duration": 10,
                         "image_path": "visuals/section_4_segment_1.png"
                     },
                     "sound": {
@@ -115,60 +115,32 @@
                 }
             ],
             "section_number": 4
-        },
-        {
-            "original_name": "Reflection",
-            "title": "Faith Amid Grief",
-            "section_duration": 15,
-            "segments": [
-                {
-                    "segment_number": 1,
-                    "narration": {
-                        "text": "Though grief weighs heavy, faith reminds us we are never alone. God\u2019s presence comforts us even in the deepest sorrow.",
-                        "start": 0,
-                        "duration": 15,
-                        "audio_path": "audio/section_5_segment_1.mp3"
-                    },
-                    "visual": {
-                        "type": "image",
-                        "prompt": "Group of people in soft silhouette holding hands in prayer, candles glowing, light beams breaking through clouds, conveying hope and unity.",
-                        "start": 0,
-                        "duration": 15,
-                        "image_path": "visuals/section_5_segment_1.png"
-                    },
-                    "sound": {
-                        "transition_effect": "gentle_fade"
-                    }
-                }
-            ],
-            "section_number": 5
-        },
-        {
-            "original_name": "Closing",
-            "title": "Closing Blessing",
-            "section_duration": 10,
-            "segments": [
-                {
-                    "segment_number": 1,
-                    "narration": {
-                        "text": "May God\u2019s peace comfort all who mourn. Let us carry forward Charlie\u2019s faith, love, and courage.",
-                        "start": 0,
-                        "duration": 10,
-                        "audio_path": "audio/section_6_segment_1.mp3"
-                    },
-                    "visual": {
-                        "type": "image",
-                        "prompt": "Dove flying into a radiant sky filled with soft golden light, gentle heart motif glowing in the background, symbolic of peace and eternal hope.",
-                        "start": 0,
-                        "duration": 10,
-                        "image_path": "visuals/section_6_segment_1.png"
-                    },
-                    "sound": {
-                        "transition_effect": "fade_out"
-                    }
-                }
-            ],
-            "section_number": 6
         }
-    ]
+    ],
+    "social_media": {
+        "title": "\ud83d\udcd6 Today's Verses: Genesis 22:12 \u2013 Genesis 22:13",
+        "description": "\ud83d\udcd6 Today's Verses: Genesis 22:12 \u2013 Genesis 22:13\n\n\u271d\ufe0f Welcome to Daily Bible Passages! We post 3 short Bible videos daily, featuring 3\u20135 verses each.\n\nGenesis 22:12 And he said, Lay not thine hand upon the lad, neither do thou any thing unto him: for\n\nGenesis 22:12 now I know that thou fearest God, seeing thou hast not withheld thy son, thine only son from me.\n\nGenesis 22:13 And Abraham lifted up his eyes, and looked, and behold behind him a ram caught in a thicket by his horns:\n\nGenesis 22:13 and Abraham went and took the ram, and offered him up for a burnt offering in the stead of his son.\n\n\ud83d\ude4c Subscribe and join our journey from Genesis to Revelation \u2014 one small passage at a time!\n\n\ud83d\udcd6 Follow Us:\n\u27a1\ufe0f Patreon: https://patreon.com/dailybiblepassages\n\u27a1\ufe0f Instagram: instagram.com/thebibledailyyt\n\u27a1\ufe0f Facebook: www.facebook.com/profile.php?id=61575301427014\n\n#DailyBiblePassages #DailyScripture #BibleReading #FaithJourney #GenesisToRevelation",
+        "tags": [
+            "DailyBiblePassages",
+            "DailyScripture",
+            "BibleReading",
+            "FaithJourney",
+            "GenesisToRevelation",
+            "BibleVerse",
+            "ChristianContent",
+            "FaithQuotes",
+            "VerseOfTheDay",
+            "GodIsGood"
+        ]
+    },
+    "background_music_type": "uplifting",
+    "background_music_name": "uplifting",
+    "background_music": "uplifting",
+    "reference": "Genesis 22:12 \u2013 Genesis 22:13",
+    "tone": "neutral",
+    "image_style": "Leonardo Phoenix 1.0",
+    "raw_video": "/home/trilobyte/ai/dailybible/output/final/video_script_with_audio_raw.mp4",
+    "final_video": "/home/trilobyte/ai/dailybible/output/final/video_script_with_audio_captions.mp4",
+    "overlay_video": "/home/trilobyte/ai/dailybible/final/144_assembler_final.mp4",
+    "captions_video": "/home/trilobyte/ai/dailybible/output/final/video_script_with_audio_captions.mp4"
 }

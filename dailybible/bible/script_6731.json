@@ -1,0 +1,19 @@
+{
+    "book": "Luke",
+    "chapter": "Chapter 12",
+    "verses": [
+        {
+            "name": "Luke 12:37",
+            "text": "Blessed are those servants, whom the lord when he cometh shall find watching: verily I say unto you, that he shall gird himself, and make them to sit down to meat, and will come forth and serve them."
+        },
+        {
+            "name": "Luke 12:38",
+            "text": "And if he shall come in the second watch, or come in the third watch, and find them so, blessed are those servants."
+        },
+        {
+            "name": "Luke 12:39",
+            "text": "And this know, that if the goodman of the house had known what hour the thief would come, he would have watched, and not have suffered his house to be broken through."
+        }
+    ],
+    "tone": "hopeful"
+}

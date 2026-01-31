@@ -1,0 +1,31 @@
+{
+    "book": "Psalms",
+    "chapter": "Chapter 51",
+    "verses": [
+        {
+            "name": "Psalms 51:6",
+            "text": "Behold, thou desirest truth in the inward parts: and in the hidden part thou shalt make me to know wisdom."
+        },
+        {
+            "name": "Psalms 51:7",
+            "text": "Purge me with hyssop, and I shall be clean: wash me, and I shall be whiter than snow."
+        },
+        {
+            "name": "Psalms 51:8",
+            "text": "Make me to hear joy and gladness; that the bones which thou hast broken may rejoice."
+        },
+        {
+            "name": "Psalms 51:9",
+            "text": "Hide thy face from my sins, and blot out all mine iniquities."
+        },
+        {
+            "name": "Psalms 51:10",
+            "text": "Create in me a clean heart, O God; and renew a right spirit within me."
+        },
+        {
+            "name": "Psalms 51:11",
+            "text": "Cast me not away from thy presence; and take not thy holy spirit from me."
+        }
+    ],
+    "tone": "instructional"
+}

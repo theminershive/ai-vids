@@ -1,0 +1,27 @@
+{
+    "book": "Luke",
+    "chapter": "Chapter 22",
+    "verses": [
+        {
+            "name": "Luke 22:59",
+            "text": "And about the space of one hour after another confidently affirmed, saying, Of a truth this fellow also was with him: for he is a Galilean."
+        },
+        {
+            "name": "Luke 22:60",
+            "text": "And Peter said, Man, I know not what thou sayest. And immediately, while he yet spake, the cock crew."
+        },
+        {
+            "name": "Luke 22:61",
+            "text": "And the Lord turned, and looked upon Peter. And Peter remembered the word of the Lord, how he had said unto him, Before the cock crow, thou shalt deny me thrice."
+        },
+        {
+            "name": "Luke 22:62",
+            "text": "And Peter went out, and wept bitterly."
+        },
+        {
+            "name": "Luke 22:63",
+            "text": "And the men that held Jesus mocked him, and smote him. "
+        }
+    ],
+    "tone": "neutral"
+}

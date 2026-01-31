@@ -1,0 +1,23 @@
+{
+    "book": "Matthew",
+    "chapter": "Chapter 27",
+    "verses": [
+        {
+            "name": "Matthew 27:31",
+            "text": "And after that they had mocked him, they took the robe off from him, and put his own raiment on him, and led him away to crucify him. "
+        },
+        {
+            "name": "Matthew 27:32",
+            "text": "And as they came out, they found a man of Cyrene, Simon by name: him they compelled to bear his cross."
+        },
+        {
+            "name": "Matthew 27:33",
+            "text": "And when they were come unto a place called Golgotha, that is to say, a place of a skull,"
+        },
+        {
+            "name": "Matthew 27:34",
+            "text": "They gave him vinegar to drink mingled with gall: and when he had tasted thereof, he would not drink."
+        }
+    ],
+    "tone": "neutral"
+}

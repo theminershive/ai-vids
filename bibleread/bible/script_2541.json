@@ -1,0 +1,19 @@
+{
+    "book": "1 Kings",
+    "chapter": "Chapter 6",
+    "verses": [
+        {
+            "name": "1 Kings 6:24",
+            "text": "And five cubits was the one wing of the cherub, and five cubits the other wing of the cherub: from the uttermost part of the one wing unto the uttermost part of the other were ten cubits."
+        },
+        {
+            "name": "1 Kings 6:25",
+            "text": "And the other cherub was ten cubits: both the cherubims were of one measure and one size."
+        },
+        {
+            "name": "1 Kings 6:26",
+            "text": "The height of the one cherub was ten cubits, and so was it of the other cherub."
+        }
+    ],
+    "tone": "neutral"
+}

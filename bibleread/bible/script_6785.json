@@ -1,0 +1,27 @@
+{
+    "book": "Luke",
+    "chapter": "Chapter 18",
+    "verses": [
+        {
+            "name": "Luke 18:26",
+            "text": "And they that heard it said, Who then can be saved?"
+        },
+        {
+            "name": "Luke 18:27",
+            "text": "And he said, The things which are impossible with men are possible with God."
+        },
+        {
+            "name": "Luke 18:28",
+            "text": "Then Peter said, Lo, we have left all, and followed thee."
+        },
+        {
+            "name": "Luke 18:29",
+            "text": "And he said unto them, Verily I say unto you, There is no man that hath left house, or parents, or brethren, or wife, or children, for the kingdom of God\u2019s sake,"
+        },
+        {
+            "name": "Luke 18:30",
+            "text": "Who shall not receive manifold more in this present time, and in the world to come life everlasting."
+        }
+    ],
+    "tone": "neutral"
+}

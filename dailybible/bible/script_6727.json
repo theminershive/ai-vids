@@ -1,0 +1,27 @@
+{
+    "book": "Luke",
+    "chapter": "Chapter 12",
+    "verses": [
+        {
+            "name": "Luke 12:21",
+            "text": "So is he that layeth up treasure for himself, and is not rich toward God."
+        },
+        {
+            "name": "Luke 12:22",
+            "text": "And he said unto his disciples, Therefore I say unto you, Take no thought for your life, what ye shall eat; neither for the body, what ye shall put on."
+        },
+        {
+            "name": "Luke 12:23",
+            "text": "The life is more than meat, and the body is more than raiment."
+        },
+        {
+            "name": "Luke 12:24",
+            "text": "Consider the ravens: for they neither sow nor reap; which neither have storehouse nor barn; and God feedeth them: how much more are ye better than the fowls?"
+        },
+        {
+            "name": "Luke 12:25",
+            "text": "And which of you with taking thought can add to his stature one cubit?"
+        }
+    ],
+    "tone": "neutral"
+}

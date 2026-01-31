@@ -1,0 +1,19 @@
+{
+    "book": "Joshua",
+    "chapter": "Chapter 11",
+    "verses": [
+        {
+            "name": "Joshua 11:11",
+            "text": "And they smote all the souls that were therein with the edge of the sword, utterly destroying them: there was not any left to breathe: and he burnt Hazor with fire."
+        },
+        {
+            "name": "Joshua 11:12",
+            "text": "And all the cities of those kings, and all the kings of them, did Joshua take, and smote them with the edge of the sword, and he utterly destroyed them, as Moses the servant of the Lord commanded."
+        },
+        {
+            "name": "Joshua 11:13",
+            "text": "But as for the cities that stood still in their strength, Israel burned none of them, save Hazor only; that did Joshua burn."
+        }
+    ],
+    "tone": "lamenting"
+}

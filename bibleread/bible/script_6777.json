@@ -1,0 +1,23 @@
+{
+    "book": "Luke",
+    "chapter": "Chapter 17",
+    "verses": [
+        {
+            "name": "Luke 17:26",
+            "text": "And as it was in the days of Noe, so shall it be also in the days of the Son of man."
+        },
+        {
+            "name": "Luke 17:27",
+            "text": "They did eat, they drank, they married wives, they were given in marriage, until the day that Noe entered into the ark, and the flood came, and destroyed them all."
+        },
+        {
+            "name": "Luke 17:28",
+            "text": "Likewise also as it was in the days of Lot; they did eat, they drank, they bought, they sold, they planted, they builded;"
+        },
+        {
+            "name": "Luke 17:29",
+            "text": "But the same day that Lot went out of Sodom it rained fire and brimstone from heaven, and destroyed them all."
+        }
+    ],
+    "tone": "neutral"
+}

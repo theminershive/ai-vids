@@ -1,0 +1,19 @@
+{
+    "book": "Zechariah",
+    "chapter": "Chapter 12",
+    "verses": [
+        {
+            "name": "Zechariah 12:1",
+            "text": "The burden of the word of the Lord for Israel, saith the Lord, which stretcheth forth the heavens, and layeth the foundation of the earth, and formeth the spirit of man within him."
+        },
+        {
+            "name": "Zechariah 12:2",
+            "text": "Behold, I will make Jerusalem a cup of trembling unto all the people round about, when they shall be in the siege both against Judah and against Jerusalem."
+        },
+        {
+            "name": "Zechariah 12:3",
+            "text": "And in that day will I make Jerusalem a burdensome stone for all people: all that burden themselves with it shall be cut in pieces, though all the people of the earth be gathered together against it."
+        }
+    ],
+    "tone": "neutral"
+}

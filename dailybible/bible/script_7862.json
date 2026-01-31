@@ -1,0 +1,23 @@
+{
+    "book": "James",
+    "chapter": "Chapter 2",
+    "verses": [
+        {
+            "name": "James 2:23",
+            "text": "And the scripture was fulfilled which saith, Abraham believed God, and it was imputed unto him for righteousness: and he was called the Friend of God."
+        },
+        {
+            "name": "James 2:24",
+            "text": "Ye see then how that by works a man is justified, and not by faith only."
+        },
+        {
+            "name": "James 2:25",
+            "text": "Likewise also was not Rahab the harlot justified by works, when she had received the messengers, and had sent them out another way?"
+        },
+        {
+            "name": "James 2:26",
+            "text": "For as the body without the spirit is dead, so faith without works is dead also. "
+        }
+    ],
+    "tone": "hopeful"
+}

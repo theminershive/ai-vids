@@ -1,0 +1,23 @@
+{
+    "book": "John",
+    "chapter": "Chapter 3",
+    "verses": [
+        {
+            "name": "John 3:8",
+            "text": "The wind bloweth where it listeth, and thou hearest the sound thereof, but canst not tell whence it cometh, and whither it goeth: so is every one that is born of the Spirit."
+        },
+        {
+            "name": "John 3:9",
+            "text": "Nicodemus answered and said unto him, How can these things be?"
+        },
+        {
+            "name": "John 3:10",
+            "text": "Jesus answered and said unto him, Art thou a master of Israel, and knowest not these things?"
+        },
+        {
+            "name": "John 3:11",
+            "text": "Verily, verily, I say unto thee, We speak that we do know, and testify that we have seen; and ye receive not our witness."
+        }
+    ],
+    "tone": "neutral"
+}

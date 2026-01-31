@@ -1,0 +1,23 @@
+{
+    "book": "Psalms",
+    "chapter": "Chapter 14",
+    "verses": [
+        {
+            "name": "Psalms 14:1",
+            "text": "The fool hath said in his heart, There is no God. They are corrupt, they have done abominable works, there is none that doeth good."
+        },
+        {
+            "name": "Psalms 14:2",
+            "text": "The Lord looked down from heaven upon the children of men, to see if there were any that did understand, and seek God."
+        },
+        {
+            "name": "Psalms 14:3",
+            "text": "They are all gone aside, they are all together become filthy: there is none that doeth good, no, not one."
+        },
+        {
+            "name": "Psalms 14:4",
+            "text": "Have all the workers of iniquity no knowledge? who eat up my people as they eat bread, and call not upon the Lord."
+        }
+    ],
+    "tone": "neutral"
+}

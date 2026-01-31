@@ -1,0 +1,27 @@
+{
+    "book": "Psalms",
+    "chapter": "Chapter 10",
+    "verses": [
+        {
+            "name": "Psalms 10:10",
+            "text": "He croucheth, and humbleth himself, that the poor may fall by his strong ones."
+        },
+        {
+            "name": "Psalms 10:11",
+            "text": "He hath said in his heart, God hath forgotten: he hideth his face; he will never see it."
+        },
+        {
+            "name": "Psalms 10:12",
+            "text": "Arise, O Lord; O God, lift up thine hand: forget not the humble."
+        },
+        {
+            "name": "Psalms 10:13",
+            "text": "Wherefore doth the wicked contemn God? he hath said in his heart, Thou wilt not require it."
+        },
+        {
+            "name": "Psalms 10:14",
+            "text": "Thou hast seen it; for thou beholdest mischief and spite, to requite it with thy hand: the poor committeth himself unto thee; thou art the helper of the fatherless."
+        }
+    ],
+    "tone": "neutral"
+}

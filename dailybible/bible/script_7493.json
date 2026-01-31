@@ -1,0 +1,23 @@
+{
+    "book": "1 Corinthians",
+    "chapter": "Chapter 13",
+    "verses": [
+        {
+            "name": "1 Corinthians 13:10",
+            "text": "But when that which is perfect is come, then that which is in part shall be done away."
+        },
+        {
+            "name": "1 Corinthians 13:11",
+            "text": "When I was a child, I spake as a child, I understood as a child, I thought as a child: but when I became a man, I put away childish things."
+        },
+        {
+            "name": "1 Corinthians 13:12",
+            "text": "For now we see through a glass, darkly; but then face to face: now I know in part; but then shall I know even as also I am known."
+        },
+        {
+            "name": "1 Corinthians 13:13",
+            "text": "And now abideth faith, hope, charity, these three; but the greatest of these is charity. "
+        }
+    ],
+    "tone": "hopeful"
+}

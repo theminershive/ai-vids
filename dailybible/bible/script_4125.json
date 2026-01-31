@@ -1,0 +1,31 @@
+{
+    "book": "Psalms",
+    "chapter": "Chapter 103",
+    "verses": [
+        {
+            "name": "Psalms 103:8",
+            "text": "The Lord is merciful and gracious, slow to anger, and plenteous in mercy."
+        },
+        {
+            "name": "Psalms 103:9",
+            "text": "He will not always chide: neither will he keep his anger for ever."
+        },
+        {
+            "name": "Psalms 103:10",
+            "text": "He hath not dealt with us after our sins; nor rewarded us according to our iniquities."
+        },
+        {
+            "name": "Psalms 103:11",
+            "text": "For as the heaven is high above the earth, so great is his mercy toward them that fear him."
+        },
+        {
+            "name": "Psalms 103:12",
+            "text": "As far as the east is from the west, so far hath he removed our transgressions from us."
+        },
+        {
+            "name": "Psalms 103:13",
+            "text": "Like as a father pitieth his children, so the Lord pitieth them that fear him."
+        }
+    ],
+    "tone": "praising"
+}

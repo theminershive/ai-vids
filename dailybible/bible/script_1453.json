@@ -1,0 +1,23 @@
+{
+    "book": "Deuteronomy",
+    "chapter": "Chapter 14",
+    "verses": [
+        {
+            "name": "Deuteronomy 14:1",
+            "text": "Ye are the children of the Lord your God: ye shall not cut yourselves, nor make any baldness between your eyes for the dead."
+        },
+        {
+            "name": "Deuteronomy 14:2",
+            "text": "For thou art an holy people unto the Lord thy God, and the Lord hath chosen thee to be a peculiar people unto himself, above all the nations that are upon the earth."
+        },
+        {
+            "name": "Deuteronomy 14:3",
+            "text": "Thou shalt not eat any abominable thing."
+        },
+        {
+            "name": "Deuteronomy 14:4",
+            "text": "These are the beasts which ye shall eat: the ox, the sheep, and the goat,"
+        }
+    ],
+    "tone": "neutral"
+}

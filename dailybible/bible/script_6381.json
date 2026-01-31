@@ -1,0 +1,23 @@
+{
+    "book": "Matthew",
+    "chapter": "Chapter 26",
+    "verses": [
+        {
+            "name": "Matthew 26:15",
+            "text": "And said unto them, What will ye give me, and I will deliver him unto you? And they covenanted with him for thirty pieces of silver."
+        },
+        {
+            "name": "Matthew 26:16",
+            "text": "And from that time he sought opportunity to betray him."
+        },
+        {
+            "name": "Matthew 26:17",
+            "text": "Now the first day of the feast of unleavened bread the disciples came to Jesus, saying unto him, Where wilt thou that we prepare for thee to eat the passover?"
+        },
+        {
+            "name": "Matthew 26:18",
+            "text": "And he said, Go into the city to such a man, and say unto him, The Master saith, My time is at hand; I will keep the passover at thy house with my disciples."
+        }
+    ],
+    "tone": "neutral"
+}

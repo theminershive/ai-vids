@@ -1,0 +1,27 @@
+{
+    "book": "John",
+    "chapter": "Chapter 1",
+    "verses": [
+        {
+            "name": "John 1:17",
+            "text": "For the law was given by Moses, but grace and truth came by Jesus Christ."
+        },
+        {
+            "name": "John 1:18",
+            "text": "No man hath seen God at any time; the only begotten Son, which is in the bosom of the Father, he hath declared him."
+        },
+        {
+            "name": "John 1:19",
+            "text": "And this is the record of John, when the Jews sent priests and Levites from Jerusalem to ask him, Who art thou?"
+        },
+        {
+            "name": "John 1:20",
+            "text": "And he confessed, and denied not; but confessed, I am not the Christ."
+        },
+        {
+            "name": "John 1:21",
+            "text": "And they asked him, What then? Art thou Elias? And he saith, I am not. Art thou that prophet? And he answered, No."
+        }
+    ],
+    "tone": "instructional"
+}

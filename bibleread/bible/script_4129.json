@@ -1,0 +1,27 @@
+{
+    "book": "Psalms",
+    "chapter": "Chapter 104",
+    "verses": [
+        {
+            "name": "Psalms 104:12",
+            "text": "By them shall the fowls of the heaven have their habitation, which sing among the branches."
+        },
+        {
+            "name": "Psalms 104:13",
+            "text": "He watereth the hills from his chambers: the earth is satisfied with the fruit of thy works."
+        },
+        {
+            "name": "Psalms 104:14",
+            "text": "He causeth the grass to grow for the cattle, and herb for the service of man: that he may bring forth food out of the earth;"
+        },
+        {
+            "name": "Psalms 104:15",
+            "text": "And wine that maketh glad the heart of man, and oil to make his face to shine, and bread which strengtheneth man\u2019s heart."
+        },
+        {
+            "name": "Psalms 104:16",
+            "text": "The trees of the Lord are full of sap; the cedars of Lebanon, which he hath planted;"
+        }
+    ],
+    "tone": "hopeful"
+}

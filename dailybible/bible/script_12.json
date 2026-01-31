@@ -1,0 +1,23 @@
+{
+    "book": "Genesis",
+    "chapter": "Chapter 2",
+    "verses": [
+        {
+            "name": "Genesis 2:11",
+            "text": "The name of the first is Pison: that is it which compasseth the whole land of Havilah, where there is gold;"
+        },
+        {
+            "name": "Genesis 2:12",
+            "text": "And the gold of that land is good: there is bdellium and the onyx stone."
+        },
+        {
+            "name": "Genesis 2:13",
+            "text": "And the name of the second river is Gihon: the same is it that compasseth the whole land of Ethiopia."
+        },
+        {
+            "name": "Genesis 2:14",
+            "text": "And the name of the third river is Hiddekel: that is it which goeth toward the east of Assyria. And the fourth river is Euphrates."
+        }
+    ],
+    "tone": "neutral"
+}

@@ -1,0 +1,27 @@
+{
+    "book": "Proverbs",
+    "chapter": "Chapter 9",
+    "verses": [
+        {
+            "name": "Proverbs 9:7",
+            "text": "He that reproveth a scorner getteth to himself shame: and he that rebuketh a wicked man getteth himself a blot."
+        },
+        {
+            "name": "Proverbs 9:8",
+            "text": "Reprove not a scorner, lest he hate thee: rebuke a wise man, and he will love thee."
+        },
+        {
+            "name": "Proverbs 9:9",
+            "text": "Give instruction to a wise man, and he will be yet wiser: teach a just man, and he will increase in learning."
+        },
+        {
+            "name": "Proverbs 9:10",
+            "text": "The fear of the Lord is the beginning of wisdom: and the knowledge of the holy is understanding."
+        },
+        {
+            "name": "Proverbs 9:11",
+            "text": "For by me thy days shall be multiplied, and the years of thy life shall be increased."
+        }
+    ],
+    "tone": "instructional"
+}

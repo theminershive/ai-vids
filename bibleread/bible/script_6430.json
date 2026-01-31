@@ -1,0 +1,19 @@
+{
+    "book": "Mark",
+    "chapter": "Chapter 2",
+    "verses": [
+        {
+            "name": "Mark 2:18",
+            "text": "And the disciples of John and of the Pharisees used to fast: and they come and say unto him, Why do the disciples of John and of the Pharisees fast, but thy disciples fast not?"
+        },
+        {
+            "name": "Mark 2:19",
+            "text": "And Jesus said unto them, Can the children of the bridechamber fast, while the bridegroom is with them? as long as they have the bridegroom with them, they cannot fast."
+        },
+        {
+            "name": "Mark 2:20",
+            "text": "But the days will come, when the bridegroom shall be taken away from them, and then shall they fast in those days."
+        }
+    ],
+    "tone": "neutral"
+}

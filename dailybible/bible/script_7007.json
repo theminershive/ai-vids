@@ -1,0 +1,19 @@
+{
+    "book": "John",
+    "chapter": "Chapter 15",
+    "verses": [
+        {
+            "name": "John 15:5",
+            "text": "I am the vine, ye are the branches: He that abideth in me, and I in him, the same bringeth forth much fruit: for without me ye can do nothing."
+        },
+        {
+            "name": "John 15:6",
+            "text": "If a man abide not in me, he is cast forth as a branch, and is withered; and men gather them, and cast them into the fire, and they are burned."
+        },
+        {
+            "name": "John 15:7",
+            "text": "If ye abide in me, and my words abide in you, ye shall ask what ye will, and it shall be done unto you."
+        }
+    ],
+    "tone": "lamenting"
+}

@@ -1,0 +1,19 @@
+{
+    "book": "Ezra",
+    "chapter": "Chapter 7",
+    "verses": [
+        {
+            "name": "Ezra 7:11",
+            "text": "Now this is the copy of the letter that the king Artaxerxes gave unto Ezra the priest, the scribe, even a scribe of the words of the commandments of the Lord, and of his statutes to Israel."
+        },
+        {
+            "name": "Ezra 7:12",
+            "text": "Artaxerxes, king of kings, unto Ezra the priest, a scribe of the law of the God of heaven, perfect peace, and at such a time."
+        },
+        {
+            "name": "Ezra 7:13",
+            "text": "I make a decree, that all they of the people of Israel, and of his priests and Levites, in my realm, which are minded of their own freewill to go up to Jerusalem, go with thee."
+        }
+    ],
+    "tone": "neutral"
+}

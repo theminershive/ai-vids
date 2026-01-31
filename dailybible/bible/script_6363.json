@@ -1,0 +1,23 @@
+{
+    "book": "Matthew",
+    "chapter": "Chapter 24",
+    "verses": [
+        {
+            "name": "Matthew 24:31",
+            "text": "And he shall send his angels with a great sound of a trumpet, and they shall gather together his elect from the four winds, from one end of heaven to the other."
+        },
+        {
+            "name": "Matthew 24:32",
+            "text": "Now learn a parable of the fig tree; When his branch is yet tender, and putteth forth leaves, ye know that summer is nigh:"
+        },
+        {
+            "name": "Matthew 24:33",
+            "text": "So likewise ye, when ye shall see all these things, know that it is near, even at the doors."
+        },
+        {
+            "name": "Matthew 24:34",
+            "text": "Verily I say unto you, This generation shall not pass, till all these things be fulfilled."
+        }
+    ],
+    "tone": "hopeful"
+}

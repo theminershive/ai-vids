@@ -1,0 +1,23 @@
+{
+    "book": "Acts",
+    "chapter": "Chapter 9",
+    "verses": [
+        {
+            "name": "Acts 9:11",
+            "text": "And the Lord said unto him, Arise, and go into the street which is called Straight, and enquire in the house of Judas for one called Saul, of Tarsus: for, behold, he prayeth,"
+        },
+        {
+            "name": "Acts 9:12",
+            "text": "And hath seen in a vision a man named Ananias coming in, and putting his hand on him, that he might receive his sight."
+        },
+        {
+            "name": "Acts 9:13",
+            "text": "Then Ananias answered, Lord, I have heard by many of this man, how much evil he hath done to thy saints at Jerusalem:"
+        },
+        {
+            "name": "Acts 9:14",
+            "text": "And here he hath authority from the chief priests to bind all that call on thy name."
+        }
+    ],
+    "tone": "instructional"
+}

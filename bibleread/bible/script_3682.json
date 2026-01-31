@@ -1,0 +1,31 @@
+{
+    "book": "Job",
+    "chapter": "Chapter 9",
+    "verses": [
+        {
+            "name": "Job 9:8",
+            "text": "Which alone spreadeth out the heavens, and treadeth upon the waves of the sea."
+        },
+        {
+            "name": "Job 9:9",
+            "text": "Which maketh Arcturus, Orion, and Pleiades, and the chambers of the south."
+        },
+        {
+            "name": "Job 9:10",
+            "text": "Which doeth great things past finding out; yea, and wonders without number."
+        },
+        {
+            "name": "Job 9:11",
+            "text": "Lo, he goeth by me, and I see him not: he passeth on also, but I perceive him not."
+        },
+        {
+            "name": "Job 9:12",
+            "text": "Behold, he taketh away, who can hinder him? who will say unto him, What doest thou?"
+        },
+        {
+            "name": "Job 9:13",
+            "text": "If God will not withdraw his anger, the proud helpers do stoop under him."
+        }
+    ],
+    "tone": "hopeful"
+}

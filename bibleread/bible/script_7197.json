@@ -1,0 +1,23 @@
+{
+    "book": "Acts",
+    "chapter": "Chapter 15",
+    "verses": [
+        {
+            "name": "Acts 15:18",
+            "text": "Known unto God are all his works from the beginning of the world."
+        },
+        {
+            "name": "Acts 15:19",
+            "text": "Wherefore my sentence is, that we trouble not them, which from among the Gentiles are turned to God:"
+        },
+        {
+            "name": "Acts 15:20",
+            "text": "But that we write unto them, that they abstain from pollutions of idols, and from fornication, and from things strangled, and from blood."
+        },
+        {
+            "name": "Acts 15:21",
+            "text": "For Moses of old time hath in every city them that preach him, being read in the synagogues every sabbath day."
+        }
+    ],
+    "tone": "neutral"
+}

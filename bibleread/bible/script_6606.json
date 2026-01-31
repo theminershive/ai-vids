@@ -1,0 +1,23 @@
+{
+    "book": "Luke",
+    "chapter": "Chapter 2",
+    "verses": [
+        {
+            "name": "Luke 2:47",
+            "text": "And all that heard him were astonished at his understanding and answers."
+        },
+        {
+            "name": "Luke 2:48",
+            "text": "And when they saw him, they were amazed: and his mother said unto him, Son, why hast thou thus dealt with us? behold, thy father and I have sought thee sorrowing."
+        },
+        {
+            "name": "Luke 2:49",
+            "text": "And he said unto them, How is it that ye sought me? wist ye not that I must be about my Father\u2019s business?"
+        },
+        {
+            "name": "Luke 2:50",
+            "text": "And they understood not the saying which he spake unto them."
+        }
+    ],
+    "tone": "neutral"
+}

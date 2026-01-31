@@ -1,0 +1,23 @@
+{
+    "book": "Mark",
+    "chapter": "Chapter 1",
+    "verses": [
+        {
+            "name": "Mark 1:23",
+            "text": "And there was in their synagogue a man with an unclean spirit; and he cried out,"
+        },
+        {
+            "name": "Mark 1:24",
+            "text": "Saying, Let us alone; what have we to do with thee, thou Jesus of Nazareth? art thou come to destroy us? I know thee who thou art, the Holy One of God."
+        },
+        {
+            "name": "Mark 1:25",
+            "text": "And Jesus rebuked him, saying, Hold thy peace, and come out of him."
+        },
+        {
+            "name": "Mark 1:26",
+            "text": "And when the unclean spirit had torn him, and cried with a loud voice, he came out of him."
+        }
+    ],
+    "tone": "instructional"
+}

@@ -1,0 +1,19 @@
+{
+    "book": "1 Kings",
+    "chapter": "Chapter 2",
+    "verses": [
+        {
+            "name": "1 Kings 2:39",
+            "text": "And it came to pass at the end of three years, that two of the servants of Shimei ran away unto Achish son of Maachah king of Gath. And they told Shimei, saying, Behold, thy servants be in Gath."
+        },
+        {
+            "name": "1 Kings 2:40",
+            "text": "And Shimei arose, and saddled his ass, and went to Gath to Achish to seek his servants: and Shimei went, and brought his servants from Gath."
+        },
+        {
+            "name": "1 Kings 2:41",
+            "text": "And it was told Solomon that Shimei had gone from Jerusalem to Gath, and was come again."
+        }
+    ],
+    "tone": "neutral"
+}

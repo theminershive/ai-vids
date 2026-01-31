@@ -1,0 +1,19 @@
+{
+    "book": "Luke",
+    "chapter": "Chapter 8",
+    "verses": [
+        {
+            "name": "Luke 8:29",
+            "text": "(For he had commanded the unclean spirit to come out of the man. For oftentimes it had caught him: and he was kept bound with chains and in fetters; and he brake the bands, and was driven of the devil into the wilderness.)"
+        },
+        {
+            "name": "Luke 8:30",
+            "text": "And Jesus asked him, saying, What is thy name? And he said, Legion: because many devils were entered into him."
+        },
+        {
+            "name": "Luke 8:31",
+            "text": "And they besought him that he would not command them to go out into the deep."
+        }
+    ],
+    "tone": "instructional"
+}

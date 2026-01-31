@@ -1,0 +1,23 @@
+{
+    "book": "Acts",
+    "chapter": "Chapter 8",
+    "verses": [
+        {
+            "name": "Acts 8:22",
+            "text": "Repent therefore of this thy wickedness, and pray God, if perhaps the thought of thine heart may be forgiven thee."
+        },
+        {
+            "name": "Acts 8:23",
+            "text": "For I perceive that thou art in the gall of bitterness, and in the bond of iniquity."
+        },
+        {
+            "name": "Acts 8:24",
+            "text": "Then answered Simon, and said, Pray ye to the Lord for me, that none of these things which ye have spoken come upon me."
+        },
+        {
+            "name": "Acts 8:25",
+            "text": "And they, when they had testified and preached the word of the Lord, returned to Jerusalem, and preached the gospel in many villages of the Samaritans."
+        }
+    ],
+    "tone": "hopeful"
+}

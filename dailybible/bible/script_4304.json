@@ -1,0 +1,31 @@
+{
+    "book": "Proverbs",
+    "chapter": "Chapter 11",
+    "verses": [
+        {
+            "name": "Proverbs 11:1",
+            "text": "A false balance is abomination to the Lord: but a just weight is his delight."
+        },
+        {
+            "name": "Proverbs 11:2",
+            "text": "When pride cometh, then cometh shame: but with the lowly is wisdom."
+        },
+        {
+            "name": "Proverbs 11:3",
+            "text": "The integrity of the upright shall guide them: but the perverseness of transgressors shall destroy them."
+        },
+        {
+            "name": "Proverbs 11:4",
+            "text": "Riches profit not in the day of wrath: but righteousness delivereth from death."
+        },
+        {
+            "name": "Proverbs 11:5",
+            "text": "The righteousness of the perfect shall direct his way: but the wicked shall fall by his own wickedness."
+        },
+        {
+            "name": "Proverbs 11:6",
+            "text": "The righteousness of the upright shall deliver them: but transgressors shall be taken in their own naughtiness."
+        }
+    ],
+    "tone": "instructional"
+}

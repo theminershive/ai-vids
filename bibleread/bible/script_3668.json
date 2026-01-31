@@ -1,0 +1,23 @@
+{
+    "book": "Job",
+    "chapter": "Chapter 5",
+    "verses": [
+        {
+            "name": "Job 5:24",
+            "text": "And thou shalt know that thy tabernacle shall be in peace; and thou shalt visit thy habitation, and shalt not sin."
+        },
+        {
+            "name": "Job 5:25",
+            "text": "Thou shalt know also that thy seed shall be great, and thine offspring as the grass of the earth."
+        },
+        {
+            "name": "Job 5:26",
+            "text": "Thou shalt come to thy grave in a full age, like as a shock of corn cometh in in his season."
+        },
+        {
+            "name": "Job 5:27",
+            "text": "Lo this, we have searched it, so it is; hear it, and know thou it for thy good. "
+        }
+    ],
+    "tone": "hopeful"
+}

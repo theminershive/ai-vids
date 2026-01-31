@@ -1,0 +1,19 @@
+{
+    "book": "Ezra",
+    "chapter": "Chapter 5",
+    "verses": [
+        {
+            "name": "Ezra 5:3",
+            "text": "At the same time came to them Tatnai, governor on this side the river, and Shethar\u2013boznai, and their companions, and said thus unto them, Who hath commanded you to build this house, and to make up this wall?"
+        },
+        {
+            "name": "Ezra 5:4",
+            "text": "Then said we unto them after this manner, What are the names of the men that make this building?"
+        },
+        {
+            "name": "Ezra 5:5",
+            "text": "But the eye of their God was upon the elders of the Jews, that they could not cause them to cease, till the matter came to Darius: and then they returned answer by letter concerning this matter."
+        }
+    ],
+    "tone": "neutral"
+}

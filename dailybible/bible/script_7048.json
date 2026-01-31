@@ -1,0 +1,19 @@
+{
+    "book": "John",
+    "chapter": "Chapter 20",
+    "verses": [
+        {
+            "name": "John 20:15",
+            "text": "Jesus saith unto her, Woman, why weepest thou? whom seekest thou? She, supposing him to be the gardener, saith unto him, Sir, if thou have borne him hence, tell me where thou hast laid him, and I will take him away."
+        },
+        {
+            "name": "John 20:16",
+            "text": "Jesus saith unto her, Mary. She turned herself, and saith unto him, Rabboni; which is to say, Master."
+        },
+        {
+            "name": "John 20:17",
+            "text": "Jesus saith unto her, Touch me not; for I am not yet ascended to my Father: but go to my brethren, and say unto them, I ascend unto my Father, and your Father; and to my God, and your God."
+        }
+    ],
+    "tone": "hopeful"
+}

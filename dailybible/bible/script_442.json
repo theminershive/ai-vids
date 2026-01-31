@@ -1,0 +1,19 @@
+{
+    "book": "Exodus",
+    "chapter": "Chapter 6",
+    "verses": [
+        {
+            "name": "Exodus 6:13",
+            "text": "And the Lord spake unto Moses and unto Aaron, and gave them a charge unto the children of Israel, and unto Pharaoh king of Egypt, to bring the children of Israel out of the land of Egypt."
+        },
+        {
+            "name": "Exodus 6:14",
+            "text": "These be the heads of their fathers\u2019 houses: The sons of Reuben the firstborn of Israel; Hanoch, and Pallu, Hezron, and Carmi: these be the families of Reuben."
+        },
+        {
+            "name": "Exodus 6:15",
+            "text": "And the sons of Simeon; Jemuel, and Jamin, and Ohad, and Jachin, and Zohar, and Shaul the son of a Canaanitish woman: these are the families of Simeon."
+        }
+    ],
+    "tone": "neutral"
+}

@@ -1,0 +1,31 @@
+{
+    "book": "1 Kings",
+    "chapter": "Chapter 4",
+    "verses": [
+        {
+            "name": "1 Kings 4:1",
+            "text": "So king Solomon was king over all Israel."
+        },
+        {
+            "name": "1 Kings 4:2",
+            "text": "And these were the princes which he had; Azariah the son of Zadok the priest,"
+        },
+        {
+            "name": "1 Kings 4:3",
+            "text": "Elihoreph and Ahiah, the sons of Shisha, scribes; Jehoshaphat the son of Ahilud, the recorder."
+        },
+        {
+            "name": "1 Kings 4:4",
+            "text": "And Benaiah the son of Jehoiada was over the host: and Zadok and Abiathar were the priests:"
+        },
+        {
+            "name": "1 Kings 4:5",
+            "text": "And Azariah the son of Nathan was over the officers: and Zabud the son of Nathan was principal officer, and the king\u2019s friend:"
+        },
+        {
+            "name": "1 Kings 4:6",
+            "text": "And Ahishar was over the household: and Adoniram the son of Abda was over the tribute."
+        }
+    ],
+    "tone": "neutral"
+}

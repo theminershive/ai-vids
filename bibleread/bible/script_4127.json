@@ -1,0 +1,27 @@
+{
+    "book": "Psalms",
+    "chapter": "Chapter 104",
+    "verses": [
+        {
+            "name": "Psalms 104:1",
+            "text": "Bless the Lord, O my soul. O Lord my God, thou art very great; thou art clothed with honour and majesty."
+        },
+        {
+            "name": "Psalms 104:2",
+            "text": "Who coverest thyself with light as with a garment: who stretchest out the heavens like a curtain:"
+        },
+        {
+            "name": "Psalms 104:3",
+            "text": "Who layeth the beams of his chambers in the waters: who maketh the clouds his chariot: who walketh upon the wings of the wind:"
+        },
+        {
+            "name": "Psalms 104:4",
+            "text": "Who maketh his angels spirits; his ministers a flaming fire:"
+        },
+        {
+            "name": "Psalms 104:5",
+            "text": "Who laid the foundations of the earth, that it should not be removed for ever."
+        }
+    ],
+    "tone": "praising"
+}

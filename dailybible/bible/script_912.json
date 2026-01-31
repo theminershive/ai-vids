@@ -1,0 +1,19 @@
+{
+    "book": "Leviticus",
+    "chapter": "Chapter 19",
+    "verses": [
+        {
+            "name": "Leviticus 19:23",
+            "text": "And when ye shall come into the land, and shall have planted all manner of trees for food, then ye shall count the fruit thereof as uncircumcised: three years shall it be as uncircumcised unto you: it shall not be eaten of."
+        },
+        {
+            "name": "Leviticus 19:24",
+            "text": "But in the fourth year all the fruit thereof shall be holy to praise the Lord withal."
+        },
+        {
+            "name": "Leviticus 19:25",
+            "text": "And in the fifth year shall ye eat of the fruit thereof, that it may yield unto you the increase thereof: I am the Lord your God."
+        }
+    ],
+    "tone": "instructional"
+}

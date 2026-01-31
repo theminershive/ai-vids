@@ -1,0 +1,19 @@
+{
+    "book": "Ecclesiastes",
+    "chapter": "Chapter 5",
+    "verses": [
+        {
+            "name": "Ecclesiastes 5:15",
+            "text": "As he came forth of his mother\u2019s womb, naked shall he return to go as he came, and shall take nothing of his labour, which he may carry away in his hand."
+        },
+        {
+            "name": "Ecclesiastes 5:16",
+            "text": "And this also is a sore evil, that in all points as he came, so shall he go: and what profit hath he that hath laboured for the wind?"
+        },
+        {
+            "name": "Ecclesiastes 5:17",
+            "text": "All his days also he eateth in darkness, and he hath much sorrow and wrath with his sickness."
+        }
+    ],
+    "tone": "lamenting"
+}

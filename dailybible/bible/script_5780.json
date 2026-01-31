@@ -1,0 +1,23 @@
+{
+    "book": "Daniel",
+    "chapter": "Chapter 4",
+    "verses": [
+        {
+            "name": "Daniel 4:27",
+            "text": "Wherefore, O king, let my counsel be acceptable unto thee, and break off thy sins by righteousness, and thine iniquities by shewing mercy to the poor; if it may be a lengthening of thy tranquillity."
+        },
+        {
+            "name": "Daniel 4:28",
+            "text": "All this came upon the king Nebuchadnezzar."
+        },
+        {
+            "name": "Daniel 4:29",
+            "text": "At the end of twelve months he walked in the palace of the kingdom of Babylon."
+        },
+        {
+            "name": "Daniel 4:30",
+            "text": "The king spake, and said, Is not this great Babylon, that I have built for the house of the kingdom by the might of my power, and for the honour of my majesty?"
+        }
+    ],
+    "tone": "neutral"
+}

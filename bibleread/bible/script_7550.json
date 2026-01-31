@@ -1,0 +1,19 @@
+{
+    "book": "2 Corinthians",
+    "chapter": "Chapter 7",
+    "verses": [
+        {
+            "name": "2 Corinthians 7:5",
+            "text": "For, when we were come into Macedonia, our flesh had no rest, but we were troubled on every side; without were fightings, within were fears."
+        },
+        {
+            "name": "2 Corinthians 7:6",
+            "text": "Nevertheless God, that comforteth those that are cast down, comforted us by the coming of Titus;"
+        },
+        {
+            "name": "2 Corinthians 7:7",
+            "text": "And not by his coming only, but by the consolation wherewith he was comforted in you, when he told us your earnest desire, your mourning, your fervent mind toward me; so that I rejoiced the more."
+        }
+    ],
+    "tone": "hopeful"
+}

@@ -1,0 +1,23 @@
+{
+    "book": "Leviticus",
+    "chapter": "Chapter 16",
+    "verses": [
+        {
+            "name": "Leviticus 16:6",
+            "text": "And Aaron shall offer his bullock of the sin offering, which is for himself, and make an atonement for himself, and for his house."
+        },
+        {
+            "name": "Leviticus 16:7",
+            "text": "And he shall take the two goats, and present them before the Lord at the door of the tabernacle of the congregation."
+        },
+        {
+            "name": "Leviticus 16:8",
+            "text": "And Aaron shall cast lots upon the two goats; one lot for the Lord, and the other lot for the scapegoat."
+        },
+        {
+            "name": "Leviticus 16:9",
+            "text": "And Aaron shall bring the goat upon which the Lord\u2019s lot fell, and offer him for a sin offering."
+        }
+    ],
+    "tone": "lamenting"
+}

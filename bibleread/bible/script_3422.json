@@ -1,0 +1,31 @@
+{
+    "book": "Ezra",
+    "chapter": "Chapter 2",
+    "verses": [
+        {
+            "name": "Ezra 2:42",
+            "text": "The children of the porters: the children of Shallum, the children of Ater, the children of Talmon, the children of Akkub, the children of Hatita, the children of Shobai, in all an hundred thirty and nine."
+        },
+        {
+            "name": "Ezra 2:43",
+            "text": "The Nethinims: the children of Ziha, the children of Hasupha, the children of Tabbaoth,"
+        },
+        {
+            "name": "Ezra 2:44",
+            "text": "The children of Keros, the children of Siaha, the children of Padon,"
+        },
+        {
+            "name": "Ezra 2:45",
+            "text": "The children of Lebanah, the children of Hagabah, the children of Akkub,"
+        },
+        {
+            "name": "Ezra 2:46",
+            "text": "The children of Hagab, the children of Shalmai, the children of Hanan,"
+        },
+        {
+            "name": "Ezra 2:47",
+            "text": "The children of Giddel, the children of Gahar, the children of Reaiah,"
+        }
+    ],
+    "tone": "neutral"
+}

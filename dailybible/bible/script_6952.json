@@ -1,0 +1,23 @@
+{
+    "book": "John",
+    "chapter": "Chapter 9",
+    "verses": [
+        {
+            "name": "John 9:26",
+            "text": "Then said they to him again, What did he to thee? how opened he thine eyes?"
+        },
+        {
+            "name": "John 9:27",
+            "text": "He answered them, I have told you already, and ye did not hear: wherefore would ye hear it again? will ye also be his disciples?"
+        },
+        {
+            "name": "John 9:28",
+            "text": "Then they reviled him, and said, Thou art his disciple; but we are Moses\u2019 disciples."
+        },
+        {
+            "name": "John 9:29",
+            "text": "We know that God spake unto Moses: as for this fellow, we know not from whence he is."
+        }
+    ],
+    "tone": "neutral"
+}

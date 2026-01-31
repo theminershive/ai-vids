@@ -1,0 +1,27 @@
+{
+    "book": "Luke",
+    "chapter": "Chapter 24",
+    "verses": [
+        {
+            "name": "Luke 24:1",
+            "text": "Now upon the first day of the week, very early in the morning, they came unto the sepulchre, bringing the spices which they had prepared, and certain others with them."
+        },
+        {
+            "name": "Luke 24:2",
+            "text": "And they found the stone rolled away from the sepulchre."
+        },
+        {
+            "name": "Luke 24:3",
+            "text": "And they entered in, and found not the body of the Lord Jesus."
+        },
+        {
+            "name": "Luke 24:4",
+            "text": "And it came to pass, as they were much perplexed thereabout, behold, two men stood by them in shining garments:"
+        },
+        {
+            "name": "Luke 24:5",
+            "text": "And as they were afraid, and bowed down their faces to the earth, they said unto them, Why seek ye the living among the dead?"
+        }
+    ],
+    "tone": "neutral"
+}

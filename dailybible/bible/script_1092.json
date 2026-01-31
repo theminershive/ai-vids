@@ -1,0 +1,23 @@
+{
+    "book": "Numbers",
+    "chapter": "Chapter 10",
+    "verses": [
+        {
+            "name": "Numbers 10:1",
+            "text": "And the Lord spake unto Moses, saying,"
+        },
+        {
+            "name": "Numbers 10:2",
+            "text": "Make thee two trumpets of silver; of a whole piece shalt thou make them: that thou mayest use them for the calling of the assembly, and for the journeying of the camps."
+        },
+        {
+            "name": "Numbers 10:3",
+            "text": "And when they shall blow with them, all the assembly shall assemble themselves to thee at the door of the tabernacle of the congregation."
+        },
+        {
+            "name": "Numbers 10:4",
+            "text": "And if they blow but with one trumpet, then the princes, which are heads of the thousands of Israel, shall gather themselves unto thee."
+        }
+    ],
+    "tone": "neutral"
+}

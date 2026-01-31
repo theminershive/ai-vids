@@ -1,0 +1,31 @@
+{
+    "book": "Ezra",
+    "chapter": "Chapter 10",
+    "verses": [
+        {
+            "name": "Ezra 10:23",
+            "text": "Also of the Levites; Jozabad, and Shimei, and Kelaiah, (the same is Kelita,) Pethahiah, Judah, and Eliezer."
+        },
+        {
+            "name": "Ezra 10:24",
+            "text": "Of the singers also; Eliashib: and of the porters; Shallum, and Telem, and Uri."
+        },
+        {
+            "name": "Ezra 10:25",
+            "text": "Moreover of Israel: of the sons of Parosh; Ramiah, and Jeziah, and Malchiah, and Miamin, and Eleazar, and Malchijah, and Benaiah."
+        },
+        {
+            "name": "Ezra 10:26",
+            "text": "And of the sons of Elam; Mattaniah, Zechariah, and Jehiel, and Abdi, and Jeremoth, and Eliah."
+        },
+        {
+            "name": "Ezra 10:27",
+            "text": "And of the sons of Zattu; Elioenai, Eliashib, Mattaniah, and Jeremoth, and Zabad, and Aziza."
+        },
+        {
+            "name": "Ezra 10:28",
+            "text": "Of the sons also of Bebai; Jehohanan, Hananiah, Zabbai, and Athlai."
+        }
+    ],
+    "tone": "neutral"
+}

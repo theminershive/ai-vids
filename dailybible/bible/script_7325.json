@@ -1,0 +1,19 @@
+{
+    "book": "Romans",
+    "chapter": "Chapter 1",
+    "verses": [
+        {
+            "name": "Romans 1:18",
+            "text": "For the wrath of God is revealed from heaven against all ungodliness and unrighteousness of men, who hold the truth in unrighteousness;"
+        },
+        {
+            "name": "Romans 1:19",
+            "text": "Because that which may be known of God is manifest in them; for God hath shewed it unto them."
+        },
+        {
+            "name": "Romans 1:20",
+            "text": "For the invisible things of him from the creation of the world are clearly seen, being understood by the things that are made, even his eternal power and Godhead; so that they are without excuse:"
+        }
+    ],
+    "tone": "hopeful"
+}

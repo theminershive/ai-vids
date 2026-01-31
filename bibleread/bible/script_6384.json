@@ -1,0 +1,23 @@
+{
+    "book": "Matthew",
+    "chapter": "Chapter 26",
+    "verses": [
+        {
+            "name": "Matthew 26:27",
+            "text": "And he took the cup, and gave thanks, and gave it to them, saying, Drink ye all of it;"
+        },
+        {
+            "name": "Matthew 26:28",
+            "text": "For this is my blood of the new testament, which is shed for many for the remission of sins."
+        },
+        {
+            "name": "Matthew 26:29",
+            "text": "But I say unto you, I will not drink henceforth of this fruit of the vine, until that day when I drink it new with you in my Father\u2019s kingdom."
+        },
+        {
+            "name": "Matthew 26:30",
+            "text": "And when they had sung an hymn, they went out into the mount of Olives."
+        }
+    ],
+    "tone": "neutral"
+}

@@ -1,0 +1,27 @@
+{
+    "book": "Psalms",
+    "chapter": "Chapter 8",
+    "verses": [
+        {
+            "name": "Psalms 8:5",
+            "text": "For thou hast made him a little lower than the angels, and hast crowned him with glory and honour."
+        },
+        {
+            "name": "Psalms 8:6",
+            "text": "Thou madest him to have dominion over the works of thy hands; thou hast put all things under his feet:"
+        },
+        {
+            "name": "Psalms 8:7",
+            "text": "All sheep and oxen, yea, and the beasts of the field;"
+        },
+        {
+            "name": "Psalms 8:8",
+            "text": "The fowl of the air, and the fish of the sea, and whatsoever passeth through the paths of the seas."
+        },
+        {
+            "name": "Psalms 8:9",
+            "text": "O Lord our Lord, how excellent is thy name in all the earth! "
+        }
+    ],
+    "tone": "hopeful"
+}

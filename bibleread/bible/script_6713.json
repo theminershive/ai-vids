@@ -1,0 +1,23 @@
+{
+    "book": "Luke",
+    "chapter": "Chapter 11",
+    "verses": [
+        {
+            "name": "Luke 11:18",
+            "text": "If Satan also be divided against himself, how shall his kingdom stand? because ye say that I cast out devils through Beelzebub."
+        },
+        {
+            "name": "Luke 11:19",
+            "text": "And if I by Beelzebub cast out devils, by whom do your sons cast them out? therefore shall they be your judges."
+        },
+        {
+            "name": "Luke 11:20",
+            "text": "But if I with the finger of God cast out devils, no doubt the kingdom of God is come upon you."
+        },
+        {
+            "name": "Luke 11:21",
+            "text": "When a strong man armed keepeth his palace, his goods are in peace:"
+        }
+    ],
+    "tone": "neutral"
+}

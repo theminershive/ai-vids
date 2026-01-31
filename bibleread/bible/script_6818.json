@@ -1,0 +1,23 @@
+{
+    "book": "Luke",
+    "chapter": "Chapter 21",
+    "verses": [
+        {
+            "name": "Luke 21:32",
+            "text": "Verily I say unto you, This generation shall not pass away, till all be fulfilled."
+        },
+        {
+            "name": "Luke 21:33",
+            "text": "Heaven and earth shall pass away: but my words shall not pass away."
+        },
+        {
+            "name": "Luke 21:34",
+            "text": "And take heed to yourselves, lest at any time your hearts be overcharged with surfeiting, and drunkenness, and cares of this life, and so that day come upon you unawares."
+        },
+        {
+            "name": "Luke 21:35",
+            "text": "For as a snare shall it come on all them that dwell on the face of the whole earth."
+        }
+    ],
+    "tone": "neutral"
+}

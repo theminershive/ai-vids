@@ -1,0 +1,35 @@
+{
+    "book": "Ruth",
+    "chapter": "Chapter 4",
+    "verses": [
+        {
+            "name": "Ruth 4:16",
+            "text": "And Naomi took the child, and laid it in her bosom, and became nurse unto it."
+        },
+        {
+            "name": "Ruth 4:17",
+            "text": "And the women her neighbours gave it a name, saying, There is a son born to Naomi; and they called his name Obed: he is the father of Jesse, the father of David."
+        },
+        {
+            "name": "Ruth 4:18",
+            "text": "Now these are the generations of Pharez: Pharez begat Hezron,"
+        },
+        {
+            "name": "Ruth 4:19",
+            "text": "And Hezron begat Ram, and Ram begat Amminadab,"
+        },
+        {
+            "name": "Ruth 4:20",
+            "text": "And Amminadab begat Nahshon, and Nahshon begat Salmon,"
+        },
+        {
+            "name": "Ruth 4:21",
+            "text": "And Salmon begat Boaz, and Boaz begat Obed,"
+        },
+        {
+            "name": "Ruth 4:22",
+            "text": "And Obed begat Jesse, and Jesse begat David.  "
+        }
+    ],
+    "tone": "neutral"
+}

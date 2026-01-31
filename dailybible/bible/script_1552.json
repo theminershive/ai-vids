@@ -1,0 +1,19 @@
+{
+    "book": "Deuteronomy",
+    "chapter": "Chapter 28",
+    "verses": [
+        {
+            "name": "Deuteronomy 28:1",
+            "text": "And it shall come to pass, if thou shalt hearken diligently unto the voice of the Lord thy God, to observe and to do all his commandments which I command thee this day, that the Lord thy God will set thee on high above all nations of the earth:"
+        },
+        {
+            "name": "Deuteronomy 28:2",
+            "text": "And all these blessings shall come on thee, and overtake thee, if thou shalt hearken unto the voice of the Lord thy God."
+        },
+        {
+            "name": "Deuteronomy 28:3",
+            "text": "Blessed shalt thou be in the city, and blessed shalt thou be in the field."
+        }
+    ],
+    "tone": "instructional"
+}

@@ -1,0 +1,23 @@
+{
+    "book": "Deuteronomy",
+    "chapter": "Chapter 8",
+    "verses": [
+        {
+            "name": "Deuteronomy 8:10",
+            "text": "When thou hast eaten and art full, then thou shalt bless the Lord thy God for the good land which he hath given thee."
+        },
+        {
+            "name": "Deuteronomy 8:11",
+            "text": "Beware that thou forget not the Lord thy God, in not keeping his commandments, and his judgments, and his statutes, which I command thee this day:"
+        },
+        {
+            "name": "Deuteronomy 8:12",
+            "text": "Lest when thou hast eaten and art full, and hast built goodly houses, and dwelt therein;"
+        },
+        {
+            "name": "Deuteronomy 8:13",
+            "text": "And when thy herds and thy flocks multiply, and thy silver and thy gold is multiplied, and all that thou hast is multiplied;"
+        }
+    ],
+    "tone": "instructional"
+}

@@ -1,0 +1,23 @@
+{
+    "book": "2 Kings",
+    "chapter": "Chapter 6",
+    "verses": [
+        {
+            "name": "2 Kings 6:5",
+            "text": "But as one was felling a beam, the axe head fell into the water: and he cried, and said, Alas, master! for it was borrowed."
+        },
+        {
+            "name": "2 Kings 6:6",
+            "text": "And the man of God said, Where fell it? And he shewed him the place. And he cut down a stick, and cast it in thither; and the iron did swim."
+        },
+        {
+            "name": "2 Kings 6:7",
+            "text": "Therefore said he, Take it up to thee. And he put out his hand, and took it."
+        },
+        {
+            "name": "2 Kings 6:8",
+            "text": "Then the king of Syria warred against Israel, and took counsel with his servants, saying, In such and such a place shall be my camp."
+        }
+    ],
+    "tone": "neutral"
+}

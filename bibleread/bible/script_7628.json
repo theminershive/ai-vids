@@ -1,0 +1,23 @@
+{
+    "book": "Ephesians",
+    "chapter": "Chapter 2",
+    "verses": [
+        {
+            "name": "Ephesians 2:13",
+            "text": "But now in Christ Jesus ye who sometimes were far off are made nigh by the blood of Christ."
+        },
+        {
+            "name": "Ephesians 2:14",
+            "text": "For he is our peace, who hath made both one, and hath broken down the middle wall of partition between us; "
+        },
+        {
+            "name": "Ephesians 2:15",
+            "text": "Having abolished in his flesh the enmity, even the law of commandments contained in ordinances; for to make in himself of twain one new man, so making peace;"
+        },
+        {
+            "name": "Ephesians 2:16",
+            "text": "And that he might reconcile both unto God in one body by the cross, having slain the enmity thereby:"
+        }
+    ],
+    "tone": "instructional"
+}

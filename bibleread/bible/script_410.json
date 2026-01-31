@@ -1,0 +1,19 @@
+{
+    "book": "Exodus",
+    "chapter": "Chapter 2",
+    "verses": [
+        {
+            "name": "Exodus 2:5",
+            "text": "And the daughter of Pharaoh came down to wash herself at the river; and her maidens walked along by the river\u2019s side; and when she saw the ark among the flags, she sent her maid to fetch it."
+        },
+        {
+            "name": "Exodus 2:6",
+            "text": "And when she had opened it, she saw the child: and, behold, the babe wept. And she had compassion on him, and said, This is one of the Hebrews\u2019 children."
+        },
+        {
+            "name": "Exodus 2:7",
+            "text": "Then said his sister to Pharaoh\u2019s daughter, Shall I go and call to thee a nurse of the Hebrew women, that she may nurse the child for thee?"
+        }
+    ],
+    "tone": "neutral"
+}

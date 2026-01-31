@@ -1,0 +1,23 @@
+{
+    "book": "Romans",
+    "chapter": "Chapter 8",
+    "verses": [
+        {
+            "name": "Romans 8:5",
+            "text": "For they that are after the flesh do mind the things of the flesh; but they that are after the Spirit the things of the Spirit."
+        },
+        {
+            "name": "Romans 8:6",
+            "text": "For to be carnally minded is death; but to be spiritually minded is life and peace."
+        },
+        {
+            "name": "Romans 8:7",
+            "text": "Because the carnal mind is enmity against God: for it is not subject to the law of God, neither indeed can be."
+        },
+        {
+            "name": "Romans 8:8",
+            "text": "So then they that are in the flesh cannot please God."
+        }
+    ],
+    "tone": "instructional"
+}

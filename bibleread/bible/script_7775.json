@@ -1,0 +1,31 @@
+{
+    "book": "Philemon",
+    "chapter": "Chapter 1",
+    "verses": [
+        {
+            "name": "Philemon 1:1",
+            "text": "Paul, a prisoner of Jesus Christ, and Timothy our brother, unto Philemon our dearly beloved, and fellowlabourer,"
+        },
+        {
+            "name": "Philemon 1:2",
+            "text": "And to our beloved Apphia, and Archippus our fellowsoldier, and to the church in thy house:"
+        },
+        {
+            "name": "Philemon 1:3",
+            "text": "Grace to you, and peace, from God our Father and the Lord Jesus Christ."
+        },
+        {
+            "name": "Philemon 1:4",
+            "text": "I thank my God, making mention of thee always in my prayers,"
+        },
+        {
+            "name": "Philemon 1:5",
+            "text": "Hearing of thy love and faith, which thou hast toward the Lord Jesus, and toward all saints;"
+        },
+        {
+            "name": "Philemon 1:6",
+            "text": "That the communication of thy faith may become effectual by the acknowledging of every good thing which is in you in Christ Jesus."
+        }
+    ],
+    "tone": "hopeful"
+}

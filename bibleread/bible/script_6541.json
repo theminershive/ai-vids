@@ -1,0 +1,23 @@
+{
+    "book": "Mark",
+    "chapter": "Chapter 13",
+    "verses": [
+        {
+            "name": "Mark 13:20",
+            "text": "And except that the Lord had shortened those days, no flesh should be saved: but for the elect\u2019s sake, whom he hath chosen, he hath shortened the days."
+        },
+        {
+            "name": "Mark 13:21",
+            "text": "And then if any man shall say to you, Lo, here is Christ; or, lo, he is there; believe him not:"
+        },
+        {
+            "name": "Mark 13:22",
+            "text": "For false Christs and false prophets shall rise, and shall shew signs and wonders, to seduce, if it were possible, even the elect."
+        },
+        {
+            "name": "Mark 13:23",
+            "text": "But take ye heed: behold, I have foretold you all things."
+        }
+    ],
+    "tone": "neutral"
+}

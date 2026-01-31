@@ -1,0 +1,19 @@
+{
+    "book": "Matthew",
+    "chapter": "Chapter 5",
+    "verses": [
+        {
+            "name": "Matthew 5:22",
+            "text": "But I say unto you, That whosoever is angry with his brother without a cause shall be in danger of the judgment: and whosoever shall say to his brother, Raca, shall be in danger of the council: but whosoever shall say, Thou fool, shall be in danger of hell fire."
+        },
+        {
+            "name": "Matthew 5:23",
+            "text": "Therefore if thou bring thy gift to the altar, and there rememberest that thy brother hath ought against thee;"
+        },
+        {
+            "name": "Matthew 5:24",
+            "text": "Leave there thy gift before the altar, and go thy way; first be reconciled to thy brother, and then come and offer thy gift."
+        }
+    ],
+    "tone": "lamenting"
+}

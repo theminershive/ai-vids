@@ -1,0 +1,35 @@
+{
+    "book": "Proverbs",
+    "chapter": "Chapter 7",
+    "verses": [
+        {
+            "name": "Proverbs 7:1",
+            "text": "My son, keep my words, and lay up my commandments with thee."
+        },
+        {
+            "name": "Proverbs 7:2",
+            "text": "Keep my commandments, and live; and my law as the apple of thine eye."
+        },
+        {
+            "name": "Proverbs 7:3",
+            "text": "Bind them upon thy fingers, write them upon the table of thine heart."
+        },
+        {
+            "name": "Proverbs 7:4",
+            "text": "Say unto wisdom, Thou art my sister; and call understanding thy kinswoman:"
+        },
+        {
+            "name": "Proverbs 7:5",
+            "text": "That they may keep thee from the strange woman, from the stranger which flattereth with her words."
+        },
+        {
+            "name": "Proverbs 7:6",
+            "text": "For at the window of my house I looked through my casement,"
+        },
+        {
+            "name": "Proverbs 7:7",
+            "text": "And beheld among the simple ones, I discerned among the youths, a young man void of understanding,"
+        }
+    ],
+    "tone": "instructional"
+}

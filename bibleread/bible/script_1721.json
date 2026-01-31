@@ -1,0 +1,43 @@
+{
+    "book": "Joshua",
+    "chapter": "Chapter 12",
+    "verses": [
+        {
+            "name": "Joshua 12:14",
+            "text": "The king of Hormah, one; the king of Arad, one;"
+        },
+        {
+            "name": "Joshua 12:15",
+            "text": "The king of Libnah, one; the king of Adullam, one;"
+        },
+        {
+            "name": "Joshua 12:16",
+            "text": "The king of Makkedah, one; the king of Beth\u2013el, one;"
+        },
+        {
+            "name": "Joshua 12:17",
+            "text": "The king of Tappuah, one; the king of Hepher, one;"
+        },
+        {
+            "name": "Joshua 12:18",
+            "text": "The king of Aphek, one; the king of Lasharon, one;"
+        },
+        {
+            "name": "Joshua 12:19",
+            "text": "The king of Madon, one; the king of Hazor, one;"
+        },
+        {
+            "name": "Joshua 12:20",
+            "text": "The king of Shimron\u2013meron, one; the king of Achshaph, one;"
+        },
+        {
+            "name": "Joshua 12:21",
+            "text": "The king of Taanach, one; the king of Megiddo, one;"
+        },
+        {
+            "name": "Joshua 12:22",
+            "text": "The king of Kedesh, one; the king of Jokneam of Carmel, one;"
+        }
+    ],
+    "tone": "neutral"
+}

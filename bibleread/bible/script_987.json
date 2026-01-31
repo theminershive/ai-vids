@@ -1,0 +1,19 @@
+{
+    "book": "Leviticus",
+    "chapter": "Chapter 27",
+    "verses": [
+        {
+            "name": "Leviticus 27:8",
+            "text": "But if he be poorer than thy estimation, then he shall present himself before the priest, and the priest shall value him; according to his ability that vowed shall the priest value him."
+        },
+        {
+            "name": "Leviticus 27:9",
+            "text": "And if it be a beast, whereof men bring an offering unto the Lord, all that any man giveth of such unto the Lord shall be holy."
+        },
+        {
+            "name": "Leviticus 27:10",
+            "text": "He shall not alter it, nor change it, a good for a bad, or a bad for a good: and if he shall at all change beast for beast, then it and the exchange thereof shall be holy."
+        }
+    ],
+    "tone": "lamenting"
+}

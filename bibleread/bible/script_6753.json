@@ -1,0 +1,23 @@
+{
+    "book": "Luke",
+    "chapter": "Chapter 14",
+    "verses": [
+        {
+            "name": "Luke 14:28",
+            "text": "For which of you, intending to build a tower, sitteth not down first, and counteth the cost, whether he have sufficient to finish it?"
+        },
+        {
+            "name": "Luke 14:29",
+            "text": "Lest haply, after he hath laid the foundation, and is not able to finish it, all that behold it begin to mock him,"
+        },
+        {
+            "name": "Luke 14:30",
+            "text": "Saying, This man began to build, and was not able to finish."
+        },
+        {
+            "name": "Luke 14:31",
+            "text": "Or what king, going to make war against another king, sitteth not down first, and consulteth whether he be able with ten thousand to meet him that cometh against him with twenty thousand?"
+        }
+    ],
+    "tone": "lamenting"
+}

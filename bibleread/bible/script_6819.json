@@ -1,0 +1,19 @@
+{
+    "book": "Luke",
+    "chapter": "Chapter 21",
+    "verses": [
+        {
+            "name": "Luke 21:36",
+            "text": "Watch ye therefore, and pray always, that ye may be accounted worthy to escape all these things that shall come to pass, and to stand before the Son of man."
+        },
+        {
+            "name": "Luke 21:37",
+            "text": "And in the day time he was teaching in the temple; and at night he went out, and abode in the mount that is called the mount of Olives."
+        },
+        {
+            "name": "Luke 21:38",
+            "text": "And all the people came early in the morning to him in the temple, for to hear him. "
+        }
+    ],
+    "tone": "neutral"
+}

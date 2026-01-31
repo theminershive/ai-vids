@@ -1,0 +1,35 @@
+{
+    "book": "Lamentations",
+    "chapter": "Chapter 5",
+    "verses": [
+        {
+            "name": "Lamentations 5:1",
+            "text": "Remember, O Lord, what is come upon us: consider, and behold our reproach."
+        },
+        {
+            "name": "Lamentations 5:2",
+            "text": "Our inheritance is turned to strangers, our houses to aliens."
+        },
+        {
+            "name": "Lamentations 5:3",
+            "text": "We are orphans and fatherless, our mothers are as widows."
+        },
+        {
+            "name": "Lamentations 5:4",
+            "text": "We have drunken our water for money; our wood is sold unto us."
+        },
+        {
+            "name": "Lamentations 5:5",
+            "text": "Our necks are under persecution: we labour, and have no rest."
+        },
+        {
+            "name": "Lamentations 5:6",
+            "text": "We have given the hand to the Egyptians, and to the Assyrians, to be satisfied with bread."
+        },
+        {
+            "name": "Lamentations 5:7",
+            "text": "Our fathers have sinned, and are not; and we have borne their iniquities."
+        }
+    ],
+    "tone": "hopeful"
+}

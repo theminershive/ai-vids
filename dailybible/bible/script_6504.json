@@ -1,0 +1,31 @@
+{
+    "book": "Mark",
+    "chapter": "Chapter 10",
+    "verses": [
+        {
+            "name": "Mark 10:5",
+            "text": "And Jesus answered and said unto them, For the hardness of your heart he wrote you this precept."
+        },
+        {
+            "name": "Mark 10:6",
+            "text": "But from the beginning of the creation God made them male and female."
+        },
+        {
+            "name": "Mark 10:7",
+            "text": "For this cause shall a man leave his father and mother, and cleave to his wife;"
+        },
+        {
+            "name": "Mark 10:8",
+            "text": "And they twain shall be one flesh: so then they are no more twain, but one flesh."
+        },
+        {
+            "name": "Mark 10:9",
+            "text": "What therefore God hath joined together, let not man put asunder."
+        },
+        {
+            "name": "Mark 10:10",
+            "text": "And in the house his disciples asked him again of the same matter. "
+        }
+    ],
+    "tone": "neutral"
+}

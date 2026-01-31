@@ -1,0 +1,19 @@
+{
+    "book": "2 Kings",
+    "chapter": "Chapter 8",
+    "verses": [
+        {
+            "name": "2 Kings 8:10",
+            "text": "And Elisha said unto him, Go, say unto him, Thou mayest certainly recover: howbeit the Lord hath shewed me that he shall surely die."
+        },
+        {
+            "name": "2 Kings 8:11",
+            "text": "And he settled his countenance stedfastly, until he was ashamed: and the man of God wept."
+        },
+        {
+            "name": "2 Kings 8:12",
+            "text": "And Hazael said, Why weepeth my lord? And he answered, Because I know the evil that thou wilt do unto the children of Israel: their strong holds wilt thou set on fire, and their young men wilt thou slay with the sword, and wilt dash their children, and rip up their women with child."
+        }
+    ],
+    "tone": "instructional"
+}

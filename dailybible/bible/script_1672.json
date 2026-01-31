@@ -1,0 +1,15 @@
+{
+    "book": "Joshua",
+    "chapter": "Chapter 7",
+    "verses": [
+        {
+            "name": "Joshua 7:1",
+            "text": "But the children of Israel committed a trespass in the accursed thing: for Achan, the son of Carmi, the son of Zabdi, the son of Zerah, of the tribe of Judah, took of the accursed thing: and the anger of the Lord was kindled against the children of Israel."
+        },
+        {
+            "name": "Joshua 7:2",
+            "text": "And Joshua sent men from Jericho to Ai, which is beside Beth\u2013aven, on the east side of Beth\u2013el, and spake unto them, saying, Go up and view the country. And the men went up and viewed Ai."
+        }
+    ],
+    "tone": "neutral"
+}

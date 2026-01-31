@@ -1,0 +1,15 @@
+{
+    "book": "Joshua",
+    "chapter": "Chapter 10",
+    "verses": [
+        {
+            "name": "Joshua 10:5",
+            "text": "Therefore the five kings of the Amorites, the king of Jerusalem, the king of Hebron, the king of Jarmuth, the king of Lachish, the king of Eglon, gathered themselves together, and went up, they and all their hosts, and encamped before Gibeon, and made war against it."
+        },
+        {
+            "name": "Joshua 10:6",
+            "text": "And the men of Gibeon sent unto Joshua to the camp to Gilgal, saying, Slack not thy hand from thy servants; come up to us quickly, and save us, and help us: for all the kings of the Amorites that dwell in the mountains are gathered together against us."
+        }
+    ],
+    "tone": "neutral"
+}

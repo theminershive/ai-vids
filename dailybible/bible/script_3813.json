@@ -1,0 +1,31 @@
+{
+    "book": "Job",
+    "chapter": "Chapter 38",
+    "verses": [
+        {
+            "name": "Job 38:28",
+            "text": "Hath the rain a father? or who hath begotten the drops of dew?"
+        },
+        {
+            "name": "Job 38:29",
+            "text": "Out of whose womb came the ice? and the hoary frost of heaven, who hath gendered it?"
+        },
+        {
+            "name": "Job 38:30",
+            "text": "The waters are hid as with a stone, and the face of the deep is frozen."
+        },
+        {
+            "name": "Job 38:31",
+            "text": "Canst thou bind the sweet influences of Pleiades, or loose the bands of Orion?"
+        },
+        {
+            "name": "Job 38:32",
+            "text": "Canst thou bring forth Mazzaroth in his season? or canst thou guide Arcturus with his sons?"
+        },
+        {
+            "name": "Job 38:33",
+            "text": "Knowest thou the ordinances of heaven? canst thou set the dominion thereof in the earth?"
+        }
+    ],
+    "tone": "hopeful"
+}

@@ -1,0 +1,19 @@
+{
+    "book": "Ruth",
+    "chapter": "Chapter 3",
+    "verses": [
+        {
+            "name": "Ruth 3:1",
+            "text": "Then Naomi her mother in law said unto her, My daughter, shall I not seek rest for thee, that it may be well with thee?"
+        },
+        {
+            "name": "Ruth 3:2",
+            "text": "And now is not Boaz of our kindred, with whose maidens thou wast? Behold, he winnoweth barley to night in the threshingfloor."
+        },
+        {
+            "name": "Ruth 3:3",
+            "text": "Wash thyself therefore, and anoint thee, and put thy raiment upon thee, and get thee down to the floor: but make not thyself known unto the man, until he shall have done eating and drinking."
+        }
+    ],
+    "tone": "instructional"
+}

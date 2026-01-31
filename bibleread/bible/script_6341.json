@@ -1,0 +1,27 @@
+{
+    "book": "Matthew",
+    "chapter": "Chapter 22",
+    "verses": [
+        {
+            "name": "Matthew 22:16",
+            "text": "And they sent out unto him their disciples with the Herodians, saying, Master, we know that thou art true, and teachest the way of God in truth, neither carest thou for any man: for thou regardest not the person of men."
+        },
+        {
+            "name": "Matthew 22:17",
+            "text": "Tell us therefore, What thinkest thou? Is it lawful to give tribute unto Cesar, or not?"
+        },
+        {
+            "name": "Matthew 22:18",
+            "text": "But Jesus perceived their wickedness, and said, Why tempt ye me, ye hypocrites?"
+        },
+        {
+            "name": "Matthew 22:19",
+            "text": "Shew me the tribute money. And they brought unto him a penny."
+        },
+        {
+            "name": "Matthew 22:20",
+            "text": "And he saith unto them, Whose is this image and superscription?"
+        }
+    ],
+    "tone": "lamenting"
+}

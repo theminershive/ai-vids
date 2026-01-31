@@ -1,0 +1,19 @@
+{
+    "book": "Daniel",
+    "chapter": "Chapter 11",
+    "verses": [
+        {
+            "name": "Daniel 11:33",
+            "text": "And they that understand among the people shall instruct many: yet they shall fall by the sword, and by flame, by captivity, and by spoil, many days."
+        },
+        {
+            "name": "Daniel 11:34",
+            "text": "Now when they shall fall, they shall be holpen with a little help: but many shall cleave to them with flatteries."
+        },
+        {
+            "name": "Daniel 11:35",
+            "text": "And some of them of understanding shall fall, to try them, and to purge, and to make them white, even to the time of the end: because it is yet for a time appointed."
+        }
+    ],
+    "tone": "instructional"
+}

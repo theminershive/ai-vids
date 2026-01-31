@@ -1,0 +1,19 @@
+{
+    "book": "Galatians",
+    "chapter": "Chapter 3",
+    "verses": [
+        {
+            "name": "Galatians 3:19",
+            "text": "Wherefore then serveth the law? It was added because of transgressions, till the seed should come to whom the promise was made; and it was ordained by angels in the hand of a mediator."
+        },
+        {
+            "name": "Galatians 3:20",
+            "text": "Now a mediator is not a mediator of one, but God is one."
+        },
+        {
+            "name": "Galatians 3:21",
+            "text": "Is the law then against the promises of God? God forbid: for if there had been a law given which could have given life, verily righteousness should have been by the law."
+        }
+    ],
+    "tone": "instructional"
+}

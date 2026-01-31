@@ -1,0 +1,23 @@
+{
+    "book": "1 John",
+    "chapter": "Chapter 5",
+    "verses": [
+        {
+            "name": "1 John 5:5",
+            "text": "Who is he that overcometh the world, but he that believeth that Jesus is the Son of God?"
+        },
+        {
+            "name": "1 John 5:6",
+            "text": "This is he that came by water and blood, even Jesus Christ; not by water only, but by water and blood. And it is the Spirit that beareth witness, because the Spirit is truth."
+        },
+        {
+            "name": "1 John 5:7",
+            "text": "For there are three that bear record in heaven, the Father, the Word, and the Holy Ghost: and these three are one."
+        },
+        {
+            "name": "1 John 5:8",
+            "text": "And there are three that bear witness in earth, the spirit, and the water, and the blood: and these three agree in one."
+        }
+    ],
+    "tone": "instructional"
+}

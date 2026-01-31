@@ -1,0 +1,23 @@
+{
+    "book": "Luke",
+    "chapter": "Chapter 19",
+    "verses": [
+        {
+            "name": "Luke 19:10",
+            "text": "For the Son of man is come to seek and to save that which was lost."
+        },
+        {
+            "name": "Luke 19:11",
+            "text": "And as they heard these things, he added and spake a parable, because he was nigh to Jerusalem, and because they thought that the kingdom of God should immediately appear."
+        },
+        {
+            "name": "Luke 19:12",
+            "text": "He said therefore, A certain nobleman went into a far country to receive for himself a kingdom, and to return."
+        },
+        {
+            "name": "Luke 19:13",
+            "text": "And he called his ten servants, and delivered them ten pounds, and said unto them, Occupy till I come."
+        }
+    ],
+    "tone": "neutral"
+}

@@ -1,0 +1,19 @@
+{
+    "book": "2 Samuel",
+    "chapter": "Chapter 1",
+    "verses": [
+        {
+            "name": "2 Samuel 1:20",
+            "text": "Tell it not in Gath, publish it not in the streets of Askelon; lest the daughters of the Philistines rejoice, lest the daughters of the uncircumcised triumph."
+        },
+        {
+            "name": "2 Samuel 1:21",
+            "text": "Ye mountains of Gilboa, let there be no dew, neither let there be rain, upon you, nor fields of offerings: for there the shield of the mighty is vilely cast away, the shield of Saul, as though he had not been anointed with oil."
+        },
+        {
+            "name": "2 Samuel 1:22",
+            "text": "From the blood of the slain, from the fat of the mighty, the bow of Jonathan turned not back, and the sword of Saul returned not empty."
+        }
+    ],
+    "tone": "hopeful"
+}

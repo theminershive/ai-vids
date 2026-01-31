@@ -1,0 +1,23 @@
+{
+    "book": "Exodus",
+    "chapter": "Chapter 1",
+    "verses": [
+        {
+            "name": "Exodus 1:8",
+            "text": "Now there arose up a new king over Egypt, which knew not Joseph."
+        },
+        {
+            "name": "Exodus 1:9",
+            "text": "And he said unto his people, Behold, the people of the children of Israel are more and mightier than we:"
+        },
+        {
+            "name": "Exodus 1:10",
+            "text": "Come on, let us deal wisely with them; lest they multiply, and it come to pass, that, when there falleth out any war, they join also unto our enemies, and fight against us, and so get them up out of the land."
+        },
+        {
+            "name": "Exodus 1:11",
+            "text": "Therefore they did set over them taskmasters to afflict them with their burdens. And they built for Pharaoh treasure cities, Pithom and Raamses."
+        }
+    ],
+    "tone": "neutral"
+}

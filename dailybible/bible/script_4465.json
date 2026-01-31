@@ -1,0 +1,27 @@
+{
+    "book": "Ecclesiastes",
+    "chapter": "Chapter 10",
+    "verses": [
+        {
+            "name": "Ecclesiastes 10:10",
+            "text": "If the iron be blunt, and he do not whet the edge, then must he put to more strength: but wisdom is profitable to direct."
+        },
+        {
+            "name": "Ecclesiastes 10:11",
+            "text": "Surely the serpent will bite without enchantment; and a babbler is no better."
+        },
+        {
+            "name": "Ecclesiastes 10:12",
+            "text": "The words of a wise man\u2019s mouth are gracious; but the lips of a fool will swallow up himself."
+        },
+        {
+            "name": "Ecclesiastes 10:13",
+            "text": "The beginning of the words of his mouth is foolishness: and the end of his talk is mischievous madness."
+        },
+        {
+            "name": "Ecclesiastes 10:14",
+            "text": "A fool also is full of words: a man cannot tell what shall be; and what shall be after him, who can tell him?"
+        }
+    ],
+    "tone": "instructional"
+}

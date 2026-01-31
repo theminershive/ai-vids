@@ -1,0 +1,15 @@
+{
+    "book": "John",
+    "chapter": "Chapter 20",
+    "verses": [
+        {
+            "name": "John 20:25",
+            "text": "The other disciples therefore said unto him, We have seen the Lord. But he said unto them, Except I shall see in his hands the print of the nails, and put my finger into the print of the nails, and thrust my hand into his side, I will not believe."
+        },
+        {
+            "name": "John 20:26",
+            "text": "And after eight days again his disciples were within, and Thomas with them: then came Jesus, the doors being shut, and stood in the midst, and said, Peace be unto you."
+        }
+    ],
+    "tone": "neutral"
+}

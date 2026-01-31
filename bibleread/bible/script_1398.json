@@ -1,0 +1,19 @@
+{
+    "book": "Deuteronomy",
+    "chapter": "Chapter 7",
+    "verses": [
+        {
+            "name": "Deuteronomy 7:3",
+            "text": "Neither shalt thou make marriages with them; thy daughter thou shalt not give unto his son, nor his daughter shalt thou take unto thy son."
+        },
+        {
+            "name": "Deuteronomy 7:4",
+            "text": "For they will turn away thy son from following me, that they may serve other gods: so will the anger of the Lord be kindled against you, and destroy thee suddenly."
+        },
+        {
+            "name": "Deuteronomy 7:5",
+            "text": "But thus shall ye deal with them; ye shall destroy their altars, and break down their images, and cut down their groves, and burn their graven images with fire."
+        }
+    ],
+    "tone": "lamenting"
+}

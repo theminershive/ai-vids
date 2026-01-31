@@ -1,0 +1,19 @@
+{
+    "book": "Numbers",
+    "chapter": "Chapter 3",
+    "verses": [
+        {
+            "name": "Numbers 3:31",
+            "text": "And their charge shall be the ark, and the table, and the candlestick, and the altars, and the vessels of the sanctuary wherewith they minister, and the hanging, and all the service thereof."
+        },
+        {
+            "name": "Numbers 3:32",
+            "text": "And Eleazar the son of Aaron the priest shall be chief over the chief of the Levites, and have the oversight of them that keep the charge of the sanctuary."
+        },
+        {
+            "name": "Numbers 3:33",
+            "text": "Of Merari was the family of the Mahlites, and the family of the Mushites: these are the families of Merari."
+        }
+    ],
+    "tone": "neutral"
+}

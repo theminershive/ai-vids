@@ -1,0 +1,27 @@
+{
+    "book": "Song of Solomon",
+    "chapter": "Chapter 4",
+    "verses": [
+        {
+            "name": "Song of Songs 4:11",
+            "text": "Thy lips, O my spouse, drop as the honeycomb: honey and milk are under thy tongue; and the smell of thy garments is like the smell of Lebanon."
+        },
+        {
+            "name": "Song of Songs 4:12",
+            "text": "A garden inclosed is my sister, my spouse; a spring shut up, a fountain sealed."
+        },
+        {
+            "name": "Song of Songs 4:13",
+            "text": "Thy plants are an orchard of pomegranates, with pleasant fruits; camphire, with spikenard,"
+        },
+        {
+            "name": "Song of Songs 4:14",
+            "text": "Spikenard and saffron; calamus and cinnamon, with all trees of frankincense; myrrh and aloes, with all the chief spices:"
+        },
+        {
+            "name": "Song of Songs 4:15",
+            "text": "A fountain of gardens, a well of living waters, and streams from Lebanon."
+        }
+    ],
+    "tone": "hopeful"
+}

@@ -1,0 +1,31 @@
+{
+    "book": "Psalms",
+    "chapter": "Chapter 33",
+    "verses": [
+        {
+            "name": "Psalms 33:12",
+            "text": "Blessed is the nation whose God is the Lord; and the people whom he hath chosen for his own inheritance."
+        },
+        {
+            "name": "Psalms 33:13",
+            "text": "The Lord looketh from heaven; he beholdeth all the sons of men."
+        },
+        {
+            "name": "Psalms 33:14",
+            "text": "From the place of his habitation he looketh upon all the inhabitants of the earth."
+        },
+        {
+            "name": "Psalms 33:15",
+            "text": "He fashioneth their hearts alike; he considereth all their works."
+        },
+        {
+            "name": "Psalms 33:16",
+            "text": "There is no king saved by the multitude of an host: a mighty man is not delivered by much strength."
+        },
+        {
+            "name": "Psalms 33:17",
+            "text": "An horse is a vain thing for safety: neither shall he deliver any by his great strength."
+        }
+    ],
+    "tone": "neutral"
+}

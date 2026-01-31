@@ -1,0 +1,23 @@
+{
+    "book": "Romans",
+    "chapter": "Chapter 5",
+    "verses": [
+        {
+            "name": "Romans 5:7",
+            "text": "For scarcely for a righteous man will one die: yet peradventure for a good man some would even dare to die."
+        },
+        {
+            "name": "Romans 5:8",
+            "text": "But God commendeth his love toward us, in that, while we were yet sinners, Christ died for us."
+        },
+        {
+            "name": "Romans 5:9",
+            "text": "Much more then, being now justified by his blood, we shall be saved from wrath through him."
+        },
+        {
+            "name": "Romans 5:10",
+            "text": "For if, when we were enemies, we were reconciled to God by the death of his Son, much more, being reconciled, we shall be saved by his life."
+        }
+    ],
+    "tone": "hopeful"
+}

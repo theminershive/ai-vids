@@ -1,0 +1,19 @@
+{
+    "book": "Jeremiah",
+    "chapter": "Chapter 5",
+    "verses": [
+        {
+            "name": "Jeremiah 5:12",
+            "text": "They have belied the Lord, and said, It is not he; neither shall evil come upon us; neither shall we see sword nor famine:"
+        },
+        {
+            "name": "Jeremiah 5:13",
+            "text": "And the prophets shall become wind, and the word is not in them: thus shall it be done unto them."
+        },
+        {
+            "name": "Jeremiah 5:14",
+            "text": "Wherefore thus saith the Lord God of hosts, Because ye speak this word, behold, I will make my words in thy mouth fire, and this people wood, and it shall devour them."
+        }
+    ],
+    "tone": "instructional"
+}

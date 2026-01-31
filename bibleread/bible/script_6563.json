@@ -1,0 +1,27 @@
+{
+    "book": "Mark",
+    "chapter": "Chapter 15",
+    "verses": [
+        {
+            "name": "Mark 15:1",
+            "text": "And straightway in the morning the chief priests held a consultation with the elders and scribes and the whole council, and bound Jesus, and carried him away, and delivered him to Pilate."
+        },
+        {
+            "name": "Mark 15:2",
+            "text": "And Pilate asked him, Art thou the King of the Jews? And he answering said unto him, Thou sayest it."
+        },
+        {
+            "name": "Mark 15:3",
+            "text": "And the chief priests accused him of many things: but he answered nothing."
+        },
+        {
+            "name": "Mark 15:4",
+            "text": "And Pilate asked him again, saying, Answerest thou nothing? behold how many things they witness against thee."
+        },
+        {
+            "name": "Mark 15:5",
+            "text": "But Jesus yet answered nothing; so that Pilate marvelled."
+        }
+    ],
+    "tone": "neutral"
+}

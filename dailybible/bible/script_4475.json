@@ -1,0 +1,15 @@
+{
+    "book": "Song of Solomon",
+    "chapter": "Chapter 1",
+    "verses": [
+        {
+            "name": "Song of Songs 1:6",
+            "text": "Look not upon me, because I am black, because the sun hath looked upon me: my mother\u2019s children were angry with me; they made me the keeper of the vineyards; but mine own vineyard have I not kept."
+        },
+        {
+            "name": "Song of Songs 1:7",
+            "text": "Tell me, O thou whom my soul loveth, where thou feedest, where thou makest thy flock to rest at noon: for why should I be as one that turneth aside by the flocks of thy companions?"
+        }
+    ],
+    "tone": "lamenting"
+}

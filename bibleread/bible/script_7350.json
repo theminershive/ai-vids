@@ -1,0 +1,19 @@
+{
+    "book": "Romans",
+    "chapter": "Chapter 5",
+    "verses": [
+        {
+            "name": "Romans 5:17",
+            "text": "For if by one man\u2019s offence death reigned by one; much more they which receive abundance of grace and of the gift of righteousness shall reign in life by one, Jesus Christ.)"
+        },
+        {
+            "name": "Romans 5:18",
+            "text": "Therefore as by the offence of one judgment came upon all men to condemnation; even so by the righteousness of one the free gift came upon all men unto justification of life."
+        },
+        {
+            "name": "Romans 5:19",
+            "text": "For as by one man\u2019s disobedience many were made sinners, so by the obedience of one shall many be made righteous."
+        }
+    ],
+    "tone": "instructional"
+}

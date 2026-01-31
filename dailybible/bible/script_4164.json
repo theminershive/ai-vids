@@ -1,0 +1,27 @@
+{
+    "book": "Psalms",
+    "chapter": "Chapter 111",
+    "verses": [
+        {
+            "name": "Psalms 111:1",
+            "text": "Praise ye the Lord. I will praise the Lord with my whole heart, in the assembly of the upright, and in the congregation."
+        },
+        {
+            "name": "Psalms 111:2",
+            "text": "The works of the Lord are great, sought out of all them that have pleasure therein."
+        },
+        {
+            "name": "Psalms 111:3",
+            "text": "His work is honourable and glorious: and his righteousness endureth for ever."
+        },
+        {
+            "name": "Psalms 111:4",
+            "text": "He hath made his wonderful works to be remembered: the Lord is gracious and full of compassion."
+        },
+        {
+            "name": "Psalms 111:5",
+            "text": "He hath given meat unto them that fear him: he will ever be mindful of his covenant."
+        }
+    ],
+    "tone": "praising"
+}

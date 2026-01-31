@@ -1,0 +1,23 @@
+{
+    "book": "Romans",
+    "chapter": "Chapter 7",
+    "verses": [
+        {
+            "name": "Romans 7:13",
+            "text": "Was then that which is good made death unto me? God forbid. But sin, that it might appear sin, working death in me by that which is good; that sin by the commandment might become exceeding sinful."
+        },
+        {
+            "name": "Romans 7:14",
+            "text": "For we know that the law is spiritual: but I am carnal, sold under sin."
+        },
+        {
+            "name": "Romans 7:15",
+            "text": "For that which I do I allow not: for what I would, that do I not; but what I hate, that do I."
+        },
+        {
+            "name": "Romans 7:16",
+            "text": "If then I do that which I would not, I consent unto the law that it is good."
+        }
+    ],
+    "tone": "instructional"
+}

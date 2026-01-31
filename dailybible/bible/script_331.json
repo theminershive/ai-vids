@@ -1,0 +1,23 @@
+{
+    "book": "Genesis",
+    "chapter": "Chapter 42",
+    "verses": [
+        {
+            "name": "Genesis 42:16",
+            "text": "Send one of you, and let him fetch your brother, and ye shall be kept in prison, that your words may be proved, whether there be any truth in you: or else by the life of Pharaoh surely ye are spies."
+        },
+        {
+            "name": "Genesis 42:17",
+            "text": "And he put them all together into ward three days."
+        },
+        {
+            "name": "Genesis 42:18",
+            "text": "And Joseph said unto them the third day, This do, and live; for I fear God:"
+        },
+        {
+            "name": "Genesis 42:19",
+            "text": "If ye be true men, let one of your brethren be bound in the house of your prison: go ye, carry corn for the famine of your houses:"
+        }
+    ],
+    "tone": "neutral"
+}

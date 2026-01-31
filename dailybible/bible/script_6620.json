@@ -1,0 +1,23 @@
+{
+    "book": "Luke",
+    "chapter": "Chapter 4",
+    "verses": [
+        {
+            "name": "Luke 4:14",
+            "text": "And Jesus returned in the power of the Spirit into Galilee: and there went out a fame of him through all the region round about."
+        },
+        {
+            "name": "Luke 4:15",
+            "text": "And he taught in their synagogues, being glorified of all."
+        },
+        {
+            "name": "Luke 4:16",
+            "text": "And he came to Nazareth, where he had been brought up: and, as his custom was, he went into the synagogue on the sabbath day, and stood up for to read."
+        },
+        {
+            "name": "Luke 4:17",
+            "text": "And there was delivered unto him the book of the prophet Esaias. And when he had opened the book, he found the place where it was written,"
+        }
+    ],
+    "tone": "neutral"
+}

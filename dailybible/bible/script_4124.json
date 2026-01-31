@@ -1,0 +1,35 @@
+{
+    "book": "Psalms",
+    "chapter": "Chapter 103",
+    "verses": [
+        {
+            "name": "Psalms 103:1",
+            "text": "Bless the Lord, O my soul: and all that is within me, bless his holy name."
+        },
+        {
+            "name": "Psalms 103:2",
+            "text": "Bless the Lord, O my soul, and forget not all his benefits:"
+        },
+        {
+            "name": "Psalms 103:3",
+            "text": "Who forgiveth all thine iniquities; who healeth all thy diseases;"
+        },
+        {
+            "name": "Psalms 103:4",
+            "text": "Who redeemeth thy life from destruction; who crowneth thee with lovingkindness and tender mercies;"
+        },
+        {
+            "name": "Psalms 103:5",
+            "text": "Who satisfieth thy mouth with good things; so that thy youth is renewed like the eagle\u2019s."
+        },
+        {
+            "name": "Psalms 103:6",
+            "text": "The Lord executeth righteousness and judgment for all that are oppressed."
+        },
+        {
+            "name": "Psalms 103:7",
+            "text": "He made known his ways unto Moses, his acts unto the children of Israel."
+        }
+    ],
+    "tone": "praising"
+}

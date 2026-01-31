@@ -1,0 +1,27 @@
+{
+    "book": "Luke",
+    "chapter": "Chapter 24",
+    "verses": [
+        {
+            "name": "Luke 24:47",
+            "text": "And that repentance and remission of sins should be preached in his name among all nations, beginning at Jerusalem."
+        },
+        {
+            "name": "Luke 24:48",
+            "text": "And ye are witnesses of these things."
+        },
+        {
+            "name": "Luke 24:49",
+            "text": "And, behold, I send the promise of my Father upon you: but tarry ye in the city of Jerusalem, until ye be endued with power from on high."
+        },
+        {
+            "name": "Luke 24:50",
+            "text": "And he led them out as far as to Bethany, and he lifted up his hands, and blessed them."
+        },
+        {
+            "name": "Luke 24:51",
+            "text": "And it came to pass, while he blessed them, he was parted from them, and carried up into heaven."
+        }
+    ],
+    "tone": "neutral"
+}

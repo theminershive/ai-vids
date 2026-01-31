@@ -1,0 +1,27 @@
+{
+    "book": "Acts",
+    "chapter": "Chapter 16",
+    "verses": [
+        {
+            "name": "Acts 16:4",
+            "text": "And as they went through the cities, they delivered them the decrees for to keep, that were ordained of the apostles and elders which were at Jerusalem."
+        },
+        {
+            "name": "Acts 16:5",
+            "text": "And so were the churches established in the faith, and increased in number daily."
+        },
+        {
+            "name": "Acts 16:6",
+            "text": "Now when they had gone throughout Phrygia and the region of Galatia, and were forbidden of the Holy Ghost to preach the word in Asia,"
+        },
+        {
+            "name": "Acts 16:7",
+            "text": "After they were come to Mysia, they assayed to go into Bithynia: but the Spirit suffered them not."
+        },
+        {
+            "name": "Acts 16:8",
+            "text": "And they passing by Mysia came down to Troas."
+        }
+    ],
+    "tone": "instructional"
+}

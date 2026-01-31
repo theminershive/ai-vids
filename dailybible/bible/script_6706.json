@@ -1,0 +1,23 @@
+{
+    "book": "Luke",
+    "chapter": "Chapter 10",
+    "verses": [
+        {
+            "name": "Luke 10:35",
+            "text": "And on the morrow when he departed, he took out two pence, and gave them to the host, and said unto him, Take care of him; and whatsoever thou spendest more, when I come again, I will repay thee."
+        },
+        {
+            "name": "Luke 10:36",
+            "text": "Which now of these three, thinkest thou, was neighbour unto him that fell among the thieves?"
+        },
+        {
+            "name": "Luke 10:37",
+            "text": "And he said, He that shewed mercy on him. Then said Jesus unto him, Go, and do thou likewise."
+        },
+        {
+            "name": "Luke 10:38",
+            "text": "Now it came to pass, as they went, that he entered into a certain village: and a certain woman named Martha received him into her house."
+        }
+    ],
+    "tone": "neutral"
+}

@@ -1,0 +1,23 @@
+{
+    "book": "Matthew",
+    "chapter": "Chapter 10",
+    "verses": [
+        {
+            "name": "Matthew 10:10",
+            "text": "Nor scrip for your journey, neither two coats, neither shoes, nor yet staves: for the workman is worthy of his meat."
+        },
+        {
+            "name": "Matthew 10:11",
+            "text": "And into whatsoever city or town ye shall enter, enquire who in it is worthy; and there abide till ye go thence."
+        },
+        {
+            "name": "Matthew 10:12",
+            "text": "And when ye come into an house, salute it."
+        },
+        {
+            "name": "Matthew 10:13",
+            "text": "And if the house be worthy, let your peace come upon it: but if it be not worthy, let your peace return to you."
+        }
+    ],
+    "tone": "hopeful"
+}

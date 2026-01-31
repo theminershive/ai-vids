@@ -1,0 +1,23 @@
+{
+    "book": "Exodus",
+    "chapter": "Chapter 5",
+    "verses": [
+        {
+            "name": "Exodus 5:6",
+            "text": "And Pharaoh commanded the same day the taskmasters of the people, and their officers, saying,"
+        },
+        {
+            "name": "Exodus 5:7",
+            "text": "Ye shall no more give the people straw to make brick, as heretofore: let them go and gather straw for themselves."
+        },
+        {
+            "name": "Exodus 5:8",
+            "text": "And the tale of the bricks, which they did make heretofore, ye shall lay upon them; ye shall not diminish ought thereof: for they be idle; therefore they cry, saying, Let us go and sacrifice to our God."
+        },
+        {
+            "name": "Exodus 5:9",
+            "text": "Let there more work be laid upon the men, that they may labour therein; and let them not regard vain words."
+        }
+    ],
+    "tone": "neutral"
+}

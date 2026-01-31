@@ -1,0 +1,19 @@
+{
+    "book": "Exodus",
+    "chapter": "Chapter 19",
+    "verses": [
+        {
+            "name": "Exodus 19:21",
+            "text": "And the Lord said unto Moses, Go down, charge the people, lest they break through unto the Lord to gaze, and many of them perish."
+        },
+        {
+            "name": "Exodus 19:22",
+            "text": "And let the priests also, which come near to the Lord, sanctify themselves, lest the Lord break forth upon them."
+        },
+        {
+            "name": "Exodus 19:23",
+            "text": "And Moses said unto the Lord, The people cannot come up to mount Sinai: for thou chargedst us, saying, Set bounds about the mount, and sanctify it."
+        }
+    ],
+    "tone": "neutral"
+}

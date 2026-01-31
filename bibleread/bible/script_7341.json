@@ -1,0 +1,27 @@
+{
+    "book": "Romans",
+    "chapter": "Chapter 3",
+    "verses": [
+        {
+            "name": "Romans 3:26",
+            "text": "To declare, I say, at this time his righteousness: that he might be just, and the justifier of him which believeth in Jesus."
+        },
+        {
+            "name": "Romans 3:27",
+            "text": "Where is boasting then? It is excluded. By what law? of works? Nay: but by the law of faith."
+        },
+        {
+            "name": "Romans 3:28",
+            "text": "Therefore we conclude that a man is justified by faith without the deeds of the law."
+        },
+        {
+            "name": "Romans 3:29",
+            "text": "Is he the God of the Jews only? is he not also of the Gentiles? Yes, of the Gentiles also:"
+        },
+        {
+            "name": "Romans 3:30",
+            "text": "Seeing it is one God, which shall justify the circumcision by faith, and uncircumcision through faith."
+        }
+    ],
+    "tone": "hopeful"
+}

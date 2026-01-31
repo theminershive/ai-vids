@@ -1,0 +1,19 @@
+{
+    "book": "Amos",
+    "chapter": "Chapter 2",
+    "verses": [
+        {
+            "name": "Amos 2:4",
+            "text": "Thus saith the Lord; For three transgressions of Judah, and for four, I will not turn away the punishment thereof; because they have despised the law of the Lord, and have not kept his commandments, and their lies caused them to err, after the which their fathers have walked:"
+        },
+        {
+            "name": "Amos 2:5",
+            "text": "But I will send a fire upon Judah, and it shall devour the palaces of Jerusalem."
+        },
+        {
+            "name": "Amos 2:6",
+            "text": "Thus saith the Lord; For three transgressions of Israel, and for four, I will not turn away the punishment thereof; because they sold the righteous for silver, and the poor for a pair of shoes;"
+        }
+    ],
+    "tone": "instructional"
+}

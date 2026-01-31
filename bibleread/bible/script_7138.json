@@ -1,0 +1,23 @@
+{
+    "book": "Acts",
+    "chapter": "Chapter 9",
+    "verses": [
+        {
+            "name": "Acts 9:18",
+            "text": "And immediately there fell from his eyes as it had been scales: and he received sight forthwith, and arose, and was baptized."
+        },
+        {
+            "name": "Acts 9:19",
+            "text": "And when he had received meat, he was strengthened. Then was Saul certain days with the disciples which were at Damascus."
+        },
+        {
+            "name": "Acts 9:20",
+            "text": "And straightway he preached Christ in the synagogues, that he is the Son of God."
+        },
+        {
+            "name": "Acts 9:21",
+            "text": "But all that heard him were amazed, and said; Is not this he that destroyed them which called on this name in Jerusalem, and came hither for that intent, that he might bring them bound unto the chief priests?"
+        }
+    ],
+    "tone": "hopeful"
+}

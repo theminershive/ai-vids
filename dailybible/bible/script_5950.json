@@ -1,0 +1,23 @@
+{
+    "book": "Amos",
+    "chapter": "Chapter 5",
+    "verses": [
+        {
+            "name": "Amos 5:1",
+            "text": "Hear ye this word which I take up against you, even a lamentation, O house of Israel."
+        },
+        {
+            "name": "Amos 5:2",
+            "text": "The virgin of Israel is fallen; she shall no more rise: she is forsaken upon her land; there is none to raise her up."
+        },
+        {
+            "name": "Amos 5:3",
+            "text": "For thus saith the Lord God; The city that went out by a thousand shall leave an hundred, and that which went forth by an hundred shall leave ten, to the house of Israel."
+        },
+        {
+            "name": "Amos 5:4",
+            "text": "For thus saith the Lord unto the house of Israel, Seek ye me, and ye shall live:"
+        }
+    ],
+    "tone": "neutral"
+}

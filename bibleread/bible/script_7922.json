@@ -1,0 +1,19 @@
+{
+    "book": "1 John",
+    "chapter": "Chapter 2",
+    "verses": [
+        {
+            "name": "1 John 2:18",
+            "text": "Little children, it is the last time: and as ye have heard that antichrist shall come, even now are there many antichrists; whereby we know that it is the last time."
+        },
+        {
+            "name": "1 John 2:19",
+            "text": "They went out from us, but they were not of us; for if they had been of us, they would no doubt have continued with us: but they went out, that they might be made manifest that they were not all of us."
+        },
+        {
+            "name": "1 John 2:20",
+            "text": "But ye have an unction from the Holy One, and ye know all things."
+        }
+    ],
+    "tone": "neutral"
+}

@@ -1,0 +1,27 @@
+{
+    "book": "Acts",
+    "chapter": "Chapter 25",
+    "verses": [
+        {
+            "name": "Acts 25:1",
+            "text": "Now when Festus was come into the province, after three days he ascended from Cesarea to Jerusalem."
+        },
+        {
+            "name": "Acts 25:2",
+            "text": "Then the high priest and the chief of the Jews informed him against Paul, and besought him,"
+        },
+        {
+            "name": "Acts 25:3",
+            "text": "And desired favour against him, that he would send for him to Jerusalem, laying wait in the way to kill him."
+        },
+        {
+            "name": "Acts 25:4",
+            "text": "But Festus answered, that Paul should be kept at Cesarea, and that he himself would depart shortly thither. "
+        },
+        {
+            "name": "Acts 25:5",
+            "text": "Let them therefore, said he, which among you are able, go down with me, and accuse this man, if there be any wickedness in him."
+        }
+    ],
+    "tone": "neutral"
+}

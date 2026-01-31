@@ -1,0 +1,23 @@
+{
+    "book": "Mark",
+    "chapter": "Chapter 14",
+    "verses": [
+        {
+            "name": "Mark 14:66",
+            "text": "And as Peter was beneath in the palace, there cometh one of the maids of the high priest:"
+        },
+        {
+            "name": "Mark 14:67",
+            "text": "And when she saw Peter warming himself, she looked upon him, and said, And thou also wast with Jesus of Nazareth."
+        },
+        {
+            "name": "Mark 14:68",
+            "text": "But he denied, saying, I know not, neither understand I what thou sayest. And he went out into the porch; and the cock crew."
+        },
+        {
+            "name": "Mark 14:69",
+            "text": "And a maid saw him again, and began to say to them that stood by, This is one of them."
+        }
+    ],
+    "tone": "neutral"
+}

@@ -1,0 +1,15 @@
+{
+    "book": "Esther",
+    "chapter": "Chapter 2",
+    "verses": [
+        {
+            "name": "Esther 2:7",
+            "text": "And he brought up Hadassah, that is, Esther, his uncle\u2019s daughter: for she had neither father nor mother, and the maid was fair and beautiful; whom Mordecai, when her father and mother were dead, took for his own daughter."
+        },
+        {
+            "name": "Esther 2:8",
+            "text": "So it came to pass, when the king\u2019s commandment and his decree was heard, and when many maidens were gathered together unto Shushan the palace, to the custody of Hegai, that Esther was brought also unto the king\u2019s house, to the custody of Hegai, keeper of the women."
+        }
+    ],
+    "tone": "hopeful"
+}

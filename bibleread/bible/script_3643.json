@@ -1,0 +1,19 @@
+{
+    "book": "Esther",
+    "chapter": "Chapter 9",
+    "verses": [
+        {
+            "name": "Esther 9:28",
+            "text": "And that these days should be remembered and kept throughout every generation, every family, every province, and every city; and that these days of Purim should not fail from among the Jews, nor the memorial of them perish from their seed."
+        },
+        {
+            "name": "Esther 9:29",
+            "text": "Then Esther the queen, the daughter of Abihail, and Mordecai the Jew, wrote with all authority, to confirm this second letter of Purim."
+        },
+        {
+            "name": "Esther 9:30",
+            "text": "And he sent the letters unto all the Jews, to the hundred twenty and seven provinces of the kingdom of Ahasuerus, with words of peace and truth,"
+        }
+    ],
+    "tone": "hopeful"
+}

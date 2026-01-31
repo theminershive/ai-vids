@@ -1,0 +1,23 @@
+{
+    "book": "Acts",
+    "chapter": "Chapter 6",
+    "verses": [
+        {
+            "name": "Acts 6:9",
+            "text": "Then there arose certain of the synagogue, which is called the synagogue of the Libertines, and Cyrenians, and Alexandrians, and of them of Cilicia and of Asia, disputing with Stephen."
+        },
+        {
+            "name": "Acts 6:10",
+            "text": "And they were not able to resist the wisdom and the spirit by which he spake."
+        },
+        {
+            "name": "Acts 6:11",
+            "text": "Then they suborned men, which said, We have heard him speak blasphemous words against Moses, and against God."
+        },
+        {
+            "name": "Acts 6:12",
+            "text": "And they stirred up the people, and the elders, and the scribes, and came upon him, and caught him, and brought him to the council,"
+        }
+    ],
+    "tone": "instructional"
+}

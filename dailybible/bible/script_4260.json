@@ -1,0 +1,35 @@
+{
+    "book": "Proverbs",
+    "chapter": "Chapter 1",
+    "verses": [
+        {
+            "name": "Proverbs 1:14",
+            "text": "Cast in thy lot among us; let us all have one purse:"
+        },
+        {
+            "name": "Proverbs 1:15",
+            "text": "My son, walk not thou in the way with them; refrain thy foot from their path:"
+        },
+        {
+            "name": "Proverbs 1:16",
+            "text": "For their feet run to evil, and make haste to shed blood."
+        },
+        {
+            "name": "Proverbs 1:17",
+            "text": "Surely in vain the net is spread in the sight of any bird."
+        },
+        {
+            "name": "Proverbs 1:18",
+            "text": "And they lay wait for their own blood; they lurk privily for their own lives."
+        },
+        {
+            "name": "Proverbs 1:19",
+            "text": "So are the ways of every one that is greedy of gain; which taketh away the life of the owners thereof."
+        },
+        {
+            "name": "Proverbs 1:20",
+            "text": "Wisdom crieth without; she uttereth her voice in the streets:"
+        }
+    ],
+    "tone": "instructional"
+}

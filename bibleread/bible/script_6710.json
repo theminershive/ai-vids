@@ -1,0 +1,19 @@
+{
+    "book": "Luke",
+    "chapter": "Chapter 11",
+    "verses": [
+        {
+            "name": "Luke 11:7",
+            "text": "And he from within shall answer and say, Trouble me not: the door is now shut, and my children are with me in bed; I cannot rise and give thee."
+        },
+        {
+            "name": "Luke 11:8",
+            "text": "I say unto you, Though he will not rise and give him, because he is his friend, yet because of his importunity he will rise and give him as many as he needeth."
+        },
+        {
+            "name": "Luke 11:9",
+            "text": "And I say unto you, Ask, and it shall be given you; seek, and ye shall find; knock, and it shall be opened unto you."
+        }
+    ],
+    "tone": "neutral"
+}

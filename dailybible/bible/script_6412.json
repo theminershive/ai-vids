@@ -1,0 +1,23 @@
+{
+    "book": "Matthew",
+    "chapter": "Chapter 28",
+    "verses": [
+        {
+            "name": "Matthew 28:5",
+            "text": "And the angel answered and said unto the women, Fear not ye: for I know that ye seek Jesus, which was crucified."
+        },
+        {
+            "name": "Matthew 28:6",
+            "text": "He is not here: for he is risen, as he said. Come, see the place where the Lord lay."
+        },
+        {
+            "name": "Matthew 28:7",
+            "text": "And go quickly, and tell his disciples that he is risen from the dead; and, behold, he goeth before you into Galilee; there shall ye see him: lo, I have told you."
+        },
+        {
+            "name": "Matthew 28:8",
+            "text": "And they departed quickly from the sepulchre with fear and great joy; and did run to bring his disciples word."
+        }
+    ],
+    "tone": "neutral"
+}

@@ -1,0 +1,19 @@
+{
+    "book": "Exodus",
+    "chapter": "Chapter 10",
+    "verses": [
+        {
+            "name": "Exodus 10:24",
+            "text": "And Pharaoh called unto Moses, and said, Go ye, serve the Lord; only let your flocks and your herds be stayed: let your little ones also go with you."
+        },
+        {
+            "name": "Exodus 10:25",
+            "text": "And Moses said, Thou must give us also sacrifices and burnt offerings, that we may sacrifice unto the Lord our God."
+        },
+        {
+            "name": "Exodus 10:26",
+            "text": "Our cattle also shall go with us; there shall not an hoof be left behind; for thereof must we take to serve the Lord our God; and we know not with what we must serve the Lord, until we come thither."
+        }
+    ],
+    "tone": "hopeful"
+}

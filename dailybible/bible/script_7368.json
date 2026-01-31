@@ -1,0 +1,19 @@
+{
+    "book": "Romans",
+    "chapter": "Chapter 8",
+    "verses": [
+        {
+            "name": "Romans 8:25",
+            "text": "But if we hope for that we see not, then do we with patience wait for it. "
+        },
+        {
+            "name": "Romans 8:26",
+            "text": "Likewise the Spirit also helpeth our infirmities: for we know not what we should pray for as we ought: but the Spirit itself maketh intercession for us with groanings which cannot be uttered."
+        },
+        {
+            "name": "Romans 8:27",
+            "text": "And he that searcheth the hearts knoweth what is the mind of the Spirit, because he maketh intercession for the saints according to the will of God."
+        }
+    ],
+    "tone": "hopeful"
+}

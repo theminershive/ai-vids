@@ -1,0 +1,19 @@
+{
+    "book": "Malachi",
+    "chapter": "Chapter 2",
+    "verses": [
+        {
+            "name": "Malachi 2:1",
+            "text": "And now, O ye priests, this commandment is for you."
+        },
+        {
+            "name": "Malachi 2:2",
+            "text": "If ye will not hear, and if ye will not lay it to heart, to give glory unto my name, saith the Lord of hosts, I will even send a curse upon you, and I will curse your blessings: yea, I have cursed them already, because ye do not lay it to heart."
+        },
+        {
+            "name": "Malachi 2:3",
+            "text": "Behold, I will corrupt your seed, and spread dung upon your faces, even the dung of your solemn feasts; and one shall take you away with it."
+        }
+    ],
+    "tone": "hopeful"
+}

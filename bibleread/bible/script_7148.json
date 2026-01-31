@@ -1,0 +1,23 @@
+{
+    "book": "Acts",
+    "chapter": "Chapter 10",
+    "verses": [
+        {
+            "name": "Acts 10:17",
+            "text": "Now while Peter doubted in himself what this vision which he had seen should mean, behold, the men which were sent from Cornelius had made enquiry for Simon\u2019s house, and stood before the gate,"
+        },
+        {
+            "name": "Acts 10:18",
+            "text": "And called, and asked whether Simon, which was surnamed Peter, were lodged there."
+        },
+        {
+            "name": "Acts 10:19",
+            "text": "While Peter thought on the vision, the Spirit said unto him, Behold, three men seek thee."
+        },
+        {
+            "name": "Acts 10:20",
+            "text": "Arise therefore, and get thee down, and go with them, doubting nothing: for I have sent them."
+        }
+    ],
+    "tone": "neutral"
+}

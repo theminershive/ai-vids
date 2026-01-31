@@ -1,0 +1,19 @@
+{
+    "book": "Ruth",
+    "chapter": "Chapter 1",
+    "verses": [
+        {
+            "name": "Ruth 1:13",
+            "text": "Would ye tarry for them till they were grown? would ye stay for them from having husbands? nay, my daughters; for it grieveth me much for your sakes that the hand of the Lord is gone out against me."
+        },
+        {
+            "name": "Ruth 1:14",
+            "text": "And they lifted up their voice, and wept again: and Orpah kissed her mother in law; but Ruth clave unto her."
+        },
+        {
+            "name": "Ruth 1:15",
+            "text": "And she said, Behold, thy sister in law is gone back unto her people, and unto her gods: return thou after thy sister in law."
+        }
+    ],
+    "tone": "instructional"
+}

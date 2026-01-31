@@ -1,0 +1,23 @@
+{
+    "book": "Mark",
+    "chapter": "Chapter 5",
+    "verses": [
+        {
+            "name": "Mark 5:34",
+            "text": "And he said unto her, Daughter, thy faith hath made thee whole; go in peace, and be whole of thy plague."
+        },
+        {
+            "name": "Mark 5:35",
+            "text": "While he yet spake, there came from the ruler of the synagogue\u2019s house certain which said, Thy daughter is dead: why troublest thou the Master any further?"
+        },
+        {
+            "name": "Mark 5:36",
+            "text": "As soon as Jesus heard the word that was spoken, he saith unto the ruler of the synagogue, Be not afraid, only believe."
+        },
+        {
+            "name": "Mark 5:37",
+            "text": "And he suffered no man to follow him, save Peter, and James, and John the brother of James."
+        }
+    ],
+    "tone": "hopeful"
+}

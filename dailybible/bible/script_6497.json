@@ -1,0 +1,23 @@
+{
+    "book": "Mark",
+    "chapter": "Chapter 9",
+    "verses": [
+        {
+            "name": "Mark 9:25",
+            "text": "When Jesus saw that the people came running together, he rebuked the foul spirit, saying unto him, Thou dumb and deaf spirit, I charge thee, come out of him, and enter no more into him."
+        },
+        {
+            "name": "Mark 9:26",
+            "text": "And the spirit cried, and rent him sore, and came out of him: and he was as one dead; insomuch that many said, He is dead."
+        },
+        {
+            "name": "Mark 9:27",
+            "text": "But Jesus took him by the hand, and lifted him up; and he arose."
+        },
+        {
+            "name": "Mark 9:28",
+            "text": "And when he was come into the house, his disciples asked him privately, Why could not we cast him out?"
+        }
+    ],
+    "tone": "neutral"
+}

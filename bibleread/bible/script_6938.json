@@ -1,0 +1,23 @@
+{
+    "book": "John",
+    "chapter": "Chapter 8",
+    "verses": [
+        {
+            "name": "John 8:24",
+            "text": "I said therefore unto you, that ye shall die in your sins: for if ye believe not that I am he, ye shall die in your sins."
+        },
+        {
+            "name": "John 8:25",
+            "text": "Then said they unto him, Who art thou? And Jesus saith unto them, Even the same that I said unto you from the beginning."
+        },
+        {
+            "name": "John 8:26",
+            "text": "I have many things to say and to judge of you: but he that sent me is true; and I speak to the world those things which I have heard of him."
+        },
+        {
+            "name": "John 8:27",
+            "text": "They understood not that he spake to them of the Father."
+        }
+    ],
+    "tone": "neutral"
+}

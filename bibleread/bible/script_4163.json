@@ -1,0 +1,23 @@
+{
+    "book": "Psalms",
+    "chapter": "Chapter 110",
+    "verses": [
+        {
+            "name": "Psalms 110:1",
+            "text": "The Lord said unto my Lord, Sit thou at my right hand, until I make thine enemies thy footstool."
+        },
+        {
+            "name": "Psalms 110:2",
+            "text": "The Lord shall send the rod of thy strength out of Zion: rule thou in the midst of thine enemies."
+        },
+        {
+            "name": "Psalms 110:3",
+            "text": "Thy people shall be willing in the day of thy power, in the beauties of holiness from the womb of the morning: thou hast the dew of thy youth."
+        },
+        {
+            "name": "Psalms 110:4",
+            "text": "The Lord hath sworn, and will not repent, Thou art a priest for ever after the order of Melchizedek."
+        }
+    ],
+    "tone": "neutral"
+}

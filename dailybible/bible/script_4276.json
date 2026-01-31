@@ -1,0 +1,31 @@
+{
+    "book": "Proverbs",
+    "chapter": "Chapter 5",
+    "verses": [
+        {
+            "name": "Proverbs 5:1",
+            "text": "My son, attend unto my wisdom, and bow thine ear to my understanding:"
+        },
+        {
+            "name": "Proverbs 5:2",
+            "text": "That thou mayest regard discretion, and that thy lips may keep knowledge."
+        },
+        {
+            "name": "Proverbs 5:3",
+            "text": "For the lips of a strange woman drop as an honeycomb, and her mouth is smoother than oil:"
+        },
+        {
+            "name": "Proverbs 5:4",
+            "text": "But her end is bitter as wormwood, sharp as a twoedged sword."
+        },
+        {
+            "name": "Proverbs 5:5",
+            "text": "Her feet go down to death; her steps take hold on hell."
+        },
+        {
+            "name": "Proverbs 5:6",
+            "text": "Lest thou shouldest ponder the path of life, her ways are moveable, that thou canst not know them."
+        }
+    ],
+    "tone": "lamenting"
+}

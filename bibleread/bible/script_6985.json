@@ -1,0 +1,27 @@
+{
+    "book": "John",
+    "chapter": "Chapter 12",
+    "verses": [
+        {
+            "name": "John 12:30",
+            "text": "Jesus answered and said, This voice came not because of me, but for your sakes."
+        },
+        {
+            "name": "John 12:31",
+            "text": "Now is the judgment of this world: now shall the prince of this world be cast out."
+        },
+        {
+            "name": "John 12:32",
+            "text": "And I, if I be lifted up from the earth, will draw all men unto me."
+        },
+        {
+            "name": "John 12:33",
+            "text": "This he said, signifying what death he should die."
+        },
+        {
+            "name": "John 12:34",
+            "text": "The people answered him, We have heard out of the law that Christ abideth for ever: and how sayest thou, The Son of man must be lifted up? who is this Son of man?"
+        }
+    ],
+    "tone": "lamenting"
+}

@@ -1,0 +1,19 @@
+{
+    "book": "Joshua",
+    "chapter": "Chapter 15",
+    "verses": [
+        {
+            "name": "Joshua 15:4",
+            "text": "From thence it passed toward Azmon, and went out unto the river of Egypt; and the goings out of that coast were at the sea: this shall be your south coast."
+        },
+        {
+            "name": "Joshua 15:5",
+            "text": "And the east border was the salt sea, even unto the end of Jordan. And their border in the north quarter was from the bay of the sea at the uttermost part of Jordan:"
+        },
+        {
+            "name": "Joshua 15:6",
+            "text": "And the border went up to Beth\u2013hogla, and passed along by the north of Beth\u2013arabah; and the border went up to the stone of Bohan the son of Reuben:"
+        }
+    ],
+    "tone": "neutral"
+}

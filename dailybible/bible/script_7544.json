@@ -1,0 +1,23 @@
+{
+    "book": "2 Corinthians",
+    "chapter": "Chapter 5",
+    "verses": [
+        {
+            "name": "2 Corinthians 5:17",
+            "text": "Therefore if any man be in Christ, he is a new creature: old things are passed away; behold, all things are become new."
+        },
+        {
+            "name": "2 Corinthians 5:18",
+            "text": "And all things are of God, who hath reconciled us to himself by Jesus Christ, and hath given to us the ministry of reconciliation;"
+        },
+        {
+            "name": "2 Corinthians 5:19",
+            "text": "To wit, that God was in Christ, reconciling the world unto himself, not imputing their trespasses unto them; and hath committed unto us the word of reconciliation."
+        },
+        {
+            "name": "2 Corinthians 5:20",
+            "text": "Now then we are ambassadors for Christ, as though God did beseech you by us: we pray you in Christ\u2019s stead, be ye reconciled to God."
+        }
+    ],
+    "tone": "hopeful"
+}

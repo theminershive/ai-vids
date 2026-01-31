@@ -1,0 +1,23 @@
+{
+    "book": "Psalms",
+    "chapter": "Chapter 4",
+    "verses": [
+        {
+            "name": "Psalms 4:1",
+            "text": "Hear me when I call, O God of my righteousness: thou hast enlarged me when I was in distress; have mercy upon me, and hear my prayer."
+        },
+        {
+            "name": "Psalms 4:2",
+            "text": "O ye sons of men, how long will ye turn my glory into shame? how long will ye love vanity, and seek after leasing? Selah."
+        },
+        {
+            "name": "Psalms 4:3",
+            "text": "But know that the Lord hath set apart him that is godly for himself: the Lord will hear when I call unto him."
+        },
+        {
+            "name": "Psalms 4:4",
+            "text": "Stand in awe, and sin not: commune with your own heart upon your bed, and be still. Selah."
+        }
+    ],
+    "tone": "hopeful"
+}

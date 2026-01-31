@@ -1,0 +1,23 @@
+{
+    "book": "2 Thessalonians",
+    "chapter": "Chapter 1",
+    "verses": [
+        {
+            "name": "2 Thessalonians 1:5",
+            "text": "Which is a manifest token of the righteous judgment of God, that ye may be counted worthy of the kingdom of God, for which ye also suffer:"
+        },
+        {
+            "name": "2 Thessalonians 1:6",
+            "text": "Seeing it is a righteous thing with God to recompense tribulation to them that trouble you;"
+        },
+        {
+            "name": "2 Thessalonians 1:7",
+            "text": "And to you who are troubled rest with us, when the Lord Jesus shall be revealed from heaven with his mighty angels,"
+        },
+        {
+            "name": "2 Thessalonians 1:8",
+            "text": "In flaming fire taking vengeance on them that know not God, and that obey not the gospel of our Lord Jesus Christ:"
+        }
+    ],
+    "tone": "lamenting"
+}

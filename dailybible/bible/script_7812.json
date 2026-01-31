@@ -1,0 +1,23 @@
+{
+    "book": "Hebrews",
+    "chapter": "Chapter 9",
+    "verses": [
+        {
+            "name": "Hebrews 9:1",
+            "text": "Then verily the first covenant had also ordinances of divine service, and a worldly sanctuary."
+        },
+        {
+            "name": "Hebrews 9:2",
+            "text": "For there was a tabernacle made; the first, wherein was the candlestick, and the table, and the shewbread; which is called the sanctuary."
+        },
+        {
+            "name": "Hebrews 9:3",
+            "text": "And after the second veil, the tabernacle which is called the Holiest of all;"
+        },
+        {
+            "name": "Hebrews 9:4",
+            "text": "Which had the golden censer, and the ark of the covenant overlaid round about with gold, wherein was the golden pot that had manna, and Aaron\u2019s rod that budded, and the tables of the covenant;"
+        }
+    ],
+    "tone": "hopeful"
+}

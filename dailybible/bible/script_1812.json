@@ -1,0 +1,19 @@
+{
+    "book": "Judges",
+    "chapter": "Chapter 1",
+    "verses": [
+        {
+            "name": "Judges 1:1",
+            "text": "Now after the death of Joshua it came to pass, that the children of Israel asked the Lord, saying, Who shall go up for us against the Canaanites first, to fight against them?"
+        },
+        {
+            "name": "Judges 1:2",
+            "text": "And the Lord said, Judah shall go up: behold, I have delivered the land into his hand."
+        },
+        {
+            "name": "Judges 1:3",
+            "text": "And Judah said unto Simeon his brother, Come up with me into my lot, that we may fight against the Canaanites; and I likewise will go with thee into thy lot. So Simeon went with him."
+        }
+    ],
+    "tone": "neutral"
+}

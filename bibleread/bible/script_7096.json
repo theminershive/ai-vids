@@ -1,0 +1,19 @@
+{
+    "book": "Acts",
+    "chapter": "Chapter 5",
+    "verses": [
+        {
+            "name": "Acts 5:15",
+            "text": "Insomuch that they brought forth the sick into the streets, and laid them on beds and couches, that at the least the shadow of Peter passing by might overshadow some of them."
+        },
+        {
+            "name": "Acts 5:16",
+            "text": "There came also a multitude out of the cities round about unto Jerusalem, bringing sick folks, and them which were vexed with unclean spirits: and they were healed every one."
+        },
+        {
+            "name": "Acts 5:17",
+            "text": "Then the high priest rose up, and all they that were with him, (which is the sect of the Sadducees,) and were filled with indignation,"
+        }
+    ],
+    "tone": "lamenting"
+}

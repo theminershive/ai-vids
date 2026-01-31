@@ -1,0 +1,23 @@
+{
+    "book": "Revelation",
+    "chapter": "Chapter 5",
+    "verses": [
+        {
+            "name": "Revelation 5:1",
+            "text": "And I saw in the right hand of him that sat on the throne a book written within and on the backside, sealed with seven seals."
+        },
+        {
+            "name": "Revelation 5:2",
+            "text": "And I saw a strong angel proclaiming with a loud voice, Who is worthy to open the book, and to loose the seals thereof?"
+        },
+        {
+            "name": "Revelation 5:3",
+            "text": "And no man in heaven, nor in earth, neither under the earth, was able to open the book, neither to look thereon."
+        },
+        {
+            "name": "Revelation 5:4",
+            "text": "And I wept much, because no man was found worthy to open and to read the book, neither to look thereon."
+        }
+    ],
+    "tone": "hopeful"
+}

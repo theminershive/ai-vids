@@ -1,0 +1,19 @@
+{
+    "book": "Deuteronomy",
+    "chapter": "Chapter 5",
+    "verses": [
+        {
+            "name": "Deuteronomy 5:28",
+            "text": "And the Lord heard the voice of your words, when ye spake unto me; and the Lord said unto me, I have heard the voice of the words of this people, which they have spoken unto thee: they have well said all that they have spoken."
+        },
+        {
+            "name": "Deuteronomy 5:29",
+            "text": "O that there were such an heart in them, that they would fear me, and keep all my commandments always, that it might be well with them, and with their children for ever!"
+        },
+        {
+            "name": "Deuteronomy 5:30",
+            "text": "Go say to them, Get you into your tents again."
+        }
+    ],
+    "tone": "neutral"
+}

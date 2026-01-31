@@ -1,0 +1,27 @@
+{
+    "book": "Matthew",
+    "chapter": "Chapter 23",
+    "verses": [
+        {
+            "name": "Matthew 23:1",
+            "text": "Then spake Jesus to the multitude, and to his disciples,"
+        },
+        {
+            "name": "Matthew 23:2",
+            "text": "Saying, The scribes and the Pharisees sit in Moses\u2019 seat:"
+        },
+        {
+            "name": "Matthew 23:3",
+            "text": "All therefore whatsoever they bid you observe, that observe and do; but do not ye after their works: for they say, and do not."
+        },
+        {
+            "name": "Matthew 23:4",
+            "text": "For they bind heavy burdens and grievous to be borne, and lay them on men\u2019s shoulders; but they themselves will not move them with one of their fingers."
+        },
+        {
+            "name": "Matthew 23:5",
+            "text": "But all their works they do for to be seen of men: they make broad their phylacteries, and enlarge the borders of their garments,"
+        }
+    ],
+    "tone": "lamenting"
+}

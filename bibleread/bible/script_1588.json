@@ -1,0 +1,19 @@
+{
+    "book": "Deuteronomy",
+    "chapter": "Chapter 30",
+    "verses": [
+        {
+            "name": "Deuteronomy 30:6",
+            "text": "And the Lord thy God will circumcise thine heart, and the heart of thy seed, to love the Lord thy God with all thine heart, and with all thy soul, that thou mayest live."
+        },
+        {
+            "name": "Deuteronomy 30:7",
+            "text": "And the Lord thy God will put all these curses upon thine enemies, and on them that hate thee, which persecuted thee."
+        },
+        {
+            "name": "Deuteronomy 30:8",
+            "text": "And thou shalt return and obey the voice of the Lord, and do all his commandments which I command thee this day."
+        }
+    ],
+    "tone": "instructional"
+}

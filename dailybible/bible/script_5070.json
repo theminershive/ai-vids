@@ -1,0 +1,27 @@
+{
+    "book": "Jeremiah",
+    "chapter": "Chapter 25",
+    "verses": [
+        {
+            "name": "Jeremiah 25:20",
+            "text": "And all the mingled people, and all the kings of the land of Uz, and all the kings of the land of the Philistines, and Ashkelon, and Azzah, and Ekron, and the remnant of Ashdod,"
+        },
+        {
+            "name": "Jeremiah 25:21",
+            "text": "Edom, and Moab, and the children of Ammon,"
+        },
+        {
+            "name": "Jeremiah 25:22",
+            "text": "And all the kings of Tyrus, and all the kings of Zidon, and the kings of the isles which are beyond the sea,"
+        },
+        {
+            "name": "Jeremiah 25:23",
+            "text": "Dedan, and Tema, and Buz, and all that are in the utmost corners,"
+        },
+        {
+            "name": "Jeremiah 25:24",
+            "text": "And all the kings of Arabia, and all the kings of the mingled people that dwell in the desert,"
+        }
+    ],
+    "tone": "neutral"
+}

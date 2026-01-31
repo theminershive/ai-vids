@@ -1,0 +1,31 @@
+{
+    "book": "1 Chronicles",
+    "chapter": "Chapter 12",
+    "verses": [
+        {
+            "name": "1 Chronicles 12:8",
+            "text": "And of the Gadites there separated themselves unto David into the hold to the wilderness men of might, and men of war fit for the battle, that could handle shield and buckler, whose faces were like the faces of lions, and were as swift as the roes upon the mountains;"
+        },
+        {
+            "name": "1 Chronicles 12:9",
+            "text": "Ezer the first, Obadiah the second, Eliab the third,"
+        },
+        {
+            "name": "1 Chronicles 12:10",
+            "text": "Mishmannah the fourth, Jeremiah the fifth,"
+        },
+        {
+            "name": "1 Chronicles 12:11",
+            "text": "Attai the sixth, Eliel the seventh,"
+        },
+        {
+            "name": "1 Chronicles 12:12",
+            "text": "Johanan the eighth, Elzabad the ninth,"
+        },
+        {
+            "name": "1 Chronicles 12:13",
+            "text": "Jeremiah the tenth, Machbanai the eleventh."
+        }
+    ],
+    "tone": "neutral"
+}

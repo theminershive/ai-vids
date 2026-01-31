@@ -1,0 +1,19 @@
+{
+    "book": "Jeremiah",
+    "chapter": "Chapter 7",
+    "verses": [
+        {
+            "name": "Jeremiah 7:9",
+            "text": "Will ye steal, murder, and commit adultery, and swear falsely, and burn incense unto Baal, and walk after other gods whom ye know not;"
+        },
+        {
+            "name": "Jeremiah 7:10",
+            "text": "And come and stand before me in this house, which is called by my name, and say, We are delivered to do all these abominations?"
+        },
+        {
+            "name": "Jeremiah 7:11",
+            "text": "Is this house, which is called by my name, become a den of robbers in your eyes? Behold, even I have seen it, saith the Lord."
+        }
+    ],
+    "tone": "lamenting"
+}

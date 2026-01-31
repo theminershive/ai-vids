@@ -1,0 +1,19 @@
+{
+    "book": "Joel",
+    "chapter": "Chapter 2",
+    "verses": [
+        {
+            "name": "Joel 2:21",
+            "text": "Fear not, O land; be glad and rejoice: for the Lord will do great things."
+        },
+        {
+            "name": "Joel 2:22",
+            "text": "Be not afraid, ye beasts of the field: for the pastures of the wilderness do spring, for the tree beareth her fruit, the fig tree and the vine do yield their strength."
+        },
+        {
+            "name": "Joel 2:23",
+            "text": "Be glad then, ye children of Zion, and rejoice in the Lord your God: for he hath given you the former rain moderately, and he will cause to come down for you the rain, the former rain, and the latter rain in the first month."
+        }
+    ],
+    "tone": "hopeful"
+}

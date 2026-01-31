@@ -1,0 +1,23 @@
+{
+    "book": "Job",
+    "chapter": "Chapter 3",
+    "verses": [
+        {
+            "name": "Job 3:6",
+            "text": "As for that night, let darkness seize upon it; let it not be joined unto the days of the year, let it not come into the number of the months."
+        },
+        {
+            "name": "Job 3:7",
+            "text": "Lo, let that night be solitary, let no joyful voice come therein."
+        },
+        {
+            "name": "Job 3:8",
+            "text": "Let them curse it that curse the day, who are ready to raise up their mourning."
+        },
+        {
+            "name": "Job 3:9",
+            "text": "Let the stars of the twilight thereof be dark; let it look for light, but have none; neither let it see the dawning of the day:"
+        }
+    ],
+    "tone": "lamenting"
+}

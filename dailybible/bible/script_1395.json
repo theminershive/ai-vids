@@ -1,0 +1,19 @@
+{
+    "book": "Deuteronomy",
+    "chapter": "Chapter 6",
+    "verses": [
+        {
+            "name": "Deuteronomy 6:17",
+            "text": "Ye shall diligently keep the commandments of the Lord your God, and his testimonies, and his statutes, which he hath commanded thee."
+        },
+        {
+            "name": "Deuteronomy 6:18",
+            "text": "And thou shalt do that which is right and good in the sight of the Lord: that it may be well with thee, and that thou mayest go in and possess the good land which the Lord sware unto thy fathers,"
+        },
+        {
+            "name": "Deuteronomy 6:19",
+            "text": "To cast out all thine enemies from before thee, as the Lord hath spoken."
+        }
+    ],
+    "tone": "neutral"
+}

@@ -1,0 +1,27 @@
+{
+    "book": "Mark",
+    "chapter": "Chapter 1",
+    "verses": [
+        {
+            "name": "Mark 1:35",
+            "text": "And in the morning, rising up a great while before day, he went out, and departed into a solitary place, and there prayed."
+        },
+        {
+            "name": "Mark 1:36",
+            "text": "And Simon and they that were with him followed after him."
+        },
+        {
+            "name": "Mark 1:37",
+            "text": "And when they had found him, they said unto him, All men seek for thee."
+        },
+        {
+            "name": "Mark 1:38",
+            "text": "And he said unto them, Let us go into the next towns, that I may preach there also: for therefore came I forth."
+        },
+        {
+            "name": "Mark 1:39",
+            "text": "And he preached in their synagogues throughout all Galilee, and cast out devils."
+        }
+    ],
+    "tone": "neutral"
+}

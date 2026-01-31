@@ -1,0 +1,15 @@
+{
+    "book": "Esther",
+    "chapter": "Chapter 6",
+    "verses": [
+        {
+            "name": "Esther 6:10",
+            "text": "Then the king said to Haman, Make haste, and take the apparel and the horse, as thou hast said, and do even so to Mordecai the Jew, that sitteth at the king\u2019s gate: let nothing fail of all that thou hast spoken."
+        },
+        {
+            "name": "Esther 6:11",
+            "text": "Then took Haman the apparel and the horse, and arrayed Mordecai, and brought him on horseback through the street of the city, and proclaimed before him, Thus shall it be done unto the man whom the king delighteth to honour."
+        }
+    ],
+    "tone": "neutral"
+}

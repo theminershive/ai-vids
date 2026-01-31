@@ -1,0 +1,31 @@
+{
+    "book": "Romans",
+    "chapter": "Chapter 4",
+    "verses": [
+        {
+            "name": "Romans 4:1",
+            "text": "What shall we say then that Abraham our father, as pertaining to the flesh, hath found?"
+        },
+        {
+            "name": "Romans 4:2",
+            "text": "For if Abraham were justified by works, he hath whereof to glory; but not before God."
+        },
+        {
+            "name": "Romans 4:3",
+            "text": "For what saith the scripture? Abraham believed God, and it was counted unto him for righteousness."
+        },
+        {
+            "name": "Romans 4:4",
+            "text": "Now to him that worketh is the reward not reckoned of grace, but of debt."
+        },
+        {
+            "name": "Romans 4:5",
+            "text": "But to him that worketh not, but believeth on him that justifieth the ungodly, his faith is counted for righteousness."
+        },
+        {
+            "name": "Romans 4:6",
+            "text": "Even as David also describeth the blessedness of the man, unto whom God imputeth righteousness without works,"
+        }
+    ],
+    "tone": "hopeful"
+}

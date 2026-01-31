@@ -1,0 +1,23 @@
+{
+    "book": "1 Corinthians",
+    "chapter": "Chapter 1",
+    "verses": [
+        {
+            "name": "1 Corinthians 1:1",
+            "text": "Paul, called to be an apostle of Jesus Christ through the will of God, and Sosthenes our brother,"
+        },
+        {
+            "name": "1 Corinthians 1:2",
+            "text": "Unto the church of God which is at Corinth, to them that are sanctified in Christ Jesus, called to be saints, with all that in every place call upon the name of Jesus Christ our Lord, both theirs and ours:"
+        },
+        {
+            "name": "1 Corinthians 1:3",
+            "text": "Grace be unto you, and peace, from God our Father, and from the Lord Jesus Christ."
+        },
+        {
+            "name": "1 Corinthians 1:4",
+            "text": "I thank my God always on your behalf, for the grace of God which is given you by Jesus Christ;"
+        }
+    ],
+    "tone": "praising"
+}

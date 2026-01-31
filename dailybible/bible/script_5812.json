@@ -1,0 +1,15 @@
+{
+    "book": "Daniel",
+    "chapter": "Chapter 8",
+    "verses": [
+        {
+            "name": "Daniel 8:1",
+            "text": "In the third year of the reign of king Belshazzar a vision appeared unto me, even unto me Daniel, after that which appeared unto me at the first."
+        },
+        {
+            "name": "Daniel 8:2",
+            "text": "And I saw in a vision; and it came to pass, when I saw, that I was at Shushan in the palace, which is in the province of Elam; and I saw in a vision, and I was by the river of Ulai."
+        }
+    ],
+    "tone": "neutral"
+}

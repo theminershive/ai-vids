@@ -1,0 +1,23 @@
+{
+    "book": "Acts",
+    "chapter": "Chapter 5",
+    "verses": [
+        {
+            "name": "Acts 5:22",
+            "text": "But when the officers came, and found them not in the prison, they returned, and told,"
+        },
+        {
+            "name": "Acts 5:23",
+            "text": "Saying, The prison truly found we shut with all safety, and the keepers standing without before the doors: but when we had opened, we found no man within."
+        },
+        {
+            "name": "Acts 5:24",
+            "text": "Now when the high priest and the captain of the temple and the chief priests heard these things, they doubted of them whereunto this would grow."
+        },
+        {
+            "name": "Acts 5:25",
+            "text": "Then came one and told them, saying, Behold, the men whom ye put in prison are standing in the temple, and teaching the people."
+        }
+    ],
+    "tone": "hopeful"
+}

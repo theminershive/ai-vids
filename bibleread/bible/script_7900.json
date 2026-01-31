@@ -1,0 +1,27 @@
+{
+    "book": "2 Peter",
+    "chapter": "Chapter 1",
+    "verses": [
+        {
+            "name": "2 Peter 1:4",
+            "text": "Whereby are given unto us exceeding great and precious promises: that by these ye might be partakers of the divine nature, having escaped the corruption that is in the world through lust."
+        },
+        {
+            "name": "2 Peter 1:5",
+            "text": "And beside this, giving all diligence, add to your faith virtue; and to virtue knowledge;"
+        },
+        {
+            "name": "2 Peter 1:6",
+            "text": "And to knowledge temperance; and to temperance patience; and to patience godliness;"
+        },
+        {
+            "name": "2 Peter 1:7",
+            "text": "And to godliness brotherly kindness; and to brotherly kindness charity."
+        },
+        {
+            "name": "2 Peter 1:8",
+            "text": "For if these things be in you, and abound, they make you that ye shall neither be barren nor unfruitful in the knowledge of our Lord Jesus Christ."
+        }
+    ],
+    "tone": "hopeful"
+}

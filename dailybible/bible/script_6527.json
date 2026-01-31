@@ -1,0 +1,23 @@
+{
+    "book": "Mark",
+    "chapter": "Chapter 12",
+    "verses": [
+        {
+            "name": "Mark 12:9",
+            "text": "What shall therefore the lord of the vineyard do? he will come and destroy the husbandmen, and will give the vineyard unto others."
+        },
+        {
+            "name": "Mark 12:10",
+            "text": "And have ye not read this scripture; The stone which the builders rejected is become the head of the corner:"
+        },
+        {
+            "name": "Mark 12:11",
+            "text": "This was the Lord\u2019s doing, and it is marvellous in our eyes?"
+        },
+        {
+            "name": "Mark 12:12",
+            "text": "And they sought to lay hold on him, but feared the people: for they knew that he had spoken the parable against them: and they left him, and went their way."
+        }
+    ],
+    "tone": "neutral"
+}

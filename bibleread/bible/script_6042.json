@@ -1,0 +1,19 @@
+{
+    "book": "Habakkuk",
+    "chapter": "Chapter 1",
+    "verses": [
+        {
+            "name": "Habakkuk 1:8",
+            "text": "Their horses also are swifter than the leopards, and are more fierce than the evening wolves: and their horsemen shall spread themselves, and their horsemen shall come from far; they shall fly as the eagle that hasteth to eat."
+        },
+        {
+            "name": "Habakkuk 1:9",
+            "text": "They shall come all for violence: their faces shall sup up as the east wind, and they shall gather the captivity as the sand."
+        },
+        {
+            "name": "Habakkuk 1:10",
+            "text": "And they shall scoff at the kings, and the princes shall be a scorn unto them: they shall deride every strong hold; for they shall heap dust, and take it."
+        }
+    ],
+    "tone": "lamenting"
+}

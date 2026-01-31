@@ -1,0 +1,31 @@
+{
+    "book": "1 Corinthians",
+    "chapter": "Chapter 13",
+    "verses": [
+        {
+            "name": "1 Corinthians 13:4",
+            "text": "Charity suffereth long, and is kind; charity envieth not; charity vaunteth not itself, is not puffed up,"
+        },
+        {
+            "name": "1 Corinthians 13:5",
+            "text": "Doth not behave itself unseemly, seeketh not her own, is not easily provoked, thinketh no evil;"
+        },
+        {
+            "name": "1 Corinthians 13:6",
+            "text": "Rejoiceth not in iniquity, but rejoiceth in the truth;"
+        },
+        {
+            "name": "1 Corinthians 13:7",
+            "text": "Beareth all things, believeth all things, hopeth all things, endureth all things."
+        },
+        {
+            "name": "1 Corinthians 13:8",
+            "text": "Charity never faileth: but whether there be prophecies, they shall fail; whether there be tongues, they shall cease; whether there be knowledge, it shall vanish away."
+        },
+        {
+            "name": "1 Corinthians 13:9",
+            "text": "For we know in part, and we prophesy in part."
+        }
+    ],
+    "tone": "hopeful"
+}

@@ -1,0 +1,15 @@
+{
+    "book": "Exodus",
+    "chapter": "Chapter 7",
+    "verses": [
+        {
+            "name": "Exodus 7:20",
+            "text": "And Moses and Aaron did so, as the Lord commanded; and he lifted up the rod, and smote the waters that were in the river, in the sight of Pharaoh, and in the sight of his servants; and all the waters that were in the river were turned to blood."
+        },
+        {
+            "name": "Exodus 7:21",
+            "text": "And the fish that was in the river died; and the river stank, and the Egyptians could not drink of the water of the river; and there was blood throughout all the land of Egypt."
+        }
+    ],
+    "tone": "neutral"
+}

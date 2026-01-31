@@ -1,0 +1,19 @@
+{
+    "book": "Luke",
+    "chapter": "Chapter 13",
+    "verses": [
+        {
+            "name": "Luke 13:24",
+            "text": "Strive to enter in at the strait gate: for many, I say unto you, will seek to enter in, and shall not be able."
+        },
+        {
+            "name": "Luke 13:25",
+            "text": "When once the master of the house is risen up, and hath shut to the door, and ye begin to stand without, and to knock at the door, saying, Lord, Lord, open unto us; and he shall answer and say unto you, I know you not whence ye are:"
+        },
+        {
+            "name": "Luke 13:26",
+            "text": "Then shall ye begin to say, We have eaten and drunk in thy presence, and thou hast taught in our streets."
+        }
+    ],
+    "tone": "lamenting"
+}

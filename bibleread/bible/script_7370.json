@@ -1,0 +1,23 @@
+{
+    "book": "Romans",
+    "chapter": "Chapter 8",
+    "verses": [
+        {
+            "name": "Romans 8:32",
+            "text": "He that spared not his own Son, but delivered him up for us all, how shall he not with him also freely give us all things?"
+        },
+        {
+            "name": "Romans 8:33",
+            "text": "Who shall lay any thing to the charge of God\u2019s elect? It is God that justifieth."
+        },
+        {
+            "name": "Romans 8:34",
+            "text": "Who is he that condemneth? It is Christ that died, yea rather, that is risen again, who is even at the right hand of God, who also maketh intercession for us."
+        },
+        {
+            "name": "Romans 8:35",
+            "text": "Who shall separate us from the love of Christ? shall tribulation, or distress, or persecution, or famine, or nakedness, or peril, or sword?"
+        }
+    ],
+    "tone": "hopeful"
+}

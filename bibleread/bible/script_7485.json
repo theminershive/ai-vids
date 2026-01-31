@@ -1,0 +1,31 @@
+{
+    "book": "1 Corinthians",
+    "chapter": "Chapter 12",
+    "verses": [
+        {
+            "name": "1 Corinthians 12:1",
+            "text": "Now concerning spiritual gifts, brethren, I would not have you ignorant."
+        },
+        {
+            "name": "1 Corinthians 12:2",
+            "text": "Ye know that ye were Gentiles, carried away unto these dumb idols, even as ye were led."
+        },
+        {
+            "name": "1 Corinthians 12:3",
+            "text": "Wherefore I give you to understand, that no man speaking by the Spirit of God calleth Jesus accursed: and that no man can say that Jesus is the Lord, but by the Holy Ghost."
+        },
+        {
+            "name": "1 Corinthians 12:4",
+            "text": "Now there are diversities of gifts, but the same Spirit."
+        },
+        {
+            "name": "1 Corinthians 12:5",
+            "text": "And there are differences of administrations, but the same Lord."
+        },
+        {
+            "name": "1 Corinthians 12:6",
+            "text": "And there are diversities of operations, but it is the same God which worketh all in all."
+        }
+    ],
+    "tone": "instructional"
+}

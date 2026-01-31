@@ -1,0 +1,19 @@
+{
+    "book": "Joshua",
+    "chapter": "Chapter 1",
+    "verses": [
+        {
+            "name": "Joshua 1:1",
+            "text": "Now after the death of Moses the servant of the Lord it came to pass, that the Lord spake unto Joshua the son of Nun, Moses\u2019 minister, saying,"
+        },
+        {
+            "name": "Joshua 1:2",
+            "text": "Moses my servant is dead; now therefore arise, go over this Jordan, thou, and all this people, unto the land which I do give to them, even to the children of Israel."
+        },
+        {
+            "name": "Joshua 1:3",
+            "text": "Every place that the sole of your foot shall tread upon, that have I given unto you, as I said unto Moses."
+        }
+    ],
+    "tone": "neutral"
+}

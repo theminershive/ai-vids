@@ -1,0 +1,19 @@
+{
+    "book": "Matthew",
+    "chapter": "Chapter 26",
+    "verses": [
+        {
+            "name": "Matthew 26:39",
+            "text": "And he went a little further, and fell on his face, and prayed, saying, O my Father, if it be possible, let this cup pass from me: nevertheless not as I will, but as thou wilt."
+        },
+        {
+            "name": "Matthew 26:40",
+            "text": "And he cometh unto the disciples, and findeth them asleep, and saith unto Peter, What, could ye not watch with me one hour?"
+        },
+        {
+            "name": "Matthew 26:41",
+            "text": "Watch and pray, that ye enter not into temptation: the spirit indeed is willing, but the flesh is weak."
+        }
+    ],
+    "tone": "neutral"
+}

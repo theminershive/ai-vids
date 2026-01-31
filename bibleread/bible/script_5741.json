@@ -1,0 +1,19 @@
+{
+    "book": "Daniel",
+    "chapter": "Chapter 1",
+    "verses": [
+        {
+            "name": "Daniel 1:4",
+            "text": "Children in whom was no blemish, but well favoured, and skilful in all wisdom, and cunning in knowledge, and understanding science, and such as had ability in them to stand in the king\u2019s palace, and whom they might teach the learning and the tongue of the Chaldeans."
+        },
+        {
+            "name": "Daniel 1:5",
+            "text": "And the king appointed them a daily provision of the king\u2019s meat, and of the wine which he drank: so nourishing them three years, that at the end thereof they might stand before the king."
+        },
+        {
+            "name": "Daniel 1:6",
+            "text": "Now among these were of the children of Judah, Daniel, Hananiah, Mishael, and Azariah:"
+        }
+    ],
+    "tone": "instructional"
+}

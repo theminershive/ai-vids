@@ -1,0 +1,19 @@
+{
+    "book": "Amos",
+    "chapter": "Chapter 2",
+    "verses": [
+        {
+            "name": "Amos 2:9",
+            "text": "Yet destroyed I the Amorite before them, whose height was like the height of the cedars, and he was strong as the oaks; yet I destroyed his fruit from above, and his roots from beneath."
+        },
+        {
+            "name": "Amos 2:10",
+            "text": "Also I brought you up from the land of Egypt, and led you forty years through the wilderness, to possess the land of the Amorite."
+        },
+        {
+            "name": "Amos 2:11",
+            "text": "And I raised up of your sons for prophets, and of your young men for Nazarites. Is it not even thus, O ye children of Israel? saith the Lord."
+        }
+    ],
+    "tone": "neutral"
+}

@@ -1,0 +1,23 @@
+{
+    "book": "Philippians",
+    "chapter": "Chapter 2",
+    "verses": [
+        {
+            "name": "Philippians 2:24",
+            "text": "But I trust in the Lord that I also myself shall come shortly."
+        },
+        {
+            "name": "Philippians 2:25",
+            "text": "Yet I supposed it necessary to send to you Epaphroditus, my brother, and companion in labour, and fellowsoldier, but your messenger, and he that ministered to my wants."
+        },
+        {
+            "name": "Philippians 2:26",
+            "text": "For he longed after you all, and was full of heaviness, because that ye had heard that he had been sick."
+        },
+        {
+            "name": "Philippians 2:27",
+            "text": "For indeed he was sick nigh unto death: but God had mercy on him; and not on him only, but on me also, lest I should have sorrow upon sorrow."
+        }
+    ],
+    "tone": "hopeful"
+}

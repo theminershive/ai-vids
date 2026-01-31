@@ -1,0 +1,23 @@
+{
+    "book": "Exodus",
+    "chapter": "Chapter 22",
+    "verses": [
+        {
+            "name": "Exodus 22:14",
+            "text": "And if a man borrow ought of his neighbour, and it be hurt, or die, the owner thereof being not with it, he shall surely make it good."
+        },
+        {
+            "name": "Exodus 22:15",
+            "text": "But if the owner thereof be with it, he shall not make it good: if it be an hired thing, it came for his hire."
+        },
+        {
+            "name": "Exodus 22:16",
+            "text": "And if a man entice a maid that is not betrothed, and lie with her, he shall surely endow her to be his wife."
+        },
+        {
+            "name": "Exodus 22:17",
+            "text": "If her father utterly refuse to give her unto him, he shall pay money according to the dowry of virgins."
+        }
+    ],
+    "tone": "hopeful"
+}

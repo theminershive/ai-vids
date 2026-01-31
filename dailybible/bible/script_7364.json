@@ -1,0 +1,19 @@
+{
+    "book": "Romans",
+    "chapter": "Chapter 8",
+    "verses": [
+        {
+            "name": "Romans 8:9",
+            "text": "But ye are not in the flesh, but in the Spirit, if so be that the Spirit of God dwell in you. Now if any man have not the Spirit of Christ, he is none of his."
+        },
+        {
+            "name": "Romans 8:10",
+            "text": "And if Christ be in you, the body is dead because of sin; but the Spirit is life because of righteousness."
+        },
+        {
+            "name": "Romans 8:11",
+            "text": "But if the Spirit of him that raised up Jesus from the dead dwell in you, he that raised up Christ from the dead shall also quicken your mortal bodies by his Spirit that dwelleth in you."
+        }
+    ],
+    "tone": "lamenting"
+}

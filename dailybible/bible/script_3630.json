@@ -1,0 +1,19 @@
+{
+    "book": "Esther",
+    "chapter": "Chapter 8",
+    "verses": [
+        {
+            "name": "Esther 8:1",
+            "text": "On that day did the king Ahasuerus give the house of Haman the Jews\u2019 enemy unto Esther the queen. And Mordecai came before the king; for Esther had told what he was unto her."
+        },
+        {
+            "name": "Esther 8:2",
+            "text": "And the king took off his ring, which he had taken from Haman, and gave it unto Mordecai. And Esther set Mordecai over the house of Haman."
+        },
+        {
+            "name": "Esther 8:3",
+            "text": "And Esther spake yet again before the king, and fell down at his feet, and besought him with tears to put away the mischief of Haman the Agagite, and his device that he had devised against the Jews."
+        }
+    ],
+    "tone": "neutral"
+}

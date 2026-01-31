@@ -1,0 +1,23 @@
+{
+    "book": "Luke",
+    "chapter": "Chapter 17",
+    "verses": [
+        {
+            "name": "Luke 17:22",
+            "text": "And he said unto the disciples, The days will come, when ye shall desire to see one of the days of the Son of man, and ye shall not see it."
+        },
+        {
+            "name": "Luke 17:23",
+            "text": "And they shall say to you, See here; or, see there: go not after them, nor follow them."
+        },
+        {
+            "name": "Luke 17:24",
+            "text": "For as the lightning, that lighteneth out of the one part under heaven, shineth unto the other part under heaven; so shall also the Son of man be in his day."
+        },
+        {
+            "name": "Luke 17:25",
+            "text": "But first must he suffer many things, and be rejected of this generation."
+        }
+    ],
+    "tone": "neutral"
+}

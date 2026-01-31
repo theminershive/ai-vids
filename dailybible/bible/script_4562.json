@@ -1,0 +1,19 @@
+{
+    "book": "Isaiah",
+    "chapter": "Chapter 11",
+    "verses": [
+        {
+            "name": "Isaiah 11:1",
+            "text": "And there shall come forth a rod out of the stem of Jesse, and a Branch shall grow out of his roots:"
+        },
+        {
+            "name": "Isaiah 11:2",
+            "text": "And the spirit of the Lord shall rest upon him, the spirit of wisdom and understanding, the spirit of counsel and might, the spirit of knowledge and of the fear of the Lord;"
+        },
+        {
+            "name": "Isaiah 11:3",
+            "text": "And shall make him of quick understanding in the fear of the Lord: and he shall not judge after the sight of his eyes, neither reprove after the hearing of his ears:"
+        }
+    ],
+    "tone": "instructional"
+}

@@ -1,0 +1,27 @@
+{
+    "book": "Luke",
+    "chapter": "Chapter 1",
+    "verses": [
+        {
+            "name": "Luke 1:66",
+            "text": "And all they that heard them laid them up in their hearts, saying, What manner of child shall this be! And the hand of the Lord was with him."
+        },
+        {
+            "name": "Luke 1:67",
+            "text": "And his father Zacharias was filled with the Holy Ghost, and prophesied, saying,"
+        },
+        {
+            "name": "Luke 1:68",
+            "text": "Blessed be the Lord God of Israel; for he hath visited and redeemed his people,"
+        },
+        {
+            "name": "Luke 1:69",
+            "text": "And hath raised up an horn of salvation for us in the house of his servant David;"
+        },
+        {
+            "name": "Luke 1:70",
+            "text": "As he spake by the mouth of his holy prophets, which have been since the world began:"
+        }
+    ],
+    "tone": "instructional"
+}

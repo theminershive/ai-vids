@@ -1,0 +1,19 @@
+{
+    "book": "Exodus",
+    "chapter": "Chapter 17",
+    "verses": [
+        {
+            "name": "Exodus 17:3",
+            "text": "And the people thirsted there for water; and the people murmured against Moses, and said, Wherefore is this that thou hast brought us up out of Egypt, to kill us and our children and our cattle with thirst?"
+        },
+        {
+            "name": "Exodus 17:4",
+            "text": "And Moses cried unto the Lord, saying, What shall I do unto this people? they be almost ready to stone me."
+        },
+        {
+            "name": "Exodus 17:5",
+            "text": "And the Lord said unto Moses, Go on before the people, and take with thee of the elders of Israel; and thy rod, wherewith thou smotest the river, take in thine hand, and go."
+        }
+    ],
+    "tone": "neutral"
+}

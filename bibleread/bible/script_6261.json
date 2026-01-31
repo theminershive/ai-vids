@@ -1,0 +1,23 @@
+{
+    "book": "Matthew",
+    "chapter": "Chapter 13",
+    "verses": [
+        {
+            "name": "Matthew 13:23",
+            "text": "But he that received seed into the good ground is he that heareth the word, and understandeth it; which also beareth fruit, and bringeth forth, some an hundredfold, some sixty, some thirty."
+        },
+        {
+            "name": "Matthew 13:24",
+            "text": "Another parable put he forth unto them, saying, The kingdom of heaven is likened unto a man which sowed good seed in his field:"
+        },
+        {
+            "name": "Matthew 13:25",
+            "text": "But while men slept, his enemy came and sowed tares among the wheat, and went his way."
+        },
+        {
+            "name": "Matthew 13:26",
+            "text": "But when the blade was sprung up, and brought forth fruit, then appeared the tares also."
+        }
+    ],
+    "tone": "neutral"
+}

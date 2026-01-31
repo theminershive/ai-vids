@@ -1,0 +1,23 @@
+{
+    "book": "Leviticus",
+    "chapter": "Chapter 18",
+    "verses": [
+        {
+            "name": "Leviticus 18:1",
+            "text": "And the Lord spake unto Moses, saying,"
+        },
+        {
+            "name": "Leviticus 18:2",
+            "text": "Speak unto the children of Israel, and say unto them, I am the Lord your God."
+        },
+        {
+            "name": "Leviticus 18:3",
+            "text": "After the doings of the land of Egypt, wherein ye dwelt, shall ye not do: and after the doings of the land of Canaan, whither I bring you, shall ye not do: neither shall ye walk in their ordinances."
+        },
+        {
+            "name": "Leviticus 18:4",
+            "text": "Ye shall do my judgments, and keep mine ordinances, to walk therein: I am the Lord your God."
+        }
+    ],
+    "tone": "neutral"
+}

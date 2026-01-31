@@ -1,0 +1,19 @@
+{
+    "book": "Jeremiah",
+    "chapter": "Chapter 6",
+    "verses": [
+        {
+            "name": "Jeremiah 6:4",
+            "text": "Prepare ye war against her; arise, and let us go up at noon. Woe unto us! for the day goeth away, for the shadows of the evening are stretched out."
+        },
+        {
+            "name": "Jeremiah 6:5",
+            "text": "Arise, and let us go by night, and let us destroy her palaces."
+        },
+        {
+            "name": "Jeremiah 6:6",
+            "text": "For thus hath the Lord of hosts said, Hew ye down trees, and cast a mount against Jerusalem: this is the city to be visited; she is wholly oppression in the midst of her."
+        }
+    ],
+    "tone": "neutral"
+}

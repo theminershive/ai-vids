@@ -1,0 +1,23 @@
+{
+    "book": "Acts",
+    "chapter": "Chapter 24",
+    "verses": [
+        {
+            "name": "Acts 24:1",
+            "text": "And after five days Ananias the high priest descended with the elders, and with a certain orator named Tertullus, who informed the governor against Paul."
+        },
+        {
+            "name": "Acts 24:2",
+            "text": "And when he was called forth, Tertullus began to accuse him, saying, Seeing that by thee we enjoy great quietness, and that very worthy deeds are done unto this nation by thy providence,"
+        },
+        {
+            "name": "Acts 24:3",
+            "text": "We accept it always, and in all places, most noble Felix, with all thankfulness."
+        },
+        {
+            "name": "Acts 24:4",
+            "text": "Notwithstanding, that I be not further tedious unto thee, I pray thee that thou wouldest hear us of thy clemency a few words."
+        }
+    ],
+    "tone": "hopeful"
+}

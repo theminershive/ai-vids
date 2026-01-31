@@ -1,0 +1,31 @@
+{
+    "book": "Psalms",
+    "chapter": "Chapter 147",
+    "verses": [
+        {
+            "name": "Psalms 147:8",
+            "text": "Who covereth the heaven with clouds, who prepareth rain for the earth, who maketh grass to grow upon the mountains."
+        },
+        {
+            "name": "Psalms 147:9",
+            "text": "He giveth to the beast his food, and to the young ravens which cry."
+        },
+        {
+            "name": "Psalms 147:10",
+            "text": "He delighteth not in the strength of the horse: he taketh not pleasure in the legs of a man."
+        },
+        {
+            "name": "Psalms 147:11",
+            "text": "The Lord taketh pleasure in them that fear him, in those that hope in his mercy."
+        },
+        {
+            "name": "Psalms 147:12",
+            "text": "Praise the Lord, O Jerusalem; praise thy God, O Zion."
+        },
+        {
+            "name": "Psalms 147:13",
+            "text": "For he hath strengthened the bars of thy gates; he hath blessed thy children within thee."
+        }
+    ],
+    "tone": "praising"
+}

@@ -1,0 +1,15 @@
+{
+    "book": "Daniel",
+    "chapter": "Chapter 7",
+    "verses": [
+        {
+            "name": "Daniel 7:6",
+            "text": "After this I beheld, and lo another, like a leopard, which had upon the back of it four wings of a fowl; the beast had also four heads; and dominion was given to it."
+        },
+        {
+            "name": "Daniel 7:7",
+            "text": "After this I saw in the night visions, and behold a fourth beast, dreadful and terrible, and strong exceedingly; and it had great iron teeth: it devoured and brake in pieces, and stamped the residue with the feet of it: and it was diverse from all the beasts that were before it; and it had ten horns."
+        }
+    ],
+    "tone": "hopeful"
+}

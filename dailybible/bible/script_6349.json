@@ -1,0 +1,19 @@
+{
+    "book": "Matthew",
+    "chapter": "Chapter 23",
+    "verses": [
+        {
+            "name": "Matthew 23:12",
+            "text": "And whosoever shall exalt himself shall be abased; and he that shall humble himself shall be exalted."
+        },
+        {
+            "name": "Matthew 23:13",
+            "text": "But woe unto you, scribes and Pharisees, hypocrites! for ye shut up the kingdom of heaven against men: for ye neither go in yourselves, neither suffer ye them that are entering to go in."
+        },
+        {
+            "name": "Matthew 23:14",
+            "text": "Woe unto you, scribes and Pharisees, hypocrites! for ye devour widows\u2019 houses, and for a pretence make long prayer: therefore ye shall receive the greater damnation."
+        }
+    ],
+    "tone": "lamenting"
+}

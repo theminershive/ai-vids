@@ -1,0 +1,23 @@
+{
+    "book": "Luke",
+    "chapter": "Chapter 19",
+    "verses": [
+        {
+            "name": "Luke 19:35",
+            "text": "And they brought him to Jesus: and they cast their garments upon the colt, and they set Jesus thereon."
+        },
+        {
+            "name": "Luke 19:36",
+            "text": "And as he went, they spread their clothes in the way."
+        },
+        {
+            "name": "Luke 19:37",
+            "text": "And when he was come nigh, even now at the descent of the mount of Olives, the whole multitude of the disciples began to rejoice and praise God with a loud voice for all the mighty works that they had seen;"
+        },
+        {
+            "name": "Luke 19:38",
+            "text": "Saying, Blessed be the King that cometh in the name of the Lord: peace in heaven, and glory in the highest."
+        }
+    ],
+    "tone": "hopeful"
+}

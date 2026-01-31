@@ -1,0 +1,23 @@
+{
+    "book": "2 Chronicles",
+    "chapter": "Chapter 10",
+    "verses": [
+        {
+            "name": "2 Chronicles 10:1",
+            "text": "And Rehoboam went to Shechem: for to Shechem were all Israel come to make him king."
+        },
+        {
+            "name": "2 Chronicles 10:2",
+            "text": "And it came to pass, when Jeroboam the son of Nebat, who was in Egypt, whither he had fled from the presence of Solomon the king, heard it, that Jeroboam returned out of Egypt."
+        },
+        {
+            "name": "2 Chronicles 10:3",
+            "text": "And they sent and called him. So Jeroboam and all Israel came and spake to Rehoboam, saying,"
+        },
+        {
+            "name": "2 Chronicles 10:4",
+            "text": "Thy father made our yoke grievous: now therefore ease thou somewhat the grievous servitude of thy father, and his heavy yoke that he put upon us, and we will serve thee."
+        }
+    ],
+    "tone": "neutral"
+}

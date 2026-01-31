@@ -1,0 +1,19 @@
+{
+    "book": "Leviticus",
+    "chapter": "Chapter 6",
+    "verses": [
+        {
+            "name": "Leviticus 6:25",
+            "text": "Speak unto Aaron and to his sons, saying, This is the law of the sin offering: In the place where the burnt offering is killed shall the sin offering be killed before the Lord: it is most holy."
+        },
+        {
+            "name": "Leviticus 6:26",
+            "text": "The priest that offereth it for sin shall eat it: in the holy place shall it be eaten, in the court of the tabernacle of the congregation."
+        },
+        {
+            "name": "Leviticus 6:27",
+            "text": "Whatsoever shall touch the flesh thereof shall be holy: and when there is sprinkled of the blood thereof upon any garment, thou shalt wash that whereon it was sprinkled in the holy place."
+        }
+    ],
+    "tone": "lamenting"
+}

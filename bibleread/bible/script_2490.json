@@ -1,0 +1,19 @@
+{
+    "book": "1 Kings",
+    "chapter": "Chapter 1",
+    "verses": [
+        {
+            "name": "1 Kings 1:30",
+            "text": "Even as I sware unto thee by the Lord God of Israel, saying, Assuredly Solomon thy son shall reign after me, and he shall sit upon my throne in my stead; even so will I certainly do this day."
+        },
+        {
+            "name": "1 Kings 1:31",
+            "text": "Then Bath\u2013sheba bowed with her face to the earth, and did reverence to the king, and said, Let my lord king David live for ever."
+        },
+        {
+            "name": "1 Kings 1:32",
+            "text": "And king David said, Call me Zadok the priest, and Nathan the prophet, and Benaiah the son of Jehoiada. And they came before the king."
+        }
+    ],
+    "tone": "neutral"
+}

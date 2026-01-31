@@ -1,0 +1,19 @@
+{
+    "book": "Jeremiah",
+    "chapter": "Chapter 29",
+    "verses": [
+        {
+            "name": "Jeremiah 29:8",
+            "text": "For thus saith the Lord of hosts, the God of Israel; Let not your prophets and your diviners, that be in the midst of you, deceive you, neither hearken to your dreams which ye cause to be dreamed."
+        },
+        {
+            "name": "Jeremiah 29:9",
+            "text": "For they prophesy falsely unto you in my name: I have not sent them, saith the Lord."
+        },
+        {
+            "name": "Jeremiah 29:10",
+            "text": "For thus saith the Lord, That after seventy years be accomplished at Babylon I will visit you, and perform my good word toward you, in causing you to return to this place."
+        }
+    ],
+    "tone": "hopeful"
+}

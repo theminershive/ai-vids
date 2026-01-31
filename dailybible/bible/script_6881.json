@@ -1,0 +1,23 @@
+{
+    "book": "John",
+    "chapter": "Chapter 3",
+    "verses": [
+        {
+            "name": "John 3:28",
+            "text": "Ye yourselves bear me witness, that I said, I am not the Christ, but that I am sent before him."
+        },
+        {
+            "name": "John 3:29",
+            "text": "He that hath the bride is the bridegroom: but the friend of the bridegroom, which standeth and heareth him, rejoiceth greatly because of the bridegroom\u2019s voice: this my joy therefore is fulfilled."
+        },
+        {
+            "name": "John 3:30",
+            "text": "He must increase, but I must decrease."
+        },
+        {
+            "name": "John 3:31",
+            "text": "He that cometh from above is above all: he that is of the earth is earthly, and speaketh of the earth: he that cometh from heaven is above all."
+        }
+    ],
+    "tone": "hopeful"
+}

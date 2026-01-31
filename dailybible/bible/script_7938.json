@@ -1,0 +1,19 @@
+{
+    "book": "1 John",
+    "chapter": "Chapter 5",
+    "verses": [
+        {
+            "name": "1 John 5:12",
+            "text": "He that hath the Son hath life; and he that hath not the Son of God hath not life."
+        },
+        {
+            "name": "1 John 5:13",
+            "text": "These things have I written unto you that believe on the name of the Son of God; that ye may know that ye have eternal life, and that ye may believe on the name of the Son of God."
+        },
+        {
+            "name": "1 John 5:14",
+            "text": "And this is the confidence that we have in him, that, if we ask any thing according to his will, he heareth us:"
+        }
+    ],
+    "tone": "hopeful"
+}

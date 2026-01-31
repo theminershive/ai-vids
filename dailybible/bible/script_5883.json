@@ -1,0 +1,23 @@
+{
+    "book": "Hosea",
+    "chapter": "Chapter 7",
+    "verses": [
+        {
+            "name": "Hosea 7:1",
+            "text": "When I would have healed Israel, then the iniquity of Ephraim was discovered, and the wickedness of Samaria: for they commit falsehood; and the thief cometh in, and the troop of robbers spoileth without."
+        },
+        {
+            "name": "Hosea 7:2",
+            "text": "And they consider not in their hearts that I remember all their wickedness: now their own doings have beset them about; they are before my face."
+        },
+        {
+            "name": "Hosea 7:3",
+            "text": "They make the king glad with their wickedness, and the princes with their lies."
+        },
+        {
+            "name": "Hosea 7:4",
+            "text": "They are all adulterers, as an oven heated by the baker, who ceaseth from raising after he hath kneaded the dough, until it be leavened."
+        }
+    ],
+    "tone": "neutral"
+}

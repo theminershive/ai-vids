@@ -1,0 +1,27 @@
+{
+    "book": "Matthew",
+    "chapter": "Chapter 10",
+    "verses": [
+        {
+            "name": "Matthew 10:5",
+            "text": "These twelve Jesus sent forth, and commanded them, saying, Go not into the way of the Gentiles, and into any city of the Samaritans enter ye not:"
+        },
+        {
+            "name": "Matthew 10:6",
+            "text": "But go rather to the lost sheep of the house of Israel."
+        },
+        {
+            "name": "Matthew 10:7",
+            "text": "And as ye go, preach, saying, The kingdom of heaven is at hand."
+        },
+        {
+            "name": "Matthew 10:8",
+            "text": "Heal the sick, cleanse the lepers, raise the dead, cast out devils: freely ye have received, freely give."
+        },
+        {
+            "name": "Matthew 10:9",
+            "text": "Provide neither gold, nor silver, nor brass in your purses,"
+        }
+    ],
+    "tone": "neutral"
+}

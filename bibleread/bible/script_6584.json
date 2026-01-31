@@ -1,0 +1,27 @@
+{
+    "book": "Luke",
+    "chapter": "Chapter 1",
+    "verses": [
+        {
+            "name": "Luke 1:23",
+            "text": "And it came to pass, that, as soon as the days of his ministration were accomplished, he departed to his own house."
+        },
+        {
+            "name": "Luke 1:24",
+            "text": "And after those days his wife Elisabeth conceived, and hid herself five months, saying,"
+        },
+        {
+            "name": "Luke 1:25",
+            "text": "Thus hath the Lord dealt with me in the days wherein he looked on me, to take away my reproach among men."
+        },
+        {
+            "name": "Luke 1:26",
+            "text": "And in the sixth month the angel Gabriel was sent from God unto a city of Galilee, named Nazareth,"
+        },
+        {
+            "name": "Luke 1:27",
+            "text": "To a virgin espoused to a man whose name was Joseph, of the house of David; and the virgin\u2019s name was Mary."
+        }
+    ],
+    "tone": "neutral"
+}

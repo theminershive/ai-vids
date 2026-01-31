@@ -1,0 +1,19 @@
+{
+    "book": "Leviticus",
+    "chapter": "Chapter 26",
+    "verses": [
+        {
+            "name": "Leviticus 26:16",
+            "text": "I also will do this unto you; I will even appoint over you terror, consumption, and the burning ague, that shall consume the eyes, and cause sorrow of heart: and ye shall sow your seed in vain, for your enemies shall eat it."
+        },
+        {
+            "name": "Leviticus 26:17",
+            "text": "And I will set my face against you, and ye shall be slain before your enemies: they that hate you shall reign over you; and ye shall flee when none pursueth you."
+        },
+        {
+            "name": "Leviticus 26:18",
+            "text": "And if ye will not yet for all this hearken unto me, then I will punish you seven times more for your sins."
+        }
+    ],
+    "tone": "lamenting"
+}

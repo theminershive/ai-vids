@@ -1,0 +1,27 @@
+{
+    "book": "Mark",
+    "chapter": "Chapter 8",
+    "verses": [
+        {
+            "name": "Mark 8:14",
+            "text": "Now the disciples had forgotten to take bread, neither had they in the ship with them more than one loaf."
+        },
+        {
+            "name": "Mark 8:15",
+            "text": "And he charged them, saying, Take heed, beware of the leaven of the Pharisees, and of the leaven of Herod."
+        },
+        {
+            "name": "Mark 8:16",
+            "text": "And they reasoned among themselves, saying, It is because we have no bread."
+        },
+        {
+            "name": "Mark 8:17",
+            "text": "And when Jesus knew it, he saith unto them, Why reason ye, because ye have no bread? perceive ye not yet, neither understand? have ye your heart yet hardened?"
+        },
+        {
+            "name": "Mark 8:18",
+            "text": "Having eyes, see ye not? and having ears, hear ye not? and do ye not remember?"
+        }
+    ],
+    "tone": "lamenting"
+}

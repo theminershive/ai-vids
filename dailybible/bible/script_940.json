@@ -1,0 +1,27 @@
+{
+    "book": "Leviticus",
+    "chapter": "Chapter 23",
+    "verses": [
+        {
+            "name": "Leviticus 23:5",
+            "text": "In the fourteenth day of the first month at even is the Lord\u2019s passover."
+        },
+        {
+            "name": "Leviticus 23:6",
+            "text": "And on the fifteenth day of the same month is the feast of unleavened bread unto the Lord: seven days ye must eat unleavened bread."
+        },
+        {
+            "name": "Leviticus 23:7",
+            "text": "In the first day ye shall have an holy convocation: ye shall do no servile work therein."
+        },
+        {
+            "name": "Leviticus 23:8",
+            "text": "But ye shall offer an offering made by fire unto the Lord seven days: in the seventh day is an holy convocation: ye shall do no servile work therein."
+        },
+        {
+            "name": "Leviticus 23:9",
+            "text": "And the Lord spake unto Moses, saying,"
+        }
+    ],
+    "tone": "neutral"
+}

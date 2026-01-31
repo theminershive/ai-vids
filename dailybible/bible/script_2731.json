@@ -1,0 +1,15 @@
+{
+    "book": "2 Kings",
+    "chapter": "Chapter 1",
+    "verses": [
+        {
+            "name": "2 Kings 1:10",
+            "text": "And Elijah answered and said to the captain of fifty, If I be a man of God, then let fire come down from heaven, and consume thee and thy fifty. And there came down fire from heaven, and consumed him and his fifty."
+        },
+        {
+            "name": "2 Kings 1:11",
+            "text": "Again also he sent unto him another captain of fifty with his fifty. And he answered and said unto him, O man of God, thus hath the king said, Come down quickly."
+        }
+    ],
+    "tone": "neutral"
+}

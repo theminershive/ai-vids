@@ -1,0 +1,23 @@
+{
+    "book": "Mark",
+    "chapter": "Chapter 10",
+    "verses": [
+        {
+            "name": "Mark 10:19",
+            "text": "Thou knowest the commandments, Do not commit adultery, Do not kill, Do not steal, Do not bear false witness, Defraud not, Honour thy father and mother."
+        },
+        {
+            "name": "Mark 10:20",
+            "text": "And he answered and said unto him, Master, all these have I observed from my youth."
+        },
+        {
+            "name": "Mark 10:21",
+            "text": "Then Jesus beholding him loved him, and said unto him, One thing thou lackest: go thy way, sell whatsoever thou hast, and give to the poor, and thou shalt have treasure in heaven: and come, take up the cross, and follow me."
+        },
+        {
+            "name": "Mark 10:22",
+            "text": "And he was sad at that saying, and went away grieved: for he had great possessions."
+        }
+    ],
+    "tone": "neutral"
+}

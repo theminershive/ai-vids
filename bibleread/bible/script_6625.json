@@ -1,0 +1,19 @@
+{
+    "book": "Luke",
+    "chapter": "Chapter 4",
+    "verses": [
+        {
+            "name": "Luke 4:34",
+            "text": "Saying, Let us alone; what have we to do with thee, thou Jesus of Nazareth? art thou come to destroy us? I know thee who thou art; the Holy One of God."
+        },
+        {
+            "name": "Luke 4:35",
+            "text": "And Jesus rebuked him, saying, Hold thy peace, and come out of him. And when the devil had thrown him in the midst, he came out of him, and hurt him not."
+        },
+        {
+            "name": "Luke 4:36",
+            "text": "And they were all amazed, and spake among themselves, saying, What a word is this! for with authority and power he commandeth the unclean spirits, and they come out."
+        }
+    ],
+    "tone": "instructional"
+}

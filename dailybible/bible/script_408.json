@@ -1,0 +1,23 @@
+{
+    "book": "Exodus",
+    "chapter": "Chapter 1",
+    "verses": [
+        {
+            "name": "Exodus 1:19",
+            "text": "And the midwives said unto Pharaoh, Because the Hebrew women are not as the Egyptian women; for they are lively, and are delivered ere the midwives come in unto them."
+        },
+        {
+            "name": "Exodus 1:20",
+            "text": "Therefore God dealt well with the midwives: and the people multiplied, and waxed very mighty."
+        },
+        {
+            "name": "Exodus 1:21",
+            "text": "And it came to pass, because the midwives feared God, that he made them houses."
+        },
+        {
+            "name": "Exodus 1:22",
+            "text": "And Pharaoh charged all his people, saying, Every son that is born ye shall cast into the river, and every daughter ye shall save alive. "
+        }
+    ],
+    "tone": "neutral"
+}

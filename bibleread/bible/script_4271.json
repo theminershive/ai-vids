@@ -1,0 +1,35 @@
+{
+    "book": "Proverbs",
+    "chapter": "Chapter 3",
+    "verses": [
+        {
+            "name": "Proverbs 3:29",
+            "text": "Devise not evil against thy neighbour, seeing he dwelleth securely by thee."
+        },
+        {
+            "name": "Proverbs 3:30",
+            "text": "Strive not with a man without cause, if he have done thee no harm."
+        },
+        {
+            "name": "Proverbs 3:31",
+            "text": "Envy thou not the oppressor, and choose none of his ways."
+        },
+        {
+            "name": "Proverbs 3:32",
+            "text": "For the froward is abomination to the Lord: but his secret is with the righteous."
+        },
+        {
+            "name": "Proverbs 3:33",
+            "text": "The curse of the Lord is in the house of the wicked: but he blesseth the habitation of the just."
+        },
+        {
+            "name": "Proverbs 3:34",
+            "text": "Surely he scorneth the scorners: but he giveth grace unto the lowly."
+        },
+        {
+            "name": "Proverbs 3:35",
+            "text": "The wise shall inherit glory: but shame shall be the promotion of fools. "
+        }
+    ],
+    "tone": "instructional"
+}

@@ -1,0 +1,27 @@
+{
+    "book": "1 Timothy",
+    "chapter": "Chapter 3",
+    "verses": [
+        {
+            "name": "1 Timothy 3:1",
+            "text": "This is a true saying, If a man desire the office of a bishop, he desireth a good work."
+        },
+        {
+            "name": "1 Timothy 3:2",
+            "text": "A bishop then must be blameless, the husband of one wife, vigilant, sober, of good behaviour, given to hospitality, apt to teach;"
+        },
+        {
+            "name": "1 Timothy 3:3",
+            "text": "Not given to wine, no striker, not greedy of filthy lucre; but patient, not a brawler, not covetous;"
+        },
+        {
+            "name": "1 Timothy 3:4",
+            "text": "One that ruleth well his own house, having his children in subjection with all gravity;"
+        },
+        {
+            "name": "1 Timothy 3:5",
+            "text": "(For if a man know not how to rule his own house, how shall he take care of the church of God?)"
+        }
+    ],
+    "tone": "hopeful"
+}

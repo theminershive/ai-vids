@@ -1,0 +1,19 @@
+{
+    "book": "Exodus",
+    "chapter": "Chapter 6",
+    "verses": [
+        {
+            "name": "Exodus 6:4",
+            "text": "And I have also established my covenant with them, to give them the land of Canaan, the land of their pilgrimage, wherein they were strangers."
+        },
+        {
+            "name": "Exodus 6:5",
+            "text": "And I have also heard the groaning of the children of Israel, whom the Egyptians keep in bondage; and I have remembered my covenant."
+        },
+        {
+            "name": "Exodus 6:6",
+            "text": "Wherefore say unto the children of Israel, I am the Lord, and I will bring you out from under the burdens of the Egyptians, and I will rid you out of their bondage, and I will redeem you with a stretched out arm, and with great judgments:"
+        }
+    ],
+    "tone": "neutral"
+}

@@ -1,0 +1,19 @@
+{
+    "book": "Isaiah",
+    "chapter": "Chapter 45",
+    "verses": [
+        {
+            "name": "Isaiah 45:9",
+            "text": "Woe unto him that striveth with his Maker! Let the potsherd strive with the potsherds of the earth. Shall the clay say to him that fashioneth it, What makest thou? or thy work, He hath no hands?"
+        },
+        {
+            "name": "Isaiah 45:10",
+            "text": "Woe unto him that saith unto his father, What begettest thou? or to the woman, What hast thou brought forth?"
+        },
+        {
+            "name": "Isaiah 45:11",
+            "text": "Thus saith the Lord, the Holy One of Israel, and his Maker, Ask me of things to come concerning my sons, and concerning the work of my hands command ye me."
+        }
+    ],
+    "tone": "lamenting"
+}

@@ -1,0 +1,23 @@
+{
+    "book": "Matthew",
+    "chapter": "Chapter 6",
+    "verses": [
+        {
+            "name": "Matthew 6:13",
+            "text": "And lead us not into temptation, but deliver us from evil: For thine is the kingdom, and the power, and the glory, for ever. Amen."
+        },
+        {
+            "name": "Matthew 6:14",
+            "text": "For if ye forgive men their trespasses, your heavenly Father will also forgive you:"
+        },
+        {
+            "name": "Matthew 6:15",
+            "text": "But if ye forgive not men their trespasses, neither will your Father forgive your trespasses."
+        },
+        {
+            "name": "Matthew 6:16",
+            "text": "Moreover when ye fast, be not, as the hypocrites, of a sad countenance: for they disfigure their faces, that they may appear unto men to fast. Verily I say unto you, They have their reward."
+        }
+    ],
+    "tone": "hopeful"
+}

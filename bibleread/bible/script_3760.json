@@ -1,0 +1,31 @@
+{
+    "book": "Job",
+    "chapter": "Chapter 28",
+    "verses": [
+        {
+            "name": "Job 28:12",
+            "text": "But where shall wisdom be found? and where is the place of understanding?"
+        },
+        {
+            "name": "Job 28:13",
+            "text": "Man knoweth not the price thereof; neither is it found in the land of the living."
+        },
+        {
+            "name": "Job 28:14",
+            "text": "The depth saith, It is not in me: and the sea saith, It is not with me."
+        },
+        {
+            "name": "Job 28:15",
+            "text": "It cannot be gotten for gold, neither shall silver be weighed for the price thereof."
+        },
+        {
+            "name": "Job 28:16",
+            "text": "It cannot be valued with the gold of Ophir, with the precious onyx, or the sapphire."
+        },
+        {
+            "name": "Job 28:17",
+            "text": "The gold and the crystal cannot equal it: and the exchange of it shall not be for jewels of fine gold."
+        }
+    ],
+    "tone": "neutral"
+}

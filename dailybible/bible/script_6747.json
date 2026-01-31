@@ -1,0 +1,23 @@
+{
+    "book": "Luke",
+    "chapter": "Chapter 14",
+    "verses": [
+        {
+            "name": "Luke 14:5",
+            "text": "And answered them, saying, Which of you shall have an ass or an ox fallen into a pit, and will not straightway pull him out on the sabbath day?"
+        },
+        {
+            "name": "Luke 14:6",
+            "text": "And they could not answer him again to these things."
+        },
+        {
+            "name": "Luke 14:7",
+            "text": "And he put forth a parable to those which were bidden, when he marked how they chose out the chief rooms; saying unto them,"
+        },
+        {
+            "name": "Luke 14:8",
+            "text": "When thou art bidden of any man to a wedding, sit not down in the highest room; lest a more honourable man than thou be bidden of him;"
+        }
+    ],
+    "tone": "lamenting"
+}

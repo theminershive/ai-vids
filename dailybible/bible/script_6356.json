@@ -1,0 +1,19 @@
+{
+    "book": "Matthew",
+    "chapter": "Chapter 24",
+    "verses": [
+        {
+            "name": "Matthew 24:1",
+            "text": "And Jesus went out, and departed from the temple: and his disciples came to him for to shew him the buildings of the temple."
+        },
+        {
+            "name": "Matthew 24:2",
+            "text": "And Jesus said unto them, See ye not all these things? verily I say unto you, There shall not be left here one stone upon another, that shall not be thrown down."
+        },
+        {
+            "name": "Matthew 24:3",
+            "text": "And as he sat upon the mount of Olives, the disciples came unto him privately, saying, Tell us, when shall these things be? and what shall be the sign of thy coming, and of the end of the world?"
+        }
+    ],
+    "tone": "neutral"
+}

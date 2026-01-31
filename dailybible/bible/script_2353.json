@@ -1,0 +1,19 @@
+{
+    "book": "2 Samuel",
+    "chapter": "Chapter 12",
+    "verses": [
+        {
+            "name": "2 Samuel 12:1",
+            "text": "And the Lord sent Nathan unto David. And he came unto him, and said unto him, There were two men in one city; the one rich, and the other poor."
+        },
+        {
+            "name": "2 Samuel 12:2",
+            "text": "The rich man had exceeding many flocks and herds:"
+        },
+        {
+            "name": "2 Samuel 12:3",
+            "text": "But the poor man had nothing, save one little ewe lamb, which he had bought and nourished up: and it grew up together with him, and with his children; it did eat of his own meat, and drank of his own cup, and lay in his bosom, and was unto him as a daughter."
+        }
+    ],
+    "tone": "neutral"
+}

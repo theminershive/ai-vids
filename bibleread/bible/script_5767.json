@@ -1,0 +1,19 @@
+{
+    "book": "Daniel",
+    "chapter": "Chapter 3",
+    "verses": [
+        {
+            "name": "Daniel 3:17",
+            "text": "If it be so, our God whom we serve is able to deliver us from the burning fiery furnace, and he will deliver us out of thine hand, O king."
+        },
+        {
+            "name": "Daniel 3:18",
+            "text": "But if not, be it known unto thee, O king, that we will not serve thy gods, nor worship the golden image which thou hast set up."
+        },
+        {
+            "name": "Daniel 3:19",
+            "text": "Then was Nebuchadnezzar full of fury, and the form of his visage was changed against Shadrach, Meshach, and Abed\u2013nego: therefore he spake, and commanded that they should heat the furnace one seven times more than it was wont to be heated."
+        }
+    ],
+    "tone": "praising"
+}

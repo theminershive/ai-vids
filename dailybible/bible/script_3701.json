@@ -1,0 +1,31 @@
+{
+    "book": "Job",
+    "chapter": "Chapter 13",
+    "verses": [
+        {
+            "name": "Job 13:21",
+            "text": "Withdraw thine hand far from me: and let not thy dread make me afraid."
+        },
+        {
+            "name": "Job 13:22",
+            "text": "Then call thou, and I will answer: or let me speak, and answer thou me."
+        },
+        {
+            "name": "Job 13:23",
+            "text": "How many are mine iniquities and sins? make me to know my transgression and my sin."
+        },
+        {
+            "name": "Job 13:24",
+            "text": "Wherefore hidest thou thy face, and holdest me for thine enemy?"
+        },
+        {
+            "name": "Job 13:25",
+            "text": "Wilt thou break a leaf driven to and fro? and wilt thou pursue the dry stubble?"
+        },
+        {
+            "name": "Job 13:26",
+            "text": "For thou writest bitter things against me, and makest me to possess the iniquities of my youth."
+        }
+    ],
+    "tone": "lamenting"
+}

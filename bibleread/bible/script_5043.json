@@ -1,0 +1,19 @@
+{
+    "book": "Jeremiah",
+    "chapter": "Chapter 22",
+    "verses": [
+        {
+            "name": "Jeremiah 22:10",
+            "text": "Weep ye not for the dead, neither bemoan him: but weep sore for him that goeth away: for he shall return no more, nor see his native country."
+        },
+        {
+            "name": "Jeremiah 22:11",
+            "text": "For thus saith the Lord touching Shallum the son of Josiah king of Judah, which reigned instead of Josiah his father, which went forth out of this place; He shall not return thither any more:"
+        },
+        {
+            "name": "Jeremiah 22:12",
+            "text": "But he shall die in the place whither they have led him captive, and shall see this land no more."
+        }
+    ],
+    "tone": "neutral"
+}

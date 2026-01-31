@@ -1,0 +1,39 @@
+{
+    "book": "Ezra",
+    "chapter": "Chapter 2",
+    "verses": [
+        {
+            "name": "Ezra 2:48",
+            "text": "The children of Rezin, the children of Nekoda, the children of Gazzam,"
+        },
+        {
+            "name": "Ezra 2:49",
+            "text": "The children of Uzza, the children of Paseah, the children of Besai,"
+        },
+        {
+            "name": "Ezra 2:50",
+            "text": "The children of Asnah, the children of Mehunim, the children of Nephusim,"
+        },
+        {
+            "name": "Ezra 2:51",
+            "text": "The children of Bakbuk, the children of Hakupha, the children of Harhur,"
+        },
+        {
+            "name": "Ezra 2:52",
+            "text": "The children of Bazluth, the children of Mehida, the children of Harsha,"
+        },
+        {
+            "name": "Ezra 2:53",
+            "text": "The children of Barkos, the children of Sisera, the children of Thamah,"
+        },
+        {
+            "name": "Ezra 2:54",
+            "text": "The children of Neziah, the children of Hatipha."
+        },
+        {
+            "name": "Ezra 2:55",
+            "text": "The children of Solomon\u2019s servants: the children of Sotai, the children of Sophereth, the children of Peruda,"
+        }
+    ],
+    "tone": "neutral"
+}

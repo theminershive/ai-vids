@@ -1,0 +1,19 @@
+{
+    "book": "Hosea",
+    "chapter": "Chapter 5",
+    "verses": [
+        {
+            "name": "Hosea 5:1",
+            "text": "Hear ye this, O priests; and hearken, ye house of Israel; and give ye ear, O house of the king; for judgment is toward you, because ye have been a snare on Mizpah, and a net spread upon Tabor."
+        },
+        {
+            "name": "Hosea 5:2",
+            "text": "And the revolters are profound to make slaughter, though I have been a rebuker of them all."
+        },
+        {
+            "name": "Hosea 5:3",
+            "text": "I know Ephraim, and Israel is not hid from me: for now, O Ephraim, thou committest whoredom, and Israel is defiled."
+        }
+    ],
+    "tone": "lamenting"
+}

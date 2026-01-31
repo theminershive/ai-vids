@@ -1,0 +1,19 @@
+{
+    "book": "Ecclesiastes",
+    "chapter": "Chapter 5",
+    "verses": [
+        {
+            "name": "Ecclesiastes 5:1",
+            "text": "Keep thy foot when thou goest to the house of God, and be more ready to hear, than to give the sacrifice of fools: for they consider not that they do evil."
+        },
+        {
+            "name": "Ecclesiastes 5:2",
+            "text": "Be not rash with thy mouth, and let not thine heart be hasty to utter any thing before God: for God is in heaven, and thou upon earth: therefore let thy words be few."
+        },
+        {
+            "name": "Ecclesiastes 5:3",
+            "text": "For a dream cometh through the multitude of business; and a fool\u2019s voice is known by multitude of words."
+        }
+    ],
+    "tone": "hopeful"
+}

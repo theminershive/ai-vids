@@ -1,0 +1,15 @@
+{
+    "book": "Daniel",
+    "chapter": "Chapter 2",
+    "verses": [
+        {
+            "name": "Daniel 2:29",
+            "text": "As for thee, O king, thy thoughts came into thy mind upon thy bed, what should come to pass hereafter: and he that revealeth secrets maketh known to thee what shall come to pass."
+        },
+        {
+            "name": "Daniel 2:30",
+            "text": "But as for me, this secret is not revealed to me for any wisdom that I have more than any living, but for their sakes that shall make known the interpretation to the king, and that thou mightest know the thoughts of thy heart."
+        }
+    ],
+    "tone": "instructional"
+}

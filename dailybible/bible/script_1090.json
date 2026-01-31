@@ -1,0 +1,19 @@
+{
+    "book": "Numbers",
+    "chapter": "Chapter 9",
+    "verses": [
+        {
+            "name": "Numbers 9:18",
+            "text": "At the commandment of the Lord the children of Israel journeyed, and at the commandment of the Lord they pitched: as long as the cloud abode upon the tabernacle they rested in their tents."
+        },
+        {
+            "name": "Numbers 9:19",
+            "text": "And when the cloud tarried long upon the tabernacle many days, then the children of Israel kept the charge of the Lord, and journeyed not."
+        },
+        {
+            "name": "Numbers 9:20",
+            "text": "And so it was, when the cloud was a few days upon the tabernacle; according to the commandment of the Lord they abode in their tents, and according to the commandment of the Lord they journeyed."
+        }
+    ],
+    "tone": "neutral"
+}

@@ -1,0 +1,19 @@
+{
+    "book": "Joshua",
+    "chapter": "Chapter 15",
+    "verses": [
+        {
+            "name": "Joshua 15:1",
+            "text": "This then was the lot of the tribe of the children of Judah by their families; even to the border of Edom the wilderness of Zin southward was the uttermost part of the south coast."
+        },
+        {
+            "name": "Joshua 15:2",
+            "text": "And their south border was from the shore of the salt sea, from the bay that looketh southward:"
+        },
+        {
+            "name": "Joshua 15:3",
+            "text": "And it went out to the south side to Maaleh\u2013acrabbim, and passed along to Zin, and ascended up on the south side unto Kadesh\u2013barnea, and passed along to Hezron, and went up to Adar, and fetched a compass to Karkaa:"
+        }
+    ],
+    "tone": "neutral"
+}

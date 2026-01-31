@@ -1,0 +1,19 @@
+{
+    "book": "Genesis",
+    "chapter": "Chapter 9",
+    "verses": [
+        {
+            "name": "Genesis 9:1",
+            "text": "And God blessed Noah and his sons, and said unto them, Be fruitful, and multiply, and replenish the earth."
+        },
+        {
+            "name": "Genesis 9:2",
+            "text": "And the fear of you and the dread of you shall be upon every beast of the earth, and upon every fowl of the air, upon all that moveth upon the earth, and upon all the fishes of the sea; into your hand are they delivered."
+        },
+        {
+            "name": "Genesis 9:3",
+            "text": "Every moving thing that liveth shall be meat for you; even as the green herb have I given you all things."
+        }
+    ],
+    "tone": "neutral"
+}

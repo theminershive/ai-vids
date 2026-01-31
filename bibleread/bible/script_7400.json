@@ -1,0 +1,23 @@
+{
+    "book": "Romans",
+    "chapter": "Chapter 13",
+    "verses": [
+        {
+            "name": "Romans 13:10",
+            "text": "Love worketh no ill to his neighbour: therefore love is the fulfilling of the law."
+        },
+        {
+            "name": "Romans 13:11",
+            "text": "And that, knowing the time, that now it is high time to awake out of sleep: for now is our salvation nearer than when we believed."
+        },
+        {
+            "name": "Romans 13:12",
+            "text": "The night is far spent, the day is at hand: let us therefore cast off the works of darkness, and let us put on the armour of light."
+        },
+        {
+            "name": "Romans 13:13",
+            "text": "Let us walk honestly, as in the day; not in rioting and drunkenness, not in chambering and wantonness, not in strife and envying."
+        }
+    ],
+    "tone": "hopeful"
+}

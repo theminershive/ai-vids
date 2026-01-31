@@ -1,0 +1,27 @@
+{
+    "book": "Mark",
+    "chapter": "Chapter 14",
+    "verses": [
+        {
+            "name": "Mark 14:52",
+            "text": "And he left the linen cloth, and fled from them naked."
+        },
+        {
+            "name": "Mark 14:53",
+            "text": "And they led Jesus away to the high priest: and with him were assembled all the chief priests and the elders and the scribes."
+        },
+        {
+            "name": "Mark 14:54",
+            "text": "And Peter followed him afar off, even into the palace of the high priest: and he sat with the servants, and warmed himself at the fire."
+        },
+        {
+            "name": "Mark 14:55",
+            "text": "And the chief priests and all the council sought for witness against Jesus to put him to death; and found none."
+        },
+        {
+            "name": "Mark 14:56",
+            "text": "For many bare false witness against him, but their witness agreed not together."
+        }
+    ],
+    "tone": "neutral"
+}

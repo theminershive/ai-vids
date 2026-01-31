@@ -1,0 +1,23 @@
+{
+    "book": "Acts",
+    "chapter": "Chapter 5",
+    "verses": [
+        {
+            "name": "Acts 5:26",
+            "text": "Then went the captain with the officers, and brought them without violence: for they feared the people, lest they should have been stoned."
+        },
+        {
+            "name": "Acts 5:27",
+            "text": "And when they had brought them, they set them before the council: and the high priest asked them,"
+        },
+        {
+            "name": "Acts 5:28",
+            "text": "Saying, Did not we straitly command you that ye should not teach in this name? and, behold, ye have filled Jerusalem with your doctrine, and intend to bring this man\u2019s blood upon us."
+        },
+        {
+            "name": "Acts 5:29",
+            "text": "Then Peter and the other apostles answered and said, We ought to obey God rather than men."
+        }
+    ],
+    "tone": "instructional"
+}

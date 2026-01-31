@@ -1,0 +1,19 @@
+{
+    "book": "John",
+    "chapter": "Chapter 16",
+    "verses": [
+        {
+            "name": "John 16:15",
+            "text": "All things that the Father hath are mine: therefore said I, that he shall take of mine, and shall shew it unto you."
+        },
+        {
+            "name": "John 16:16",
+            "text": "A little while, and ye shall not see me: and again, a little while, and ye shall see me, because I go to the Father."
+        },
+        {
+            "name": "John 16:17",
+            "text": "Then said some of his disciples among themselves, What is this that he saith unto us, A little while, and ye shall not see me: and again, a little while, and ye shall see me: and, Because I go to the Father?"
+        }
+    ],
+    "tone": "neutral"
+}

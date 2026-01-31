@@ -1,0 +1,35 @@
+{
+    "book": "Proverbs",
+    "chapter": "Chapter 2",
+    "verses": [
+        {
+            "name": "Proverbs 2:1",
+            "text": "My son, if thou wilt receive my words, and hide my commandments with thee;"
+        },
+        {
+            "name": "Proverbs 2:2",
+            "text": "So that thou incline thine ear unto wisdom, and apply thine heart to understanding;"
+        },
+        {
+            "name": "Proverbs 2:3",
+            "text": "Yea, if thou criest after knowledge, and liftest up thy voice for understanding;"
+        },
+        {
+            "name": "Proverbs 2:4",
+            "text": "If thou seekest her as silver, and searchest for her as for hid treasures;"
+        },
+        {
+            "name": "Proverbs 2:5",
+            "text": "Then shalt thou understand the fear of the Lord, and find the knowledge of God."
+        },
+        {
+            "name": "Proverbs 2:6",
+            "text": "For the Lord giveth wisdom: out of his mouth cometh knowledge and understanding."
+        },
+        {
+            "name": "Proverbs 2:7",
+            "text": "He layeth up sound wisdom for the righteous: he is a buckler to them that walk uprightly."
+        }
+    ],
+    "tone": "instructional"
+}

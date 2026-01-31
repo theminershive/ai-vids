@@ -1,0 +1,23 @@
+{
+    "book": "Mark",
+    "chapter": "Chapter 4",
+    "verses": [
+        {
+            "name": "Mark 4:13",
+            "text": "And he said unto them, Know ye not this parable? and how then will ye know all parables?"
+        },
+        {
+            "name": "Mark 4:14",
+            "text": "The sower soweth the word."
+        },
+        {
+            "name": "Mark 4:15",
+            "text": "And these are they by the way side, where the word is sown; but when they have heard, Satan cometh immediately, and taketh away the word that was sown in their hearts."
+        },
+        {
+            "name": "Mark 4:16",
+            "text": "And these are they likewise which are sown on stony ground; who, when they have heard the word, immediately receive it with gladness;"
+        }
+    ],
+    "tone": "neutral"
+}

@@ -1,0 +1,19 @@
+{
+    "book": "Ruth",
+    "chapter": "Chapter 1",
+    "verses": [
+        {
+            "name": "Ruth 1:16",
+            "text": "And Ruth said, Intreat me not to leave thee, or to return from following after thee: for whither thou goest, I will go; and where thou lodgest, I will lodge: thy people shall be my people, and thy God my God:"
+        },
+        {
+            "name": "Ruth 1:17",
+            "text": "Where thou diest, will I die, and there will I be buried: the Lord do so to me, and more also, if ought but death part thee and me."
+        },
+        {
+            "name": "Ruth 1:18",
+            "text": "When she saw that she was stedfastly minded to go with her, then she left speaking unto her."
+        }
+    ],
+    "tone": "neutral"
+}

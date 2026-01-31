@@ -1,0 +1,23 @@
+{
+    "book": "Deuteronomy",
+    "chapter": "Chapter 28",
+    "verses": [
+        {
+            "name": "Deuteronomy 28:15",
+            "text": "But it shall come to pass, if thou wilt not hearken unto the voice of the Lord thy God, to observe to do all his commandments and his statutes which I command thee this day; that all these curses shall come upon thee, and overtake thee:"
+        },
+        {
+            "name": "Deuteronomy 28:16",
+            "text": "Cursed shalt thou be in the city, and cursed shalt thou be in the field."
+        },
+        {
+            "name": "Deuteronomy 28:17",
+            "text": "Cursed shall be thy basket and thy store."
+        },
+        {
+            "name": "Deuteronomy 28:18",
+            "text": "Cursed shall be the fruit of thy body, and the fruit of thy land, the increase of thy kine, and the flocks of thy sheep."
+        }
+    ],
+    "tone": "instructional"
+}

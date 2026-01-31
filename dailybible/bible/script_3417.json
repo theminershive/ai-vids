@@ -1,0 +1,27 @@
+{
+    "book": "Ezra",
+    "chapter": "Chapter 2",
+    "verses": [
+        {
+            "name": "Ezra 2:1",
+            "text": "Now these are the children of the province that went up out of the captivity, of those which had been carried away, whom Nebuchadnezzar the king of Babylon had carried away unto Babylon, and came again unto Jerusalem and Judah, every one unto his city;"
+        },
+        {
+            "name": "Ezra 2:2",
+            "text": "Which came with Zerubbabel: Jeshua, Nehemiah, Seraiah, Reelaiah, Mordecai, Bilshan, Mispar, Bigvai, Rehum, Baanah. The number of the men of the people of Israel:"
+        },
+        {
+            "name": "Ezra 2:3",
+            "text": "The children of Parosh, two thousand an hundred seventy and two."
+        },
+        {
+            "name": "Ezra 2:4",
+            "text": "The children of Shephatiah, three hundred seventy and two."
+        },
+        {
+            "name": "Ezra 2:5",
+            "text": "The children of Arah, seven hundred seventy and five."
+        }
+    ],
+    "tone": "neutral"
+}

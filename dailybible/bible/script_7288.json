@@ -1,0 +1,23 @@
+{
+    "book": "Acts",
+    "chapter": "Chapter 25",
+    "verses": [
+        {
+            "name": "Acts 25:12",
+            "text": "Then Festus, when he had conferred with the council, answered, Hast thou appealed unto Cesar? unto Cesar shalt thou go."
+        },
+        {
+            "name": "Acts 25:13",
+            "text": "And after certain days king Agrippa and Bernice came unto Cesarea to salute Festus."
+        },
+        {
+            "name": "Acts 25:14",
+            "text": "And when they had been there many days, Festus declared Paul\u2019s cause unto the king, saying, There is a certain man left in bonds by Felix:"
+        },
+        {
+            "name": "Acts 25:15",
+            "text": "About whom, when I was at Jerusalem, the chief priests and the elders of the Jews informed me, desiring to have judgment against him."
+        }
+    ],
+    "tone": "lamenting"
+}

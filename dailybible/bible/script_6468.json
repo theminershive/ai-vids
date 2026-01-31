@@ -1,0 +1,23 @@
+{
+    "book": "Mark",
+    "chapter": "Chapter 6",
+    "verses": [
+        {
+            "name": "Mark 6:32",
+            "text": "And they departed into a desert place by ship privately."
+        },
+        {
+            "name": "Mark 6:33",
+            "text": "And the people saw them departing, and many knew him, and ran afoot thither out of all cities, and outwent them, and came together unto him."
+        },
+        {
+            "name": "Mark 6:34",
+            "text": "And Jesus, when he came out, saw much people, and was moved with compassion toward them, because they were as sheep not having a shepherd: and he began to teach them many things."
+        },
+        {
+            "name": "Mark 6:35",
+            "text": "And when the day was now far spent, his disciples came unto him, and said, This is a desert place, and now the time is far passed:"
+        }
+    ],
+    "tone": "neutral"
+}

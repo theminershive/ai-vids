@@ -1,0 +1,19 @@
+{
+    "book": "James",
+    "chapter": "Chapter 3",
+    "verses": [
+        {
+            "name": "James 3:5",
+            "text": "Even so the tongue is a little member, and boasteth great things. Behold, how great a matter a little fire kindleth!"
+        },
+        {
+            "name": "James 3:6",
+            "text": "And the tongue is a fire, a world of iniquity: so is the tongue among our members, that it defileth the whole body, and setteth on fire the course of nature; and it is set on fire of hell."
+        },
+        {
+            "name": "James 3:7",
+            "text": "For every kind of beasts, and of birds, and of serpents, and of things in the sea, is tamed, and hath been tamed of mankind:"
+        }
+    ],
+    "tone": "lamenting"
+}

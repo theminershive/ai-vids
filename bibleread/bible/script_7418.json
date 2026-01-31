@@ -1,0 +1,23 @@
+{
+    "book": "Romans",
+    "chapter": "Chapter 16",
+    "verses": [
+        {
+            "name": "Romans 16:18",
+            "text": "For they that are such serve not our Lord Jesus Christ, but their own belly; and by good words and fair speeches deceive the hearts of the simple."
+        },
+        {
+            "name": "Romans 16:19",
+            "text": "For your obedience is come abroad unto all men. I am glad therefore on your behalf: but yet I would have you wise unto that which is good, and simple concerning evil."
+        },
+        {
+            "name": "Romans 16:20",
+            "text": "And the God of peace shall bruise Satan under your feet shortly. The grace of our Lord Jesus Christ be with you. Amen."
+        },
+        {
+            "name": "Romans 16:21",
+            "text": "Timotheus my workfellow, and Lucius, and Jason, and Sosipater, my kinsmen, salute you."
+        }
+    ],
+    "tone": "hopeful"
+}

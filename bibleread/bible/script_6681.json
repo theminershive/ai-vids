@@ -1,0 +1,27 @@
+{
+    "book": "Luke",
+    "chapter": "Chapter 8",
+    "verses": [
+        {
+            "name": "Luke 8:52",
+            "text": "And all wept, and bewailed her: but he said, Weep not; she is not dead, but sleepeth."
+        },
+        {
+            "name": "Luke 8:53",
+            "text": "And they laughed him to scorn, knowing that she was dead."
+        },
+        {
+            "name": "Luke 8:54",
+            "text": "And he put them all out, and took her by the hand, and called, saying, Maid, arise."
+        },
+        {
+            "name": "Luke 8:55",
+            "text": "And her spirit came again, and she arose straightway: and he commanded to give her meat."
+        },
+        {
+            "name": "Luke 8:56",
+            "text": "And her parents were astonished: but he charged them that they should tell no man what was done. "
+        }
+    ],
+    "tone": "lamenting"
+}

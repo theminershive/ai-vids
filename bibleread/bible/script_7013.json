@@ -1,0 +1,27 @@
+{
+    "book": "John",
+    "chapter": "Chapter 16",
+    "verses": [
+        {
+            "name": "John 16:10",
+            "text": "Of righteousness, because I go to my Father, and ye see me no more;"
+        },
+        {
+            "name": "John 16:11",
+            "text": "Of judgment, because the prince of this world is judged."
+        },
+        {
+            "name": "John 16:12",
+            "text": "I have yet many things to say unto you, but ye cannot bear them now."
+        },
+        {
+            "name": "John 16:13",
+            "text": "Howbeit when he, the Spirit of truth, is come, he will guide you into all truth: for he shall not speak of himself; but whatsoever he shall hear, that shall he speak: and he will shew you things to come."
+        },
+        {
+            "name": "John 16:14",
+            "text": "He shall glorify me: for he shall receive of mine, and shall shew it unto you."
+        }
+    ],
+    "tone": "praising"
+}

@@ -1,0 +1,23 @@
+{
+    "book": "Luke",
+    "chapter": "Chapter 15",
+    "verses": [
+        {
+            "name": "Luke 15:13",
+            "text": "And not many days after the younger son gathered all together, and took his journey into a far country, and there wasted his substance with riotous living."
+        },
+        {
+            "name": "Luke 15:14",
+            "text": "And when he had spent all, there arose a mighty famine in that land; and he began to be in want."
+        },
+        {
+            "name": "Luke 15:15",
+            "text": "And he went and joined himself to a citizen of that country; and he sent him into his fields to feed swine."
+        },
+        {
+            "name": "Luke 15:16",
+            "text": "And he would fain have filled his belly with the husks that the swine did eat: and no man gave unto him."
+        }
+    ],
+    "tone": "neutral"
+}

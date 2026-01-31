@@ -1,0 +1,27 @@
+{
+    "book": "1 Corinthians",
+    "chapter": "Chapter 15",
+    "verses": [
+        {
+            "name": "1 Corinthians 15:14",
+            "text": "And if Christ be not risen, then is our preaching vain, and your faith is also vain."
+        },
+        {
+            "name": "1 Corinthians 15:15",
+            "text": "Yea, and we are found false witnesses of God; because we have testified of God that he raised up Christ: whom he raised not up, if so be that the dead rise not."
+        },
+        {
+            "name": "1 Corinthians 15:16",
+            "text": "For if the dead rise not, then is not Christ raised:"
+        },
+        {
+            "name": "1 Corinthians 15:17",
+            "text": "And if Christ be not raised, your faith is vain; ye are yet in your sins."
+        },
+        {
+            "name": "1 Corinthians 15:18",
+            "text": "Then they also which are fallen asleep in Christ are perished."
+        }
+    ],
+    "tone": "hopeful"
+}

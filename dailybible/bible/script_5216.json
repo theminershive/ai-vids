@@ -1,0 +1,19 @@
+{
+    "book": "Jeremiah",
+    "chapter": "Chapter 42",
+    "verses": [
+        {
+            "name": "Jeremiah 42:9",
+            "text": "And said unto them, Thus saith the Lord, the God of Israel, unto whom ye sent me to present your supplication before him;"
+        },
+        {
+            "name": "Jeremiah 42:10",
+            "text": "If ye will still abide in this land, then will I build you, and not pull you down, and I will plant you, and not pluck you up: for I repent me of the evil that I have done unto you."
+        },
+        {
+            "name": "Jeremiah 42:11",
+            "text": "Be not afraid of the king of Babylon, of whom ye are afraid; be not afraid of him, saith the Lord: for I am with you to save you, and to deliver you from his hand."
+        }
+    ],
+    "tone": "neutral"
+}

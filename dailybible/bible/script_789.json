@@ -1,0 +1,23 @@
+{
+    "book": "Leviticus",
+    "chapter": "Chapter 7",
+    "verses": [
+        {
+            "name": "Leviticus 7:5",
+            "text": "And the priest shall burn them upon the altar for an offering made by fire unto the Lord: it is a trespass offering."
+        },
+        {
+            "name": "Leviticus 7:6",
+            "text": "Every male among the priests shall eat thereof: it shall be eaten in the holy place: it is most holy."
+        },
+        {
+            "name": "Leviticus 7:7",
+            "text": "As the sin offering is, so is the trespass offering: there is one law for them: the priest that maketh atonement therewith shall have it."
+        },
+        {
+            "name": "Leviticus 7:8",
+            "text": "And the priest that offereth any man\u2019s burnt offering, even the priest shall have to himself the skin of the burnt offering which he hath offered."
+        }
+    ],
+    "tone": "instructional"
+}

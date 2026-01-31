@@ -1,0 +1,23 @@
+{
+    "book": "Matthew",
+    "chapter": "Chapter 26",
+    "verses": [
+        {
+            "name": "Matthew 26:42",
+            "text": "He went away again the second time, and prayed, saying, O my Father, if this cup may not pass away from me, except I drink it, thy will be done."
+        },
+        {
+            "name": "Matthew 26:43",
+            "text": "And he came and found them asleep again: for their eyes were heavy."
+        },
+        {
+            "name": "Matthew 26:44",
+            "text": "And he left them, and went away again, and prayed the third time, saying the same words."
+        },
+        {
+            "name": "Matthew 26:45",
+            "text": "Then cometh he to his disciples, and saith unto them, Sleep on now, and take your rest: behold, the hour is at hand, and the Son of man is betrayed into the hands of sinners."
+        }
+    ],
+    "tone": "neutral"
+}

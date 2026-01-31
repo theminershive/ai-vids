@@ -1,0 +1,19 @@
+{
+    "book": "John",
+    "chapter": "Chapter 21",
+    "verses": [
+        {
+            "name": "John 21:23",
+            "text": "Then went this saying abroad among the brethren, that that disciple should not die: yet Jesus said not unto him, He shall not die; but, If I will that he tarry till I come, what is that to thee?"
+        },
+        {
+            "name": "John 21:24",
+            "text": "This is the disciple which testifieth of these things, and wrote these things: and we know that his testimony is true."
+        },
+        {
+            "name": "John 21:25",
+            "text": "And there are also many other things which Jesus did, the which, if they should be written every one, I suppose that even the world itself could not contain the books that should be written. Amen.  "
+        }
+    ],
+    "tone": "neutral"
+}

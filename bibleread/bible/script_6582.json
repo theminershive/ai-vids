@@ -1,0 +1,19 @@
+{
+    "book": "Luke",
+    "chapter": "Chapter 1",
+    "verses": [
+        {
+            "name": "Luke 1:17",
+            "text": "And he shall go before him in the spirit and power of Elias, to turn the hearts of the fathers to the children, and the disobedient to the wisdom of the just; to make ready a people prepared for the Lord."
+        },
+        {
+            "name": "Luke 1:18",
+            "text": "And Zacharias said unto the angel, Whereby shall I know this? for I am an old man, and my wife well stricken in years."
+        },
+        {
+            "name": "Luke 1:19",
+            "text": "And the angel answering said unto him, I am Gabriel, that stand in the presence of God; and am sent to speak unto thee, and to shew thee these glad tidings."
+        }
+    ],
+    "tone": "neutral"
+}

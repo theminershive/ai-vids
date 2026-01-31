@@ -1,0 +1,15 @@
+{
+    "book": "Daniel",
+    "chapter": "Chapter 12",
+    "verses": [
+        {
+            "name": "Daniel 12:1",
+            "text": "And at that time shall Michael stand up, the great prince which standeth for the children of thy people: and there shall be a time of trouble, such as never was since there was a nation even to that same time: and at that time thy people shall be delivered, every one that shall be found written in the book."
+        },
+        {
+            "name": "Daniel 12:2",
+            "text": "And many of them that sleep in the dust of the earth shall awake, some to everlasting life, and some to shame and everlasting contempt."
+        }
+    ],
+    "tone": "neutral"
+}

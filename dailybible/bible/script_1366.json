@@ -1,0 +1,19 @@
+{
+    "book": "Deuteronomy",
+    "chapter": "Chapter 4",
+    "verses": [
+        {
+            "name": "Deuteronomy 4:6",
+            "text": "Keep therefore and do them; for this is your wisdom and your understanding in the sight of the nations, which shall hear all these statutes, and say, Surely this great nation is a wise and understanding people."
+        },
+        {
+            "name": "Deuteronomy 4:7",
+            "text": "For what nation is there so great, who hath God so nigh unto them, as the Lord our God is in all things that we call upon him for?"
+        },
+        {
+            "name": "Deuteronomy 4:8",
+            "text": "And what nation is there so great, that hath statutes and judgments so righteous as all this law, which I set before you this day?"
+        }
+    ],
+    "tone": "instructional"
+}

@@ -1,0 +1,27 @@
+{
+    "book": "Matthew",
+    "chapter": "Chapter 24",
+    "verses": [
+        {
+            "name": "Matthew 24:9",
+            "text": "Then shall they deliver you up to be afflicted, and shall kill you: and ye shall be hated of all nations for my name\u2019s sake."
+        },
+        {
+            "name": "Matthew 24:10",
+            "text": "And then shall many be offended, and shall betray one another, and shall hate one another."
+        },
+        {
+            "name": "Matthew 24:11",
+            "text": "And many false prophets shall rise, and shall deceive many."
+        },
+        {
+            "name": "Matthew 24:12",
+            "text": "And because iniquity shall abound, the love of many shall wax cold."
+        },
+        {
+            "name": "Matthew 24:13",
+            "text": "But he that shall endure unto the end, the same shall be saved."
+        }
+    ],
+    "tone": "hopeful"
+}

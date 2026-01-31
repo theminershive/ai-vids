@@ -1,0 +1,19 @@
+{
+    "book": "Daniel",
+    "chapter": "Chapter 5",
+    "verses": [
+        {
+            "name": "Daniel 5:18",
+            "text": "O thou king, the most high God gave Nebuchadnezzar thy father a kingdom, and majesty, and glory, and honour:"
+        },
+        {
+            "name": "Daniel 5:19",
+            "text": "And for the majesty that he gave him, all people, nations, and languages, trembled and feared before him: whom he would he slew; and whom he would he kept alive; and whom he would he set up; and whom he would he put down."
+        },
+        {
+            "name": "Daniel 5:20",
+            "text": "But when his heart was lifted up, and his mind hardened in pride, he was deposed from his kingly throne, and they took his glory from him:"
+        }
+    ],
+    "tone": "hopeful"
+}

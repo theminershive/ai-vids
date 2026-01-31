@@ -1,0 +1,27 @@
+{
+    "book": "Romans",
+    "chapter": "Chapter 14",
+    "verses": [
+        {
+            "name": "Romans 14:16",
+            "text": "Let not then your good be evil spoken of:"
+        },
+        {
+            "name": "Romans 14:17",
+            "text": "For the kingdom of God is not meat and drink; but righteousness, and peace, and joy in the Holy Ghost."
+        },
+        {
+            "name": "Romans 14:18",
+            "text": "For he that in these things serveth Christ is acceptable to God, and approved of men."
+        },
+        {
+            "name": "Romans 14:19",
+            "text": "Let us therefore follow after the things which make for peace, and things wherewith one may edify another."
+        },
+        {
+            "name": "Romans 14:20",
+            "text": "For meat destroy not the work of God. All things indeed are pure; but it is evil for that man who eateth with offence."
+        }
+    ],
+    "tone": "instructional"
+}

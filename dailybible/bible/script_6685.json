@@ -1,0 +1,23 @@
+{
+    "book": "Luke",
+    "chapter": "Chapter 9",
+    "verses": [
+        {
+            "name": "Luke 9:15",
+            "text": "And they did so, and made them all sit down."
+        },
+        {
+            "name": "Luke 9:16",
+            "text": "Then he took the five loaves and the two fishes, and looking up to heaven, he blessed them, and brake, and gave to the disciples to set before the multitude."
+        },
+        {
+            "name": "Luke 9:17",
+            "text": "And they did eat, and were all filled: and there was taken up of fragments that remained to them twelve baskets."
+        },
+        {
+            "name": "Luke 9:18",
+            "text": "And it came to pass, as he was alone praying, his disciples were with him: and he asked them, saying, Whom say the people that I am?"
+        }
+    ],
+    "tone": "neutral"
+}

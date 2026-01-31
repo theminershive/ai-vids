@@ -1,0 +1,23 @@
+{
+    "book": "Numbers",
+    "chapter": "Chapter 22",
+    "verses": [
+        {
+            "name": "Numbers 22:12",
+            "text": "And God said unto Balaam, Thou shalt not go with them; thou shalt not curse the people: for they are blessed."
+        },
+        {
+            "name": "Numbers 22:13",
+            "text": "And Balaam rose up in the morning, and said unto the princes of Balak, Get you into your land: for the Lord refuseth to give me leave to go with you."
+        },
+        {
+            "name": "Numbers 22:14",
+            "text": "And the princes of Moab rose up, and they went unto Balak, and said, Balaam refuseth to come with us."
+        },
+        {
+            "name": "Numbers 22:15",
+            "text": "And Balak sent yet again princes, more, and more honourable than they."
+        }
+    ],
+    "tone": "neutral"
+}

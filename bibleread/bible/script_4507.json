@@ -1,0 +1,23 @@
+{
+    "book": "Isaiah",
+    "chapter": "Chapter 1",
+    "verses": [
+        {
+            "name": "Isaiah 1:26",
+            "text": "And I will restore thy judges as at the first, and thy counsellors as at the beginning: afterward thou shalt be called, The city of righteousness, the faithful city."
+        },
+        {
+            "name": "Isaiah 1:27",
+            "text": "Zion shall be redeemed with judgment, and her converts with righteousness."
+        },
+        {
+            "name": "Isaiah 1:28",
+            "text": "And the destruction of the transgressors and of the sinners shall be together, and they that forsake the Lord shall be consumed."
+        },
+        {
+            "name": "Isaiah 1:29",
+            "text": "For they shall be ashamed of the oaks which ye have desired, and ye shall be confounded for the gardens that ye have chosen."
+        }
+    ],
+    "tone": "neutral"
+}

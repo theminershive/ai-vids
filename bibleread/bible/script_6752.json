@@ -1,0 +1,23 @@
+{
+    "book": "Luke",
+    "chapter": "Chapter 14",
+    "verses": [
+        {
+            "name": "Luke 14:24",
+            "text": "For I say unto you, That none of those men which were bidden shall taste of my supper."
+        },
+        {
+            "name": "Luke 14:25",
+            "text": "And there went great multitudes with him: and he turned, and said unto them,"
+        },
+        {
+            "name": "Luke 14:26",
+            "text": "If any man come to me, and hate not his father, and mother, and wife, and children, and brethren, and sisters, yea, and his own life also, he cannot be my disciple."
+        },
+        {
+            "name": "Luke 14:27",
+            "text": "And whosoever doth not bear his cross, and come after me, cannot be my disciple."
+        }
+    ],
+    "tone": "neutral"
+}

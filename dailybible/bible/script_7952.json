@@ -1,0 +1,27 @@
+{
+    "book": "Jude",
+    "chapter": "Chapter 1",
+    "verses": [
+        {
+            "name": "Jude 1:16",
+            "text": "These are murmurers, complainers, walking after their own lusts; and their mouth speaketh great swelling words, having men\u2019s persons in admiration because of advantage."
+        },
+        {
+            "name": "Jude 1:17",
+            "text": "But, beloved, remember ye the words which were spoken before of the apostles of our Lord Jesus Christ;"
+        },
+        {
+            "name": "Jude 1:18",
+            "text": "How that they told you there should be mockers in the last time, who should walk after their own ungodly lusts."
+        },
+        {
+            "name": "Jude 1:19",
+            "text": "These be they who separate themselves, sensual, having not the Spirit."
+        },
+        {
+            "name": "Jude 1:20",
+            "text": "But ye, beloved, building up yourselves on your most holy faith, praying in the Holy Ghost,"
+        }
+    ],
+    "tone": "instructional"
+}

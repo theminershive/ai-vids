@@ -1,0 +1,23 @@
+{
+    "book": "Luke",
+    "chapter": "Chapter 17",
+    "verses": [
+        {
+            "name": "Luke 17:8",
+            "text": "And will not rather say unto him, Make ready wherewith I may sup, and gird thyself, and serve me, till I have eaten and drunken; and afterward thou shalt eat and drink?"
+        },
+        {
+            "name": "Luke 17:9",
+            "text": "Doth he thank that servant because he did the things that were commanded him? I trow not."
+        },
+        {
+            "name": "Luke 17:10",
+            "text": "So likewise ye, when ye shall have done all those things which are commanded you, say, We are unprofitable servants: we have done that which was our duty to do."
+        },
+        {
+            "name": "Luke 17:11",
+            "text": "And it came to pass, as he went to Jerusalem, that he passed through the midst of Samaria and Galilee."
+        }
+    ],
+    "tone": "neutral"
+}

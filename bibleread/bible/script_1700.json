@@ -1,0 +1,19 @@
+{
+    "book": "Joshua",
+    "chapter": "Chapter 9",
+    "verses": [
+        {
+            "name": "Joshua 9:21",
+            "text": "And the princes said unto them, Let them live; but let them be hewers of wood and drawers of water unto all the congregation; as the princes had promised them."
+        },
+        {
+            "name": "Joshua 9:22",
+            "text": "And Joshua called for them, and he spake unto them, saying, Wherefore have ye beguiled us, saying, We are very far from you; when ye dwell among us?"
+        },
+        {
+            "name": "Joshua 9:23",
+            "text": "Now therefore ye are cursed, and there shall none of you be freed from being bondmen, and hewers of wood and drawers of water for the house of my God."
+        }
+    ],
+    "tone": "neutral"
+}

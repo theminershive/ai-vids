@@ -1,0 +1,19 @@
+{
+    "book": "Luke",
+    "chapter": "Chapter 13",
+    "verses": [
+        {
+            "name": "Luke 13:16",
+            "text": "And ought not this woman, being a daughter of Abraham, whom Satan hath bound, lo, these eighteen years, be loosed from this bond on the sabbath day?"
+        },
+        {
+            "name": "Luke 13:17",
+            "text": "And when he had said these things, all his adversaries were ashamed: and all the people rejoiced for all the glorious things that were done by him."
+        },
+        {
+            "name": "Luke 13:18",
+            "text": "Then said he, Unto what is the kingdom of God like? and whereunto shall I resemble it?"
+        }
+    ],
+    "tone": "neutral"
+}

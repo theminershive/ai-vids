@@ -1,0 +1,23 @@
+{
+    "book": "Matthew",
+    "chapter": "Chapter 25",
+    "verses": [
+        {
+            "name": "Matthew 25:13",
+            "text": "Watch therefore, for ye know neither the day nor the hour wherein the Son of man cometh."
+        },
+        {
+            "name": "Matthew 25:14",
+            "text": "For the kingdom of heaven is as a man travelling into a far country, who called his own servants, and delivered unto them his goods."
+        },
+        {
+            "name": "Matthew 25:15",
+            "text": "And unto one he gave five talents, to another two, and to another one; to every man according to his several ability; and straightway took his journey."
+        },
+        {
+            "name": "Matthew 25:16",
+            "text": "Then he that had received the five talents went and traded with the same, and made them other five talents."
+        }
+    ],
+    "tone": "neutral"
+}

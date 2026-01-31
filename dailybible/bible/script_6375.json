@@ -1,0 +1,27 @@
+{
+    "book": "Matthew",
+    "chapter": "Chapter 25",
+    "verses": [
+        {
+            "name": "Matthew 25:35",
+            "text": "For I was an hungred, and ye gave me meat: I was thirsty, and ye gave me drink: I was a stranger, and ye took me in:"
+        },
+        {
+            "name": "Matthew 25:36",
+            "text": "Naked, and ye clothed me: I was sick, and ye visited me: I was in prison, and ye came unto me."
+        },
+        {
+            "name": "Matthew 25:37",
+            "text": "Then shall the righteous answer him, saying, Lord, when saw we thee an hungred, and fed thee? or thirsty, and gave thee drink?"
+        },
+        {
+            "name": "Matthew 25:38",
+            "text": "When saw we thee a stranger, and took thee in? or naked, and clothed thee?"
+        },
+        {
+            "name": "Matthew 25:39",
+            "text": "Or when saw we thee sick, or in prison, and came unto thee?"
+        }
+    ],
+    "tone": "lamenting"
+}

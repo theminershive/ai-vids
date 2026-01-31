@@ -1,0 +1,27 @@
+{
+    "book": "Luke",
+    "chapter": "Chapter 12",
+    "verses": [
+        {
+            "name": "Luke 12:12",
+            "text": "For the Holy Ghost shall teach you in the same hour what ye ought to say."
+        },
+        {
+            "name": "Luke 12:13",
+            "text": "And one of the company said unto him, Master, speak to my brother, that he divide the inheritance with me."
+        },
+        {
+            "name": "Luke 12:14",
+            "text": "And he said unto him, Man, who made me a judge or a divider over you?"
+        },
+        {
+            "name": "Luke 12:15",
+            "text": "And he said unto them, Take heed, and beware of covetousness: for a man\u2019s life consisteth not in the abundance of the things which he possesseth."
+        },
+        {
+            "name": "Luke 12:16",
+            "text": "And he spake a parable unto them, saying, The ground of a certain rich man brought forth plentifully:"
+        }
+    ],
+    "tone": "neutral"
+}

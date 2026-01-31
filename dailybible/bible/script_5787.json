@@ -1,0 +1,15 @@
+{
+    "book": "Daniel",
+    "chapter": "Chapter 5",
+    "verses": [
+        {
+            "name": "Daniel 5:12",
+            "text": "Forasmuch as an excellent spirit, and knowledge, and understanding, interpreting of dreams, and shewing of hard sentences, and dissolving of doubts, were found in the same Daniel, whom the king named Belteshazzar: now let Daniel be called, and he will shew the interpretation."
+        },
+        {
+            "name": "Daniel 5:13",
+            "text": "Then was Daniel brought in before the king. And the king spake and said unto Daniel, Art thou that Daniel, which art of the children of the captivity of Judah, whom the king my father brought out of Jewry?"
+        }
+    ],
+    "tone": "neutral"
+}

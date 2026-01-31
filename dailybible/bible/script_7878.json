@@ -1,0 +1,19 @@
+{
+    "book": "1 Peter",
+    "chapter": "Chapter 1",
+    "verses": [
+        {
+            "name": "1 Peter 1:12",
+            "text": "Unto whom it was revealed, that not unto themselves, but unto us they did minister the things, which are now reported unto you by them that have preached the gospel unto you with the Holy Ghost sent down from heaven; which things the angels desire to look into."
+        },
+        {
+            "name": "1 Peter 1:13",
+            "text": "Wherefore gird up the loins of your mind, be sober, and hope to the end for the grace that is to be brought unto you at the revelation of Jesus Christ;"
+        },
+        {
+            "name": "1 Peter 1:14",
+            "text": "As obedient children, not fashioning yourselves according to the former lusts in your ignorance:"
+        }
+    ],
+    "tone": "hopeful"
+}

@@ -1,0 +1,15 @@
+{
+    "book": "Daniel",
+    "chapter": "Chapter 9",
+    "verses": [
+        {
+            "name": "Daniel 9:23",
+            "text": "At the beginning of thy supplications the commandment came forth, and I am come to shew thee; for thou art greatly beloved: therefore understand the matter, and consider the vision."
+        },
+        {
+            "name": "Daniel 9:24",
+            "text": "Seventy weeks are determined upon thy people and upon thy holy city, to finish the transgression, and to make an end of sins, and to make reconciliation for iniquity, and to bring in everlasting righteousness, and to seal up the vision and prophecy, and to anoint the most Holy."
+        }
+    ],
+    "tone": "instructional"
+}

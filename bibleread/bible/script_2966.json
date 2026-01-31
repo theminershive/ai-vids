@@ -1,0 +1,27 @@
+{
+    "book": "1 Chronicles",
+    "chapter": "Chapter 2",
+    "verses": [
+        {
+            "name": "1 Chronicles 2:1",
+            "text": "These are the sons of Israel; Reuben, Simeon, Levi, and Judah, Issachar, and Zebulun,"
+        },
+        {
+            "name": "1 Chronicles 2:2",
+            "text": "Dan, Joseph, and Benjamin, Naphtali, Gad, and Asher."
+        },
+        {
+            "name": "1 Chronicles 2:3",
+            "text": "The sons of Judah; Er, and Onan, and Shelah: which three were born unto him of the daughter of Shua the Canaanitess. And Er, the firstborn of Judah, was evil in the sight of the Lord; and he slew him."
+        },
+        {
+            "name": "1 Chronicles 2:4",
+            "text": "And Tamar his daughter in law bare him Pharez and Zerah. All the sons of Judah were five."
+        },
+        {
+            "name": "1 Chronicles 2:5",
+            "text": "The sons of Pharez; Hezron, and Hamul."
+        }
+    ],
+    "tone": "instructional"
+}

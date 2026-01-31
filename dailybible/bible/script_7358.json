@@ -1,0 +1,27 @@
+{
+    "book": "Romans",
+    "chapter": "Chapter 7",
+    "verses": [
+        {
+            "name": "Romans 7:8",
+            "text": "But sin, taking occasion by the commandment, wrought in me all manner of concupiscence. For without the law sin was dead."
+        },
+        {
+            "name": "Romans 7:9",
+            "text": "For I was alive without the law once: but when the commandment came, sin revived, and I died."
+        },
+        {
+            "name": "Romans 7:10",
+            "text": "And the commandment, which was ordained to life, I found to be unto death."
+        },
+        {
+            "name": "Romans 7:11",
+            "text": "For sin, taking occasion by the commandment, deceived me, and by it slew me. "
+        },
+        {
+            "name": "Romans 7:12",
+            "text": "Wherefore the law is holy, and the commandment holy, and just, and good."
+        }
+    ],
+    "tone": "instructional"
+}

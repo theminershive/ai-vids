@@ -1,0 +1,27 @@
+{
+    "book": "Luke",
+    "chapter": "Chapter 13",
+    "verses": [
+        {
+            "name": "Luke 13:1",
+            "text": "There were present at that season some that told him of the Galileans, whose blood Pilate had mingled with their sacrifices."
+        },
+        {
+            "name": "Luke 13:2",
+            "text": "And Jesus answering said unto them, Suppose ye that these Galileans were sinners above all the Galileans, because they suffered such things?"
+        },
+        {
+            "name": "Luke 13:3",
+            "text": "I tell you, Nay: but, except ye repent, ye shall all likewise perish."
+        },
+        {
+            "name": "Luke 13:4",
+            "text": "Or those eighteen, upon whom the tower in Siloam fell, and slew them, think ye that they were sinners above all men that dwelt in Jerusalem?"
+        },
+        {
+            "name": "Luke 13:5",
+            "text": "I tell you, Nay: but, except ye repent, ye shall all likewise perish."
+        }
+    ],
+    "tone": "neutral"
+}

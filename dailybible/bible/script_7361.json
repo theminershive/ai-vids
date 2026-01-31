@@ -1,0 +1,23 @@
+{
+    "book": "Romans",
+    "chapter": "Chapter 7",
+    "verses": [
+        {
+            "name": "Romans 7:21",
+            "text": "I find then a law, that, when I would do good, evil is present with me."
+        },
+        {
+            "name": "Romans 7:22",
+            "text": "For I delight in the law of God after the inward man:"
+        },
+        {
+            "name": "Romans 7:23",
+            "text": "But I see another law in my members, warring against the law of my mind, and bringing me into captivity to the law of sin which is in my members."
+        },
+        {
+            "name": "Romans 7:24",
+            "text": "O wretched man that I am! who shall deliver me from the body of this death?"
+        }
+    ],
+    "tone": "instructional"
+}

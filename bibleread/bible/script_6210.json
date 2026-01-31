@@ -1,0 +1,23 @@
+{
+    "book": "Matthew",
+    "chapter": "Chapter 8",
+    "verses": [
+        {
+            "name": "Matthew 8:6",
+            "text": "And saying, Lord, my servant lieth at home sick of the palsy, grievously tormented."
+        },
+        {
+            "name": "Matthew 8:7",
+            "text": "And Jesus saith unto him, I will come and heal him."
+        },
+        {
+            "name": "Matthew 8:8",
+            "text": "The centurion answered and said, Lord, I am not worthy that thou shouldest come under my roof: but speak the word only, and my servant shall be healed."
+        },
+        {
+            "name": "Matthew 8:9",
+            "text": "For I am a man under authority, having soldiers under me: and I say to this man, Go, and he goeth; and to another, Come, and he cometh; and to my servant, Do this, and he doeth it. "
+        }
+    ],
+    "tone": "lamenting"
+}

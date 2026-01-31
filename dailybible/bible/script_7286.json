@@ -1,0 +1,19 @@
+{
+    "book": "Acts",
+    "chapter": "Chapter 25",
+    "verses": [
+        {
+            "name": "Acts 25:6",
+            "text": "And when he had tarried among them more than ten days, he went down unto Cesarea; and the next day sitting on the judgment seat commanded Paul to be brought."
+        },
+        {
+            "name": "Acts 25:7",
+            "text": "And when he was come, the Jews which came down from Jerusalem stood round about, and laid many and grievous complaints against Paul, which they could not prove."
+        },
+        {
+            "name": "Acts 25:8",
+            "text": "While he answered for himself, Neither against the law of the Jews, neither against the temple, nor yet against Cesar, have I offended any thing at all."
+        }
+    ],
+    "tone": "neutral"
+}

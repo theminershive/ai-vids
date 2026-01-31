@@ -1,0 +1,27 @@
+{
+    "book": "Acts",
+    "chapter": "Chapter 27",
+    "verses": [
+        {
+            "name": "Acts 27:23",
+            "text": "For there stood by me this night the angel of God, whose I am, and whom I serve,"
+        },
+        {
+            "name": "Acts 27:24",
+            "text": "Saying, Fear not, Paul; thou must be brought before Cesar: and, lo, God hath given thee all them that sail with thee."
+        },
+        {
+            "name": "Acts 27:25",
+            "text": "Wherefore, sirs, be of good cheer: for I believe God, that it shall be even as it was told me."
+        },
+        {
+            "name": "Acts 27:26",
+            "text": "Howbeit we must be cast upon a certain island."
+        },
+        {
+            "name": "Acts 27:27",
+            "text": "But when the fourteenth night was come, as we were driven up and down in Adria, about midnight the shipmen deemed that they drew near to some country;"
+        }
+    ],
+    "tone": "hopeful"
+}

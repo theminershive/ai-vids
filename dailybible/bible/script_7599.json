@@ -1,0 +1,19 @@
+{
+    "book": "Galatians",
+    "chapter": "Chapter 3",
+    "verses": [
+        {
+            "name": "Galatians 3:10",
+            "text": "For as many as are of the works of the law are under the curse: for it is written, Cursed is every one that continueth not in all things which are written in the book of the law to do them."
+        },
+        {
+            "name": "Galatians 3:11",
+            "text": "But that no man is justified by the law in the sight of God, it is evident: for, The just shall live by faith."
+        },
+        {
+            "name": "Galatians 3:12",
+            "text": "And the law is not of faith: but, The man that doeth them shall live in them."
+        }
+    ],
+    "tone": "instructional"
+}

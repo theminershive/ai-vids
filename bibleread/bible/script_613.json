@@ -1,0 +1,19 @@
+{
+    "book": "Exodus",
+    "chapter": "Chapter 27",
+    "verses": [
+        {
+            "name": "Exodus 27:1",
+            "text": "And thou shalt make an altar of shittim wood, five cubits long, and five cubits broad; the altar shall be foursquare: and the height thereof shall be three cubits."
+        },
+        {
+            "name": "Exodus 27:2",
+            "text": "And thou shalt make the horns of it upon the four corners thereof: his horns shall be of the same: and thou shalt overlay it with brass."
+        },
+        {
+            "name": "Exodus 27:3",
+            "text": "And thou shalt make his pans to receive his ashes, and his shovels, and his basons, and his fleshhooks, and his firepans: all the vessels thereof thou shalt make of brass."
+        }
+    ],
+    "tone": "neutral"
+}

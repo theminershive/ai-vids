@@ -1,0 +1,19 @@
+{
+    "book": "Jeremiah",
+    "chapter": "Chapter 7",
+    "verses": [
+        {
+            "name": "Jeremiah 7:17",
+            "text": "Seest thou not what they do in the cities of Judah and in the streets of Jerusalem?"
+        },
+        {
+            "name": "Jeremiah 7:18",
+            "text": "The children gather wood, and the fathers kindle the fire, and the women knead their dough, to make cakes to the queen of heaven, and to pour out drink offerings unto other gods, that they may provoke me to anger."
+        },
+        {
+            "name": "Jeremiah 7:19",
+            "text": "Do they provoke me to anger? saith the Lord: do they not provoke themselves to the confusion of their own faces?"
+        }
+    ],
+    "tone": "lamenting"
+}

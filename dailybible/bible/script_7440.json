@@ -1,0 +1,23 @@
+{
+    "book": "1 Corinthians",
+    "chapter": "Chapter 4",
+    "verses": [
+        {
+            "name": "1 Corinthians 4:14",
+            "text": "I write not these things to shame you, but as my beloved sons I warn you. "
+        },
+        {
+            "name": "1 Corinthians 4:15",
+            "text": "For though ye have ten thousand instructors in Christ, yet have ye not many fathers: for in Christ Jesus I have begotten you through the gospel."
+        },
+        {
+            "name": "1 Corinthians 4:16",
+            "text": "Wherefore I beseech you, be ye followers of me."
+        },
+        {
+            "name": "1 Corinthians 4:17",
+            "text": "For this cause have I sent unto you Timotheus, who is my beloved son, and faithful in the Lord, who shall bring you into remembrance of my ways which be in Christ, as I teach every where in every church."
+        }
+    ],
+    "tone": "instructional"
+}

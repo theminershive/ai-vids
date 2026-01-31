@@ -1,0 +1,15 @@
+{
+    "book": "Daniel",
+    "chapter": "Chapter 9",
+    "verses": [
+        {
+            "name": "Daniel 9:12",
+            "text": "And he hath confirmed his words, which he spake against us, and against our judges that judged us, by bringing upon us a great evil: for under the whole heaven hath not been done as hath been done upon Jerusalem."
+        },
+        {
+            "name": "Daniel 9:13",
+            "text": "As it is written in the law of Moses, all this evil is come upon us: yet made we not our prayer before the Lord our God, that we might turn from our iniquities, and understand thy truth."
+        }
+    ],
+    "tone": "instructional"
+}

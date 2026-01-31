@@ -1,0 +1,23 @@
+{
+    "book": "Mark",
+    "chapter": "Chapter 6",
+    "verses": [
+        {
+            "name": "Mark 6:24",
+            "text": "And she went forth, and said unto her mother, What shall I ask? And she said, The head of John the Baptist."
+        },
+        {
+            "name": "Mark 6:25",
+            "text": "And she came in straightway with haste unto the king, and asked, saying, I will that thou give me by and by in a charger the head of John the Baptist."
+        },
+        {
+            "name": "Mark 6:26",
+            "text": "And the king was exceeding sorry; yet for his oath\u2019s sake, and for their sakes which sat with him, he would not reject her."
+        },
+        {
+            "name": "Mark 6:27",
+            "text": "And immediately the king sent an executioner, and commanded his head to be brought: and he went and beheaded him in the prison,"
+        }
+    ],
+    "tone": "neutral"
+}

@@ -1,0 +1,19 @@
+{
+    "book": "Deuteronomy",
+    "chapter": "Chapter 7",
+    "verses": [
+        {
+            "name": "Deuteronomy 7:21",
+            "text": "Thou shalt not be affrighted at them: for the Lord thy God is among you, a mighty God and terrible."
+        },
+        {
+            "name": "Deuteronomy 7:22",
+            "text": "And the Lord thy God will put out those nations before thee by little and little: thou mayest not consume them at once, lest the beasts of the field increase upon thee."
+        },
+        {
+            "name": "Deuteronomy 7:23",
+            "text": "But the Lord thy God shall deliver them unto thee, and shall destroy them with a mighty destruction, until they be destroyed."
+        }
+    ],
+    "tone": "lamenting"
+}

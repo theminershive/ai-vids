@@ -1,0 +1,23 @@
+{
+    "book": "Luke",
+    "chapter": "Chapter 2",
+    "verses": [
+        {
+            "name": "Luke 2:32",
+            "text": "A light to lighten the Gentiles, and the glory of thy people Israel."
+        },
+        {
+            "name": "Luke 2:33",
+            "text": "And Joseph and his mother marvelled at those things which were spoken of him."
+        },
+        {
+            "name": "Luke 2:34",
+            "text": "And Simeon blessed them, and said unto Mary his mother, Behold, this child is set for the fall and rising again of many in Israel; and for a sign which shall be spoken against;"
+        },
+        {
+            "name": "Luke 2:35",
+            "text": "(Yea, a sword shall pierce through thy own soul also,) that the thoughts of many hearts may be revealed."
+        }
+    ],
+    "tone": "neutral"
+}

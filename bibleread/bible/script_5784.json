@@ -1,0 +1,19 @@
+{
+    "book": "Daniel",
+    "chapter": "Chapter 5",
+    "verses": [
+        {
+            "name": "Daniel 5:1",
+            "text": "Belshazzar the king made a great feast to a thousand of his lords, and drank wine before the thousand."
+        },
+        {
+            "name": "Daniel 5:2",
+            "text": "Belshazzar, whiles he tasted the wine, commanded to bring the golden and silver vessels which his father Nebuchadnezzar had taken out of the temple which was in Jerusalem; that the king, and his princes, his wives, and his concubines, might drink therein."
+        },
+        {
+            "name": "Daniel 5:3",
+            "text": "Then they brought the golden vessels that were taken out of the temple of the house of God which was at Jerusalem; and the king, and his princes, his wives, and his concubines, drank in them."
+        }
+    ],
+    "tone": "neutral"
+}

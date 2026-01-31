@@ -1,0 +1,23 @@
+{
+    "book": "Luke",
+    "chapter": "Chapter 16",
+    "verses": [
+        {
+            "name": "Luke 16:8",
+            "text": "And the lord commended the unjust steward, because he had done wisely: for the children of this world are in their generation wiser than the children of light."
+        },
+        {
+            "name": "Luke 16:9",
+            "text": "And I say unto you, Make to yourselves friends of the mammon of unrighteousness; that, when ye fail, they may receive you into everlasting habitations."
+        },
+        {
+            "name": "Luke 16:10",
+            "text": "He that is faithful in that which is least is faithful also in much: and he that is unjust in the least is unjust also in much."
+        },
+        {
+            "name": "Luke 16:11",
+            "text": "If therefore ye have not been faithful in the unrighteous mammon, who will commit to your trust the true riches?"
+        }
+    ],
+    "tone": "hopeful"
+}

@@ -1,0 +1,19 @@
+{
+    "book": "Genesis",
+    "chapter": "Chapter 3",
+    "verses": [
+        {
+            "name": "Genesis 3:22",
+            "text": "And the Lord God said, Behold, the man is become as one of us, to know good and evil: and now, lest he put forth his hand, and take also of the tree of life, and eat, and live for ever:"
+        },
+        {
+            "name": "Genesis 3:23",
+            "text": "Therefore the Lord God sent him forth from the garden of Eden, to till the ground from whence he was taken."
+        },
+        {
+            "name": "Genesis 3:24",
+            "text": "So he drove out the man; and he placed at the east of the garden of Eden Cherubims, and a flaming sword which turned every way, to keep the way of the tree of life. "
+        }
+    ],
+    "tone": "hopeful"
+}

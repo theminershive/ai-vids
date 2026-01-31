@@ -1,0 +1,27 @@
+{
+    "book": "Matthew",
+    "chapter": "Chapter 15",
+    "verses": [
+        {
+            "name": "Matthew 15:6",
+            "text": "And honour not his father or his mother, he shall be free. Thus have ye made the commandment of God of none effect by your tradition."
+        },
+        {
+            "name": "Matthew 15:7",
+            "text": "Ye hypocrites, well did Esaias prophesy of you, saying,"
+        },
+        {
+            "name": "Matthew 15:8",
+            "text": "This people draweth nigh unto me with their mouth, and honoureth me with their lips; but their heart is far from me."
+        },
+        {
+            "name": "Matthew 15:9",
+            "text": "But in vain they do worship me, teaching for doctrines the commandments of men."
+        },
+        {
+            "name": "Matthew 15:10",
+            "text": "And he called the multitude, and said unto them, Hear, and understand:"
+        }
+    ],
+    "tone": "neutral"
+}

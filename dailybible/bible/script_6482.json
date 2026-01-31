@@ -1,0 +1,27 @@
+{
+    "book": "Mark",
+    "chapter": "Chapter 8",
+    "verses": [
+        {
+            "name": "Mark 8:1",
+            "text": "In those days the multitude being very great, and having nothing to eat, Jesus called his disciples unto him, and saith unto them,"
+        },
+        {
+            "name": "Mark 8:2",
+            "text": "I have compassion on the multitude, because they have now been with me three days, and have nothing to eat:"
+        },
+        {
+            "name": "Mark 8:3",
+            "text": "And if I send them away fasting to their own houses, they will faint by the way: for divers of them came from far."
+        },
+        {
+            "name": "Mark 8:4",
+            "text": "And his disciples answered him, From whence can a man satisfy these men with bread here in the wilderness?"
+        },
+        {
+            "name": "Mark 8:5",
+            "text": "And he asked them, How many loaves have ye? And they said, Seven."
+        }
+    ],
+    "tone": "hopeful"
+}

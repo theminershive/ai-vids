@@ -1,0 +1,27 @@
+{
+    "book": "Matthew",
+    "chapter": "Chapter 10",
+    "verses": [
+        {
+            "name": "Matthew 10:28",
+            "text": "And fear not them which kill the body, but are not able to kill the soul: but rather fear him which is able to destroy both soul and body in hell."
+        },
+        {
+            "name": "Matthew 10:29",
+            "text": "Are not two sparrows sold for a farthing? and one of them shall not fall on the ground without your Father."
+        },
+        {
+            "name": "Matthew 10:30",
+            "text": "But the very hairs of your head are all numbered."
+        },
+        {
+            "name": "Matthew 10:31",
+            "text": "Fear ye not therefore, ye are of more value than many sparrows."
+        },
+        {
+            "name": "Matthew 10:32",
+            "text": "Whosoever therefore shall confess me before men, him will I confess also before my Father which is in heaven."
+        }
+    ],
+    "tone": "lamenting"
+}

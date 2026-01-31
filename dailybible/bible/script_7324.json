@@ -1,0 +1,23 @@
+{
+    "book": "Romans",
+    "chapter": "Chapter 1",
+    "verses": [
+        {
+            "name": "Romans 1:14",
+            "text": "I am debtor both to the Greeks, and to the Barbarians; both to the wise, and to the unwise."
+        },
+        {
+            "name": "Romans 1:15",
+            "text": "So, as much as in me is, I am ready to preach the gospel to you that are at Rome also."
+        },
+        {
+            "name": "Romans 1:16",
+            "text": "For I am not ashamed of the gospel of Christ: for it is the power of God unto salvation to every one that believeth; to the Jew first, and also to the Greek."
+        },
+        {
+            "name": "Romans 1:17",
+            "text": "For therein is the righteousness of God revealed from faith to faith: as it is written, The just shall live by faith."
+        }
+    ],
+    "tone": "hopeful"
+}

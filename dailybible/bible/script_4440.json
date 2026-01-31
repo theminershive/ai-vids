@@ -1,0 +1,23 @@
+{
+    "book": "Ecclesiastes",
+    "chapter": "Chapter 5",
+    "verses": [
+        {
+            "name": "Ecclesiastes 5:11",
+            "text": "When goods increase, they are increased that eat them: and what good is there to the owners thereof, saving the beholding of them with their eyes?"
+        },
+        {
+            "name": "Ecclesiastes 5:12",
+            "text": "The sleep of a labouring man is sweet, whether he eat little or much: but the abundance of the rich will not suffer him to sleep."
+        },
+        {
+            "name": "Ecclesiastes 5:13",
+            "text": "There is a sore evil which I have seen under the sun, namely, riches kept for the owners thereof to their hurt."
+        },
+        {
+            "name": "Ecclesiastes 5:14",
+            "text": "But those riches perish by evil travail: and he begetteth a son, and there is nothing in his hand."
+        }
+    ],
+    "tone": "instructional"
+}

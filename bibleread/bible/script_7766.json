@@ -1,0 +1,23 @@
+{
+    "book": "Titus",
+    "chapter": "Chapter 1",
+    "verses": [
+        {
+            "name": "Titus 1:1",
+            "text": "Paul, a servant of God, and an apostle of Jesus Christ, according to the faith of God\u2019s elect, and the acknowledging of the truth which is after godliness;"
+        },
+        {
+            "name": "Titus 1:2",
+            "text": "In hope of eternal life, which God, that cannot lie, promised before the world began;"
+        },
+        {
+            "name": "Titus 1:3",
+            "text": "But hath in due times manifested his word through preaching, which is committed unto me according to the commandment of God our Saviour;"
+        },
+        {
+            "name": "Titus 1:4",
+            "text": "To Titus, mine own son after the common faith: Grace, mercy, and peace, from God the Father and the Lord Jesus Christ our Saviour."
+        }
+    ],
+    "tone": "hopeful"
+}

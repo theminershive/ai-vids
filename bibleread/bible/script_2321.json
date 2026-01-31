@@ -1,0 +1,23 @@
+{
+    "book": "2 Samuel",
+    "chapter": "Chapter 7",
+    "verses": [
+        {
+            "name": "2 Samuel 7:1",
+            "text": "And it came to pass, when the king sat in his house, and the Lord had given him rest round about from all his enemies;"
+        },
+        {
+            "name": "2 Samuel 7:2",
+            "text": "That the king said unto Nathan the prophet, See now, I dwell in an house of cedar, but the ark of God dwelleth within curtains."
+        },
+        {
+            "name": "2 Samuel 7:3",
+            "text": "And Nathan said to the king, Go, do all that is in thine heart; for the Lord is with thee."
+        },
+        {
+            "name": "2 Samuel 7:4",
+            "text": "And it came to pass that night, that the word of the Lord came unto Nathan, saying,"
+        }
+    ],
+    "tone": "neutral"
+}

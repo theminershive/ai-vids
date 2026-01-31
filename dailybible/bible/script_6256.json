@@ -1,0 +1,27 @@
+{
+    "book": "Matthew",
+    "chapter": "Chapter 13",
+    "verses": [
+        {
+            "name": "Matthew 13:1",
+            "text": "The same day went Jesus out of the house, and sat by the sea side."
+        },
+        {
+            "name": "Matthew 13:2",
+            "text": "And great multitudes were gathered together unto him, so that he went into a ship, and sat; and the whole multitude stood on the shore."
+        },
+        {
+            "name": "Matthew 13:3",
+            "text": "And he spake many things unto them in parables, saying, Behold, a sower went forth to sow;"
+        },
+        {
+            "name": "Matthew 13:4",
+            "text": "And when he sowed, some seeds fell by the way side, and the fowls came and devoured them up:"
+        },
+        {
+            "name": "Matthew 13:5",
+            "text": "Some fell upon stony places, where they had not much earth: and forthwith they sprung up, because they had no deepness of earth:"
+        }
+    ],
+    "tone": "neutral"
+}

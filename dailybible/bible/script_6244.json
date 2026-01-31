@@ -1,0 +1,19 @@
+{
+    "book": "Matthew",
+    "chapter": "Chapter 12",
+    "verses": [
+        {
+            "name": "Matthew 12:1",
+            "text": "At that time Jesus went on the sabbath day through the corn; and his disciples were an hungred, and began to pluck the ears of corn, and to eat."
+        },
+        {
+            "name": "Matthew 12:2",
+            "text": "But when the Pharisees saw it, they said unto him, Behold, thy disciples do that which is not lawful to do upon the sabbath day."
+        },
+        {
+            "name": "Matthew 12:3",
+            "text": "But he said unto them, Have ye not read what David did, when he was an hungred, and they that were with him;"
+        }
+    ],
+    "tone": "neutral"
+}

@@ -1,0 +1,31 @@
+{
+    "book": "John",
+    "chapter": "Chapter 4",
+    "verses": [
+        {
+            "name": "John 4:1",
+            "text": "When therefore the Lord knew how the Pharisees had heard that Jesus made and baptized more disciples than John,"
+        },
+        {
+            "name": "John 4:2",
+            "text": "(Though Jesus himself baptized not, but his disciples,)"
+        },
+        {
+            "name": "John 4:3",
+            "text": "He left Judea, and departed again into Galilee."
+        },
+        {
+            "name": "John 4:4",
+            "text": "And he must needs go through Samaria."
+        },
+        {
+            "name": "John 4:5",
+            "text": "Then cometh he to a city of Samaria, which is called Sychar, near to the parcel of ground that Jacob gave to his son Joseph."
+        },
+        {
+            "name": "John 4:6",
+            "text": "Now Jacob\u2019s well was there. Jesus therefore, being wearied with his journey, sat thus on the well: and it was about the sixth hour."
+        }
+    ],
+    "tone": "neutral"
+}

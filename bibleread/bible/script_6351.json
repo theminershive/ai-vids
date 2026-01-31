@@ -1,0 +1,27 @@
+{
+    "book": "Matthew",
+    "chapter": "Chapter 23",
+    "verses": [
+        {
+            "name": "Matthew 23:18",
+            "text": "And, Whosoever shall swear by the altar, it is nothing; but whosoever sweareth by the gift that is upon it, he is guilty."
+        },
+        {
+            "name": "Matthew 23:19",
+            "text": "Ye fools and blind: for whether is greater, the gift, or the altar that sanctifieth the gift?"
+        },
+        {
+            "name": "Matthew 23:20",
+            "text": "Whoso therefore shall swear by the altar, sweareth by it, and by all things thereon."
+        },
+        {
+            "name": "Matthew 23:21",
+            "text": "And whoso shall swear by the temple, sweareth by it, and by him that dwelleth therein."
+        },
+        {
+            "name": "Matthew 23:22",
+            "text": "And he that shall swear by heaven, sweareth by the throne of God, and by him that sitteth thereon."
+        }
+    ],
+    "tone": "hopeful"
+}

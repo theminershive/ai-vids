@@ -1,0 +1,19 @@
+{
+    "book": "Zephaniah",
+    "chapter": "Chapter 3",
+    "verses": [
+        {
+            "name": "Zephaniah 3:5",
+            "text": "The just Lord is in the midst thereof; he will not do iniquity: every morning doth he bring his judgment to light, he faileth not; but the unjust knoweth no shame."
+        },
+        {
+            "name": "Zephaniah 3:6",
+            "text": "I have cut off the nations: their towers are desolate; I made their streets waste, that none passeth by: their cities are destroyed, so that there is no man, that there is none inhabitant."
+        },
+        {
+            "name": "Zephaniah 3:7",
+            "text": "I said, Surely thou wilt fear me, thou wilt receive instruction; so their dwelling should not be cut off, howsoever I punished them: but they rose early, and corrupted all their doings."
+        }
+    ],
+    "tone": "lamenting"
+}

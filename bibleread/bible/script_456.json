@@ -1,0 +1,19 @@
+{
+    "book": "Exodus",
+    "chapter": "Chapter 8",
+    "verses": [
+        {
+            "name": "Exodus 8:10",
+            "text": "And he said, To morrow. And he said, Be it according to thy word: that thou mayest know that there is none like unto the Lord our God."
+        },
+        {
+            "name": "Exodus 8:11",
+            "text": "And the frogs shall depart from thee, and from thy houses, and from thy servants, and from thy people; they shall remain in the river only."
+        },
+        {
+            "name": "Exodus 8:12",
+            "text": "And Moses and Aaron went out from Pharaoh: and Moses cried unto the Lord because of the frogs which he had brought against Pharaoh."
+        }
+    ],
+    "tone": "neutral"
+}

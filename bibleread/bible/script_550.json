@@ -1,0 +1,19 @@
+{
+    "book": "Exodus",
+    "chapter": "Chapter 19",
+    "verses": [
+        {
+            "name": "Exodus 19:7",
+            "text": "And Moses came and called for the elders of the people, and laid before their faces all these words which the Lord commanded him."
+        },
+        {
+            "name": "Exodus 19:8",
+            "text": "And all the people answered together, and said, All that the Lord hath spoken we will do. And Moses returned the words of the people unto the Lord."
+        },
+        {
+            "name": "Exodus 19:9",
+            "text": "And the Lord said unto Moses, Lo, I come unto thee in a thick cloud, that the people may hear when I speak with thee, and believe thee for ever. And Moses told the words of the people unto the Lord."
+        }
+    ],
+    "tone": "neutral"
+}

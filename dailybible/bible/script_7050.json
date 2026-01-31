@@ -1,0 +1,23 @@
+{
+    "book": "John",
+    "chapter": "Chapter 20",
+    "verses": [
+        {
+            "name": "John 20:21",
+            "text": "Then said Jesus to them again, Peace be unto you: as my Father hath sent me, even so send I you."
+        },
+        {
+            "name": "John 20:22",
+            "text": "And when he had said this, he breathed on them, and saith unto them, Receive ye the Holy Ghost:"
+        },
+        {
+            "name": "John 20:23",
+            "text": "Whose soever sins ye remit, they are remitted unto them; and whose soever sins ye retain, they are retained."
+        },
+        {
+            "name": "John 20:24",
+            "text": "But Thomas, one of the twelve, called Didymus, was not with them when Jesus came."
+        }
+    ],
+    "tone": "neutral"
+}

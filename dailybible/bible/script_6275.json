@@ -1,0 +1,23 @@
+{
+    "book": "Matthew",
+    "chapter": "Chapter 14",
+    "verses": [
+        {
+            "name": "Matthew 14:22",
+            "text": "And straightway Jesus constrained his disciples to get into a ship, and to go before him unto the other side, while he sent the multitudes away."
+        },
+        {
+            "name": "Matthew 14:23",
+            "text": "And when he had sent the multitudes away, he went up into a mountain apart to pray: and when the evening was come, he was there alone."
+        },
+        {
+            "name": "Matthew 14:24",
+            "text": "But the ship was now in the midst of the sea, tossed with waves: for the wind was contrary."
+        },
+        {
+            "name": "Matthew 14:25",
+            "text": "And in the fourth watch of the night Jesus went unto them, walking on the sea."
+        }
+    ],
+    "tone": "neutral"
+}

@@ -1,0 +1,23 @@
+{
+    "book": "Luke",
+    "chapter": "Chapter 1",
+    "verses": [
+        {
+            "name": "Luke 1:28",
+            "text": "And the angel came in unto her, and said, Hail, thou that art highly favoured, the Lord is with thee: blessed art thou among women."
+        },
+        {
+            "name": "Luke 1:29",
+            "text": "And when she saw him, she was troubled at his saying, and cast in her mind what manner of salutation this should be."
+        },
+        {
+            "name": "Luke 1:30",
+            "text": "And the angel said unto her, Fear not, Mary: for thou hast found favour with God."
+        },
+        {
+            "name": "Luke 1:31",
+            "text": "And, behold, thou shalt conceive in thy womb, and bring forth a son, and shalt call his name JESUS."
+        }
+    ],
+    "tone": "neutral"
+}

@@ -1,0 +1,39 @@
+{
+    "book": "Numbers",
+    "chapter": "Chapter 1",
+    "verses": [
+        {
+            "name": "Numbers 1:4",
+            "text": "And with you there shall be a man of every tribe; every one head of the house of his fathers."
+        },
+        {
+            "name": "Numbers 1:5",
+            "text": "And these are the names of the men that shall stand with you: of the tribe of Reuben; Elizur the son of Shedeur."
+        },
+        {
+            "name": "Numbers 1:6",
+            "text": "Of Simeon; Shelumiel the son of Zurishaddai."
+        },
+        {
+            "name": "Numbers 1:7",
+            "text": "Of Judah; Nahshon the son of Amminadab."
+        },
+        {
+            "name": "Numbers 1:8",
+            "text": "Of Issachar; Nethaneel the son of Zuar."
+        },
+        {
+            "name": "Numbers 1:9",
+            "text": "Of Zebulun; Eliab the son of Helon."
+        },
+        {
+            "name": "Numbers 1:10",
+            "text": "Of the children of Joseph: of Ephraim; Elishama the son of Ammihud: of Manasseh; Gamaliel the son of Pedahzur."
+        },
+        {
+            "name": "Numbers 1:11",
+            "text": "Of Benjamin; Abidan the son of Gideoni."
+        }
+    ],
+    "tone": "neutral"
+}

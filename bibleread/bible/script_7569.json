@@ -1,0 +1,19 @@
+{
+    "book": "2 Corinthians",
+    "chapter": "Chapter 11",
+    "verses": [
+        {
+            "name": "2 Corinthians 11:1",
+            "text": "Would to God ye could bear with me a little in my folly: and indeed bear with me."
+        },
+        {
+            "name": "2 Corinthians 11:2",
+            "text": "For I am jealous over you with godly jealousy: for I have espoused you to one husband, that I may present you as a chaste virgin to Christ."
+        },
+        {
+            "name": "2 Corinthians 11:3",
+            "text": "But I fear, lest by any means, as the serpent beguiled Eve through his subtilty, so your minds should be corrupted from the simplicity that is in Christ."
+        }
+    ],
+    "tone": "lamenting"
+}

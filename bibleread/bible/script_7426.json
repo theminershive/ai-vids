@@ -1,0 +1,23 @@
+{
+    "book": "1 Corinthians",
+    "chapter": "Chapter 1",
+    "verses": [
+        {
+            "name": "1 Corinthians 1:27",
+            "text": "But God hath chosen the foolish things of the world to confound the wise; and God hath chosen the weak things of the world to confound the things which are mighty;"
+        },
+        {
+            "name": "1 Corinthians 1:28",
+            "text": "And base things of the world, and things which are despised, hath God chosen, yea, and things which are not, to bring to nought things that are:"
+        },
+        {
+            "name": "1 Corinthians 1:29",
+            "text": "That no flesh should glory in his presence."
+        },
+        {
+            "name": "1 Corinthians 1:30",
+            "text": "But of him are ye in Christ Jesus, who of God is made unto us wisdom, and righteousness, and sanctification, and redemption:"
+        }
+    ],
+    "tone": "hopeful"
+}

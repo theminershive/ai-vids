@@ -1,0 +1,19 @@
+{
+    "book": "Daniel",
+    "chapter": "Chapter 2",
+    "verses": [
+        {
+            "name": "Daniel 2:4",
+            "text": "Then spake the Chaldeans to the king in Syriack, O king, live for ever: tell thy servants the dream, and we will shew the interpretation."
+        },
+        {
+            "name": "Daniel 2:5",
+            "text": "The king answered and said to the Chaldeans, The thing is gone from me: if ye will not make known unto me the dream, with the interpretation thereof, ye shall be cut in pieces, and your houses shall be made a dunghill."
+        },
+        {
+            "name": "Daniel 2:6",
+            "text": "But if ye shew the dream, and the interpretation thereof, ye shall receive of me gifts and rewards and great honour: therefore shew me the dream, and the interpretation thereof."
+        }
+    ],
+    "tone": "neutral"
+}

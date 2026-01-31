@@ -1,0 +1,23 @@
+{
+    "book": "Mark",
+    "chapter": "Chapter 6",
+    "verses": [
+        {
+            "name": "Mark 6:45",
+            "text": "And straightway he constrained his disciples to get into the ship, and to go to the other side before unto Bethsaida, while he sent away the people."
+        },
+        {
+            "name": "Mark 6:46",
+            "text": "And when he had sent them away, he departed into a mountain to pray."
+        },
+        {
+            "name": "Mark 6:47",
+            "text": "And when even was come, the ship was in the midst of the sea, and he alone on the land."
+        },
+        {
+            "name": "Mark 6:48",
+            "text": "And he saw them toiling in rowing; for the wind was contrary unto them: and about the fourth watch of the night he cometh unto them, walking upon the sea, and would have passed by them."
+        }
+    ],
+    "tone": "neutral"
+}

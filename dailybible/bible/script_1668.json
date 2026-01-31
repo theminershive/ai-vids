@@ -1,0 +1,19 @@
+{
+    "book": "Joshua",
+    "chapter": "Chapter 6",
+    "verses": [
+        {
+            "name": "Joshua 6:17",
+            "text": "And the city shall be accursed, even it, and all that are therein, to the Lord: only Rahab the harlot shall live, she and all that are with her in the house, because she hid the messengers that we sent."
+        },
+        {
+            "name": "Joshua 6:18",
+            "text": "And ye, in any wise keep yourselves from the accursed thing, lest ye make yourselves accursed, when ye take of the accursed thing, and make the camp of Israel a curse, and trouble it."
+        },
+        {
+            "name": "Joshua 6:19",
+            "text": "But all the silver, and gold, and vessels of brass and iron, are consecrated unto the Lord: they shall come into the treasury of the Lord."
+        }
+    ],
+    "tone": "neutral"
+}

@@ -1,0 +1,19 @@
+{
+    "book": "Matthew",
+    "chapter": "Chapter 23",
+    "verses": [
+        {
+            "name": "Matthew 23:37",
+            "text": "O Jerusalem, Jerusalem, thou that killest the prophets, and stonest them which are sent unto thee, how often would I have gathered thy children together, even as a hen gathereth her chickens under her wings, and ye would not!"
+        },
+        {
+            "name": "Matthew 23:38",
+            "text": "Behold, your house is left unto you desolate."
+        },
+        {
+            "name": "Matthew 23:39",
+            "text": "For I say unto you, Ye shall not see me henceforth, till ye shall say, Blessed is he that cometh in the name of the Lord. "
+        }
+    ],
+    "tone": "hopeful"
+}

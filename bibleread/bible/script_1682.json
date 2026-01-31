@@ -1,0 +1,19 @@
+{
+    "book": "Joshua",
+    "chapter": "Chapter 8",
+    "verses": [
+        {
+            "name": "Joshua 8:3",
+            "text": "So Joshua arose, and all the people of war, to go up against Ai: and Joshua chose out thirty thousand mighty men of valour, and sent them away by night."
+        },
+        {
+            "name": "Joshua 8:4",
+            "text": "And he commanded them, saying, Behold, ye shall lie in wait against the city, even behind the city: go not very far from the city, but be ye all ready:"
+        },
+        {
+            "name": "Joshua 8:5",
+            "text": "And I, and all the people that are with me, will approach unto the city: and it shall come to pass, when they come out against us, as at the first, that we will flee before them,"
+        }
+    ],
+    "tone": "neutral"
+}

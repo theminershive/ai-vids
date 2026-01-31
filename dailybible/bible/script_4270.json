@@ -1,0 +1,27 @@
+{
+    "book": "Proverbs",
+    "chapter": "Chapter 3",
+    "verses": [
+        {
+            "name": "Proverbs 3:24",
+            "text": "When thou liest down, thou shalt not be afraid: yea, thou shalt lie down, and thy sleep shall be sweet."
+        },
+        {
+            "name": "Proverbs 3:25",
+            "text": "Be not afraid of sudden fear, neither of the desolation of the wicked, when it cometh."
+        },
+        {
+            "name": "Proverbs 3:26",
+            "text": "For the Lord shall be thy confidence, and shall keep thy foot from being taken."
+        },
+        {
+            "name": "Proverbs 3:27",
+            "text": "Withhold not good from them to whom it is due, when it is in the power of thine hand to do it."
+        },
+        {
+            "name": "Proverbs 3:28",
+            "text": "Say not unto thy neighbour, Go, and come again, and to morrow I will give; when thou hast it by thee."
+        }
+    ],
+    "tone": "neutral"
+}

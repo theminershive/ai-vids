@@ -1,0 +1,19 @@
+{
+    "book": "Obadiah",
+    "chapter": "Chapter 1",
+    "verses": [
+        {
+            "name": "Obadiah 1:4",
+            "text": "Though thou exalt thyself as the eagle, and though thou set thy nest among the stars, thence will I bring thee down, saith the Lord."
+        },
+        {
+            "name": "Obadiah 1:5",
+            "text": "If thieves came to thee, if robbers by night, (how art thou cut off!) would they not have stolen till they had enough? if the grapegatherers came to thee, would they not leave some grapes?"
+        },
+        {
+            "name": "Obadiah 1:6",
+            "text": "How are the things of Esau searched out! how are his hidden things sought up!"
+        }
+    ],
+    "tone": "praising"
+}

@@ -1,0 +1,23 @@
+{
+    "book": "John",
+    "chapter": "Chapter 1",
+    "verses": [
+        {
+            "name": "John 1:13",
+            "text": "Which were born, not of blood, nor of the will of the flesh, nor of the will of man, but of God."
+        },
+        {
+            "name": "John 1:14",
+            "text": "And the Word was made flesh, and dwelt among us, (and we beheld his glory, the glory as of the only begotten of the Father,) full of grace and truth."
+        },
+        {
+            "name": "John 1:15",
+            "text": "John bare witness of him, and cried, saying, This was he of whom I spake, He that cometh after me is preferred before me: for he was before me."
+        },
+        {
+            "name": "John 1:16",
+            "text": "And of his fulness have all we received, and grace for grace."
+        }
+    ],
+    "tone": "praising"
+}

@@ -1,0 +1,19 @@
+{
+    "book": "Mark",
+    "chapter": "Chapter 2",
+    "verses": [
+        {
+            "name": "Mark 2:21",
+            "text": "No man also seweth a piece of new cloth on an old garment: else the new piece that filled it up taketh away from the old, and the rent is made worse."
+        },
+        {
+            "name": "Mark 2:22",
+            "text": "And no man putteth new wine into old bottles: else the new wine doth burst the bottles, and the wine is spilled, and the bottles will be marred: but new wine must be put into new bottles."
+        },
+        {
+            "name": "Mark 2:23",
+            "text": "And it came to pass, that he went through the corn fields on the sabbath day; and his disciples began, as they went, to pluck the ears of corn."
+        }
+    ],
+    "tone": "neutral"
+}

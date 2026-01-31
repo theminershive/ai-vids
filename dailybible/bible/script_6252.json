@@ -1,0 +1,19 @@
+{
+    "book": "Matthew",
+    "chapter": "Chapter 12",
+    "verses": [
+        {
+            "name": "Matthew 12:33",
+            "text": "Either make the tree good, and his fruit good; or else make the tree corrupt, and his fruit corrupt: for the tree is known by his fruit."
+        },
+        {
+            "name": "Matthew 12:34",
+            "text": "O generation of vipers, how can ye, being evil, speak good things? for out of the abundance of the heart the mouth speaketh."
+        },
+        {
+            "name": "Matthew 12:35",
+            "text": "A good man out of the good treasure of the heart bringeth forth good things: and an evil man out of the evil treasure bringeth forth evil things."
+        }
+    ],
+    "tone": "instructional"
+}

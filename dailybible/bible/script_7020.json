@@ -1,0 +1,19 @@
+{
+    "book": "John",
+    "chapter": "Chapter 17",
+    "verses": [
+        {
+            "name": "John 17:8",
+            "text": "For I have given unto them the words which thou gavest me; and they have received them, and have known surely that I came out from thee, and they have believed that thou didst send me."
+        },
+        {
+            "name": "John 17:9",
+            "text": "I pray for them: I pray not for the world, but for them which thou hast given me; for they are thine."
+        },
+        {
+            "name": "John 17:10",
+            "text": "And all mine are thine, and thine are mine; and I am glorified in them."
+        }
+    ],
+    "tone": "hopeful"
+}

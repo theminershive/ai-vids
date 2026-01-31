@@ -1,0 +1,23 @@
+{
+    "book": "1 Corinthians",
+    "chapter": "Chapter 6",
+    "verses": [
+        {
+            "name": "1 Corinthians 6:1",
+            "text": "Dare any of you, having a matter against another, go to law before the unjust, and not before the saints?"
+        },
+        {
+            "name": "1 Corinthians 6:2",
+            "text": "Do ye not know that the saints shall judge the world? and if the world shall be judged by you, are ye unworthy to judge the smallest matters?"
+        },
+        {
+            "name": "1 Corinthians 6:3",
+            "text": "Know ye not that we shall judge angels? how much more things that pertain to this life?"
+        },
+        {
+            "name": "1 Corinthians 6:4",
+            "text": "If then ye have judgments of things pertaining to this life, set them to judge who are least esteemed in the church."
+        }
+    ],
+    "tone": "instructional"
+}

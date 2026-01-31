@@ -1,0 +1,19 @@
+{
+    "book": "Leviticus",
+    "chapter": "Chapter 1",
+    "verses": [
+        {
+            "name": "Leviticus 1:8",
+            "text": "And the priests, Aaron\u2019s sons, shall lay the parts, the head, and the fat, in order upon the wood that is on the fire which is upon the altar:"
+        },
+        {
+            "name": "Leviticus 1:9",
+            "text": "But his inwards and his legs shall he wash in water: and the priest shall burn all on the altar, to be a burnt sacrifice, an offering made by fire, of a sweet savour unto the Lord."
+        },
+        {
+            "name": "Leviticus 1:10",
+            "text": "And if his offering be of the flocks, namely, of the sheep, or of the goats, for a burnt sacrifice; he shall bring it a male without blemish."
+        }
+    ],
+    "tone": "neutral"
+}

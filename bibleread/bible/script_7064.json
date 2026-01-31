@@ -1,0 +1,19 @@
+{
+    "book": "Acts",
+    "chapter": "Chapter 1",
+    "verses": [
+        {
+            "name": "Acts 1:11",
+            "text": "Which also said, Ye men of Galilee, why stand ye gazing up into heaven? this same Jesus, which is taken up from you into heaven, shall so come in like manner as ye have seen him go into heaven."
+        },
+        {
+            "name": "Acts 1:12",
+            "text": "Then returned they unto Jerusalem from the mount called Olivet, which is from Jerusalem a sabbath day\u2019s journey."
+        },
+        {
+            "name": "Acts 1:13",
+            "text": "And when they were come in, they went up into an upper room, where abode both Peter, and James, and John, and Andrew, Philip, and Thomas, Bartholomew, and Matthew, James the son of Alpheus, and Simon Zelotes, and Judas the brother of James."
+        }
+    ],
+    "tone": "neutral"
+}

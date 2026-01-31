@@ -1,0 +1,23 @@
+{
+    "book": "Mark",
+    "chapter": "Chapter 1",
+    "verses": [
+        {
+            "name": "Mark 1:15",
+            "text": "And saying, The time is fulfilled, and the kingdom of God is at hand: repent ye, and believe the gospel."
+        },
+        {
+            "name": "Mark 1:16",
+            "text": "Now as he walked by the sea of Galilee, he saw Simon and Andrew his brother casting a net into the sea: for they were fishers."
+        },
+        {
+            "name": "Mark 1:17",
+            "text": "And Jesus said unto them, Come ye after me, and I will make you to become fishers of men."
+        },
+        {
+            "name": "Mark 1:18",
+            "text": "And straightway they forsook their nets, and followed him."
+        }
+    ],
+    "tone": "neutral"
+}

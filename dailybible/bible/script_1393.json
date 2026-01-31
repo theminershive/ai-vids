@@ -1,0 +1,19 @@
+{
+    "book": "Deuteronomy",
+    "chapter": "Chapter 6",
+    "verses": [
+        {
+            "name": "Deuteronomy 6:10",
+            "text": "And it shall be, when the Lord thy God shall have brought thee into the land which he sware unto thy fathers, to Abraham, to Isaac, and to Jacob, to give thee great and goodly cities, which thou buildedst not,"
+        },
+        {
+            "name": "Deuteronomy 6:11",
+            "text": "And houses full of all good things, which thou filledst not, and wells digged, which thou diggedst not, vineyards and olive trees, which thou plantedst not; when thou shalt have eaten and be full;"
+        },
+        {
+            "name": "Deuteronomy 6:12",
+            "text": "Then beware lest thou forget the Lord, which brought thee forth out of the land of Egypt, from the house of bondage."
+        }
+    ],
+    "tone": "neutral"
+}

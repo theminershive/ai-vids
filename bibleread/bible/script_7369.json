@@ -1,0 +1,23 @@
+{
+    "book": "Romans",
+    "chapter": "Chapter 8",
+    "verses": [
+        {
+            "name": "Romans 8:28",
+            "text": "And we know that all things work together for good to them that love God, to them who are the called according to his purpose."
+        },
+        {
+            "name": "Romans 8:29",
+            "text": "For whom he did foreknow, he also did predestinate to be conformed to the image of his Son, that he might be the firstborn among many brethren."
+        },
+        {
+            "name": "Romans 8:30",
+            "text": "Moreover whom he did predestinate, them he also called: and whom he called, them he also justified: and whom he justified, them he also glorified."
+        },
+        {
+            "name": "Romans 8:31",
+            "text": "What shall we then say to these things? If God be for us, who can be against us?"
+        }
+    ],
+    "tone": "hopeful"
+}

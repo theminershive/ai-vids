@@ -1,0 +1,23 @@
+{
+    "book": "Titus",
+    "chapter": "Chapter 2",
+    "verses": [
+        {
+            "name": "Titus 2:12",
+            "text": "Teaching us that, denying ungodliness and worldly lusts, we should live soberly, righteously, and godly, in this present world;"
+        },
+        {
+            "name": "Titus 2:13",
+            "text": "Looking for that blessed hope, and the glorious appearing of the great God and our Saviour Jesus Christ;"
+        },
+        {
+            "name": "Titus 2:14",
+            "text": "Who gave himself for us, that he might redeem us from all iniquity, and purify unto himself a peculiar people, zealous of good works."
+        },
+        {
+            "name": "Titus 2:15",
+            "text": "These things speak, and exhort, and rebuke with all authority. Let no man despise thee. "
+        }
+    ],
+    "tone": "hopeful"
+}

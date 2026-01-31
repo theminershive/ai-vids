@@ -1,0 +1,23 @@
+{
+    "book": "Psalms",
+    "chapter": "Chapter 18",
+    "verses": [
+        {
+            "name": "Psalms 18:40",
+            "text": "Thou hast also given me the necks of mine enemies; that I might destroy them that hate me."
+        },
+        {
+            "name": "Psalms 18:41",
+            "text": "They cried, but there was none to save them: even unto the Lord, but he answered them not."
+        },
+        {
+            "name": "Psalms 18:42",
+            "text": "Then did I beat them small as the dust before the wind: I did cast them out as the dirt in the streets."
+        },
+        {
+            "name": "Psalms 18:43",
+            "text": "Thou hast delivered me from the strivings of the people; and thou hast made me the head of the heathen: a people whom I have not known shall serve me."
+        }
+    ],
+    "tone": "neutral"
+}

@@ -1,0 +1,23 @@
+{
+    "book": "Isaiah",
+    "chapter": "Chapter 14",
+    "verses": [
+        {
+            "name": "Isaiah 14:3",
+            "text": "And it shall come to pass in the day that the Lord shall give thee rest from thy sorrow, and from thy fear, and from the hard bondage wherein thou wast made to serve,"
+        },
+        {
+            "name": "Isaiah 14:4",
+            "text": "That thou shalt take up this proverb against the king of Babylon, and say, How hath the oppressor ceased! the golden city ceased!"
+        },
+        {
+            "name": "Isaiah 14:5",
+            "text": "The Lord hath broken the staff of the wicked, and the sceptre of the rulers."
+        },
+        {
+            "name": "Isaiah 14:6",
+            "text": "He who smote the people in wrath with a continual stroke, he that ruled the nations in anger, is persecuted, and none hindereth."
+        }
+    ],
+    "tone": "neutral"
+}

@@ -1,0 +1,19 @@
+{
+    "book": "Ecclesiastes",
+    "chapter": "Chapter 6",
+    "verses": [
+        {
+            "name": "Ecclesiastes 6:3",
+            "text": "If a man beget an hundred children, and live many years, so that the days of his years be many, and his soul be not filled with good, and also that he have no burial; I say, that an untimely birth is better than he."
+        },
+        {
+            "name": "Ecclesiastes 6:4",
+            "text": "For he cometh in with vanity, and departeth in darkness, and his name shall be covered with darkness."
+        },
+        {
+            "name": "Ecclesiastes 6:5",
+            "text": "Moreover he hath not seen the sun, nor known any thing: this hath more rest than the other."
+        }
+    ],
+    "tone": "lamenting"
+}

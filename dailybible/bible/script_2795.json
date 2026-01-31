@@ -1,0 +1,19 @@
+{
+    "book": "2 Kings",
+    "chapter": "Chapter 8",
+    "verses": [
+        {
+            "name": "2 Kings 8:13",
+            "text": "And Hazael said, But what, is thy servant a dog, that he should do this great thing? And Elisha answered, The Lord hath shewed me that thou shalt be king over Syria."
+        },
+        {
+            "name": "2 Kings 8:14",
+            "text": "So he departed from Elisha, and came to his master; who said to him, What said Elisha to thee? And he answered, He told me that thou shouldest surely recover."
+        },
+        {
+            "name": "2 Kings 8:15",
+            "text": "And it came to pass on the morrow, that he took a thick cloth, and dipped it in water, and spread it on his face, so that he died: and Hazael reigned in his stead."
+        }
+    ],
+    "tone": "neutral"
+}

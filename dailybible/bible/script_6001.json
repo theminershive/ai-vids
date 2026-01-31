@@ -1,0 +1,19 @@
+{
+    "book": "Micah",
+    "chapter": "Chapter 2",
+    "verses": [
+        {
+            "name": "Micah 2:4",
+            "text": "In that day shall one take up a parable against you, and lament with a doleful lamentation, and say, We be utterly spoiled: he hath changed the portion of my people: how hath he removed it from me! turning away he hath divided our fields."
+        },
+        {
+            "name": "Micah 2:5",
+            "text": "Therefore thou shalt have none that shall cast a cord by lot in the congregation of the Lord."
+        },
+        {
+            "name": "Micah 2:6",
+            "text": "Prophesy ye not, say they to them that prophesy: they shall not prophesy to them, that they shall not take shame."
+        }
+    ],
+    "tone": "lamenting"
+}

@@ -1,0 +1,19 @@
+{
+    "book": "Exodus",
+    "chapter": "Chapter 26",
+    "verses": [
+        {
+            "name": "Exodus 26:33",
+            "text": "And thou shalt hang up the vail under the taches, that thou mayest bring in thither within the vail the ark of the testimony: and the vail shall divide unto you between the holy place and the most holy."
+        },
+        {
+            "name": "Exodus 26:34",
+            "text": "And thou shalt put the mercy seat upon the ark of the testimony in the most holy place."
+        },
+        {
+            "name": "Exodus 26:35",
+            "text": "And thou shalt set the table without the vail, and the candlestick over against the table on the side of the tabernacle toward the south: and thou shalt put the table on the north side."
+        }
+    ],
+    "tone": "instructional"
+}

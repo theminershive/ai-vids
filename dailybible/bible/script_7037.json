@@ -1,0 +1,19 @@
+{
+    "book": "John",
+    "chapter": "Chapter 19",
+    "verses": [
+        {
+            "name": "John 19:10",
+            "text": "Then saith Pilate unto him, Speakest thou not unto me? knowest thou not that I have power to crucify thee, and have power to release thee?"
+        },
+        {
+            "name": "John 19:11",
+            "text": "Jesus answered, Thou couldest have no power at all against me, except it were given thee from above: therefore he that delivered me unto thee hath the greater sin."
+        },
+        {
+            "name": "John 19:12",
+            "text": "And from thenceforth Pilate sought to release him: but the Jews cried out, saying, If thou let this man go, thou art not Cesar\u2019s friend: whosoever maketh himself a king speaketh against Cesar."
+        }
+    ],
+    "tone": "neutral"
+}

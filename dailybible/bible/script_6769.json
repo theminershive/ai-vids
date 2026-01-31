@@ -1,0 +1,19 @@
+{
+    "book": "Luke",
+    "chapter": "Chapter 16",
+    "verses": [
+        {
+            "name": "Luke 16:23",
+            "text": "And in hell he lift up his eyes, being in torments, and seeth Abraham afar off, and Lazarus in his bosom."
+        },
+        {
+            "name": "Luke 16:24",
+            "text": "And he cried and said, Father Abraham, have mercy on me, and send Lazarus, that he may dip the tip of his finger in water, and cool my tongue; for I am tormented in this flame."
+        },
+        {
+            "name": "Luke 16:25",
+            "text": "But Abraham said, Son, remember that thou in thy lifetime receivedst thy good things, and likewise Lazarus evil things: but now he is comforted, and thou art tormented."
+        }
+    ],
+    "tone": "instructional"
+}

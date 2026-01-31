@@ -1,0 +1,19 @@
+{
+    "book": "1 Corinthians",
+    "chapter": "Chapter 11",
+    "verses": [
+        {
+            "name": "1 Corinthians 11:25",
+            "text": "After the same manner also he took the cup, when he had supped, saying, This cup is the new testament in my blood: this do ye, as oft as ye drink it, in remembrance of me."
+        },
+        {
+            "name": "1 Corinthians 11:26",
+            "text": "For as often as ye eat this bread, and drink this cup, ye do shew the Lord\u2019s death till he come."
+        },
+        {
+            "name": "1 Corinthians 11:27",
+            "text": "Wherefore whosoever shall eat this bread, and drink this cup of the Lord, unworthily, shall be guilty of the body and blood of the Lord."
+        }
+    ],
+    "tone": "lamenting"
+}

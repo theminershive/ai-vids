@@ -1,0 +1,23 @@
+{
+    "book": "Ecclesiastes",
+    "chapter": "Chapter 6",
+    "verses": [
+        {
+            "name": "Ecclesiastes 6:6",
+            "text": "Yea, though he live a thousand years twice told, yet hath he seen no good: do not all go to one place?"
+        },
+        {
+            "name": "Ecclesiastes 6:7",
+            "text": "All the labour of man is for his mouth, and yet the appetite is not filled."
+        },
+        {
+            "name": "Ecclesiastes 6:8",
+            "text": "For what hath the wise more than the fool? what hath the poor, that knoweth to walk before the living?"
+        },
+        {
+            "name": "Ecclesiastes 6:9",
+            "text": "Better is the sight of the eyes than the wandering of the desire: this is also vanity and vexation of spirit."
+        }
+    ],
+    "tone": "neutral"
+}

@@ -1,0 +1,19 @@
+{
+    "book": "Job",
+    "chapter": "Chapter 1",
+    "verses": [
+        {
+            "name": "Job 1:12",
+            "text": "And the Lord said unto Satan, Behold, all that he hath is in thy power; only upon himself put not forth thine hand. So Satan went forth from the presence of the Lord."
+        },
+        {
+            "name": "Job 1:13",
+            "text": "And there was a day when his sons and his daughters were eating and drinking wine in their eldest brother\u2019s house:"
+        },
+        {
+            "name": "Job 1:14",
+            "text": "And there came a messenger unto Job, and said, The oxen were plowing, and the asses feeding beside them:"
+        }
+    ],
+    "tone": "neutral"
+}

@@ -1,0 +1,31 @@
+{
+    "book": "Job",
+    "chapter": "Chapter 15",
+    "verses": [
+        {
+            "name": "Job 15:8",
+            "text": "Hast thou heard the secret of God? and dost thou restrain wisdom to thyself?"
+        },
+        {
+            "name": "Job 15:9",
+            "text": "What knowest thou, that we know not? what understandest thou, which is not in us?"
+        },
+        {
+            "name": "Job 15:10",
+            "text": "With us are both the grayheaded and very aged men, much elder than thy father."
+        },
+        {
+            "name": "Job 15:11",
+            "text": "Are the consolations of God small with thee? is there any secret thing with thee?"
+        },
+        {
+            "name": "Job 15:12",
+            "text": "Why doth thine heart carry thee away? and what do thy eyes wink at,"
+        },
+        {
+            "name": "Job 15:13",
+            "text": "That thou turnest thy spirit against God, and lettest such words go out of thy mouth?"
+        }
+    ],
+    "tone": "instructional"
+}

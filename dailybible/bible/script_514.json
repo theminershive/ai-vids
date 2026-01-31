@@ -1,0 +1,19 @@
+{
+    "book": "Exodus",
+    "chapter": "Chapter 14",
+    "verses": [
+        {
+            "name": "Exodus 14:24",
+            "text": "And it came to pass, that in the morning watch the Lord looked unto the host of the Egyptians through the pillar of fire and of the cloud, and troubled the host of the Egyptians,"
+        },
+        {
+            "name": "Exodus 14:25",
+            "text": "And took off their chariot wheels, that they drave them heavily: so that the Egyptians said, Let us flee from the face of Israel; for the Lord fighteth for them against the Egyptians."
+        },
+        {
+            "name": "Exodus 14:26",
+            "text": "And the Lord said unto Moses, Stretch out thine hand over the sea, that the waters may come again upon the Egyptians, upon their chariots, and upon their horsemen."
+        }
+    ],
+    "tone": "neutral"
+}

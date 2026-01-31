@@ -1,0 +1,23 @@
+{
+    "book": "James",
+    "chapter": "Chapter 2",
+    "verses": [
+        {
+            "name": "James 2:1",
+            "text": "My brethren, have not the faith of our Lord Jesus Christ, the Lord of glory, with respect of persons."
+        },
+        {
+            "name": "James 2:2",
+            "text": "For if there come unto your assembly a man with a gold ring, in goodly apparel, and there come in also a poor man in vile raiment;"
+        },
+        {
+            "name": "James 2:3",
+            "text": "And ye have respect to him that weareth the gay clothing, and say unto him, Sit thou here in a good place; and say to the poor, Stand thou there, or sit here under my footstool:"
+        },
+        {
+            "name": "James 2:4",
+            "text": "Are ye not then partial in yourselves, and are become judges of evil thoughts?"
+        }
+    ],
+    "tone": "hopeful"
+}

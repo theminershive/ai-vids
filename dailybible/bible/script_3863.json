@@ -1,0 +1,27 @@
+{
+    "book": "Psalms",
+    "chapter": "Chapter 17",
+    "verses": [
+        {
+            "name": "Psalms 17:1",
+            "text": "Hear the right, O Lord, attend unto my cry, give ear unto my prayer, that goeth not out of feigned lips."
+        },
+        {
+            "name": "Psalms 17:2",
+            "text": "Let my sentence come forth from thy presence; let thine eyes behold the things that are equal."
+        },
+        {
+            "name": "Psalms 17:3",
+            "text": "Thou hast proved mine heart; thou hast visited me in the night; thou hast tried me, and shalt find nothing; I am purposed that my mouth shall not transgress."
+        },
+        {
+            "name": "Psalms 17:4",
+            "text": "Concerning the works of men, by the word of thy lips I have kept me from the paths of the destroyer."
+        },
+        {
+            "name": "Psalms 17:5",
+            "text": "Hold up my goings in thy paths, that my footsteps slip not."
+        }
+    ],
+    "tone": "lamenting"
+}

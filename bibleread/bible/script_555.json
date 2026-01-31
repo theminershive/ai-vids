@@ -1,0 +1,23 @@
+{
+    "book": "Exodus",
+    "chapter": "Chapter 20",
+    "verses": [
+        {
+            "name": "Exodus 20:1",
+            "text": "And God spake all these words, saying,"
+        },
+        {
+            "name": "Exodus 20:2",
+            "text": "I am the Lord thy God, which have brought thee out of the land of Egypt, out of the house of bondage."
+        },
+        {
+            "name": "Exodus 20:3",
+            "text": "Thou shalt have no other gods before me."
+        },
+        {
+            "name": "Exodus 20:4",
+            "text": "Thou shalt not make unto thee any graven image, or any likeness of any thing that is in heaven above, or that is in the earth beneath, or that is in the water under the earth:"
+        }
+    ],
+    "tone": "neutral"
+}

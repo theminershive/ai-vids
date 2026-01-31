@@ -1,0 +1,27 @@
+{
+    "book": "1 Corinthians",
+    "chapter": "Chapter 2",
+    "verses": [
+        {
+            "name": "1 Corinthians 2:1",
+            "text": "And I, brethren, when I came to you, came not with excellency of speech or of wisdom, declaring unto you the testimony of God."
+        },
+        {
+            "name": "1 Corinthians 2:2",
+            "text": "For I determined not to know any thing among you, save Jesus Christ, and him crucified."
+        },
+        {
+            "name": "1 Corinthians 2:3",
+            "text": "And I was with you in weakness, and in fear, and in much trembling."
+        },
+        {
+            "name": "1 Corinthians 2:4",
+            "text": "And my speech and my preaching was not with enticing words of man\u2019s wisdom, but in demonstration of the Spirit and of power:"
+        },
+        {
+            "name": "1 Corinthians 2:5",
+            "text": "That your faith should not stand in the wisdom of men, but in the power of God."
+        }
+    ],
+    "tone": "hopeful"
+}

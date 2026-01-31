@@ -1,0 +1,23 @@
+{
+    "book": "Ezekiel",
+    "chapter": "Chapter 2",
+    "verses": [
+        {
+            "name": "Ezekiel 2:7",
+            "text": "And thou shalt speak my words unto them, whether they will hear, or whether they will forbear: for they are most rebellious."
+        },
+        {
+            "name": "Ezekiel 2:8",
+            "text": "But thou, son of man, hear what I say unto thee; Be not thou rebellious like that rebellious house: open thy mouth, and eat that I give thee."
+        },
+        {
+            "name": "Ezekiel 2:9",
+            "text": "And when I looked, behold, an hand was sent unto me; and, lo, a roll of a book was therein;"
+        },
+        {
+            "name": "Ezekiel 2:10",
+            "text": "And he spread it before me; and it was written within and without: and there was written therein lamentations, and mourning, and woe. "
+        }
+    ],
+    "tone": "lamenting"
+}

@@ -1,0 +1,23 @@
+{
+    "book": "2 Corinthians",
+    "chapter": "Chapter 5",
+    "verses": [
+        {
+            "name": "2 Corinthians 5:1",
+            "text": "For we know that if our earthly house of this tabernacle were dissolved, we have a building of God, an house not made with hands, eternal in the heavens."
+        },
+        {
+            "name": "2 Corinthians 5:2",
+            "text": "For in this we groan, earnestly desiring to be clothed upon with our house which is from heaven:"
+        },
+        {
+            "name": "2 Corinthians 5:3",
+            "text": "If so be that being clothed we shall not be found naked."
+        },
+        {
+            "name": "2 Corinthians 5:4",
+            "text": "For we that are in this tabernacle do groan, being burdened: not for that we would be unclothed, but clothed upon, that mortality might be swallowed up of life."
+        }
+    ],
+    "tone": "hopeful"
+}

@@ -1,0 +1,23 @@
+{
+    "book": "Mark",
+    "chapter": "Chapter 14",
+    "verses": [
+        {
+            "name": "Mark 14:23",
+            "text": "And he took the cup, and when he had given thanks, he gave it to them: and they all drank of it."
+        },
+        {
+            "name": "Mark 14:24",
+            "text": "And he said unto them, This is my blood of the new testament, which is shed for many."
+        },
+        {
+            "name": "Mark 14:25",
+            "text": "Verily I say unto you, I will drink no more of the fruit of the vine, until that day that I drink it new in the kingdom of God."
+        },
+        {
+            "name": "Mark 14:26",
+            "text": "And when they had sung an hymn, they went out into the mount of Olives."
+        }
+    ],
+    "tone": "neutral"
+}

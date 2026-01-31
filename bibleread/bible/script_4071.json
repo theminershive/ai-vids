@@ -1,0 +1,31 @@
+{
+    "book": "Psalms",
+    "chapter": "Chapter 83",
+    "verses": [
+        {
+            "name": "Psalms 83:1",
+            "text": "Keep not thou silence, O God: hold not thy peace, and be not still, O God."
+        },
+        {
+            "name": "Psalms 83:2",
+            "text": "For, lo, thine enemies make a tumult: and they that hate thee have lifted up the head."
+        },
+        {
+            "name": "Psalms 83:3",
+            "text": "They have taken crafty counsel against thy people, and consulted against thy hidden ones."
+        },
+        {
+            "name": "Psalms 83:4",
+            "text": "They have said, Come, and let us cut them off from being a nation; that the name of Israel may be no more in remembrance."
+        },
+        {
+            "name": "Psalms 83:5",
+            "text": "For they have consulted together with one consent: they are confederate against thee:"
+        },
+        {
+            "name": "Psalms 83:6",
+            "text": "The tabernacles of Edom, and the Ishmaelites; of Moab, and the Hagarenes;"
+        }
+    ],
+    "tone": "lamenting"
+}

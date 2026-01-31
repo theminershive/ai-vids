@@ -1,0 +1,23 @@
+{
+    "book": "Colossians",
+    "chapter": "Chapter 1",
+    "verses": [
+        {
+            "name": "Colossians 1:5",
+            "text": "For the hope which is laid up for you in heaven, whereof ye heard before in the word of the truth of the gospel;"
+        },
+        {
+            "name": "Colossians 1:6",
+            "text": "Which is come unto you, as it is in all the world; and bringeth forth fruit, as it doth also in you, since the day ye heard of it, and knew the grace of God in truth:"
+        },
+        {
+            "name": "Colossians 1:7",
+            "text": "As ye also learned of Epaphras our dear fellowservant, who is for you a faithful minister of Christ;"
+        },
+        {
+            "name": "Colossians 1:8",
+            "text": "Who also declared unto us your love in the Spirit."
+        }
+    ],
+    "tone": "hopeful"
+}

@@ -1,0 +1,19 @@
+{
+    "book": "Numbers",
+    "chapter": "Chapter 1",
+    "verses": [
+        {
+            "name": "Numbers 1:27",
+            "text": "Those that were numbered of them, even of the tribe of Judah, were threescore and fourteen thousand and six hundred."
+        },
+        {
+            "name": "Numbers 1:28",
+            "text": "Of the children of Issachar, by their generations, after their families, by the house of their fathers, according to the number of the names, from twenty years old and upward, all that were able to go forth to war;"
+        },
+        {
+            "name": "Numbers 1:29",
+            "text": "Those that were numbered of them, even of the tribe of Issachar, were fifty and four thousand and four hundred."
+        }
+    ],
+    "tone": "lamenting"
+}

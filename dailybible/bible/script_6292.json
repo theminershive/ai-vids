@@ -1,0 +1,19 @@
+{
+    "book": "Matthew",
+    "chapter": "Chapter 16",
+    "verses": [
+        {
+            "name": "Matthew 16:23",
+            "text": "But he turned, and said unto Peter, Get thee behind me, Satan: thou art an offence unto me: for thou savourest not the things that be of God, but those that be of men."
+        },
+        {
+            "name": "Matthew 16:24",
+            "text": "Then said Jesus unto his disciples, If any man will come after me, let him deny himself, and take up his cross, and follow me."
+        },
+        {
+            "name": "Matthew 16:25",
+            "text": "For whosoever will save his life shall lose it: and whosoever will lose his life for my sake shall find it."
+        }
+    ],
+    "tone": "neutral"
+}

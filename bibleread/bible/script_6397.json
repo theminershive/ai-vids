@@ -1,0 +1,23 @@
+{
+    "book": "Matthew",
+    "chapter": "Chapter 27",
+    "verses": [
+        {
+            "name": "Matthew 27:5",
+            "text": "And he cast down the pieces of silver in the temple, and departed, and went and hanged himself."
+        },
+        {
+            "name": "Matthew 27:6",
+            "text": "And the chief priests took the silver pieces, and said, It is not lawful for to put them into the treasury, because it is the price of blood."
+        },
+        {
+            "name": "Matthew 27:7",
+            "text": "And they took counsel, and bought with them the potter\u2019s field, to bury strangers in."
+        },
+        {
+            "name": "Matthew 27:8",
+            "text": "Wherefore that field was called, The field of blood, unto this day."
+        }
+    ],
+    "tone": "neutral"
+}

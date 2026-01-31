@@ -1,0 +1,19 @@
+{
+    "book": "Exodus",
+    "chapter": "Chapter 23",
+    "verses": [
+        {
+            "name": "Exodus 23:22",
+            "text": "But if thou shalt indeed obey his voice, and do all that I speak; then I will be an enemy unto thine enemies, and an adversary unto thine adversaries."
+        },
+        {
+            "name": "Exodus 23:23",
+            "text": "For mine Angel shall go before thee, and bring thee in unto the Amorites, and the Hittites, and the Perizzites, and the Canaanites, the Hivites, and the Jebusites: and I will cut them off."
+        },
+        {
+            "name": "Exodus 23:24",
+            "text": "Thou shalt not bow down to their gods, nor serve them, nor do after their works: but thou shalt utterly overthrow them, and quite break down their images."
+        }
+    ],
+    "tone": "instructional"
+}

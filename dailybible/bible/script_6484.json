@@ -1,0 +1,23 @@
+{
+    "book": "Mark",
+    "chapter": "Chapter 8",
+    "verses": [
+        {
+            "name": "Mark 8:10",
+            "text": "And straightway he entered into a ship with his disciples, and came into the parts of Dalmanutha."
+        },
+        {
+            "name": "Mark 8:11",
+            "text": "And the Pharisees came forth, and began to question with him, seeking of him a sign from heaven, tempting him."
+        },
+        {
+            "name": "Mark 8:12",
+            "text": "And he sighed deeply in his spirit, and saith, Why doth this generation seek after a sign? verily I say unto you, There shall no sign be given unto this generation."
+        },
+        {
+            "name": "Mark 8:13",
+            "text": "And he left them, and entering into the ship again departed to the other side."
+        }
+    ],
+    "tone": "hopeful"
+}

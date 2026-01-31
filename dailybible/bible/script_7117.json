@@ -1,0 +1,19 @@
+{
+    "book": "Acts",
+    "chapter": "Chapter 7",
+    "verses": [
+        {
+            "name": "Acts 7:36",
+            "text": "He brought them out, after that he had shewed wonders and signs in the land of Egypt, and in the Red sea, and in the wilderness forty years."
+        },
+        {
+            "name": "Acts 7:37",
+            "text": "This is that Moses, which said unto the children of Israel, A prophet shall the Lord your God raise up unto you of your brethren, like unto me; him shall ye hear."
+        },
+        {
+            "name": "Acts 7:38",
+            "text": "This is he, that was in the church in the wilderness with the angel which spake to him in the mount Sina, and with our fathers: who received the lively oracles to give unto us:"
+        }
+    ],
+    "tone": "neutral"
+}

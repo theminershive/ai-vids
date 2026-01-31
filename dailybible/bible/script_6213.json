@@ -1,0 +1,23 @@
+{
+    "book": "Matthew",
+    "chapter": "Chapter 8",
+    "verses": [
+        {
+            "name": "Matthew 8:17",
+            "text": "That it might be fulfilled which was spoken by Esaias the prophet, saying, Himself took our infirmities, and bare our sicknesses."
+        },
+        {
+            "name": "Matthew 8:18",
+            "text": "Now when Jesus saw great multitudes about him, he gave commandment to depart unto the other side."
+        },
+        {
+            "name": "Matthew 8:19",
+            "text": "And a certain scribe came, and said unto him, Master, I will follow thee whithersoever thou goest."
+        },
+        {
+            "name": "Matthew 8:20",
+            "text": "And Jesus saith unto him, The foxes have holes, and the birds of the air have nests; but the Son of man hath not where to lay his head."
+        }
+    ],
+    "tone": "neutral"
+}

@@ -1,0 +1,23 @@
+{
+    "book": "2 Timothy",
+    "chapter": "Chapter 4",
+    "verses": [
+        {
+            "name": "2 Timothy 4:1",
+            "text": "I charge thee therefore before God, and the Lord Jesus Christ, who shall judge the quick and the dead at his appearing and his kingdom;"
+        },
+        {
+            "name": "2 Timothy 4:2",
+            "text": "Preach the word; be instant in season, out of season; reprove, rebuke, exhort with all longsuffering and doctrine."
+        },
+        {
+            "name": "2 Timothy 4:3",
+            "text": "For the time will come when they will not endure sound doctrine; but after their own lusts shall they heap to themselves teachers, having itching ears;"
+        },
+        {
+            "name": "2 Timothy 4:4",
+            "text": "And they shall turn away their ears from the truth, and shall be turned unto fables."
+        }
+    ],
+    "tone": "hopeful"
+}

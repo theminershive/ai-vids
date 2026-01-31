@@ -1,0 +1,19 @@
+{
+    "book": "Micah",
+    "chapter": "Chapter 1",
+    "verses": [
+        {
+            "name": "Micah 1:1",
+            "text": "The word of the Lord that came to Micah the Morasthite in the days of Jotham, Ahaz, and Hezekiah, kings of Judah, which he saw concerning Samaria and Jerusalem."
+        },
+        {
+            "name": "Micah 1:2",
+            "text": "Hear, all ye people; hearken, O earth, and all that therein is: and let the Lord God be witness against you, the Lord from his holy temple."
+        },
+        {
+            "name": "Micah 1:3",
+            "text": "For, behold, the Lord cometh forth out of his place, and will come down, and tread upon the high places of the earth."
+        }
+    ],
+    "tone": "instructional"
+}

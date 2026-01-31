@@ -1,0 +1,35 @@
+{
+    "book": "Job",
+    "chapter": "Chapter 26",
+    "verses": [
+        {
+            "name": "Job 26:1",
+            "text": "But Job answered and said,"
+        },
+        {
+            "name": "Job 26:2",
+            "text": "How hast thou helped him that is without power? how savest thou the arm that hath no strength?"
+        },
+        {
+            "name": "Job 26:3",
+            "text": "How hast thou counselled him that hath no wisdom? and how hast thou plentifully declared the thing as it is?"
+        },
+        {
+            "name": "Job 26:4",
+            "text": "To whom hast thou uttered words? and whose spirit came from thee?"
+        },
+        {
+            "name": "Job 26:5",
+            "text": "Dead things are formed from under the waters, and the inhabitants thereof."
+        },
+        {
+            "name": "Job 26:6",
+            "text": "Hell is naked before him, and destruction hath no covering."
+        },
+        {
+            "name": "Job 26:7",
+            "text": "He stretcheth out the north over the empty place, and hangeth the earth upon nothing."
+        }
+    ],
+    "tone": "lamenting"
+}

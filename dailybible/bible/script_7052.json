@@ -1,0 +1,23 @@
+{
+    "book": "John",
+    "chapter": "Chapter 20",
+    "verses": [
+        {
+            "name": "John 20:27",
+            "text": "Then saith he to Thomas, Reach hither thy finger, and behold my hands; and reach hither thy hand, and thrust it into my side: and be not faithless, but believing."
+        },
+        {
+            "name": "John 20:28",
+            "text": "And Thomas answered and said unto him, My Lord and my God."
+        },
+        {
+            "name": "John 20:29",
+            "text": "Jesus saith unto him, Thomas, because thou hast seen me, thou hast believed: blessed are they that have not seen, and yet have believed."
+        },
+        {
+            "name": "John 20:30",
+            "text": "And many other signs truly did Jesus in the presence of his disciples, which are not written in this book:"
+        }
+    ],
+    "tone": "neutral"
+}

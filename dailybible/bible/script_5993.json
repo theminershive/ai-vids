@@ -1,0 +1,23 @@
+{
+    "book": "Jonah",
+    "chapter": "Chapter 4",
+    "verses": [
+        {
+            "name": "Jonah 4:1",
+            "text": "But it displeased Jonah exceedingly, and he was very angry."
+        },
+        {
+            "name": "Jonah 4:2",
+            "text": "And he prayed unto the Lord, and said, I pray thee, O Lord, was not this my saying, when I was yet in my country? Therefore I fled before unto Tarshish: for I knew that thou art a gracious God, and merciful, slow to anger, and of great kindness, and repentest thee of the evil."
+        },
+        {
+            "name": "Jonah 4:3",
+            "text": "Therefore now, O Lord, take, I beseech thee, my life from me; for it is better for me to die than to live."
+        },
+        {
+            "name": "Jonah 4:4",
+            "text": "Then said the Lord, Doest thou well to be angry?"
+        }
+    ],
+    "tone": "neutral"
+}

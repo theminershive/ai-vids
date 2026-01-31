@@ -1,0 +1,19 @@
+{
+    "book": "Exodus",
+    "chapter": "Chapter 4",
+    "verses": [
+        {
+            "name": "Exodus 4:4",
+            "text": "And the Lord said unto Moses, Put forth thine hand, and take it by the tail. And he put forth his hand, and caught it, and it became a rod in his hand:"
+        },
+        {
+            "name": "Exodus 4:5",
+            "text": "That they may believe that the Lord God of their fathers, the God of Abraham, the God of Isaac, and the God of Jacob, hath appeared unto thee."
+        },
+        {
+            "name": "Exodus 4:6",
+            "text": "And the Lord said furthermore unto him, Put now thine hand into thy bosom. And he put his hand into his bosom: and when he took it out, behold, his hand was leprous as snow."
+        }
+    ],
+    "tone": "neutral"
+}

@@ -1,0 +1,19 @@
+{
+    "book": "Luke",
+    "chapter": "Chapter 5",
+    "verses": [
+        {
+            "name": "Luke 5:18",
+            "text": "And, behold, men brought in a bed a man which was taken with a palsy: and they sought means to bring him in, and to lay him before him."
+        },
+        {
+            "name": "Luke 5:19",
+            "text": "And when they could not find by what way they might bring him in because of the multitude, they went upon the housetop, and let him down through the tiling with his couch into the midst before Jesus."
+        },
+        {
+            "name": "Luke 5:20",
+            "text": "And when he saw their faith, he said unto him, Man, thy sins are forgiven thee."
+        }
+    ],
+    "tone": "neutral"
+}

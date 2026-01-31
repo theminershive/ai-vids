@@ -1,0 +1,23 @@
+{
+    "book": "Mark",
+    "chapter": "Chapter 10",
+    "verses": [
+        {
+            "name": "Mark 10:11",
+            "text": "And he saith unto them, Whosoever shall put away his wife, and marry another, committeth adultery against her."
+        },
+        {
+            "name": "Mark 10:12",
+            "text": "And if a woman shall put away her husband, and be married to another, she committeth adultery."
+        },
+        {
+            "name": "Mark 10:13",
+            "text": "And they brought young children to him, that he should touch them: and his disciples rebuked those that brought them. "
+        },
+        {
+            "name": "Mark 10:14",
+            "text": "But when Jesus saw it, he was much displeased, and said unto them, Suffer the little children to come unto me, and forbid them not: for of such is the kingdom of God."
+        }
+    ],
+    "tone": "neutral"
+}

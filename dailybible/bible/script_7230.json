@@ -1,0 +1,23 @@
+{
+    "book": "Acts",
+    "chapter": "Chapter 19",
+    "verses": [
+        {
+            "name": "Acts 19:13",
+            "text": "Then certain of the vagabond Jews, exorcists, took upon them to call over them which had evil spirits the name of the Lord Jesus, saying, We adjure you by Jesus whom Paul preacheth."
+        },
+        {
+            "name": "Acts 19:14",
+            "text": "And there were seven sons of one Sceva, a Jew, and chief of the priests, which did so."
+        },
+        {
+            "name": "Acts 19:15",
+            "text": "And the evil spirit answered and said, Jesus I know, and Paul I know; but who are ye?"
+        },
+        {
+            "name": "Acts 19:16",
+            "text": "And the man in whom the evil spirit was leaped on them, and overcame them, and prevailed against them, so that they fled out of that house naked and wounded."
+        }
+    ],
+    "tone": "instructional"
+}

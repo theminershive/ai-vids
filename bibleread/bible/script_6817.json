@@ -1,0 +1,27 @@
+{
+    "book": "Luke",
+    "chapter": "Chapter 21",
+    "verses": [
+        {
+            "name": "Luke 21:27",
+            "text": "And then shall they see the Son of man coming in a cloud with power and great glory."
+        },
+        {
+            "name": "Luke 21:28",
+            "text": "And when these things begin to come to pass, then look up, and lift up your heads; for your redemption draweth nigh."
+        },
+        {
+            "name": "Luke 21:29",
+            "text": "And he spake to them a parable; Behold the fig tree, and all the trees;"
+        },
+        {
+            "name": "Luke 21:30",
+            "text": "When they now shoot forth, ye see and know of your own selves that summer is now nigh at hand."
+        },
+        {
+            "name": "Luke 21:31",
+            "text": "So likewise ye, when ye see these things come to pass, know ye that the kingdom of God is nigh at hand."
+        }
+    ],
+    "tone": "hopeful"
+}

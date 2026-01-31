@@ -1,0 +1,27 @@
+{
+    "book": "John",
+    "chapter": "Chapter 10",
+    "verses": [
+        {
+            "name": "John 10:5",
+            "text": "And a stranger will they not follow, but will flee from him: for they know not the voice of strangers."
+        },
+        {
+            "name": "John 10:6",
+            "text": "This parable spake Jesus unto them: but they understood not what things they were which he spake unto them."
+        },
+        {
+            "name": "John 10:7",
+            "text": "Then said Jesus unto them again, Verily, verily, I say unto you, I am the door of the sheep."
+        },
+        {
+            "name": "John 10:8",
+            "text": "All that ever came before me are thieves and robbers: but the sheep did not hear them."
+        },
+        {
+            "name": "John 10:9",
+            "text": "I am the door: by me if any man enter in, he shall be saved, and shall go in and out, and find pasture."
+        }
+    ],
+    "tone": "neutral"
+}

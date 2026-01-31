@@ -1,0 +1,19 @@
+{
+    "book": "Isaiah",
+    "chapter": "Chapter 56",
+    "verses": [
+        {
+            "name": "Isaiah 56:1",
+            "text": "Thus saith the Lord, Keep ye judgment, and do justice: for my salvation is near to come, and my righteousness to be revealed."
+        },
+        {
+            "name": "Isaiah 56:2",
+            "text": "Blessed is the man that doeth this, and the son of man that layeth hold on it; that keepeth the sabbath from polluting it, and keepeth his hand from doing any evil."
+        },
+        {
+            "name": "Isaiah 56:3",
+            "text": "Neither let the son of the stranger, that hath joined himself to the Lord, speak, saying, The Lord hath utterly separated me from his people: neither let the eunuch say, Behold, I am a dry tree."
+        }
+    ],
+    "tone": "hopeful"
+}

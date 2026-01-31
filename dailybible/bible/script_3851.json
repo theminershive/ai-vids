@@ -1,0 +1,27 @@
+{
+    "book": "Psalms",
+    "chapter": "Chapter 10",
+    "verses": [
+        {
+            "name": "Psalms 10:1",
+            "text": "Why standest thou afar off, O Lord? why hidest thou thyself in times of trouble?"
+        },
+        {
+            "name": "Psalms 10:2",
+            "text": "The wicked in his pride doth persecute the poor: let them be taken in the devices that they have imagined."
+        },
+        {
+            "name": "Psalms 10:3",
+            "text": "For the wicked boasteth of his heart\u2019s desire, and blesseth the covetous, whom the Lord abhorreth."
+        },
+        {
+            "name": "Psalms 10:4",
+            "text": "The wicked, through the pride of his countenance, will not seek after God: God is not in all his thoughts."
+        },
+        {
+            "name": "Psalms 10:5",
+            "text": "His ways are always grievous; thy judgments are far above out of his sight: as for all his enemies, he puffeth at them."
+        }
+    ],
+    "tone": "lamenting"
+}

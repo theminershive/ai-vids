@@ -1,0 +1,19 @@
+{
+    "book": "Isaiah",
+    "chapter": "Chapter 60",
+    "verses": [
+        {
+            "name": "Isaiah 60:18",
+            "text": "Violence shall no more be heard in thy land, wasting nor destruction within thy borders; but thou shalt call thy walls Salvation, and thy gates Praise."
+        },
+        {
+            "name": "Isaiah 60:19",
+            "text": "The sun shall be no more thy light by day; neither for brightness shall the moon give light unto thee: but the Lord shall be unto thee an everlasting light, and thy God thy glory."
+        },
+        {
+            "name": "Isaiah 60:20",
+            "text": "Thy sun shall no more go down; neither shall thy moon withdraw itself: for the Lord shall be thine everlasting light, and the days of thy mourning shall be ended."
+        }
+    ],
+    "tone": "lamenting"
+}

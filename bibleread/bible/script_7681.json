@@ -1,0 +1,23 @@
+{
+    "book": "Colossians",
+    "chapter": "Chapter 2",
+    "verses": [
+        {
+            "name": "Colossians 2:1",
+            "text": "For I would that ye knew what great conflict I have for you, and for them at Laodicea, and for as many as have not seen my face in the flesh;"
+        },
+        {
+            "name": "Colossians 2:2",
+            "text": "That their hearts might be comforted, being knit together in love, and unto all riches of the full assurance of understanding, to the acknowledgement of the mystery of God, and of the Father, and of Christ;"
+        },
+        {
+            "name": "Colossians 2:3",
+            "text": "In whom are hid all the treasures of wisdom and knowledge."
+        },
+        {
+            "name": "Colossians 2:4",
+            "text": "And this I say, lest any man should beguile you with enticing words."
+        }
+    ],
+    "tone": "instructional"
+}

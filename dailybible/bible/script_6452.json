@@ -1,0 +1,23 @@
+{
+    "book": "Mark",
+    "chapter": "Chapter 5",
+    "verses": [
+        {
+            "name": "Mark 5:10",
+            "text": "And he besought him much that he would not send them away out of the country."
+        },
+        {
+            "name": "Mark 5:11",
+            "text": "Now there was there nigh unto the mountains a great herd of swine feeding."
+        },
+        {
+            "name": "Mark 5:12",
+            "text": "And all the devils besought him, saying, Send us into the swine, that we may enter into them."
+        },
+        {
+            "name": "Mark 5:13",
+            "text": "And forthwith Jesus gave them leave. And the unclean spirits went out, and entered into the swine: and the herd ran violently down a steep place into the sea, (they were about two thousand;) and were choked in the sea."
+        }
+    ],
+    "tone": "neutral"
+}

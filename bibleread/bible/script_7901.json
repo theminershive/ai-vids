@@ -1,0 +1,23 @@
+{
+    "book": "2 Peter",
+    "chapter": "Chapter 1",
+    "verses": [
+        {
+            "name": "2 Peter 1:9",
+            "text": "But he that lacketh these things is blind, and cannot see afar off, and hath forgotten that he was purged from his old sins."
+        },
+        {
+            "name": "2 Peter 1:10",
+            "text": "Wherefore the rather, brethren, give diligence to make your calling and election sure: for if ye do these things, ye shall never fall:"
+        },
+        {
+            "name": "2 Peter 1:11",
+            "text": "For so an entrance shall be ministered unto you abundantly into the everlasting kingdom of our Lord and Saviour Jesus Christ."
+        },
+        {
+            "name": "2 Peter 1:12",
+            "text": "Wherefore I will not be negligent to put you always in remembrance of these things, though ye know them, and be established in the present truth."
+        }
+    ],
+    "tone": "lamenting"
+}

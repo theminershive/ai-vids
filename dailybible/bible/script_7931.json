@@ -1,0 +1,23 @@
+{
+    "book": "1 John",
+    "chapter": "Chapter 4",
+    "verses": [
+        {
+            "name": "1 John 4:4",
+            "text": "Ye are of God, little children, and have overcome them: because greater is he that is in you, than he that is in the world."
+        },
+        {
+            "name": "1 John 4:5",
+            "text": "They are of the world: therefore speak they of the world, and the world heareth them."
+        },
+        {
+            "name": "1 John 4:6",
+            "text": "We are of God: he that knoweth God heareth us; he that is not of God heareth not us. Hereby know we the spirit of truth, and the spirit of error."
+        },
+        {
+            "name": "1 John 4:7",
+            "text": "Beloved, let us love one another: for love is of God; and every one that loveth is born of God, and knoweth God."
+        }
+    ],
+    "tone": "hopeful"
+}

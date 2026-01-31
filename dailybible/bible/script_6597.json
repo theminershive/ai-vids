@@ -1,0 +1,27 @@
+{
+    "book": "Luke",
+    "chapter": "Chapter 2",
+    "verses": [
+        {
+            "name": "Luke 2:10",
+            "text": "And the angel said unto them, Fear not: for, behold, I bring you good tidings of great joy, which shall be to all people."
+        },
+        {
+            "name": "Luke 2:11",
+            "text": "For unto you is born this day in the city of David a Saviour, which is Christ the Lord."
+        },
+        {
+            "name": "Luke 2:12",
+            "text": "And this shall be a sign unto you; Ye shall find the babe wrapped in swaddling clothes, lying in a manger."
+        },
+        {
+            "name": "Luke 2:13",
+            "text": "And suddenly there was with the angel a multitude of the heavenly host praising God, and saying,"
+        },
+        {
+            "name": "Luke 2:14",
+            "text": "Glory to God in the highest, and on earth peace, good will toward men."
+        }
+    ],
+    "tone": "neutral"
+}

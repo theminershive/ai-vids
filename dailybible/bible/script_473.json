@@ -1,0 +1,19 @@
+{
+    "book": "Exodus",
+    "chapter": "Chapter 9",
+    "verses": [
+        {
+            "name": "Exodus 9:33",
+            "text": "And Moses went out of the city from Pharaoh, and spread abroad his hands unto the Lord: and the thunders and hail ceased, and the rain was not poured upon the earth."
+        },
+        {
+            "name": "Exodus 9:34",
+            "text": "And when Pharaoh saw that the rain and the hail and the thunders were ceased, he sinned yet more, and hardened his heart, he and his servants."
+        },
+        {
+            "name": "Exodus 9:35",
+            "text": "And the heart of Pharaoh was hardened, neither would he let the children of Israel go; as the Lord had spoken by Moses. "
+        }
+    ],
+    "tone": "neutral"
+}

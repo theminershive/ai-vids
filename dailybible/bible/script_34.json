@@ -1,0 +1,35 @@
+{
+    "book": "Genesis",
+    "chapter": "Chapter 5",
+    "verses": [
+        {
+            "name": "Genesis 5:19",
+            "text": "And Jared lived after he begat Enoch eight hundred years, and begat sons and daughters:"
+        },
+        {
+            "name": "Genesis 5:20",
+            "text": "And all the days of Jared were nine hundred sixty and two years: and he died."
+        },
+        {
+            "name": "Genesis 5:21",
+            "text": "And Enoch lived sixty and five years, and begat Methuselah:"
+        },
+        {
+            "name": "Genesis 5:22",
+            "text": "And Enoch walked with God after he begat Methuselah three hundred years, and begat sons and daughters:"
+        },
+        {
+            "name": "Genesis 5:23",
+            "text": "And all the days of Enoch were three hundred sixty and five years:"
+        },
+        {
+            "name": "Genesis 5:24",
+            "text": "And Enoch walked with God: and he was not; for God took him."
+        },
+        {
+            "name": "Genesis 5:25",
+            "text": "And Methuselah lived an hundred eighty and seven years, and begat Lamech:"
+        }
+    ],
+    "tone": "neutral"
+}

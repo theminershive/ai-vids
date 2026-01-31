@@ -1,0 +1,23 @@
+{
+    "book": "Matthew",
+    "chapter": "Chapter 16",
+    "verses": [
+        {
+            "name": "Matthew 16:4",
+            "text": "A wicked and adulterous generation seeketh after a sign; and there shall no sign be given unto it, but the sign of the prophet Jonas. And he left them, and departed."
+        },
+        {
+            "name": "Matthew 16:5",
+            "text": "And when his disciples were come to the other side, they had forgotten to take bread."
+        },
+        {
+            "name": "Matthew 16:6",
+            "text": "Then Jesus said unto them, Take heed and beware of the leaven of the Pharisees and of the Sadducees."
+        },
+        {
+            "name": "Matthew 16:7",
+            "text": "And they reasoned among themselves, saying, It is because we have taken no bread."
+        }
+    ],
+    "tone": "neutral"
+}

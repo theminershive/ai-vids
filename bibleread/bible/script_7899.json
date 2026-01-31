@@ -1,0 +1,19 @@
+{
+    "book": "2 Peter",
+    "chapter": "Chapter 1",
+    "verses": [
+        {
+            "name": "2 Peter 1:1",
+            "text": "Simon Peter, a servant and an apostle of Jesus Christ, to them that have obtained like precious faith with us through the righteousness of God and our Saviour Jesus Christ:"
+        },
+        {
+            "name": "2 Peter 1:2",
+            "text": "Grace and peace be multiplied unto you through the knowledge of God, and of Jesus our Lord,"
+        },
+        {
+            "name": "2 Peter 1:3",
+            "text": "According as his divine power hath given unto us all things that pertain unto life and godliness, through the knowledge of him that hath called us to glory and virtue:"
+        }
+    ],
+    "tone": "hopeful"
+}

@@ -1,0 +1,23 @@
+{
+    "book": "Acts",
+    "chapter": "Chapter 11",
+    "verses": [
+        {
+            "name": "Acts 11:27",
+            "text": "And in these days came prophets from Jerusalem unto Antioch."
+        },
+        {
+            "name": "Acts 11:28",
+            "text": "And there stood up one of them named Agabus, and signified by the spirit that there should be great dearth throughout all the world: which came to pass in the days of Claudius Cesar."
+        },
+        {
+            "name": "Acts 11:29",
+            "text": "Then the disciples, every man according to his ability, determined to send relief unto the brethren which dwelt in Judea:"
+        },
+        {
+            "name": "Acts 11:30",
+            "text": "Which also they did, and sent it to the elders by the hands of Barnabas and Saul. "
+        }
+    ],
+    "tone": "hopeful"
+}

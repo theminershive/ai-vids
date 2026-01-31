@@ -1,0 +1,19 @@
+{
+    "book": "Leviticus",
+    "chapter": "Chapter 11",
+    "verses": [
+        {
+            "name": "Leviticus 11:9",
+            "text": "These shall ye eat of all that are in the waters: whatsoever hath fins and scales in the waters, in the seas, and in the rivers, them shall ye eat."
+        },
+        {
+            "name": "Leviticus 11:10",
+            "text": "And all that have not fins and scales in the seas, and in the rivers, of all that move in the waters, and of any living thing which is in the waters, they shall be an abomination unto you:"
+        },
+        {
+            "name": "Leviticus 11:11",
+            "text": "They shall be even an abomination unto you; ye shall not eat of their flesh, but ye shall have their carcases in abomination."
+        }
+    ],
+    "tone": "neutral"
+}

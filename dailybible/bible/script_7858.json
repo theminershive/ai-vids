@@ -1,0 +1,27 @@
+{
+    "book": "James",
+    "chapter": "Chapter 2",
+    "verses": [
+        {
+            "name": "James 2:5",
+            "text": "Hearken, my beloved brethren, Hath not God chosen the poor of this world rich in faith, and heirs of the kingdom which he hath promised to them that love him?"
+        },
+        {
+            "name": "James 2:6",
+            "text": "But ye have despised the poor. Do not rich men oppress you, and draw you before the judgment seats?"
+        },
+        {
+            "name": "James 2:7",
+            "text": "Do not they blaspheme that worthy name by the which ye are called?"
+        },
+        {
+            "name": "James 2:8",
+            "text": "If ye fulfil the royal law according to the scripture, Thou shalt love thy neighbour as thyself, ye do well:"
+        },
+        {
+            "name": "James 2:9",
+            "text": "But if ye have respect to persons, ye commit sin, and are convinced of the law as transgressors."
+        }
+    ],
+    "tone": "hopeful"
+}

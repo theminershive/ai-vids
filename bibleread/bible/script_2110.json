@@ -1,0 +1,19 @@
+{
+    "book": "1 Samuel",
+    "chapter": "Chapter 13",
+    "verses": [
+        {
+            "name": "1 Samuel 13:1",
+            "text": "Saul reigned one year; and when he had reigned two years over Israel,"
+        },
+        {
+            "name": "1 Samuel 13:2",
+            "text": "Saul chose him three thousand men of Israel; whereof two thousand were with Saul in Michmash and in mount Beth\u2013el, and a thousand were with Jonathan in Gibeah of Benjamin: and the rest of the people he sent every man to his tent."
+        },
+        {
+            "name": "1 Samuel 13:3",
+            "text": "And Jonathan smote the garrison of the Philistines that was in Geba, and the Philistines heard of it. And Saul blew the trumpet throughout all the land, saying, Let the Hebrews hear."
+        }
+    ],
+    "tone": "neutral"
+}

@@ -1,0 +1,23 @@
+{
+    "book": "Acts",
+    "chapter": "Chapter 28",
+    "verses": [
+        {
+            "name": "Acts 28:11",
+            "text": "And after three months we departed in a ship of Alexandria, which had wintered in the isle, whose sign was Castor and Pollux."
+        },
+        {
+            "name": "Acts 28:12",
+            "text": "And landing at Syracuse, we tarried there three days."
+        },
+        {
+            "name": "Acts 28:13",
+            "text": "And from thence we fetched a compass, and came to Rhegium: and after one day the south wind blew, and we came the next day to Puteoli:"
+        },
+        {
+            "name": "Acts 28:14",
+            "text": "Where we found brethren, and were desired to tarry with them seven days: and so we went toward Rome."
+        }
+    ],
+    "tone": "neutral"
+}

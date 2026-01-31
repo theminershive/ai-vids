@@ -1,0 +1,19 @@
+{
+    "book": "1 John",
+    "chapter": "Chapter 5",
+    "verses": [
+        {
+            "name": "1 John 5:9",
+            "text": "If we receive the witness of men, the witness of God is greater: for this is the witness of God which he hath testified of his Son."
+        },
+        {
+            "name": "1 John 5:10",
+            "text": "He that believeth on the Son of God hath the witness in himself: he that believeth not God hath made him a liar; because he believeth not the record that God gave of his Son."
+        },
+        {
+            "name": "1 John 5:11",
+            "text": "And this is the record, that God hath given to us eternal life, and this life is in his Son."
+        }
+    ],
+    "tone": "hopeful"
+}

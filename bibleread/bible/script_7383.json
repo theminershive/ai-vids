@@ -1,0 +1,19 @@
+{
+    "book": "Romans",
+    "chapter": "Chapter 10",
+    "verses": [
+        {
+            "name": "Romans 10:18",
+            "text": "But I say, Have they not heard? Yes verily, their sound went into all the earth, and their words unto the ends of the world."
+        },
+        {
+            "name": "Romans 10:19",
+            "text": "But I say, Did not Israel know? First Moses saith, I will provoke you to jealousy by them that are no people, and by a foolish nation I will anger you."
+        },
+        {
+            "name": "Romans 10:20",
+            "text": "But Esaias is very bold, and saith, I was found of them that sought me not; I was made manifest unto them that asked not after me."
+        }
+    ],
+    "tone": "neutral"
+}

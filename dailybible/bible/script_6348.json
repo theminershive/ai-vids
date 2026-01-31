@@ -1,0 +1,31 @@
+{
+    "book": "Matthew",
+    "chapter": "Chapter 23",
+    "verses": [
+        {
+            "name": "Matthew 23:6",
+            "text": "And love the uppermost rooms at feasts, and the chief seats in the synagogues,"
+        },
+        {
+            "name": "Matthew 23:7",
+            "text": "And greetings in the markets, and to be called of men, Rabbi, Rabbi."
+        },
+        {
+            "name": "Matthew 23:8",
+            "text": "But be not ye called Rabbi: for one is your Master, even Christ; and all ye are brethren."
+        },
+        {
+            "name": "Matthew 23:9",
+            "text": "And call no man your father upon the earth: for one is your Father, which is in heaven."
+        },
+        {
+            "name": "Matthew 23:10",
+            "text": "Neither be ye called masters: for one is your Master, even Christ."
+        },
+        {
+            "name": "Matthew 23:11",
+            "text": "But he that is greatest among you shall be your servant."
+        }
+    ],
+    "tone": "hopeful"
+}

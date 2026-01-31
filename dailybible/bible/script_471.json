@@ -1,0 +1,19 @@
+{
+    "book": "Exodus",
+    "chapter": "Chapter 9",
+    "verses": [
+        {
+            "name": "Exodus 9:24",
+            "text": "So there was hail, and fire mingled with the hail, very grievous, such as there was none like it in all the land of Egypt since it became a nation."
+        },
+        {
+            "name": "Exodus 9:25",
+            "text": "And the hail smote throughout all the land of Egypt all that was in the field, both man and beast; and the hail smote every herb of the field, and brake every tree of the field."
+        },
+        {
+            "name": "Exodus 9:26",
+            "text": "Only in the land of Goshen, where the children of Israel were, was there no hail."
+        }
+    ],
+    "tone": "neutral"
+}

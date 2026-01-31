@@ -1,0 +1,19 @@
+{
+    "book": "Lamentations",
+    "chapter": "Chapter 1",
+    "verses": [
+        {
+            "name": "Lamentations 1:8",
+            "text": "Jerusalem hath grievously sinned; therefore she is removed: all that honoured her despise her, because they have seen her nakedness: yea, she sigheth, and turneth backward."
+        },
+        {
+            "name": "Lamentations 1:9",
+            "text": "Her filthiness is in her skirts; she remembereth not her last end; therefore she came down wonderfully: she had no comforter. O Lord, behold my affliction: for the enemy hath magnified himself."
+        },
+        {
+            "name": "Lamentations 1:10",
+            "text": "The adversary hath spread out his hand upon all her pleasant things: for she hath seen that the heathen entered into her sanctuary, whom thou didst command that they should not enter into thy congregation."
+        }
+    ],
+    "tone": "instructional"
+}

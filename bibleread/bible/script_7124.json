@@ -1,0 +1,23 @@
+{
+    "book": "Acts",
+    "chapter": "Chapter 8",
+    "verses": [
+        {
+            "name": "Acts 8:1",
+            "text": "And Saul was consenting unto his death. And at that time there was a great persecution against the church which was at Jerusalem; and they were all scattered abroad throughout the regions of Judea and Samaria, except the apostles."
+        },
+        {
+            "name": "Acts 8:2",
+            "text": "And devout men carried Stephen to his burial, and made great lamentation over him."
+        },
+        {
+            "name": "Acts 8:3",
+            "text": "As for Saul, he made havock of the church, entering into every house, and haling men and women committed them to prison."
+        },
+        {
+            "name": "Acts 8:4",
+            "text": "Therefore they that were scattered abroad went every where preaching the word."
+        }
+    ],
+    "tone": "neutral"
+}

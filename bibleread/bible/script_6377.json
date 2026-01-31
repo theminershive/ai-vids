@@ -1,0 +1,19 @@
+{
+    "book": "Matthew",
+    "chapter": "Chapter 25",
+    "verses": [
+        {
+            "name": "Matthew 25:43",
+            "text": "I was a stranger, and ye took me not in: naked, and ye clothed me not: sick, and in prison, and ye visited me not."
+        },
+        {
+            "name": "Matthew 25:44",
+            "text": "Then shall they also answer him, saying, Lord, when saw we thee an hungred, or athirst, or a stranger, or naked, or sick, or in prison, and did not minister unto thee?"
+        },
+        {
+            "name": "Matthew 25:45",
+            "text": "Then shall he answer them, saying, Verily I say unto you, Inasmuch as ye did it not to one of the least of these, ye did it not to me."
+        }
+    ],
+    "tone": "lamenting"
+}

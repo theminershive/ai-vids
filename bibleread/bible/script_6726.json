@@ -1,0 +1,23 @@
+{
+    "book": "Luke",
+    "chapter": "Chapter 12",
+    "verses": [
+        {
+            "name": "Luke 12:17",
+            "text": "And he thought within himself, saying, What shall I do, because I have no room where to bestow my fruits?"
+        },
+        {
+            "name": "Luke 12:18",
+            "text": "And he said, This will I do: I will pull down my barns, and build greater; and there will I bestow all my fruits and my goods."
+        },
+        {
+            "name": "Luke 12:19",
+            "text": "And I will say to my soul, Soul, thou hast much goods laid up for many years; take thine ease, eat, drink, and be merry."
+        },
+        {
+            "name": "Luke 12:20",
+            "text": "But God said unto him, Thou fool, this night thy soul shall be required of thee: then whose shall those things be, which thou hast provided?"
+        }
+    ],
+    "tone": "neutral"
+}

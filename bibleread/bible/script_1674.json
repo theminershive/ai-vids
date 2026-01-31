@@ -1,0 +1,19 @@
+{
+    "book": "Joshua",
+    "chapter": "Chapter 7",
+    "verses": [
+        {
+            "name": "Joshua 7:7",
+            "text": "And Joshua said, Alas, O Lord God, wherefore hast thou at all brought this people over Jordan, to deliver us into the hand of the Amorites, to destroy us? would to God we had been content, and dwelt on the other side Jordan!"
+        },
+        {
+            "name": "Joshua 7:8",
+            "text": "O Lord, what shall I say, when Israel turneth their backs before their enemies!"
+        },
+        {
+            "name": "Joshua 7:9",
+            "text": "For the Canaanites and all the inhabitants of the land shall hear of it, and shall environ us round, and cut off our name from the earth: and what wilt thou do unto thy great name?"
+        }
+    ],
+    "tone": "neutral"
+}

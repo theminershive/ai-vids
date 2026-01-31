@@ -1,0 +1,23 @@
+{
+    "book": "Mark",
+    "chapter": "Chapter 1",
+    "verses": [
+        {
+            "name": "Mark 1:40",
+            "text": "And there came a leper to him, beseeching him, and kneeling down to him, and saying unto him, If thou wilt, thou canst make me clean."
+        },
+        {
+            "name": "Mark 1:41",
+            "text": "And Jesus, moved with compassion, put forth his hand, and touched him, and saith unto him, I will; be thou clean."
+        },
+        {
+            "name": "Mark 1:42",
+            "text": "And as soon as he had spoken, immediately the leprosy departed from him, and he was cleansed."
+        },
+        {
+            "name": "Mark 1:43",
+            "text": "And he straitly charged him, and forthwith sent him away;"
+        }
+    ],
+    "tone": "hopeful"
+}

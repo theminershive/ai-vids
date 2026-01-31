@@ -1,0 +1,35 @@
+{
+    "book": "Matthew",
+    "chapter": "Chapter 25",
+    "verses": [
+        {
+            "name": "Matthew 25:1",
+            "text": "Then shall the kingdom of heaven be likened unto ten virgins, which took their lamps, and went forth to meet the bridegroom."
+        },
+        {
+            "name": "Matthew 25:2",
+            "text": "And five of them were wise, and five were foolish."
+        },
+        {
+            "name": "Matthew 25:3",
+            "text": "They that were foolish took their lamps, and took no oil with them:"
+        },
+        {
+            "name": "Matthew 25:4",
+            "text": "But the wise took oil in their vessels with their lamps."
+        },
+        {
+            "name": "Matthew 25:5",
+            "text": "While the bridegroom tarried, they all slumbered and slept."
+        },
+        {
+            "name": "Matthew 25:6",
+            "text": "And at midnight there was a cry made, Behold, the bridegroom cometh; go ye out to meet him."
+        },
+        {
+            "name": "Matthew 25:7",
+            "text": "Then all those virgins arose, and trimmed their lamps."
+        }
+    ],
+    "tone": "lamenting"
+}

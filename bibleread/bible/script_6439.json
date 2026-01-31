@@ -1,0 +1,31 @@
+{
+    "book": "Mark",
+    "chapter": "Chapter 3",
+    "verses": [
+        {
+            "name": "Mark 3:28",
+            "text": "Verily I say unto you, All sins shall be forgiven unto the sons of men, and blasphemies wherewith soever they shall blaspheme:"
+        },
+        {
+            "name": "Mark 3:29",
+            "text": "But he that shall blaspheme against the Holy Ghost hath never forgiveness, but is in danger of eternal damnation:"
+        },
+        {
+            "name": "Mark 3:30",
+            "text": "Because they said, He hath an unclean spirit."
+        },
+        {
+            "name": "Mark 3:31",
+            "text": "There came then his brethren and his mother, and, standing without, sent unto him, calling him."
+        },
+        {
+            "name": "Mark 3:32",
+            "text": "And the multitude sat about him, and they said unto him, Behold, thy mother and thy brethren without seek for thee."
+        },
+        {
+            "name": "Mark 3:33",
+            "text": "And he answered them, saying, Who is my mother, or my brethren?"
+        }
+    ],
+    "tone": "hopeful"
+}

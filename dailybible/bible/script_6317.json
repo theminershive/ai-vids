@@ -1,0 +1,23 @@
+{
+    "book": "Matthew",
+    "chapter": "Chapter 20",
+    "verses": [
+        {
+            "name": "Matthew 20:6",
+            "text": "And about the eleventh hour he went out, and found others standing idle, and saith unto them, Why stand ye here all the day idle?"
+        },
+        {
+            "name": "Matthew 20:7",
+            "text": "They say unto him, Because no man hath hired us. He saith unto them, Go ye also into the vineyard; and whatsoever is right, that shall ye receive."
+        },
+        {
+            "name": "Matthew 20:8",
+            "text": "So when even was come, the lord of the vineyard saith unto his steward, Call the labourers, and give them their hire, beginning from the last unto the first."
+        },
+        {
+            "name": "Matthew 20:9",
+            "text": "And when they came that were hired about the eleventh hour, they received every man a penny."
+        }
+    ],
+    "tone": "neutral"
+}

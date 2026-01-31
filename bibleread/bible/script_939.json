@@ -1,0 +1,23 @@
+{
+    "book": "Leviticus",
+    "chapter": "Chapter 23",
+    "verses": [
+        {
+            "name": "Leviticus 23:1",
+            "text": "And the Lord spake unto Moses, saying,"
+        },
+        {
+            "name": "Leviticus 23:2",
+            "text": "Speak unto the children of Israel, and say unto them, Concerning the feasts of the Lord, which ye shall proclaim to be holy convocations, even these are my feasts."
+        },
+        {
+            "name": "Leviticus 23:3",
+            "text": "Six days shall work be done: but the seventh day is the sabbath of rest, an holy convocation; ye shall do no work therein: it is the sabbath of the Lord in all your dwellings."
+        },
+        {
+            "name": "Leviticus 23:4",
+            "text": "These are the feasts of the Lord, even holy convocations, which ye shall proclaim in their seasons."
+        }
+    ],
+    "tone": "instructional"
+}

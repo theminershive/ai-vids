@@ -1,0 +1,23 @@
+{
+    "book": "Mark",
+    "chapter": "Chapter 8",
+    "verses": [
+        {
+            "name": "Mark 8:19",
+            "text": "When I brake the five loaves among five thousand, how many baskets full of fragments took ye up? They say unto him, Twelve."
+        },
+        {
+            "name": "Mark 8:20",
+            "text": "And when the seven among four thousand, how many baskets full of fragments took ye up? And they said, Seven."
+        },
+        {
+            "name": "Mark 8:21",
+            "text": "And he said unto them, How is it that ye do not understand?"
+        },
+        {
+            "name": "Mark 8:22",
+            "text": "And he cometh to Bethsaida; and they bring a blind man unto him, and besought him to touch him."
+        }
+    ],
+    "tone": "neutral"
+}

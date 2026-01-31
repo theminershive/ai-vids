@@ -1,0 +1,19 @@
+{
+    "book": "Luke",
+    "chapter": "Chapter 8",
+    "verses": [
+        {
+            "name": "Luke 8:23",
+            "text": "But as they sailed he fell asleep: and there came down a storm of wind on the lake; and they were filled with water, and were in jeopardy."
+        },
+        {
+            "name": "Luke 8:24",
+            "text": "And they came to him, and awoke him, saying, Master, master, we perish. Then he arose, and rebuked the wind and the raging of the water: and they ceased, and there was a calm."
+        },
+        {
+            "name": "Luke 8:25",
+            "text": "And he said unto them, Where is your faith? And they being afraid wondered, saying one to another, What manner of man is this! for he commandeth even the winds and water, and they obey him."
+        }
+    ],
+    "tone": "instructional"
+}

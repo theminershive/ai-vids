@@ -1,0 +1,23 @@
+{
+    "book": "Luke",
+    "chapter": "Chapter 17",
+    "verses": [
+        {
+            "name": "Luke 17:1",
+            "text": "Then said he unto the disciples, It is impossible but that offences will come: but woe unto him, through whom they come!"
+        },
+        {
+            "name": "Luke 17:2",
+            "text": "It were better for him that a millstone were hanged about his neck, and he cast into the sea, than that he should offend one of these little ones."
+        },
+        {
+            "name": "Luke 17:3",
+            "text": "Take heed to yourselves: If thy brother trespass against thee, rebuke him; and if he repent, forgive him."
+        },
+        {
+            "name": "Luke 17:4",
+            "text": "And if he trespass against thee seven times in a day, and seven times in a day turn again to thee, saying, I repent; thou shalt forgive him."
+        }
+    ],
+    "tone": "neutral"
+}

@@ -1,0 +1,19 @@
+{
+    "book": "Matthew",
+    "chapter": "Chapter 13",
+    "verses": [
+        {
+            "name": "Matthew 13:27",
+            "text": "So the servants of the householder came and said unto him, Sir, didst not thou sow good seed in thy field? from whence then hath it tares?"
+        },
+        {
+            "name": "Matthew 13:28",
+            "text": "He said unto them, An enemy hath done this. The servants said unto him, Wilt thou then that we go and gather them up?"
+        },
+        {
+            "name": "Matthew 13:29",
+            "text": "But he said, Nay; lest while ye gather up the tares, ye root up also the wheat with them."
+        }
+    ],
+    "tone": "neutral"
+}

@@ -1,0 +1,23 @@
+{
+    "book": "Numbers",
+    "chapter": "Chapter 10",
+    "verses": [
+        {
+            "name": "Numbers 10:5",
+            "text": "When ye blow an alarm, then the camps that lie on the east parts shall go forward."
+        },
+        {
+            "name": "Numbers 10:6",
+            "text": "When ye blow an alarm the second time, then the camps that lie on the south side shall take their journey: they shall blow an alarm for their journeys."
+        },
+        {
+            "name": "Numbers 10:7",
+            "text": "But when the congregation is to be gathered together, ye shall blow, but ye shall not sound an alarm."
+        },
+        {
+            "name": "Numbers 10:8",
+            "text": "And the sons of Aaron, the priests, shall blow with the trumpets; and they shall be to you for an ordinance for ever throughout your generations."
+        }
+    ],
+    "tone": "lamenting"
+}

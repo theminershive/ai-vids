@@ -1,0 +1,19 @@
+{
+    "book": "Psalms",
+    "chapter": "Chapter 27",
+    "verses": [
+        {
+            "name": "Psalms 27:1",
+            "text": "The Lord is my light and my salvation; whom shall I fear? the Lord is the strength of my life; of whom shall I be afraid?"
+        },
+        {
+            "name": "Psalms 27:2",
+            "text": "When the wicked, even mine enemies and my foes, came upon me to eat up my flesh, they stumbled and fell."
+        },
+        {
+            "name": "Psalms 27:3",
+            "text": "Though an host should encamp against me, my heart shall not fear: though war should rise against me, in this will I be confident."
+        }
+    ],
+    "tone": "lamenting"
+}

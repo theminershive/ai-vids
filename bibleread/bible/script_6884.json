@@ -1,0 +1,23 @@
+{
+    "book": "John",
+    "chapter": "Chapter 4",
+    "verses": [
+        {
+            "name": "John 4:10",
+            "text": "Jesus answered and said unto her, If thou knewest the gift of God, and who it is that saith to thee, Give me to drink; thou wouldest have asked of him, and he would have given thee living water."
+        },
+        {
+            "name": "John 4:11",
+            "text": "The woman saith unto him, Sir, thou hast nothing to draw with, and the well is deep: from whence then hast thou that living water?"
+        },
+        {
+            "name": "John 4:12",
+            "text": "Art thou greater than our father Jacob, which gave us the well, and drank thereof himself, and his children, and his cattle?"
+        },
+        {
+            "name": "John 4:13",
+            "text": "Jesus answered and said unto her, Whosoever drinketh of this water shall thirst again:"
+        }
+    ],
+    "tone": "neutral"
+}

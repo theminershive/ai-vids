@@ -1,0 +1,23 @@
+{
+    "book": "Luke",
+    "chapter": "Chapter 2",
+    "verses": [
+        {
+            "name": "Luke 2:6",
+            "text": "And so it was, that, while they were there, the days were accomplished that she should be delivered."
+        },
+        {
+            "name": "Luke 2:7",
+            "text": "And she brought forth her firstborn son, and wrapped him in swaddling clothes, and laid him in a manger; because there was no room for them in the inn."
+        },
+        {
+            "name": "Luke 2:8",
+            "text": "And there were in the same country shepherds abiding in the field, keeping watch over their flock by night."
+        },
+        {
+            "name": "Luke 2:9",
+            "text": "And, lo, the angel of the Lord came upon them, and the glory of the Lord shone round about them: and they were sore afraid."
+        }
+    ],
+    "tone": "hopeful"
+}

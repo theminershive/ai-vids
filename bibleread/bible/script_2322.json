@@ -1,0 +1,19 @@
+{
+    "book": "2 Samuel",
+    "chapter": "Chapter 7",
+    "verses": [
+        {
+            "name": "2 Samuel 7:5",
+            "text": "Go and tell my servant David, Thus saith the Lord, Shalt thou build me an house for me to dwell in?"
+        },
+        {
+            "name": "2 Samuel 7:6",
+            "text": "Whereas I have not dwelt in any house since the time that I brought up the children of Israel out of Egypt, even to this day, but have walked in a tent and in a tabernacle."
+        },
+        {
+            "name": "2 Samuel 7:7",
+            "text": "In all the places wherein I have walked with all the children of Israel spake I a word with any of the tribes of Israel, whom I commanded to feed my people Israel, saying, Why build ye not me an house of cedar?"
+        }
+    ],
+    "tone": "neutral"
+}

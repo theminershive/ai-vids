@@ -1,0 +1,19 @@
+{
+    "book": "1 Peter",
+    "chapter": "Chapter 3",
+    "verses": [
+        {
+            "name": "1 Peter 3:18",
+            "text": "For Christ also hath once suffered for sins, the just for the unjust, that he might bring us to God, being put to death in the flesh, but quickened by the Spirit:"
+        },
+        {
+            "name": "1 Peter 3:19",
+            "text": "By which also he went and preached unto the spirits in prison;"
+        },
+        {
+            "name": "1 Peter 3:20",
+            "text": "Which sometime were disobedient, when once the longsuffering of God waited in the days of Noah, while the ark was a preparing, wherein few, that is, eight souls were saved by water."
+        }
+    ],
+    "tone": "neutral"
+}

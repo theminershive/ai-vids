@@ -1,0 +1,19 @@
+{
+    "book": "Luke",
+    "chapter": "Chapter 11",
+    "verses": [
+        {
+            "name": "Luke 11:50",
+            "text": "That the blood of all the prophets, which was shed from the foundation of the world, may be required of this generation;"
+        },
+        {
+            "name": "Luke 11:51",
+            "text": "From the blood of Abel unto the blood of Zacharias, which perished between the altar and the temple: verily I say unto you, It shall be required of this generation."
+        },
+        {
+            "name": "Luke 11:52",
+            "text": "Woe unto you, lawyers! for ye have taken away the key of knowledge: ye entered not in yourselves, and them that were entering in ye hindered."
+        }
+    ],
+    "tone": "lamenting"
+}

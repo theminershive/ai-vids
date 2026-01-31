@@ -1,0 +1,23 @@
+{
+    "book": "Genesis",
+    "chapter": "Chapter 7",
+    "verses": [
+        {
+            "name": "Genesis 7:15",
+            "text": "And they went in unto Noah into the ark, two and two of all flesh, wherein is the breath of life."
+        },
+        {
+            "name": "Genesis 7:16",
+            "text": "And they that went in, went in male and female of all flesh, as God had commanded him: and the Lord shut him in."
+        },
+        {
+            "name": "Genesis 7:17",
+            "text": "And the flood was forty days upon the earth; and the waters increased, and bare up the ark, and it was lift up above the earth."
+        },
+        {
+            "name": "Genesis 7:18",
+            "text": "And the waters prevailed, and were increased greatly upon the earth; and the ark went upon the face of the waters."
+        }
+    ],
+    "tone": "neutral"
+}

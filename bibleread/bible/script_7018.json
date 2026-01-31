@@ -1,0 +1,23 @@
+{
+    "book": "John",
+    "chapter": "Chapter 16",
+    "verses": [
+        {
+            "name": "John 16:28",
+            "text": "I came forth from the Father, and am come into the world: again, I leave the world, and go to the Father."
+        },
+        {
+            "name": "John 16:29",
+            "text": "His disciples said unto him, Lo, now speakest thou plainly, and speakest no proverb."
+        },
+        {
+            "name": "John 16:30",
+            "text": "Now are we sure that thou knowest all things, and needest not that any man should ask thee: by this we believe that thou camest forth from God."
+        },
+        {
+            "name": "John 16:31",
+            "text": "Jesus answered them, Do ye now believe?"
+        }
+    ],
+    "tone": "neutral"
+}

@@ -1,0 +1,23 @@
+{
+    "book": "Mark",
+    "chapter": "Chapter 10",
+    "verses": [
+        {
+            "name": "Mark 10:15",
+            "text": "Verily I say unto you, Whosoever shall not receive the kingdom of God as a little child, he shall not enter therein."
+        },
+        {
+            "name": "Mark 10:16",
+            "text": "And he took them up in his arms, put his hands upon them, and blessed them."
+        },
+        {
+            "name": "Mark 10:17",
+            "text": "And when he was gone forth into the way, there came one running, and kneeled to him, and asked him, Good Master, what shall I do that I may inherit eternal life?"
+        },
+        {
+            "name": "Mark 10:18",
+            "text": "And Jesus said unto him, Why callest thou me good? there is none good but one, that is, God."
+        }
+    ],
+    "tone": "hopeful"
+}

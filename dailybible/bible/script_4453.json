@@ -1,0 +1,23 @@
+{
+    "book": "Ecclesiastes",
+    "chapter": "Chapter 8",
+    "verses": [
+        {
+            "name": "Ecclesiastes 8:5",
+            "text": "Whoso keepeth the commandment shall feel no evil thing: and a wise man\u2019s heart discerneth both time and judgment."
+        },
+        {
+            "name": "Ecclesiastes 8:6",
+            "text": "Because to every purpose there is time and judgment, therefore the misery of man is great upon him."
+        },
+        {
+            "name": "Ecclesiastes 8:7",
+            "text": "For he knoweth not that which shall be: for who can tell him when it shall be?"
+        },
+        {
+            "name": "Ecclesiastes 8:8",
+            "text": "There is no man that hath power over the spirit to retain the spirit; neither hath he power in the day of death: and there is no discharge in that war; neither shall wickedness deliver those that are given to it."
+        }
+    ],
+    "tone": "instructional"
+}

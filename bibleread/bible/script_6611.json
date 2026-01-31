@@ -1,0 +1,27 @@
+{
+    "book": "Luke",
+    "chapter": "Chapter 3",
+    "verses": [
+        {
+            "name": "Luke 3:17",
+            "text": "Whose fan is in his hand, and he will throughly purge his floor, and will gather the wheat into his garner; but the chaff he will burn with fire unquenchable."
+        },
+        {
+            "name": "Luke 3:18",
+            "text": "And many other things in his exhortation preached he unto the people."
+        },
+        {
+            "name": "Luke 3:19",
+            "text": "But Herod the tetrarch, being reproved by him for Herodias his brother Philip\u2019s wife, and for all the evils which Herod had done,"
+        },
+        {
+            "name": "Luke 3:20",
+            "text": "Added yet this above all, that he shut up John in prison."
+        },
+        {
+            "name": "Luke 3:21",
+            "text": "Now when all the people were baptized, it came to pass, that Jesus also being baptized, and praying, the heaven was opened,"
+        }
+    ],
+    "tone": "neutral"
+}

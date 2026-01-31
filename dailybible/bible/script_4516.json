@@ -1,0 +1,23 @@
+{
+    "book": "Isaiah",
+    "chapter": "Chapter 3",
+    "verses": [
+        {
+            "name": "Isaiah 3:8",
+            "text": "For Jerusalem is ruined, and Judah is fallen: because their tongue and their doings are against the Lord, to provoke the eyes of his glory."
+        },
+        {
+            "name": "Isaiah 3:9",
+            "text": "The shew of their countenance doth witness against them; and they declare their sin as Sodom, they hide it not. Woe unto their soul! for they have rewarded evil unto themselves."
+        },
+        {
+            "name": "Isaiah 3:10",
+            "text": "Say ye to the righteous, that it shall be well with him: for they shall eat the fruit of their doings."
+        },
+        {
+            "name": "Isaiah 3:11",
+            "text": "Woe unto the wicked! it shall be ill with him: for the reward of his hands shall be given him."
+        }
+    ],
+    "tone": "lamenting"
+}

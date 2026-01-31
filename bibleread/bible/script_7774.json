@@ -1,0 +1,27 @@
+{
+    "book": "Titus",
+    "chapter": "Chapter 3",
+    "verses": [
+        {
+            "name": "Titus 3:9",
+            "text": "But avoid foolish questions, and genealogies, and contentions, and strivings about the law; for they are unprofitable and vain."
+        },
+        {
+            "name": "Titus 3:10",
+            "text": "A man that is an heretick after the first and second admonition reject;"
+        },
+        {
+            "name": "Titus 3:11",
+            "text": "Knowing that he that is such is subverted, and sinneth, being condemned of himself."
+        },
+        {
+            "name": "Titus 3:12",
+            "text": "When I shall send Artemas unto thee, or Tychicus, be diligent to come unto me to Nicopolis: for I have determined there to winter."
+        },
+        {
+            "name": "Titus 3:13",
+            "text": "Bring Zenas the lawyer and Apollos on their journey diligently, that nothing be wanting unto them."
+        }
+    ],
+    "tone": "lamenting"
+}

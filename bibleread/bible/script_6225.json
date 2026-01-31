@@ -1,0 +1,23 @@
+{
+    "book": "Matthew",
+    "chapter": "Chapter 9",
+    "verses": [
+        {
+            "name": "Matthew 9:33",
+            "text": "And when the devil was cast out, the dumb spake: and the multitudes marvelled, saying, It was never so seen in Israel."
+        },
+        {
+            "name": "Matthew 9:34",
+            "text": "But the Pharisees said, He casteth out devils through the prince of the devils."
+        },
+        {
+            "name": "Matthew 9:35",
+            "text": "And Jesus went about all the cities and villages, teaching in their synagogues, and preaching the gospel of the kingdom, and healing every sickness and every disease among the people."
+        },
+        {
+            "name": "Matthew 9:36",
+            "text": "But when he saw the multitudes, he was moved with compassion on them, because they fainted, and were scattered abroad, as sheep having no shepherd."
+        }
+    ],
+    "tone": "neutral"
+}

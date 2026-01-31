@@ -1,0 +1,19 @@
+{
+    "book": "Ezekiel",
+    "chapter": "Chapter 1",
+    "verses": [
+        {
+            "name": "Ezekiel 1:13",
+            "text": "As for the likeness of the living creatures, their appearance was like burning coals of fire, and like the appearance of lamps: it went up and down among the living creatures; and the fire was bright, and out of the fire went forth lightning."
+        },
+        {
+            "name": "Ezekiel 1:14",
+            "text": "And the living creatures ran and returned as the appearance of a flash of lightning."
+        },
+        {
+            "name": "Ezekiel 1:15",
+            "text": "Now as I beheld the living creatures, behold one wheel upon the earth by the living creatures, with his four faces."
+        }
+    ],
+    "tone": "neutral"
+}

@@ -1,0 +1,15 @@
+{
+    "book": "Daniel",
+    "chapter": "Chapter 3",
+    "verses": [
+        {
+            "name": "Daniel 3:28",
+            "text": "Then Nebuchadnezzar spake, and said, Blessed be the God of Shadrach, Meshach, and Abed\u2013nego, who hath sent his angel, and delivered his servants that trusted in him, and have changed the king\u2019s word, and yielded their bodies, that they might not serve nor worship any god, except their own God."
+        },
+        {
+            "name": "Daniel 3:29",
+            "text": "Therefore I make a decree, That every people, nation, and language, which speak any thing amiss against the God of Shadrach, Meshach, and Abed\u2013nego, shall be cut in pieces, and their houses shall be made a dunghill: because there is no other God that can deliver after this sort."
+        }
+    ],
+    "tone": "praising"
+}

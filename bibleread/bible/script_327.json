@@ -1,0 +1,23 @@
+{
+    "book": "Genesis",
+    "chapter": "Chapter 42",
+    "verses": [
+        {
+            "name": "Genesis 42:1",
+            "text": "Now when Jacob saw that there was corn in Egypt, Jacob said unto his sons, Why do ye look one upon another?"
+        },
+        {
+            "name": "Genesis 42:2",
+            "text": "And he said, Behold, I have heard that there is corn in Egypt: get you down thither, and buy for us from thence; that we may live, and not die."
+        },
+        {
+            "name": "Genesis 42:3",
+            "text": "And Joseph\u2019s ten brethren went down to buy corn in Egypt."
+        },
+        {
+            "name": "Genesis 42:4",
+            "text": "But Benjamin, Joseph\u2019s brother, Jacob sent not with his brethren; for he said, Lest peradventure mischief befall him."
+        }
+    ],
+    "tone": "neutral"
+}

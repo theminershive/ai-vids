@@ -1,0 +1,27 @@
+{
+    "book": "Matthew",
+    "chapter": "Chapter 27",
+    "verses": [
+        {
+            "name": "Matthew 27:35",
+            "text": "And they crucified him, and parted his garments, casting lots: that it might be fulfilled which was spoken by the prophet, They parted my garments among them, and upon my vesture did they cast lots."
+        },
+        {
+            "name": "Matthew 27:36",
+            "text": "And sitting down they watched him there;"
+        },
+        {
+            "name": "Matthew 27:37",
+            "text": "And set up over his head his accusation written, THIS IS JESUS THE KING OF THE JEWS."
+        },
+        {
+            "name": "Matthew 27:38",
+            "text": "Then were there two thieves crucified with him, one on the right hand, and another on the left."
+        },
+        {
+            "name": "Matthew 27:39",
+            "text": "And they that passed by reviled him, wagging their heads,"
+        }
+    ],
+    "tone": "neutral"
+}

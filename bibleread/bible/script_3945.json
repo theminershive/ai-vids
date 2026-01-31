@@ -1,0 +1,27 @@
+{
+    "book": "Psalms",
+    "chapter": "Chapter 41",
+    "verses": [
+        {
+            "name": "Psalms 41:1",
+            "text": "Blessed is he that considereth the poor: the Lord will deliver him in time of trouble."
+        },
+        {
+            "name": "Psalms 41:2",
+            "text": "The Lord will preserve him, and keep him alive; and he shall be blessed upon the earth: and thou wilt not deliver him unto the will of his enemies."
+        },
+        {
+            "name": "Psalms 41:3",
+            "text": "The Lord will strengthen him upon the bed of languishing: thou wilt make all his bed in his sickness."
+        },
+        {
+            "name": "Psalms 41:4",
+            "text": "I said, Lord, be merciful unto me: heal my soul; for I have sinned against thee."
+        },
+        {
+            "name": "Psalms 41:5",
+            "text": "Mine enemies speak evil of me, When shall he die, and his name perish?"
+        }
+    ],
+    "tone": "instructional"
+}

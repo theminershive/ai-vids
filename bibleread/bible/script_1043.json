@@ -1,0 +1,23 @@
+{
+    "book": "Numbers",
+    "chapter": "Chapter 5",
+    "verses": [
+        {
+            "name": "Numbers 5:8",
+            "text": "But if the man have no kinsman to recompense the trespass unto, let the trespass be recompensed unto the Lord, even to the priest; beside the ram of the atonement, whereby an atonement shall be made for him."
+        },
+        {
+            "name": "Numbers 5:9",
+            "text": "And every offering of all the holy things of the children of Israel, which they bring unto the priest, shall be his."
+        },
+        {
+            "name": "Numbers 5:10",
+            "text": "And every man\u2019s hallowed things shall be his: whatsoever any man giveth the priest, it shall be his."
+        },
+        {
+            "name": "Numbers 5:11",
+            "text": "And the Lord spake unto Moses, saying,"
+        }
+    ],
+    "tone": "instructional"
+}

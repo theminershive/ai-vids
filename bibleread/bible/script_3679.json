@@ -1,0 +1,31 @@
+{
+    "book": "Job",
+    "chapter": "Chapter 8",
+    "verses": [
+        {
+            "name": "Job 8:7",
+            "text": "Though thy beginning was small, yet thy latter end should greatly increase."
+        },
+        {
+            "name": "Job 8:8",
+            "text": "For enquire, I pray thee, of the former age, and prepare thyself to the search of their fathers:"
+        },
+        {
+            "name": "Job 8:9",
+            "text": "(For we are but of yesterday, and know nothing, because our days upon earth are a shadow:)"
+        },
+        {
+            "name": "Job 8:10",
+            "text": "Shall not they teach thee, and tell thee, and utter words out of their heart?"
+        },
+        {
+            "name": "Job 8:11",
+            "text": "Can the rush grow up without mire? can the flag grow without water?"
+        },
+        {
+            "name": "Job 8:12",
+            "text": "Whilst it is yet in his greenness, and not cut down, it withereth before any other herb."
+        }
+    ],
+    "tone": "instructional"
+}

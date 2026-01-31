@@ -1,0 +1,23 @@
+{
+    "book": "Romans",
+    "chapter": "Chapter 2",
+    "verses": [
+        {
+            "name": "Romans 2:10",
+            "text": "But glory, honour, and peace, to every man that worketh good, to the Jew first, and also to the Gentile:"
+        },
+        {
+            "name": "Romans 2:11",
+            "text": "For there is no respect of persons with God."
+        },
+        {
+            "name": "Romans 2:12",
+            "text": "For as many as have sinned without law shall also perish without law: and as many as have sinned in the law shall be judged by the law;"
+        },
+        {
+            "name": "Romans 2:13",
+            "text": "(For not the hearers of the law are just before God, but the doers of the law shall be justified."
+        }
+    ],
+    "tone": "instructional"
+}

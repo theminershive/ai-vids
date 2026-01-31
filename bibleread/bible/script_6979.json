@@ -1,0 +1,23 @@
+{
+    "book": "John",
+    "chapter": "Chapter 12",
+    "verses": [
+        {
+            "name": "John 12:5",
+            "text": "Why was not this ointment sold for three hundred pence, and given to the poor?"
+        },
+        {
+            "name": "John 12:6",
+            "text": "This he said, not that he cared for the poor; but because he was a thief, and had the bag, and bare what was put therein."
+        },
+        {
+            "name": "John 12:7",
+            "text": "Then said Jesus, Let her alone: against the day of my burying hath she kept this."
+        },
+        {
+            "name": "John 12:8",
+            "text": "For the poor always ye have with you; but me ye have not always."
+        }
+    ],
+    "tone": "neutral"
+}

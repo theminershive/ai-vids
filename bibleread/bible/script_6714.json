@@ -1,0 +1,23 @@
+{
+    "book": "Luke",
+    "chapter": "Chapter 11",
+    "verses": [
+        {
+            "name": "Luke 11:22",
+            "text": "But when a stronger than he shall come upon him, and overcome him, he taketh from him all his armour wherein he trusted, and divideth his spoils."
+        },
+        {
+            "name": "Luke 11:23",
+            "text": "He that is not with me is against me: and he that gathereth not with me scattereth."
+        },
+        {
+            "name": "Luke 11:24",
+            "text": "When the unclean spirit is gone out of a man, he walketh through dry places, seeking rest; and finding none, he saith, I will return unto my house whence I came out."
+        },
+        {
+            "name": "Luke 11:25",
+            "text": "And when he cometh, he findeth it swept and garnished."
+        }
+    ],
+    "tone": "hopeful"
+}

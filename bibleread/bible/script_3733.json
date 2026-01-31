@@ -1,0 +1,35 @@
+{
+    "book": "Job",
+    "chapter": "Chapter 21",
+    "verses": [
+        {
+            "name": "Job 21:1",
+            "text": "But Job answered and said,"
+        },
+        {
+            "name": "Job 21:2",
+            "text": "Hear diligently my speech, and let this be your consolations."
+        },
+        {
+            "name": "Job 21:3",
+            "text": "Suffer me that I may speak; and after that I have spoken, mock on."
+        },
+        {
+            "name": "Job 21:4",
+            "text": "As for me, is my complaint to man? and if it were so, why should not my spirit be troubled?"
+        },
+        {
+            "name": "Job 21:5",
+            "text": "Mark me, and be astonished, and lay your hand upon your mouth."
+        },
+        {
+            "name": "Job 21:6",
+            "text": "Even when I remember I am afraid, and trembling taketh hold on my flesh."
+        },
+        {
+            "name": "Job 21:7",
+            "text": "Wherefore do the wicked live, become old, yea, are mighty in power?"
+        }
+    ],
+    "tone": "lamenting"
+}

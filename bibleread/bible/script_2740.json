@@ -1,0 +1,19 @@
+{
+    "book": "2 Kings",
+    "chapter": "Chapter 2",
+    "verses": [
+        {
+            "name": "2 Kings 2:18",
+            "text": "And when they came again to him, (for he tarried at Jericho,) he said unto them, Did I not say unto you, Go not?"
+        },
+        {
+            "name": "2 Kings 2:19",
+            "text": "And the men of the city said unto Elisha, Behold, I pray thee, the situation of this city is pleasant, as my lord seeth: but the water is naught, and the ground barren."
+        },
+        {
+            "name": "2 Kings 2:20",
+            "text": "And he said, Bring me a new cruse, and put salt therein. And they brought it to him."
+        }
+    ],
+    "tone": "neutral"
+}

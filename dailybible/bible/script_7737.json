@@ -1,0 +1,27 @@
+{
+    "book": "1 Timothy",
+    "chapter": "Chapter 4",
+    "verses": [
+        {
+            "name": "1 Timothy 4:10",
+            "text": "For therefore we both labour and suffer reproach, because we trust in the living God, who is the Saviour of all men, specially of those that believe."
+        },
+        {
+            "name": "1 Timothy 4:11",
+            "text": "These things command and teach."
+        },
+        {
+            "name": "1 Timothy 4:12",
+            "text": "Let no man despise thy youth; but be thou an example of the believers, in word, in conversation, in charity, in spirit, in faith, in purity."
+        },
+        {
+            "name": "1 Timothy 4:13",
+            "text": "Till I come, give attendance to reading, to exhortation, to doctrine."
+        },
+        {
+            "name": "1 Timothy 4:14",
+            "text": "Neglect not the gift that is in thee, which was given thee by prophecy, with the laying on of the hands of the presbytery."
+        }
+    ],
+    "tone": "hopeful"
+}

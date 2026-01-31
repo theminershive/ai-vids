@@ -1,0 +1,27 @@
+{
+    "book": "Luke",
+    "chapter": "Chapter 20",
+    "verses": [
+        {
+            "name": "Luke 20:37",
+            "text": "Now that the dead are raised, even Moses shewed at the bush, when he calleth the Lord the God of Abraham, and the God of Isaac, and the God of Jacob."
+        },
+        {
+            "name": "Luke 20:38",
+            "text": "For he is not a God of the dead, but of the living: for all live unto him."
+        },
+        {
+            "name": "Luke 20:39",
+            "text": "Then certain of the scribes answering said, Master, thou hast well said."
+        },
+        {
+            "name": "Luke 20:40",
+            "text": "And after that they durst not ask him any question at all. "
+        },
+        {
+            "name": "Luke 20:41",
+            "text": "And he said unto them, How say they that Christ is David\u2019s son?"
+        }
+    ],
+    "tone": "neutral"
+}

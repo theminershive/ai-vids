@@ -1,0 +1,23 @@
+{
+    "book": "Psalms",
+    "chapter": "Chapter 9",
+    "verses": [
+        {
+            "name": "Psalms 9:11",
+            "text": "Sing praises to the Lord, which dwelleth in Zion: declare among the people his doings."
+        },
+        {
+            "name": "Psalms 9:12",
+            "text": "When he maketh inquisition for blood, he remembereth them: he forgetteth not the cry of the humble."
+        },
+        {
+            "name": "Psalms 9:13",
+            "text": "Have mercy upon me, O Lord; consider my trouble which I suffer of them that hate me, thou that liftest me up from the gates of death:"
+        },
+        {
+            "name": "Psalms 9:14",
+            "text": "That I may shew forth all thy praise in the gates of the daughter of Zion: I will rejoice in thy salvation."
+        }
+    ],
+    "tone": "hopeful"
+}

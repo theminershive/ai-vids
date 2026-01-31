@@ -1,0 +1,27 @@
+{
+    "book": "Job",
+    "chapter": "Chapter 11",
+    "verses": [
+        {
+            "name": "Job 11:13",
+            "text": "If thou prepare thine heart, and stretch out thine hands toward him;"
+        },
+        {
+            "name": "Job 11:14",
+            "text": "If iniquity be in thine hand, put it far away, and let not wickedness dwell in thy tabernacles."
+        },
+        {
+            "name": "Job 11:15",
+            "text": "For then shalt thou lift up thy face without spot; yea, thou shalt be stedfast, and shalt not fear:"
+        },
+        {
+            "name": "Job 11:16",
+            "text": "Because thou shalt forget thy misery, and remember it as waters that pass away:"
+        },
+        {
+            "name": "Job 11:17",
+            "text": "And thine age shall be clearer than the noonday; thou shalt shine forth, thou shalt be as the morning."
+        }
+    ],
+    "tone": "hopeful"
+}

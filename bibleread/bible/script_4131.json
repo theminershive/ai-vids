@@ -1,0 +1,31 @@
+{
+    "book": "Psalms",
+    "chapter": "Chapter 104",
+    "verses": [
+        {
+            "name": "Psalms 104:23",
+            "text": "Man goeth forth unto his work and to his labour until the evening."
+        },
+        {
+            "name": "Psalms 104:24",
+            "text": "O Lord, how manifold are thy works! in wisdom hast thou made them all: the earth is full of thy riches."
+        },
+        {
+            "name": "Psalms 104:25",
+            "text": "So is this great and wide sea, wherein are things creeping innumerable, both small and great beasts."
+        },
+        {
+            "name": "Psalms 104:26",
+            "text": "There go the ships: there is that leviathan, whom thou hast made to play therein."
+        },
+        {
+            "name": "Psalms 104:27",
+            "text": "These wait all upon thee; that thou mayest give them their meat in due season."
+        },
+        {
+            "name": "Psalms 104:28",
+            "text": "That thou givest them they gather: thou openest thine hand, they are filled with good."
+        }
+    ],
+    "tone": "instructional"
+}

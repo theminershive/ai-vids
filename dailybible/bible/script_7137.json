@@ -1,0 +1,19 @@
+{
+    "book": "Acts",
+    "chapter": "Chapter 9",
+    "verses": [
+        {
+            "name": "Acts 9:15",
+            "text": "But the Lord said unto him, Go thy way: for he is a chosen vessel unto me, to bear my name before the Gentiles, and kings, and the children of Israel:"
+        },
+        {
+            "name": "Acts 9:16",
+            "text": "For I will shew him how great things he must suffer for my name\u2019s sake."
+        },
+        {
+            "name": "Acts 9:17",
+            "text": "And Ananias went his way, and entered into the house; and putting his hands on him said, Brother Saul, the Lord, even Jesus, that appeared unto thee in the way as thou camest, hath sent me, that thou mightest receive thy sight, and be filled with the Holy Ghost."
+        }
+    ],
+    "tone": "neutral"
+}

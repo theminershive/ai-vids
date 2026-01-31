@@ -1,0 +1,19 @@
+{
+    "book": "Leviticus",
+    "chapter": "Chapter 13",
+    "verses": [
+        {
+            "name": "Leviticus 13:40",
+            "text": "And the man whose hair is fallen off his head, he is bald; yet is he clean."
+        },
+        {
+            "name": "Leviticus 13:41",
+            "text": "And he that hath his hair fallen off from the part of his head toward his face, he is forehead bald: yet is he clean."
+        },
+        {
+            "name": "Leviticus 13:42",
+            "text": "And if there be in the bald head, or bald forehead, a white reddish sore; it is a leprosy sprung up in his bald head, or his bald forehead."
+        }
+    ],
+    "tone": "lamenting"
+}

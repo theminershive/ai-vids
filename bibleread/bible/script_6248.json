@@ -1,0 +1,27 @@
+{
+    "book": "Matthew",
+    "chapter": "Chapter 12",
+    "verses": [
+        {
+            "name": "Matthew 12:17",
+            "text": "That it might be fulfilled which was spoken by Esaias the prophet, saying,"
+        },
+        {
+            "name": "Matthew 12:18",
+            "text": "Behold my servant, whom I have chosen; my beloved, in whom my soul is well pleased: I will put my spirit upon him, and he shall shew judgment to the Gentiles."
+        },
+        {
+            "name": "Matthew 12:19",
+            "text": "He shall not strive, nor cry; neither shall any man hear his voice in the streets."
+        },
+        {
+            "name": "Matthew 12:20",
+            "text": "A bruised reed shall he not break, and smoking flax shall he not quench, till he send forth judgment unto victory."
+        },
+        {
+            "name": "Matthew 12:21",
+            "text": "And in his name shall the Gentiles trust."
+        }
+    ],
+    "tone": "lamenting"
+}

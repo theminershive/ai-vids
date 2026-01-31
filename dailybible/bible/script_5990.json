@@ -1,0 +1,23 @@
+{
+    "book": "Jonah",
+    "chapter": "Chapter 3",
+    "verses": [
+        {
+            "name": "Jonah 3:1",
+            "text": "And the word of the Lord came unto Jonah the second time, saying,"
+        },
+        {
+            "name": "Jonah 3:2",
+            "text": "Arise, go unto Nineveh, that great city, and preach unto it the preaching that I bid thee."
+        },
+        {
+            "name": "Jonah 3:3",
+            "text": "So Jonah arose, and went unto Nineveh, according to the word of the Lord. Now Nineveh was an exceeding great city of three days\u2019 journey."
+        },
+        {
+            "name": "Jonah 3:4",
+            "text": "And Jonah began to enter into the city a day\u2019s journey, and he cried, and said, Yet forty days, and Nineveh shall be overthrown."
+        }
+    ],
+    "tone": "neutral"
+}

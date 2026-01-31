@@ -1,0 +1,23 @@
+{
+    "book": "Jonah",
+    "chapter": "Chapter 2",
+    "verses": [
+        {
+            "name": "Jonah 2:1",
+            "text": "Then Jonah prayed unto the Lord his God out of the fish\u2019s belly,"
+        },
+        {
+            "name": "Jonah 2:2",
+            "text": "And said, I cried by reason of mine affliction unto the Lord, and he heard me; out of the belly of hell cried I, and thou heardest my voice."
+        },
+        {
+            "name": "Jonah 2:3",
+            "text": "For thou hadst cast me into the deep, in the midst of the seas; and the floods compassed me about: all thy billows and thy waves passed over me."
+        },
+        {
+            "name": "Jonah 2:4",
+            "text": "Then I said, I am cast out of thy sight; yet I will look again toward thy holy temple."
+        }
+    ],
+    "tone": "instructional"
+}

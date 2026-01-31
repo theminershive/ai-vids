@@ -1,0 +1,27 @@
+{
+    "book": "Psalms",
+    "chapter": "Chapter 22",
+    "verses": [
+        {
+            "name": "Psalms 22:11",
+            "text": "Be not far from me; for trouble is near; for there is none to help."
+        },
+        {
+            "name": "Psalms 22:12",
+            "text": "Many bulls have compassed me: strong bulls of Bashan have beset me round."
+        },
+        {
+            "name": "Psalms 22:13",
+            "text": "They gaped upon me with their mouths, as a ravening and a roaring lion."
+        },
+        {
+            "name": "Psalms 22:14",
+            "text": "I am poured out like water, and all my bones are out of joint: my heart is like wax; it is melted in the midst of my bowels."
+        },
+        {
+            "name": "Psalms 22:15",
+            "text": "My strength is dried up like a potsherd; and my tongue cleaveth to my jaws; and thou hast brought me into the dust of death."
+        }
+    ],
+    "tone": "hopeful"
+}

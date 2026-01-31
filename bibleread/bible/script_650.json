@@ -1,0 +1,19 @@
+{
+    "book": "Exodus",
+    "chapter": "Chapter 30",
+    "verses": [
+        {
+            "name": "Exodus 30:13",
+            "text": "This they shall give, every one that passeth among them that are numbered, half a shekel after the shekel of the sanctuary: (a shekel is twenty gerahs:) an half shekel shall be the offering of the Lord."
+        },
+        {
+            "name": "Exodus 30:14",
+            "text": "Every one that passeth among them that are numbered, from twenty years old and above, shall give an offering unto the Lord."
+        },
+        {
+            "name": "Exodus 30:15",
+            "text": "The rich shall not give more, and the poor shall not give less than half a shekel, when they give an offering unto the Lord, to make an atonement for your souls."
+        }
+    ],
+    "tone": "neutral"
+}

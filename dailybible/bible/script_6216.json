@@ -1,0 +1,19 @@
+{
+    "book": "Matthew",
+    "chapter": "Chapter 8",
+    "verses": [
+        {
+            "name": "Matthew 8:32",
+            "text": "And he said unto them, Go. And when they were come out, they went into the herd of swine: and, behold, the whole herd of swine ran violently down a steep place into the sea, and perished in the waters."
+        },
+        {
+            "name": "Matthew 8:33",
+            "text": "And they that kept them fled, and went their ways into the city, and told every thing, and what was befallen to the possessed of the devils."
+        },
+        {
+            "name": "Matthew 8:34",
+            "text": "And, behold, the whole city came out to meet Jesus: and when they saw him, they besought him that he would depart out of their coasts. "
+        }
+    ],
+    "tone": "neutral"
+}

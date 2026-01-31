@@ -1,0 +1,19 @@
+{
+    "book": "1 Samuel",
+    "chapter": "Chapter 1",
+    "verses": [
+        {
+            "name": "1 Samuel 1:23",
+            "text": "And Elkanah her husband said unto her, Do what seemeth thee good; tarry until thou have weaned him; only the Lord establish his word. So the woman abode, and gave her son suck until she weaned him."
+        },
+        {
+            "name": "1 Samuel 1:24",
+            "text": "And when she had weaned him, she took him up with her, with three bullocks, and one ephah of flour, and a bottle of wine, and brought him unto the house of the Lord in Shiloh: and the child was young."
+        },
+        {
+            "name": "1 Samuel 1:25",
+            "text": "And they slew a bullock, and brought the child to Eli."
+        }
+    ],
+    "tone": "neutral"
+}

@@ -1,0 +1,23 @@
+{
+    "book": "Ezra",
+    "chapter": "Chapter 2",
+    "verses": [
+        {
+            "name": "Ezra 2:64",
+            "text": "The whole congregation together was forty and two thousand three hundred and threescore,"
+        },
+        {
+            "name": "Ezra 2:65",
+            "text": "Beside their servants and their maids, of whom there were seven thousand three hundred thirty and seven: and there were among them two hundred singing men and singing women."
+        },
+        {
+            "name": "Ezra 2:66",
+            "text": "Their horses were seven hundred thirty and six; their mules, two hundred forty and five;"
+        },
+        {
+            "name": "Ezra 2:67",
+            "text": "Their camels, four hundred thirty and five; their asses, six thousand seven hundred and twenty."
+        }
+    ],
+    "tone": "neutral"
+}

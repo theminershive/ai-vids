@@ -1,0 +1,19 @@
+{
+    "book": "1 Kings",
+    "chapter": "Chapter 8",
+    "verses": [
+        {
+            "name": "1 Kings 8:45",
+            "text": "Then hear thou in heaven their prayer and their supplication, and maintain their cause."
+        },
+        {
+            "name": "1 Kings 8:46",
+            "text": "If they sin against thee, (for there is no man that sinneth not,) and thou be angry with them, and deliver them to the enemy, so that they carry them away captives unto the land of the enemy, far or near;"
+        },
+        {
+            "name": "1 Kings 8:47",
+            "text": "Yet if they shall bethink themselves in the land whither they were carried captives, and repent, and make supplication unto thee in the land of them that carried them captives, saying, We have sinned, and have done perversely, we have committed wickedness;"
+        }
+    ],
+    "tone": "neutral"
+}

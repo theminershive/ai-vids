@@ -1,0 +1,27 @@
+{
+    "book": "Matthew",
+    "chapter": "Chapter 26",
+    "verses": [
+        {
+            "name": "Matthew 26:70",
+            "text": "But he denied before them all, saying, I know not what thou sayest."
+        },
+        {
+            "name": "Matthew 26:71",
+            "text": "And when he was gone out into the porch, another maid saw him, and said unto them that were there, This fellow was also with Jesus of Nazareth."
+        },
+        {
+            "name": "Matthew 26:72",
+            "text": "And again he denied with an oath, I do not know the man."
+        },
+        {
+            "name": "Matthew 26:73",
+            "text": "And after a while came unto him they that stood by, and said to Peter, Surely thou also art one of them; for thy speech bewrayeth thee."
+        },
+        {
+            "name": "Matthew 26:74",
+            "text": "Then began he to curse and to swear, saying, I know not the man. And immediately the cock crew."
+        }
+    ],
+    "tone": "neutral"
+}

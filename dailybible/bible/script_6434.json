@@ -1,0 +1,19 @@
+{
+    "book": "Mark",
+    "chapter": "Chapter 3",
+    "verses": [
+        {
+            "name": "Mark 3:5",
+            "text": "And when he had looked round about on them with anger, being grieved for the hardness of their hearts, he saith unto the man, Stretch forth thine hand. And he stretched it out: and his hand was restored whole as the other."
+        },
+        {
+            "name": "Mark 3:6",
+            "text": "And the Pharisees went forth, and straightway took counsel with the Herodians against him, how they might destroy him."
+        },
+        {
+            "name": "Mark 3:7",
+            "text": "But Jesus withdrew himself with his disciples to the sea: and a great multitude from Galilee followed him, and from Judea,"
+        }
+    ],
+    "tone": "neutral"
+}

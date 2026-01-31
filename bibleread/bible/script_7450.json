@@ -1,0 +1,23 @@
+{
+    "book": "1 Corinthians",
+    "chapter": "Chapter 7",
+    "verses": [
+        {
+            "name": "1 Corinthians 7:1",
+            "text": "Now concerning the things whereof ye wrote unto me: It is good for a man not to touch a woman."
+        },
+        {
+            "name": "1 Corinthians 7:2",
+            "text": "Nevertheless, to avoid fornication, let every man have his own wife, and let every woman have her own husband."
+        },
+        {
+            "name": "1 Corinthians 7:3",
+            "text": "Let the husband render unto the wife due benevolence: and likewise also the wife unto the husband."
+        },
+        {
+            "name": "1 Corinthians 7:4",
+            "text": "The wife hath not power of her own body, but the husband: and likewise also the husband hath not power of his own body, but the wife."
+        }
+    ],
+    "tone": "hopeful"
+}

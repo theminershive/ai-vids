@@ -1,0 +1,19 @@
+{
+    "book": "Numbers",
+    "chapter": "Chapter 11",
+    "verses": [
+        {
+            "name": "Numbers 11:19",
+            "text": "Ye shall not eat one day, nor two days, nor five days, neither ten days, nor twenty days;"
+        },
+        {
+            "name": "Numbers 11:20",
+            "text": "But even a whole month, until it come out at your nostrils, and it be loathsome unto you: because that ye have despised the Lord which is among you, and have wept before him, saying, Why came we forth out of Egypt?"
+        },
+        {
+            "name": "Numbers 11:21",
+            "text": "And Moses said, The people, among whom I am, are six hundred thousand footmen; and thou hast said, I will give them flesh, that they may eat a whole month."
+        }
+    ],
+    "tone": "lamenting"
+}

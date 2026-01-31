@@ -1,0 +1,23 @@
+{
+    "book": "Luke",
+    "chapter": "Chapter 10",
+    "verses": [
+        {
+            "name": "Luke 10:6",
+            "text": "And if the son of peace be there, your peace shall rest upon it: if not, it shall turn to you again."
+        },
+        {
+            "name": "Luke 10:7",
+            "text": "And in the same house remain, eating and drinking such things as they give: for the labourer is worthy of his hire. Go not from house to house."
+        },
+        {
+            "name": "Luke 10:8",
+            "text": "And into whatsoever city ye enter, and they receive you, eat such things as are set before you:"
+        },
+        {
+            "name": "Luke 10:9",
+            "text": "And heal the sick that are therein, and say unto them, The kingdom of God is come nigh unto you."
+        }
+    ],
+    "tone": "hopeful"
+}

@@ -1,0 +1,19 @@
+{
+    "book": "Daniel",
+    "chapter": "Chapter 4",
+    "verses": [
+        {
+            "name": "Daniel 4:9",
+            "text": "O Belteshazzar, master of the magicians, because I know that the spirit of the holy gods is in thee, and no secret troubleth thee, tell me the visions of my dream that I have seen, and the interpretation thereof."
+        },
+        {
+            "name": "Daniel 4:10",
+            "text": "Thus were the visions of mine head in my bed; I saw, and behold a tree in the midst of the earth, and the height thereof was great."
+        },
+        {
+            "name": "Daniel 4:11",
+            "text": "The tree grew, and was strong, and the height thereof reached unto heaven, and the sight thereof to the end of all the earth:"
+        }
+    ],
+    "tone": "instructional"
+}

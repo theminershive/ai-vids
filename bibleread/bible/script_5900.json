@@ -1,0 +1,19 @@
+{
+    "book": "Hosea",
+    "chapter": "Chapter 11",
+    "verses": [
+        {
+            "name": "Hosea 11:10",
+            "text": "They shall walk after the Lord: he shall roar like a lion: when he shall roar, then the children shall tremble from the west."
+        },
+        {
+            "name": "Hosea 11:11",
+            "text": "They shall tremble as a bird out of Egypt, and as a dove out of the land of Assyria: and I will place them in their houses, saith the Lord."
+        },
+        {
+            "name": "Hosea 11:12",
+            "text": "Ephraim compasseth me about with lies, and the house of Israel with deceit: but Judah yet ruleth with God, and is faithful with the saints. "
+        }
+    ],
+    "tone": "neutral"
+}

@@ -1,0 +1,23 @@
+{
+    "book": "Exodus",
+    "chapter": "Chapter 21",
+    "verses": [
+        {
+            "name": "Exodus 21:20",
+            "text": "And if a man smite his servant, or his maid, with a rod, and he die under his hand; he shall be surely punished."
+        },
+        {
+            "name": "Exodus 21:21",
+            "text": "Notwithstanding, if he continue a day or two, he shall not be punished: for he is his money."
+        },
+        {
+            "name": "Exodus 21:22",
+            "text": "If men strive, and hurt a woman with child, so that her fruit depart from her, and yet no mischief follow: he shall be surely punished, according as the woman\u2019s husband will lay upon him; and he shall pay as the judges determine."
+        },
+        {
+            "name": "Exodus 21:23",
+            "text": "And if any mischief follow, then thou shalt give life for life,"
+        }
+    ],
+    "tone": "neutral"
+}

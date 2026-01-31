@@ -1,0 +1,19 @@
+{
+    "book": "Joshua",
+    "chapter": "Chapter 13",
+    "verses": [
+        {
+            "name": "Joshua 13:11",
+            "text": "And Gilead, and the border of the Geshurites and Maachathites, and all mount Hermon, and all Bashan unto Salcah;"
+        },
+        {
+            "name": "Joshua 13:12",
+            "text": "All the kingdom of Og in Bashan, which reigned in Ashtaroth and in Edrei, who remained of the remnant of the giants: for these did Moses smite, and cast them out."
+        },
+        {
+            "name": "Joshua 13:13",
+            "text": "Nevertheless the children of Israel expelled not the Geshurites, nor the Maachathites: but the Geshurites and the Maachathites dwell among the Israelites until this day."
+        }
+    ],
+    "tone": "neutral"
+}

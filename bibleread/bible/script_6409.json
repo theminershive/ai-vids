@@ -1,0 +1,27 @@
+{
+    "book": "Matthew",
+    "chapter": "Chapter 27",
+    "verses": [
+        {
+            "name": "Matthew 27:57",
+            "text": "When the even was come, there came a rich man of Arimathea, named Joseph, who also himself was Jesus\u2019 disciple:"
+        },
+        {
+            "name": "Matthew 27:58",
+            "text": "He went to Pilate, and begged the body of Jesus. Then Pilate commanded the body to be delivered."
+        },
+        {
+            "name": "Matthew 27:59",
+            "text": "And when Joseph had taken the body, he wrapped it in a clean linen cloth,"
+        },
+        {
+            "name": "Matthew 27:60",
+            "text": "And laid it in his own new tomb, which he had hewn out in the rock: and he rolled a great stone to the door of the sepulchre, and departed."
+        },
+        {
+            "name": "Matthew 27:61",
+            "text": "And there was Mary Magdalene, and the other Mary, sitting over against the sepulchre."
+        }
+    ],
+    "tone": "neutral"
+}

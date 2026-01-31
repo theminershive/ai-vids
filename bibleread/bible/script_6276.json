@@ -1,0 +1,23 @@
+{
+    "book": "Matthew",
+    "chapter": "Chapter 14",
+    "verses": [
+        {
+            "name": "Matthew 14:26",
+            "text": "And when the disciples saw him walking on the sea, they were troubled, saying, It is a spirit; and they cried out for fear."
+        },
+        {
+            "name": "Matthew 14:27",
+            "text": "But straightway Jesus spake unto them, saying, Be of good cheer; it is I; be not afraid."
+        },
+        {
+            "name": "Matthew 14:28",
+            "text": "And Peter answered him and said, Lord, if it be thou, bid me come unto thee on the water."
+        },
+        {
+            "name": "Matthew 14:29",
+            "text": "And he said, Come. And when Peter was come down out of the ship, he walked on the water, to go to Jesus."
+        }
+    ],
+    "tone": "hopeful"
+}

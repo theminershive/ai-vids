@@ -1,0 +1,19 @@
+{
+    "book": "Ezra",
+    "chapter": "Chapter 7",
+    "verses": [
+        {
+            "name": "Ezra 7:14",
+            "text": "Forasmuch as thou art sent of the king, and of his seven counsellors, to enquire concerning Judah and Jerusalem, according to the law of thy God which is in thine hand;"
+        },
+        {
+            "name": "Ezra 7:15",
+            "text": "And to carry the silver and gold, which the king and his counsellors have freely offered unto the God of Israel, whose habitation is in Jerusalem,"
+        },
+        {
+            "name": "Ezra 7:16",
+            "text": "And all the silver and gold that thou canst find in all the province of Babylon, with the freewill offering of the people, and of the priests, offering willingly for the house of their God which is in Jerusalem:"
+        }
+    ],
+    "tone": "instructional"
+}

@@ -1,0 +1,27 @@
+{
+    "book": "Psalms",
+    "chapter": "Chapter 32",
+    "verses": [
+        {
+            "name": "Psalms 32:1",
+            "text": "Blessed is he whose transgression is forgiven, whose sin is covered."
+        },
+        {
+            "name": "Psalms 32:2",
+            "text": "Blessed is the man unto whom the Lord imputeth not iniquity, and in whose spirit there is no guile."
+        },
+        {
+            "name": "Psalms 32:3",
+            "text": "When I kept silence, my bones waxed old through my roaring all the day long."
+        },
+        {
+            "name": "Psalms 32:4",
+            "text": "For day and night thy hand was heavy upon me: my moisture is turned into the drought of summer. Selah."
+        },
+        {
+            "name": "Psalms 32:5",
+            "text": "I acknowledged my sin unto thee, and mine iniquity have I not hid. I said, I will confess my transgressions unto the Lord; and thou forgavest the iniquity of my sin. Selah."
+        }
+    ],
+    "tone": "lamenting"
+}

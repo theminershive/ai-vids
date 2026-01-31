@@ -1,0 +1,23 @@
+{
+    "book": "John",
+    "chapter": "Chapter 7",
+    "verses": [
+        {
+            "name": "John 7:25",
+            "text": "Then said some of them of Jerusalem, Is not this he, whom they seek to kill?"
+        },
+        {
+            "name": "John 7:26",
+            "text": "But, lo, he speaketh boldly, and they say nothing unto him. Do the rulers know indeed that this is the very Christ?"
+        },
+        {
+            "name": "John 7:27",
+            "text": "Howbeit we know this man whence he is: but when Christ cometh, no man knoweth whence he is."
+        },
+        {
+            "name": "John 7:28",
+            "text": "Then cried Jesus in the temple as he taught, saying, Ye both know me, and ye know whence I am: and I am not come of myself, but he that sent me is true, whom ye know not."
+        }
+    ],
+    "tone": "neutral"
+}

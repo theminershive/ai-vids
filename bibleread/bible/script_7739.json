@@ -1,0 +1,23 @@
+{
+    "book": "1 Timothy",
+    "chapter": "Chapter 5",
+    "verses": [
+        {
+            "name": "1 Timothy 5:7",
+            "text": "And these things give in charge, that they may be blameless."
+        },
+        {
+            "name": "1 Timothy 5:8",
+            "text": "But if any provide not for his own, and specially for those of his own house, he hath denied the faith, and is worse than an infidel."
+        },
+        {
+            "name": "1 Timothy 5:9",
+            "text": "Let not a widow be taken into the number under threescore years old, having been the wife of one man,"
+        },
+        {
+            "name": "1 Timothy 5:10",
+            "text": "Well reported of for good works; if she have brought up children, if she have lodged strangers, if she have washed the saints\u2019 feet, if she have relieved the afflicted, if she have diligently followed every good work."
+        }
+    ],
+    "tone": "hopeful"
+}

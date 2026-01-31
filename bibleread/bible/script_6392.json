@@ -1,0 +1,23 @@
+{
+    "book": "Matthew",
+    "chapter": "Chapter 26",
+    "verses": [
+        {
+            "name": "Matthew 26:58",
+            "text": "But Peter followed him afar off unto the high priest\u2019s palace, and went in, and sat with the servants, to see the end."
+        },
+        {
+            "name": "Matthew 26:59",
+            "text": "Now the chief priests, and elders, and all the council, sought false witness against Jesus, to put him to death;"
+        },
+        {
+            "name": "Matthew 26:60",
+            "text": "But found none: yea, though many false witnesses came, yet found they none. At the last came two false witnesses,"
+        },
+        {
+            "name": "Matthew 26:61",
+            "text": "And said, This fellow said, I am able to destroy the temple of God, and to build it in three days."
+        }
+    ],
+    "tone": "neutral"
+}

@@ -1,0 +1,23 @@
+{
+    "book": "Luke",
+    "chapter": "Chapter 24",
+    "verses": [
+        {
+            "name": "Luke 24:16",
+            "text": "But their eyes were holden that they should not know him."
+        },
+        {
+            "name": "Luke 24:17",
+            "text": "And he said unto them, What manner of communications are these that ye have one to another, as ye walk, and are sad?"
+        },
+        {
+            "name": "Luke 24:18",
+            "text": "And the one of them, whose name was Cleopas, answering said unto him, Art thou only a stranger in Jerusalem, and hast not known the things which are come to pass there in these days?"
+        },
+        {
+            "name": "Luke 24:19",
+            "text": "And he said unto them, What things? And they said unto him, Concerning Jesus of Nazareth, which was a prophet mighty in deed and word before God and all the people:"
+        }
+    ],
+    "tone": "neutral"
+}

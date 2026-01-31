@@ -1,0 +1,19 @@
+{
+    "book": "Daniel",
+    "chapter": "Chapter 3",
+    "verses": [
+        {
+            "name": "Daniel 3:10",
+            "text": "Thou, O king, hast made a decree, that every man that shall hear the sound of the cornet, flute, harp, sackbut, psaltery, and dulcimer, and all kinds of musick, shall fall down and worship the golden image:"
+        },
+        {
+            "name": "Daniel 3:11",
+            "text": "And whoso falleth not down and worshippeth, that he should be cast into the midst of a burning fiery furnace."
+        },
+        {
+            "name": "Daniel 3:12",
+            "text": "There are certain Jews whom thou hast set over the affairs of the province of Babylon, Shadrach, Meshach, and Abed\u2013nego; these men, O king, have not regarded thee: they serve not thy gods, nor worship the golden image which thou hast set up."
+        }
+    ],
+    "tone": "praising"
+}

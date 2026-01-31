@@ -1,0 +1,19 @@
+{
+    "book": "Daniel",
+    "chapter": "Chapter 7",
+    "verses": [
+        {
+            "name": "Daniel 7:10",
+            "text": "A fiery stream issued and came forth from before him: thousand thousands ministered unto him, and ten thousand times ten thousand stood before him: the judgment was set, and the books were opened."
+        },
+        {
+            "name": "Daniel 7:11",
+            "text": "I beheld then because of the voice of the great words which the horn spake: I beheld even till the beast was slain, and his body destroyed, and given to the burning flame."
+        },
+        {
+            "name": "Daniel 7:12",
+            "text": "As concerning the rest of the beasts, they had their dominion taken away: yet their lives were prolonged for a season and time."
+        }
+    ],
+    "tone": "lamenting"
+}

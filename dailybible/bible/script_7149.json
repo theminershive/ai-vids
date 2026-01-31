@@ -1,0 +1,15 @@
+{
+    "book": "Acts",
+    "chapter": "Chapter 10",
+    "verses": [
+        {
+            "name": "Acts 10:21",
+            "text": "Then Peter went down to the men which were sent unto him from Cornelius; and said, Behold, I am he whom ye seek: what is the cause wherefore ye are come?"
+        },
+        {
+            "name": "Acts 10:22",
+            "text": "And they said, Cornelius the centurion, a just man, and one that feareth God, and of good report among all the nation of the Jews, was warned from God by an holy angel to send for thee into his house, and to hear words of thee."
+        }
+    ],
+    "tone": "instructional"
+}

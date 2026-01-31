@@ -1,0 +1,27 @@
+{
+    "book": "Romans",
+    "chapter": "Chapter 2",
+    "verses": [
+        {
+            "name": "Romans 2:5",
+            "text": "But after thy hardness and impenitent heart treasurest up unto thyself wrath against the day of wrath and revelation of the righteous judgment of God;"
+        },
+        {
+            "name": "Romans 2:6",
+            "text": "Who will render to every man according to his deeds:"
+        },
+        {
+            "name": "Romans 2:7",
+            "text": "To them who by patient continuance in well doing seek for glory and honour and immortality, eternal life:"
+        },
+        {
+            "name": "Romans 2:8",
+            "text": "But unto them that are contentious, and do not obey the truth, but obey unrighteousness, indignation and wrath,"
+        },
+        {
+            "name": "Romans 2:9",
+            "text": "Tribulation and anguish, upon every soul of man that doeth evil, of the Jew first, and also of the Gentile;"
+        }
+    ],
+    "tone": "lamenting"
+}

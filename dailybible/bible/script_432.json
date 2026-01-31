@@ -1,0 +1,19 @@
+{
+    "book": "Exodus",
+    "chapter": "Chapter 5",
+    "verses": [
+        {
+            "name": "Exodus 5:3",
+            "text": "And they said, The God of the Hebrews hath met with us: let us go, we pray thee, three days\u2019 journey into the desert, and sacrifice unto the Lord our God; lest he fall upon us with pestilence, or with the sword."
+        },
+        {
+            "name": "Exodus 5:4",
+            "text": "And the king of Egypt said unto them, Wherefore do ye, Moses and Aaron, let the people from their works? get you unto your burdens."
+        },
+        {
+            "name": "Exodus 5:5",
+            "text": "And Pharaoh said, Behold, the people of the land now are many, and ye make them rest from their burdens."
+        }
+    ],
+    "tone": "neutral"
+}

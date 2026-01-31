@@ -1,0 +1,19 @@
+{
+    "book": "Exodus",
+    "chapter": "Chapter 33",
+    "verses": [
+        {
+            "name": "Exodus 33:9",
+            "text": "And it came to pass, as Moses entered into the tabernacle, the cloudy pillar descended, and stood at the door of the tabernacle, and the Lord talked with Moses."
+        },
+        {
+            "name": "Exodus 33:10",
+            "text": "And all the people saw the cloudy pillar stand at the tabernacle door: and all the people rose up and worshipped, every man in his tent door."
+        },
+        {
+            "name": "Exodus 33:11",
+            "text": "And the Lord spake unto Moses face to face, as a man speaketh unto his friend. And he turned again into the camp: but his servant Joshua, the son of Nun, a young man, departed not out of the tabernacle."
+        }
+    ],
+    "tone": "neutral"
+}

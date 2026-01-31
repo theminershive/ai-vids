@@ -1,0 +1,27 @@
+{
+    "book": "Matthew",
+    "chapter": "Chapter 3",
+    "verses": [
+        {
+            "name": "Matthew 3:1",
+            "text": "In those days came John the Baptist, preaching in the wilderness of Judea,"
+        },
+        {
+            "name": "Matthew 3:2",
+            "text": "And saying, Repent ye: for the kingdom of heaven is at hand."
+        },
+        {
+            "name": "Matthew 3:3",
+            "text": "For this is he that was spoken of by the prophet Esaias, saying, The voice of one crying in the wilderness, Prepare ye the way of the Lord, make his paths straight."
+        },
+        {
+            "name": "Matthew 3:4",
+            "text": "And the same John had his raiment of camel\u2019s hair, and a leathern girdle about his loins; and his meat was locusts and wild honey."
+        },
+        {
+            "name": "Matthew 3:5",
+            "text": "Then went out to him Jerusalem, and all Judea, and all the region round about Jordan,"
+        }
+    ],
+    "tone": "neutral"
+}

@@ -1,0 +1,23 @@
+{
+    "book": "Leviticus",
+    "chapter": "Chapter 11",
+    "verses": [
+        {
+            "name": "Leviticus 11:36",
+            "text": "Nevertheless a fountain or pit, wherein there is plenty of water, shall be clean: but that which toucheth their carcase shall be unclean."
+        },
+        {
+            "name": "Leviticus 11:37",
+            "text": "And if any part of their carcase fall upon any sowing seed which is to be sown, it shall be clean."
+        },
+        {
+            "name": "Leviticus 11:38",
+            "text": "But if any water be put upon the seed, and any part of their carcase fall thereon, it shall be unclean unto you."
+        },
+        {
+            "name": "Leviticus 11:39",
+            "text": "And if any beast, of which ye may eat, die; he that toucheth the carcase thereof shall be unclean until the even."
+        }
+    ],
+    "tone": "lamenting"
+}

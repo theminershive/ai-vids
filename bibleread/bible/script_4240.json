@@ -1,0 +1,23 @@
+{
+    "book": "Psalms",
+    "chapter": "Chapter 143",
+    "verses": [
+        {
+            "name": "Psalms 143:1",
+            "text": "Hear my prayer, O Lord, give ear to my supplications: in thy faithfulness answer me, and in thy righteousness."
+        },
+        {
+            "name": "Psalms 143:2",
+            "text": "And enter not into judgment with thy servant: for in thy sight shall no man living be justified."
+        },
+        {
+            "name": "Psalms 143:3",
+            "text": "For the enemy hath persecuted my soul; he hath smitten my life down to the ground; he hath made me to dwell in darkness, as those that have been long dead."
+        },
+        {
+            "name": "Psalms 143:4",
+            "text": "Therefore is my spirit overwhelmed within me; my heart within me is desolate."
+        }
+    ],
+    "tone": "lamenting"
+}

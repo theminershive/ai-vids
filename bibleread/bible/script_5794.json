@@ -1,0 +1,19 @@
+{
+    "book": "Daniel",
+    "chapter": "Chapter 6",
+    "verses": [
+        {
+            "name": "Daniel 6:4",
+            "text": "Then the presidents and princes sought to find occasion against Daniel concerning the kingdom; but they could find none occasion nor fault; forasmuch as he was faithful, neither was there any error or fault found in him."
+        },
+        {
+            "name": "Daniel 6:5",
+            "text": "Then said these men, We shall not find any occasion against this Daniel, except we find it against him concerning the law of his God."
+        },
+        {
+            "name": "Daniel 6:6",
+            "text": "Then these presidents and princes assembled together to the king, and said thus unto him, King Darius, live for ever."
+        }
+    ],
+    "tone": "neutral"
+}

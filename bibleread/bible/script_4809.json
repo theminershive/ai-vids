@@ -1,0 +1,19 @@
+{
+    "book": "Isaiah",
+    "chapter": "Chapter 53",
+    "verses": [
+        {
+            "name": "Isaiah 53:1",
+            "text": "Who hath believed our report? and to whom is the arm of the Lord revealed?"
+        },
+        {
+            "name": "Isaiah 53:2",
+            "text": "For he shall grow up before him as a tender plant, and as a root out of a dry ground: he hath no form nor comeliness; and when we shall see him, there is no beauty that we should desire him."
+        },
+        {
+            "name": "Isaiah 53:3",
+            "text": "He is despised and rejected of men; a man of sorrows, and acquainted with grief: and we hid as it were our faces from him; he was despised, and we esteemed him not."
+        }
+    ],
+    "tone": "lamenting"
+}

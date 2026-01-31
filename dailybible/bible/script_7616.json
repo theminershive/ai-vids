@@ -1,0 +1,23 @@
+{
+    "book": "Galatians",
+    "chapter": "Chapter 6",
+    "verses": [
+        {
+            "name": "Galatians 6:6",
+            "text": "Let him that is taught in the word communicate unto him that teacheth in all good things."
+        },
+        {
+            "name": "Galatians 6:7",
+            "text": "Be not deceived; God is not mocked: for whatsoever a man soweth, that shall he also reap."
+        },
+        {
+            "name": "Galatians 6:8",
+            "text": "For he that soweth to his flesh shall of the flesh reap corruption; but he that soweth to the Spirit shall of the Spirit reap life everlasting."
+        },
+        {
+            "name": "Galatians 6:9",
+            "text": "And let us not be weary in well doing: for in due season we shall reap, if we faint not."
+        }
+    ],
+    "tone": "hopeful"
+}

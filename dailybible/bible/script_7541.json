@@ -1,0 +1,27 @@
+{
+    "book": "2 Corinthians",
+    "chapter": "Chapter 5",
+    "verses": [
+        {
+            "name": "2 Corinthians 5:5",
+            "text": "Now he that hath wrought us for the selfsame thing is God, who also hath given unto us the earnest of the Spirit."
+        },
+        {
+            "name": "2 Corinthians 5:6",
+            "text": "Therefore we are always confident, knowing that, whilst we are at home in the body, we are absent from the Lord:"
+        },
+        {
+            "name": "2 Corinthians 5:7",
+            "text": "(For we walk by faith, not by sight:)"
+        },
+        {
+            "name": "2 Corinthians 5:8",
+            "text": "We are confident, I say, and willing rather to be absent from the body, and to be present with the Lord."
+        },
+        {
+            "name": "2 Corinthians 5:9",
+            "text": "Wherefore we labour, that, whether present or absent, we may be accepted of him."
+        }
+    ],
+    "tone": "hopeful"
+}

@@ -1,0 +1,19 @@
+{
+    "book": "2 Samuel",
+    "chapter": "Chapter 22",
+    "verses": [
+        {
+            "name": "2 Samuel 22:1",
+            "text": "And David spake unto the Lord the words of this song in the day that the Lord had delivered him out of the hand of all his enemies, and out of the hand of Saul:"
+        },
+        {
+            "name": "2 Samuel 22:2",
+            "text": "And he said, The Lord is my rock, and my fortress, and my deliverer;"
+        },
+        {
+            "name": "2 Samuel 22:3",
+            "text": "The God of my rock; in him will I trust: he is my shield, and the horn of my salvation, my high tower, and my refuge, my saviour; thou savest me from violence."
+        }
+    ],
+    "tone": "neutral"
+}

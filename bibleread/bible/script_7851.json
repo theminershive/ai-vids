@@ -1,0 +1,27 @@
+{
+    "book": "James",
+    "chapter": "Chapter 1",
+    "verses": [
+        {
+            "name": "James 1:1",
+            "text": "James, a servant of God and of the Lord Jesus Christ, to the twelve tribes which are scattered abroad, greeting."
+        },
+        {
+            "name": "James 1:2",
+            "text": "My brethren, count it all joy when ye fall into divers temptations;"
+        },
+        {
+            "name": "James 1:3",
+            "text": "Knowing this, that the trying of your faith worketh patience."
+        },
+        {
+            "name": "James 1:4",
+            "text": "But let patience have her perfect work, that ye may be perfect and entire, wanting nothing."
+        },
+        {
+            "name": "James 1:5",
+            "text": "If any of you lack wisdom, let him ask of God, that giveth to all men liberally, and upbraideth not; and it shall be given him."
+        }
+    ],
+    "tone": "hopeful"
+}

@@ -1,0 +1,27 @@
+{
+    "book": "Psalms",
+    "chapter": "Chapter 51",
+    "verses": [
+        {
+            "name": "Psalms 51:1",
+            "text": "Have mercy upon me, O God, according to thy lovingkindness: according unto the multitude of thy tender mercies blot out my transgressions."
+        },
+        {
+            "name": "Psalms 51:2",
+            "text": "Wash me throughly from mine iniquity, and cleanse me from my sin."
+        },
+        {
+            "name": "Psalms 51:3",
+            "text": "For I acknowledge my transgressions: and my sin is ever before me."
+        },
+        {
+            "name": "Psalms 51:4",
+            "text": "Against thee, thee only, have I sinned, and done this evil in thy sight: that thou mightest be justified when thou speakest, and be clear when thou judgest."
+        },
+        {
+            "name": "Psalms 51:5",
+            "text": "Behold, I was shapen in iniquity; and in sin did my mother conceive me."
+        }
+    ],
+    "tone": "lamenting"
+}

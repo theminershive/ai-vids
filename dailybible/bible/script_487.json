@@ -1,0 +1,19 @@
+{
+    "book": "Exodus",
+    "chapter": "Chapter 12",
+    "verses": [
+        {
+            "name": "Exodus 12:10",
+            "text": "And ye shall let nothing of it remain until the morning; and that which remaineth of it until the morning ye shall burn with fire."
+        },
+        {
+            "name": "Exodus 12:11",
+            "text": "And thus shall ye eat it; with your loins girded, your shoes on your feet, and your staff in your hand; and ye shall eat it in haste: it is the Lord\u2019s passover."
+        },
+        {
+            "name": "Exodus 12:12",
+            "text": "For I will pass through the land of Egypt this night, and will smite all the firstborn in the land of Egypt, both man and beast; and against all the gods of Egypt I will execute judgment: I am the Lord."
+        }
+    ],
+    "tone": "neutral"
+}

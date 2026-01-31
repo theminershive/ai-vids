@@ -1,0 +1,23 @@
+{
+    "book": "Luke",
+    "chapter": "Chapter 20",
+    "verses": [
+        {
+            "name": "Luke 20:33",
+            "text": "Therefore in the resurrection whose wife of them is she? for seven had her to wife."
+        },
+        {
+            "name": "Luke 20:34",
+            "text": "And Jesus answering said unto them, The children of this world marry, and are given in marriage:"
+        },
+        {
+            "name": "Luke 20:35",
+            "text": "But they which shall be accounted worthy to obtain that world, and the resurrection from the dead, neither marry, nor are given in marriage:"
+        },
+        {
+            "name": "Luke 20:36",
+            "text": "Neither can they die any more: for they are equal unto the angels; and are the children of God, being the children of the resurrection."
+        }
+    ],
+    "tone": "neutral"
+}

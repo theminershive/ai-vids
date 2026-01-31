@@ -1,0 +1,23 @@
+{
+    "book": "Exodus",
+    "chapter": "Chapter 13",
+    "verses": [
+        {
+            "name": "Exodus 13:1",
+            "text": "And the Lord spake unto Moses, saying,"
+        },
+        {
+            "name": "Exodus 13:2",
+            "text": "Sanctify unto me all the firstborn, whatsoever openeth the womb among the children of Israel, both of man and of beast: it is mine."
+        },
+        {
+            "name": "Exodus 13:3",
+            "text": "And Moses said unto the people, Remember this day, in which ye came out from Egypt, out of the house of bondage; for by strength of hand the Lord brought you out from this place: there shall no leavened bread be eaten."
+        },
+        {
+            "name": "Exodus 13:4",
+            "text": "This day came ye out in the month Abib."
+        }
+    ],
+    "tone": "neutral"
+}

@@ -1,0 +1,19 @@
+{
+    "book": "Leviticus",
+    "chapter": "Chapter 22",
+    "verses": [
+        {
+            "name": "Leviticus 22:4",
+            "text": "What man soever of the seed of Aaron is a leper, or hath a running issue; he shall not eat of the holy things, until he be clean. And whoso toucheth any thing that is unclean by the dead, or a man whose seed goeth from him;"
+        },
+        {
+            "name": "Leviticus 22:5",
+            "text": "Or whosoever toucheth any creeping thing, whereby he may be made unclean, or a man of whom he may take uncleanness, whatsoever uncleanness he hath;"
+        },
+        {
+            "name": "Leviticus 22:6",
+            "text": "The soul which hath touched any such shall be unclean until even, and shall not eat of the holy things, unless he wash his flesh with water."
+        }
+    ],
+    "tone": "instructional"
+}

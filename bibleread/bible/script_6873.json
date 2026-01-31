@@ -1,0 +1,27 @@
+{
+    "book": "John",
+    "chapter": "Chapter 2",
+    "verses": [
+        {
+            "name": "John 2:18",
+            "text": "Then answered the Jews and said unto him, What sign shewest thou unto us, seeing that thou doest these things?"
+        },
+        {
+            "name": "John 2:19",
+            "text": "Jesus answered and said unto them, Destroy this temple, and in three days I will raise it up."
+        },
+        {
+            "name": "John 2:20",
+            "text": "Then said the Jews, Forty and six years was this temple in building, and wilt thou rear it up in three days?"
+        },
+        {
+            "name": "John 2:21",
+            "text": "But he spake of the temple of his body."
+        },
+        {
+            "name": "John 2:22",
+            "text": "When therefore he was risen from the dead, his disciples remembered that he had said this unto them; and they believed the scripture, and the word which Jesus had said."
+        }
+    ],
+    "tone": "neutral"
+}

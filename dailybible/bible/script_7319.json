@@ -1,0 +1,19 @@
+{
+    "book": "Acts",
+    "chapter": "Chapter 28",
+    "verses": [
+        {
+            "name": "Acts 28:23",
+            "text": "And when they had appointed him a day, there came many to him into his lodging; to whom he expounded and testified the kingdom of God, persuading them concerning Jesus, both out of the law of Moses, and out of the prophets, from morning till evening."
+        },
+        {
+            "name": "Acts 28:24",
+            "text": "And some believed the things which were spoken, and some believed not."
+        },
+        {
+            "name": "Acts 28:25",
+            "text": "And when they agreed not among themselves, they departed, after that Paul had spoken one word, Well spake the Holy Ghost by Esaias the prophet unto our fathers,"
+        }
+    ],
+    "tone": "instructional"
+}

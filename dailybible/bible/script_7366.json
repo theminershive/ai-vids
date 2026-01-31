@@ -1,0 +1,23 @@
+{
+    "book": "Romans",
+    "chapter": "Chapter 8",
+    "verses": [
+        {
+            "name": "Romans 8:17",
+            "text": "And if children, then heirs; heirs of God, and joint-heirs with Christ; if so be that we suffer with him, that we may be also glorified together."
+        },
+        {
+            "name": "Romans 8:18",
+            "text": "For I reckon that the sufferings of this present time are not worthy to be compared with the glory which shall be revealed in us."
+        },
+        {
+            "name": "Romans 8:19",
+            "text": "For the earnest expectation of the creature waiteth for the manifestation of the sons of God."
+        },
+        {
+            "name": "Romans 8:20",
+            "text": "For the creature was made subject to vanity, not willingly, but by reason of him who hath subjected the same in hope,"
+        }
+    ],
+    "tone": "hopeful"
+}

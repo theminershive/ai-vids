@@ -1,0 +1,23 @@
+{
+    "book": "Luke",
+    "chapter": "Chapter 11",
+    "verses": [
+        {
+            "name": "Luke 11:35",
+            "text": "Take heed therefore that the light which is in thee be not darkness."
+        },
+        {
+            "name": "Luke 11:36",
+            "text": "If thy whole body therefore be full of light, having no part dark, the whole shall be full of light, as when the bright shining of a candle doth give thee light."
+        },
+        {
+            "name": "Luke 11:37",
+            "text": "And as he spake, a certain Pharisee besought him to dine with him: and he went in, and sat down to meat."
+        },
+        {
+            "name": "Luke 11:38",
+            "text": "And when the Pharisee saw it, he marvelled that he had not first washed before dinner."
+        }
+    ],
+    "tone": "neutral"
+}

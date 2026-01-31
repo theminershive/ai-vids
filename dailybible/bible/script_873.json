@@ -1,0 +1,23 @@
+{
+    "book": "Leviticus",
+    "chapter": "Chapter 15",
+    "verses": [
+        {
+            "name": "Leviticus 15:1",
+            "text": "And the Lord spake unto Moses and to Aaron, saying,"
+        },
+        {
+            "name": "Leviticus 15:2",
+            "text": "Speak unto the children of Israel, and say unto them, When any man hath a running issue out of his flesh, because of his issue he is unclean."
+        },
+        {
+            "name": "Leviticus 15:3",
+            "text": "And this shall be his uncleanness in his issue: whether his flesh run with his issue, or his flesh be stopped from his issue, it is his uncleanness."
+        },
+        {
+            "name": "Leviticus 15:4",
+            "text": "Every bed, whereon he lieth that hath the issue, is unclean: and every thing, whereon he sitteth, shall be unclean."
+        }
+    ],
+    "tone": "lamenting"
+}

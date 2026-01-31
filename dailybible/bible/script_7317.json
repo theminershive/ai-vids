@@ -1,0 +1,19 @@
+{
+    "book": "Acts",
+    "chapter": "Chapter 28",
+    "verses": [
+        {
+            "name": "Acts 28:17",
+            "text": "And it came to pass, that after three days Paul called the chief of the Jews together: and when they were come together, he said unto them, Men and brethren, though I have committed nothing against the people, or customs of our fathers, yet was I delivered prisoner from Jerusalem into the hands of the Romans."
+        },
+        {
+            "name": "Acts 28:18",
+            "text": "Who, when they had examined me, would have let me go, because there was no cause of death in me."
+        },
+        {
+            "name": "Acts 28:19",
+            "text": "But when the Jews spake against it, I was constrained to appeal unto Cesar; not that I had ought to accuse my nation of."
+        }
+    ],
+    "tone": "neutral"
+}

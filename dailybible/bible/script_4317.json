@@ -1,0 +1,31 @@
+{
+    "book": "Proverbs",
+    "chapter": "Chapter 13",
+    "verses": [
+        {
+            "name": "Proverbs 13:13",
+            "text": "Whoso despiseth the word shall be destroyed: but he that feareth the commandment shall be rewarded."
+        },
+        {
+            "name": "Proverbs 13:14",
+            "text": "The law of the wise is a fountain of life, to depart from the snares of death."
+        },
+        {
+            "name": "Proverbs 13:15",
+            "text": "Good understanding giveth favour: but the way of transgressors is hard."
+        },
+        {
+            "name": "Proverbs 13:16",
+            "text": "Every prudent man dealeth with knowledge: but a fool layeth open his folly."
+        },
+        {
+            "name": "Proverbs 13:17",
+            "text": "A wicked messenger falleth into mischief: but a faithful ambassador is health."
+        },
+        {
+            "name": "Proverbs 13:18",
+            "text": "Poverty and shame shall be to him that refuseth instruction: but he that regardeth reproof shall be honoured."
+        }
+    ],
+    "tone": "instructional"
+}

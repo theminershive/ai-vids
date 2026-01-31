@@ -1,0 +1,19 @@
+{
+    "book": "Leviticus",
+    "chapter": "Chapter 9",
+    "verses": [
+        {
+            "name": "Leviticus 9:1",
+            "text": "And it came to pass on the eighth day, that Moses called Aaron and his sons, and the elders of Israel;"
+        },
+        {
+            "name": "Leviticus 9:2",
+            "text": "And he said unto Aaron, Take thee a young calf for a sin offering, and a ram for a burnt offering, without blemish, and offer them before the Lord."
+        },
+        {
+            "name": "Leviticus 9:3",
+            "text": "And unto the children of Israel thou shalt speak, saying, Take ye a kid of the goats for a sin offering; and a calf and a lamb, both of the first year, without blemish, for a burnt offering;"
+        }
+    ],
+    "tone": "lamenting"
+}

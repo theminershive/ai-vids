@@ -1,0 +1,23 @@
+{
+    "book": "John",
+    "chapter": "Chapter 4",
+    "verses": [
+        {
+            "name": "John 4:23",
+            "text": "But the hour cometh, and now is, when the true worshippers shall worship the Father in spirit and in truth: for the Father seeketh such to worship him."
+        },
+        {
+            "name": "John 4:24",
+            "text": "God is a Spirit: and they that worship him must worship him in spirit and in truth."
+        },
+        {
+            "name": "John 4:25",
+            "text": "The woman saith unto him, I know that Messias cometh, which is called Christ: when he is come, he will tell us all things."
+        },
+        {
+            "name": "John 4:26",
+            "text": "Jesus saith unto her, I that speak unto thee am he."
+        }
+    ],
+    "tone": "praising"
+}

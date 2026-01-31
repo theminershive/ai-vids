@@ -1,0 +1,23 @@
+{
+    "book": "Acts",
+    "chapter": "Chapter 20",
+    "verses": [
+        {
+            "name": "Acts 20:5",
+            "text": "These going before tarried for us at Troas."
+        },
+        {
+            "name": "Acts 20:6",
+            "text": "And we sailed away from Philippi after the days of unleavened bread, and came unto them to Troas in five days; where we abode seven days."
+        },
+        {
+            "name": "Acts 20:7",
+            "text": "And upon the first day of the week, when the disciples came together to break bread, Paul preached unto them, ready to depart on the morrow; and continued his speech until midnight."
+        },
+        {
+            "name": "Acts 20:8",
+            "text": "And there were many lights in the upper chamber, where they were gathered together."
+        }
+    ],
+    "tone": "neutral"
+}

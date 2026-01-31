@@ -1,0 +1,19 @@
+{
+    "book": "2 Kings",
+    "chapter": "Chapter 6",
+    "verses": [
+        {
+            "name": "2 Kings 6:25",
+            "text": "And there was a great famine in Samaria: and, behold, they besieged it, until an ass\u2019s head was sold for fourscore pieces of silver, and the fourth part of a cab of dove\u2019s dung for five pieces of silver."
+        },
+        {
+            "name": "2 Kings 6:26",
+            "text": "And as the king of Israel was passing by upon the wall, there cried a woman unto him, saying, Help, my lord, O king."
+        },
+        {
+            "name": "2 Kings 6:27",
+            "text": "And he said, If the Lord do not help thee, whence shall I help thee? out of the barnfloor, or out of the winepress?"
+        }
+    ],
+    "tone": "neutral"
+}

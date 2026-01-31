@@ -1,0 +1,23 @@
+{
+    "book": "Acts",
+    "chapter": "Chapter 8",
+    "verses": [
+        {
+            "name": "Acts 8:34",
+            "text": "And the eunuch answered Philip, and said, I pray thee, of whom speaketh the prophet this? of himself, or of some other man?"
+        },
+        {
+            "name": "Acts 8:35",
+            "text": "Then Philip opened his mouth, and began at the same scripture, and preached unto him Jesus."
+        },
+        {
+            "name": "Acts 8:36",
+            "text": "And as they went on their way, they came unto a certain water: and the eunuch said, See, here is water; what doth hinder me to be baptized?"
+        },
+        {
+            "name": "Acts 8:37",
+            "text": "And Philip said, If thou believest with all thine heart, thou mayest. And he answered and said, I believe that Jesus Christ is the Son of God."
+        }
+    ],
+    "tone": "neutral"
+}

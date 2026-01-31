@@ -1,0 +1,23 @@
+{
+    "book": "Mark",
+    "chapter": "Chapter 3",
+    "verses": [
+        {
+            "name": "Mark 3:8",
+            "text": "And from Jerusalem, and from Idumea, and from beyond Jordan; and they about Tyre and Sidon, a great multitude, when they had heard what great things he did, came unto him."
+        },
+        {
+            "name": "Mark 3:9",
+            "text": "And he spake to his disciples, that a small ship should wait on him because of the multitude, lest they should throng him."
+        },
+        {
+            "name": "Mark 3:10",
+            "text": "For he had healed many; insomuch that they pressed upon him for to touch him, as many as had plagues."
+        },
+        {
+            "name": "Mark 3:11",
+            "text": "And unclean spirits, when they saw him, fell down before him, and cried, saying, Thou art the Son of God."
+        }
+    ],
+    "tone": "hopeful"
+}

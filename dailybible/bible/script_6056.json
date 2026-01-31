@@ -1,0 +1,19 @@
+{
+    "book": "Zephaniah",
+    "chapter": "Chapter 1",
+    "verses": [
+        {
+            "name": "Zephaniah 1:1",
+            "text": "The word of the Lord which came unto Zephaniah the son of Cushi, the son of Gedaliah, the son of Amariah, the son of Hizkiah, in the days of Josiah the son of Amon, king of Judah."
+        },
+        {
+            "name": "Zephaniah 1:2",
+            "text": "I will utterly consume all things from off the land, saith the Lord."
+        },
+        {
+            "name": "Zephaniah 1:3",
+            "text": "I will consume man and beast; I will consume the fowls of the heaven, and the fishes of the sea, and the stumblingblocks with the wicked; and I will cut off man from off the land, saith the Lord."
+        }
+    ],
+    "tone": "neutral"
+}

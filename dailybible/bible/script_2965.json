@@ -1,0 +1,23 @@
+{
+    "book": "1 Chronicles",
+    "chapter": "Chapter 1",
+    "verses": [
+        {
+            "name": "1 Chronicles 1:46",
+            "text": "And when Husham was dead, Hadad the son of Bedad, which smote Midian in the field of Moab, reigned in his stead: and the name of his city was Avith."
+        },
+        {
+            "name": "1 Chronicles 1:47",
+            "text": "And when Hadad was dead, Samlah of Masrekah reigned in his stead."
+        },
+        {
+            "name": "1 Chronicles 1:48",
+            "text": "And when Samlah was dead, Shaul of Rehoboth by the river reigned in his stead."
+        },
+        {
+            "name": "1 Chronicles 1:49",
+            "text": "And when Shaul was dead, Baal\u2013hanan the son of Achbor reigned in his stead."
+        }
+    ],
+    "tone": "neutral"
+}

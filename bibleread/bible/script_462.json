@@ -1,0 +1,19 @@
+{
+    "book": "Exodus",
+    "chapter": "Chapter 8",
+    "verses": [
+        {
+            "name": "Exodus 8:28",
+            "text": "And Pharaoh said, I will let you go, that ye may sacrifice to the Lord your God in the wilderness; only ye shall not go very far away: intreat for me."
+        },
+        {
+            "name": "Exodus 8:29",
+            "text": "And Moses said, Behold, I go out from thee, and I will intreat the Lord that the swarms of flies may depart from Pharaoh, from his servants, and from his people, to morrow: but let not Pharaoh deal deceitfully any more in not letting the people go to sacrifice to the Lord."
+        },
+        {
+            "name": "Exodus 8:30",
+            "text": "And Moses went out from Pharaoh, and intreated the Lord."
+        }
+    ],
+    "tone": "neutral"
+}

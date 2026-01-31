@@ -1,0 +1,23 @@
+{
+    "book": "Exodus",
+    "chapter": "Chapter 16",
+    "verses": [
+        {
+            "name": "Exodus 16:25",
+            "text": "And Moses said, Eat that to day; for to day is a sabbath unto the Lord: to day ye shall not find it in the field."
+        },
+        {
+            "name": "Exodus 16:26",
+            "text": "Six days ye shall gather it; but on the seventh day, which is the sabbath, in it there shall be none."
+        },
+        {
+            "name": "Exodus 16:27",
+            "text": "And it came to pass, that there went out some of the people on the seventh day for to gather, and they found none."
+        },
+        {
+            "name": "Exodus 16:28",
+            "text": "And the Lord said unto Moses, How long refuse ye to keep my commandments and my laws?"
+        }
+    ],
+    "tone": "neutral"
+}

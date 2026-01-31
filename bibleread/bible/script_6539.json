@@ -1,0 +1,19 @@
+{
+    "book": "Mark",
+    "chapter": "Chapter 13",
+    "verses": [
+        {
+            "name": "Mark 13:12",
+            "text": "Now the brother shall betray the brother to death, and the father the son; and children shall rise up against their parents, and shall cause them to be put to death."
+        },
+        {
+            "name": "Mark 13:13",
+            "text": "And ye shall be hated of all men for my name\u2019s sake: but he that shall endure unto the end, the same shall be saved."
+        },
+        {
+            "name": "Mark 13:14",
+            "text": "But when ye shall see the abomination of desolation, spoken of by Daniel the prophet, standing where it ought not, (let him that readeth understand,) then let them that be in Judea flee to the mountains:"
+        }
+    ],
+    "tone": "lamenting"
+}

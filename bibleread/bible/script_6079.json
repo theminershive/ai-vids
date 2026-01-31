@@ -1,0 +1,19 @@
+{
+    "book": "Haggai",
+    "chapter": "Chapter 2",
+    "verses": [
+        {
+            "name": "Haggai 2:1",
+            "text": "In the seventh month, in the one and twentieth day of the month, came the word of the Lord by the prophet Haggai, saying,"
+        },
+        {
+            "name": "Haggai 2:2",
+            "text": "Speak now to Zerubbabel the son of Shealtiel, governor of Judah, and to Joshua the son of Josedech, the high priest, and to the residue of the people, saying,"
+        },
+        {
+            "name": "Haggai 2:3",
+            "text": "Who is left among you that saw this house in her first glory? and how do ye see it now? is it not in your eyes in comparison of it as nothing?"
+        }
+    ],
+    "tone": "neutral"
+}

@@ -1,0 +1,23 @@
+{
+    "book": "Hosea",
+    "chapter": "Chapter 14",
+    "verses": [
+        {
+            "name": "Hosea 14:1",
+            "text": "O Israel, return unto the Lord thy God; for thou hast fallen by thine iniquity."
+        },
+        {
+            "name": "Hosea 14:2",
+            "text": "Take with you words, and turn to the Lord: say unto him, Take away all iniquity, and receive us graciously: so will we render the calves of our lips."
+        },
+        {
+            "name": "Hosea 14:3",
+            "text": "Asshur shall not save us; we will not ride upon horses: neither will we say any more to the work of our hands, Ye are our gods: for in thee the fatherless findeth mercy."
+        },
+        {
+            "name": "Hosea 14:4",
+            "text": "I will heal their backsliding, I will love them freely: for mine anger is turned away from him."
+        }
+    ],
+    "tone": "hopeful"
+}

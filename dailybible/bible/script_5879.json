@@ -1,0 +1,19 @@
+{
+    "book": "Hosea",
+    "chapter": "Chapter 5",
+    "verses": [
+        {
+            "name": "Hosea 5:12",
+            "text": "Therefore will I be unto Ephraim as a moth, and to the house of Judah as rottenness."
+        },
+        {
+            "name": "Hosea 5:13",
+            "text": "When Ephraim saw his sickness, and Judah saw his wound, then went Ephraim to the Assyrian, and sent to king Jareb: yet could he not heal you, nor cure you of your wound."
+        },
+        {
+            "name": "Hosea 5:14",
+            "text": "For I will be unto Ephraim as a lion, and as a young lion to the house of Judah: I, even I, will tear and go away; I will take away, and none shall rescue him."
+        }
+    ],
+    "tone": "neutral"
+}

@@ -1,0 +1,19 @@
+{
+    "book": "Exodus",
+    "chapter": "Chapter 8",
+    "verses": [
+        {
+            "name": "Exodus 8:25",
+            "text": "And Pharaoh called for Moses and for Aaron, and said, Go ye, sacrifice to your God in the land."
+        },
+        {
+            "name": "Exodus 8:26",
+            "text": "And Moses said, It is not meet so to do; for we shall sacrifice the abomination of the Egyptians to the Lord our God: lo, shall we sacrifice the abomination of the Egyptians before their eyes, and will they not stone us?"
+        },
+        {
+            "name": "Exodus 8:27",
+            "text": "We will go three days\u2019 journey into the wilderness, and sacrifice to the Lord our God, as he shall command us."
+        }
+    ],
+    "tone": "instructional"
+}

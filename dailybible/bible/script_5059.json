@@ -1,0 +1,19 @@
+{
+    "book": "Jeremiah",
+    "chapter": "Chapter 23",
+    "verses": [
+        {
+            "name": "Jeremiah 23:37",
+            "text": "Thus shalt thou say to the prophet, What hath the Lord answered thee? and, What hath the Lord spoken?"
+        },
+        {
+            "name": "Jeremiah 23:38",
+            "text": "But since ye say, The burden of the Lord; therefore thus saith the Lord; Because ye say this word, The burden of the Lord, and I have sent unto you, saying, Ye shall not say, The burden of the Lord;"
+        },
+        {
+            "name": "Jeremiah 23:39",
+            "text": "Therefore, behold, I, even I, will utterly forget you, and I will forsake you, and the city that I gave you and your fathers, and cast you out of my presence:"
+        }
+    ],
+    "tone": "neutral"
+}

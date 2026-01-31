@@ -1,0 +1,23 @@
+{
+    "book": "Genesis",
+    "chapter": "Chapter 7",
+    "verses": [
+        {
+            "name": "Genesis 7:4",
+            "text": "For yet seven days, and I will cause it to rain upon the earth forty days and forty nights; and every living substance that I have made will I destroy from off the face of the earth."
+        },
+        {
+            "name": "Genesis 7:5",
+            "text": "And Noah did according unto all that the Lord commanded him."
+        },
+        {
+            "name": "Genesis 7:6",
+            "text": "And Noah was six hundred years old when the flood of waters was upon the earth."
+        },
+        {
+            "name": "Genesis 7:7",
+            "text": "And Noah went in, and his sons, and his wife, and his sons\u2019 wives with him, into the ark, because of the waters of the flood."
+        }
+    ],
+    "tone": "neutral"
+}

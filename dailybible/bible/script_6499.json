@@ -1,0 +1,23 @@
+{
+    "book": "Mark",
+    "chapter": "Chapter 9",
+    "verses": [
+        {
+            "name": "Mark 9:33",
+            "text": "And he came to Capernaum: and being in the house he asked them, What was it that ye disputed among yourselves by the way?"
+        },
+        {
+            "name": "Mark 9:34",
+            "text": "But they held their peace: for by the way they had disputed among themselves, who should be the greatest."
+        },
+        {
+            "name": "Mark 9:35",
+            "text": "And he sat down, and called the twelve, and saith unto them, If any man desire to be first, the same shall be last of all, and servant of all."
+        },
+        {
+            "name": "Mark 9:36",
+            "text": "And he took a child, and set him in the midst of them: and when he had taken him in his arms, he said unto them,"
+        }
+    ],
+    "tone": "neutral"
+}

@@ -1,0 +1,23 @@
+{
+    "book": "Psalms",
+    "chapter": "Chapter 40",
+    "verses": [
+        {
+            "name": "Psalms 40:1",
+            "text": "I waited patiently for the Lord; and he inclined unto me, and heard my cry."
+        },
+        {
+            "name": "Psalms 40:2",
+            "text": "He brought me up also out of an horrible pit, out of the miry clay, and set my feet upon a rock, and established my goings."
+        },
+        {
+            "name": "Psalms 40:3",
+            "text": "And he hath put a new song in my mouth, even praise unto our God: many shall see it, and fear, and shall trust in the Lord."
+        },
+        {
+            "name": "Psalms 40:4",
+            "text": "Blessed is that man that maketh the Lord his trust, and respecteth not the proud, nor such as turn aside to lies."
+        }
+    ],
+    "tone": "hopeful"
+}

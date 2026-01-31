@@ -1,0 +1,19 @@
+{
+    "book": "Matthew",
+    "chapter": "Chapter 14",
+    "verses": [
+        {
+            "name": "Matthew 14:19",
+            "text": "And he commanded the multitude to sit down on the grass, and took the five loaves, and the two fishes, and looking up to heaven, he blessed, and brake, and gave the loaves to his disciples, and the disciples to the multitude."
+        },
+        {
+            "name": "Matthew 14:20",
+            "text": "And they did all eat, and were filled: and they took up of the fragments that remained twelve baskets full."
+        },
+        {
+            "name": "Matthew 14:21",
+            "text": "And they that had eaten were about five thousand men, beside women and children."
+        }
+    ],
+    "tone": "neutral"
+}

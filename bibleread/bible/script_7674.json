@@ -1,0 +1,23 @@
+{
+    "book": "Colossians",
+    "chapter": "Chapter 1",
+    "verses": [
+        {
+            "name": "Colossians 1:1",
+            "text": "Paul, an apostle of Jesus Christ by the will of God, and Timotheus our brother,"
+        },
+        {
+            "name": "Colossians 1:2",
+            "text": "To the saints and faithful brethren in Christ which are at Colosse: Grace be unto you, and peace, from God our Father and the Lord Jesus Christ."
+        },
+        {
+            "name": "Colossians 1:3",
+            "text": "We give thanks to God and the Father of our Lord Jesus Christ, praying always for you,"
+        },
+        {
+            "name": "Colossians 1:4",
+            "text": "Since we heard of your faith in Christ Jesus, and of the love which ye have to all the saints,"
+        }
+    ],
+    "tone": "hopeful"
+}

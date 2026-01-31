@@ -1,0 +1,39 @@
+{
+    "book": "Romans",
+    "chapter": "Chapter 3",
+    "verses": [
+        {
+            "name": "Romans 3:11",
+            "text": "There is none that understandeth, there is none that seeketh after God."
+        },
+        {
+            "name": "Romans 3:12",
+            "text": "They are all gone out of the way, they are together become unprofitable; there is none that doeth good, no, not one."
+        },
+        {
+            "name": "Romans 3:13",
+            "text": "Their throat is an open sepulchre; with their tongues they have used deceit; the poison of asps is under their lips:"
+        },
+        {
+            "name": "Romans 3:14",
+            "text": "Whose mouth is full of cursing and bitterness:"
+        },
+        {
+            "name": "Romans 3:15",
+            "text": "Their feet are swift to shed blood:"
+        },
+        {
+            "name": "Romans 3:16",
+            "text": "Destruction and misery are in their ways:"
+        },
+        {
+            "name": "Romans 3:17",
+            "text": "And the way of peace have they not known:"
+        },
+        {
+            "name": "Romans 3:18",
+            "text": "There is no fear of God before their eyes."
+        }
+    ],
+    "tone": "hopeful"
+}

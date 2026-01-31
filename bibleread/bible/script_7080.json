@@ -1,0 +1,19 @@
+{
+    "book": "Acts",
+    "chapter": "Chapter 3",
+    "verses": [
+        {
+            "name": "Acts 3:12",
+            "text": "And when Peter saw it, he answered unto the people, Ye men of Israel, why marvel ye at this? or why look ye so earnestly on us, as though by our own power or holiness we had made this man to walk?"
+        },
+        {
+            "name": "Acts 3:13",
+            "text": "The God of Abraham, and of Isaac, and of Jacob, the God of our fathers, hath glorified his Son Jesus; whom ye delivered up, and denied him in the presence of Pilate, when he was determined to let him go."
+        },
+        {
+            "name": "Acts 3:14",
+            "text": "But ye denied the Holy One and the Just, and desired a murderer to be granted unto you;"
+        }
+    ],
+    "tone": "instructional"
+}

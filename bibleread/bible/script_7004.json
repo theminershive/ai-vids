@@ -1,0 +1,23 @@
+{
+    "book": "John",
+    "chapter": "Chapter 14",
+    "verses": [
+        {
+            "name": "John 14:22",
+            "text": "Judas saith unto him, not Iscariot, Lord, how is it that thou wilt manifest thyself unto us, and not unto the world?"
+        },
+        {
+            "name": "John 14:23",
+            "text": "Jesus answered and said unto him, If a man love me, he will keep my words: and my Father will love him, and we will come unto him, and make our abode with him."
+        },
+        {
+            "name": "John 14:24",
+            "text": "He that loveth me not keepeth not my sayings: and the word which ye hear is not mine, but the Father\u2019s which sent me."
+        },
+        {
+            "name": "John 14:25",
+            "text": "These things have I spoken unto you, being yet present with you."
+        }
+    ],
+    "tone": "hopeful"
+}

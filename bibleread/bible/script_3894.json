@@ -1,0 +1,31 @@
+{
+    "book": "Psalms",
+    "chapter": "Chapter 26",
+    "verses": [
+        {
+            "name": "Psalms 26:1",
+            "text": "Judge me, O Lord; for I have walked in mine integrity: I have trusted also in the Lord; therefore I shall not slide."
+        },
+        {
+            "name": "Psalms 26:2",
+            "text": "Examine me, O Lord, and prove me; try my reins and my heart."
+        },
+        {
+            "name": "Psalms 26:3",
+            "text": "For thy lovingkindness is before mine eyes: and I have walked in thy truth."
+        },
+        {
+            "name": "Psalms 26:4",
+            "text": "I have not sat with vain persons, neither will I go in with dissemblers."
+        },
+        {
+            "name": "Psalms 26:5",
+            "text": "I have hated the congregation of evil doers; and will not sit with the wicked."
+        },
+        {
+            "name": "Psalms 26:6",
+            "text": "I will wash mine hands in innocency: so will I compass thine altar, O Lord:"
+        }
+    ],
+    "tone": "instructional"
+}

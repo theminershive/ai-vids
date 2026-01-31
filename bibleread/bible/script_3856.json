@@ -1,0 +1,23 @@
+{
+    "book": "Psalms",
+    "chapter": "Chapter 12",
+    "verses": [
+        {
+            "name": "Psalms 12:1",
+            "text": "Help, Lord; for the godly man ceaseth; for the faithful fail from among the children of men."
+        },
+        {
+            "name": "Psalms 12:2",
+            "text": "They speak vanity every one with his neighbour: with flattering lips and with a double heart do they speak."
+        },
+        {
+            "name": "Psalms 12:3",
+            "text": "The Lord shall cut off all flattering lips, and the tongue that speaketh proud things:"
+        },
+        {
+            "name": "Psalms 12:4",
+            "text": "Who have said, With our tongue will we prevail; our lips are our own: who is lord over us?"
+        }
+    ],
+    "tone": "hopeful"
+}

@@ -1,0 +1,23 @@
+{
+    "book": "1 Corinthians",
+    "chapter": "Chapter 15",
+    "verses": [
+        {
+            "name": "1 Corinthians 15:54",
+            "text": "So when this corruptible shall have put on incorruption, and this mortal shall have put on immortality, then shall be brought to pass the saying that is written, Death is swallowed up in victory."
+        },
+        {
+            "name": "1 Corinthians 15:55",
+            "text": "O death, where is thy sting? O grave, where is thy victory?"
+        },
+        {
+            "name": "1 Corinthians 15:56",
+            "text": "The sting of death is sin; and the strength of sin is the law."
+        },
+        {
+            "name": "1 Corinthians 15:57",
+            "text": "But thanks be to God, which giveth us the victory through our Lord Jesus Christ."
+        }
+    ],
+    "tone": "lamenting"
+}

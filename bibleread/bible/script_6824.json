@@ -1,0 +1,27 @@
+{
+    "book": "Luke",
+    "chapter": "Chapter 22",
+    "verses": [
+        {
+            "name": "Luke 22:20",
+            "text": "Likewise also the cup after supper, saying, This cup is the new testament in my blood, which is shed for you."
+        },
+        {
+            "name": "Luke 22:21",
+            "text": "But, behold, the hand of him that betrayeth me is with me on the table."
+        },
+        {
+            "name": "Luke 22:22",
+            "text": "And truly the Son of man goeth, as it was determined: but woe unto that man by whom he is betrayed!"
+        },
+        {
+            "name": "Luke 22:23",
+            "text": "And they began to enquire among themselves, which of them it was that should do this thing."
+        },
+        {
+            "name": "Luke 22:24",
+            "text": "And there was also a strife among them, which of them should be accounted the greatest."
+        }
+    ],
+    "tone": "lamenting"
+}

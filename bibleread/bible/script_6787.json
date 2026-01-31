@@ -1,0 +1,27 @@
+{
+    "book": "Luke",
+    "chapter": "Chapter 18",
+    "verses": [
+        {
+            "name": "Luke 18:35",
+            "text": "And it came to pass, that as he was come nigh unto Jericho, a certain blind man sat by the way side begging:"
+        },
+        {
+            "name": "Luke 18:36",
+            "text": "And hearing the multitude pass by, he asked what it meant."
+        },
+        {
+            "name": "Luke 18:37",
+            "text": "And they told him, that Jesus of Nazareth passeth by."
+        },
+        {
+            "name": "Luke 18:38",
+            "text": "And he cried, saying, Jesus, thou Son of David, have mercy on me."
+        },
+        {
+            "name": "Luke 18:39",
+            "text": "And they which went before rebuked him, that he should hold his peace: but he cried so much the more, Thou Son of David, have mercy on me."
+        }
+    ],
+    "tone": "neutral"
+}

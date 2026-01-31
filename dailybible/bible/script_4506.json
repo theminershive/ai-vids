@@ -1,0 +1,19 @@
+{
+    "book": "Isaiah",
+    "chapter": "Chapter 1",
+    "verses": [
+        {
+            "name": "Isaiah 1:23",
+            "text": "Thy princes are rebellious, and companions of thieves: every one loveth gifts, and followeth after rewards: they judge not the fatherless, neither doth the cause of the widow come unto them."
+        },
+        {
+            "name": "Isaiah 1:24",
+            "text": "Therefore saith the Lord, the Lord of hosts, the mighty One of Israel, Ah, I will ease me of mine adversaries, and avenge me of mine enemies:"
+        },
+        {
+            "name": "Isaiah 1:25",
+            "text": "And I will turn my hand upon thee, and purely purge away thy dross, and take away all thy tin:"
+        }
+    ],
+    "tone": "lamenting"
+}

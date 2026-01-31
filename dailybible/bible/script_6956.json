@@ -1,0 +1,23 @@
+{
+    "book": "John",
+    "chapter": "Chapter 10",
+    "verses": [
+        {
+            "name": "John 10:1",
+            "text": "Verily, verily, I say unto you, He that entereth not by the door into the sheepfold, but climbeth up some other way, the same is a thief and a robber."
+        },
+        {
+            "name": "John 10:2",
+            "text": "But he that entereth in by the door is the shepherd of the sheep."
+        },
+        {
+            "name": "John 10:3",
+            "text": "To him the porter openeth; and the sheep hear his voice: and he calleth his own sheep by name, and leadeth them out."
+        },
+        {
+            "name": "John 10:4",
+            "text": "And when he putteth forth his own sheep, he goeth before them, and the sheep follow him: for they know his voice."
+        }
+    ],
+    "tone": "lamenting"
+}

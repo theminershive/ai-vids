@@ -1,0 +1,23 @@
+{
+    "book": "Mark",
+    "chapter": "Chapter 15",
+    "verses": [
+        {
+            "name": "Mark 15:44",
+            "text": "And Pilate marvelled if he were already dead: and calling unto him the centurion, he asked him whether he had been any while dead."
+        },
+        {
+            "name": "Mark 15:45",
+            "text": "And when he knew it of the centurion, he gave the body to Joseph."
+        },
+        {
+            "name": "Mark 15:46",
+            "text": "And he bought fine linen, and took him down, and wrapped him in the linen, and laid him in a sepulchre which was hewn out of a rock, and rolled a stone unto the door of the sepulchre."
+        },
+        {
+            "name": "Mark 15:47",
+            "text": "And Mary Magdalene and Mary the mother of Joses beheld where he was laid. "
+        }
+    ],
+    "tone": "lamenting"
+}

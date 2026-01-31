@@ -1,0 +1,19 @@
+{
+    "book": "Luke",
+    "chapter": "Chapter 8",
+    "verses": [
+        {
+            "name": "Luke 8:35",
+            "text": "Then they went out to see what was done; and came to Jesus, and found the man, out of whom the devils were departed, sitting at the feet of Jesus, clothed, and in his right mind: and they were afraid."
+        },
+        {
+            "name": "Luke 8:36",
+            "text": "They also which saw it told them by what means he that was possessed of the devils was healed."
+        },
+        {
+            "name": "Luke 8:37",
+            "text": "Then the whole multitude of the country of the Gadarenes round about besought him to depart from them; for they were taken with great fear: and he went up into the ship, and returned back again."
+        }
+    ],
+    "tone": "neutral"
+}

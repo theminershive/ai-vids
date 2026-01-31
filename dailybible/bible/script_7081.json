@@ -1,0 +1,23 @@
+{
+    "book": "Acts",
+    "chapter": "Chapter 3",
+    "verses": [
+        {
+            "name": "Acts 3:15",
+            "text": "And killed the Prince of life, whom God hath raised from the dead; whereof we are witnesses."
+        },
+        {
+            "name": "Acts 3:16",
+            "text": "And his name through faith in his name hath made this man strong, whom ye see and know: yea, the faith which is by him hath given him this perfect soundness in the presence of you all."
+        },
+        {
+            "name": "Acts 3:17",
+            "text": "And now, brethren, I wot that through ignorance ye did it, as did also your rulers."
+        },
+        {
+            "name": "Acts 3:18",
+            "text": "But those things, which God before had shewed by the mouth of all his prophets, that Christ should suffer, he hath so fulfilled."
+        }
+    ],
+    "tone": "hopeful"
+}

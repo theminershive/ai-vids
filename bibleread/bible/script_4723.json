@@ -1,0 +1,19 @@
+{
+    "book": "Isaiah",
+    "chapter": "Chapter 40",
+    "verses": [
+        {
+            "name": "Isaiah 40:9",
+            "text": "O Zion, that bringest good tidings, get thee up into the high mountain; O Jerusalem, that bringest good tidings, lift up thy voice with strength; lift it up, be not afraid; say unto the cities of Judah, Behold your God!"
+        },
+        {
+            "name": "Isaiah 40:10",
+            "text": "Behold, the Lord God will come with strong hand, and his arm shall rule for him: behold, his reward is with him, and his work before him."
+        },
+        {
+            "name": "Isaiah 40:11",
+            "text": "He shall feed his flock like a shepherd: he shall gather the lambs with his arm, and carry them in his bosom, and shall gently lead those that are with young."
+        }
+    ],
+    "tone": "hopeful"
+}

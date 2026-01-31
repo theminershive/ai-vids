@@ -1,0 +1,27 @@
+{
+    "book": "Luke",
+    "chapter": "Chapter 7",
+    "verses": [
+        {
+            "name": "Luke 7:1",
+            "text": "Now when he had ended all his sayings in the audience of the people, he entered into Capernaum."
+        },
+        {
+            "name": "Luke 7:2",
+            "text": "And a certain centurion\u2019s servant, who was dear unto him, was sick, and ready to die."
+        },
+        {
+            "name": "Luke 7:3",
+            "text": "And when he heard of Jesus, he sent unto him the elders of the Jews, beseeching him that he would come and heal his servant."
+        },
+        {
+            "name": "Luke 7:4",
+            "text": "And when they came to Jesus, they besought him instantly, saying, That he was worthy for whom he should do this:"
+        },
+        {
+            "name": "Luke 7:5",
+            "text": "For he loveth our nation, and he hath built us a synagogue."
+        }
+    ],
+    "tone": "hopeful"
+}

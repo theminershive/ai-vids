@@ -1,0 +1,23 @@
+{
+    "book": "Nahum",
+    "chapter": "Chapter 1",
+    "verses": [
+        {
+            "name": "Nahum 1:4",
+            "text": "He rebuketh the sea, and maketh it dry, and drieth up all the rivers: Bashan languisheth, and Carmel, and the flower of Lebanon languisheth."
+        },
+        {
+            "name": "Nahum 1:5",
+            "text": "The mountains quake at him, and the hills melt, and the earth is burned at his presence, yea, the world, and all that dwell therein."
+        },
+        {
+            "name": "Nahum 1:6",
+            "text": "Who can stand before his indignation? and who can abide in the fierceness of his anger? his fury is poured out like fire, and the rocks are thrown down by him."
+        },
+        {
+            "name": "Nahum 1:7",
+            "text": "The Lord is good, a strong hold in the day of trouble; and he knoweth them that trust in him."
+        }
+    ],
+    "tone": "hopeful"
+}

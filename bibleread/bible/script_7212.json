@@ -1,0 +1,19 @@
+{
+    "book": "Acts",
+    "chapter": "Chapter 17",
+    "verses": [
+        {
+            "name": "Acts 17:5",
+            "text": "But the Jews which believed not, moved with envy, took unto them certain lewd fellows of the baser sort, and gathered a company, and set all the city on an uproar, and assaulted the house of Jason, and sought to bring them out to the people."
+        },
+        {
+            "name": "Acts 17:6",
+            "text": "And when they found them not, they drew Jason and certain brethren unto the rulers of the city, crying, These that have turned the world upside down are come hither also;"
+        },
+        {
+            "name": "Acts 17:7",
+            "text": "Whom Jason hath received: and these all do contrary to the decrees of Cesar, saying that there is another king, one Jesus."
+        }
+    ],
+    "tone": "neutral"
+}

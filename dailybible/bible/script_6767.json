@@ -1,0 +1,23 @@
+{
+    "book": "Luke",
+    "chapter": "Chapter 16",
+    "verses": [
+        {
+            "name": "Luke 16:15",
+            "text": "And he said unto them, Ye are they which justify yourselves before men; but God knoweth your hearts: for that which is highly esteemed among men is abomination in the sight of God."
+        },
+        {
+            "name": "Luke 16:16",
+            "text": "The law and the prophets were until John: since that time the kingdom of God is preached, and every man presseth into it."
+        },
+        {
+            "name": "Luke 16:17",
+            "text": "And it is easier for heaven and earth to pass, than one tittle of the law to fail."
+        },
+        {
+            "name": "Luke 16:18",
+            "text": "Whosoever putteth away his wife, and marrieth another, committeth adultery: and whosoever marrieth her that is put away from her husband committeth adultery."
+        }
+    ],
+    "tone": "instructional"
+}

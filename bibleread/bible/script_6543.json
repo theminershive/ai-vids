@@ -1,0 +1,23 @@
+{
+    "book": "Mark",
+    "chapter": "Chapter 13",
+    "verses": [
+        {
+            "name": "Mark 13:28",
+            "text": "Now learn a parable of the fig tree; When her branch is yet tender, and putteth forth leaves, ye know that summer is near:"
+        },
+        {
+            "name": "Mark 13:29",
+            "text": "So ye in like manner, when ye shall see these things come to pass, know that it is nigh, even at the doors."
+        },
+        {
+            "name": "Mark 13:30",
+            "text": "Verily I say unto you, that this generation shall not pass, till all these things be done."
+        },
+        {
+            "name": "Mark 13:31",
+            "text": "Heaven and earth shall pass away: but my words shall not pass away."
+        }
+    ],
+    "tone": "hopeful"
+}

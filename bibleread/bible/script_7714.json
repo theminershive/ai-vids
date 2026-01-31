@@ -1,0 +1,23 @@
+{
+    "book": "2 Thessalonians",
+    "chapter": "Chapter 1",
+    "verses": [
+        {
+            "name": "2 Thessalonians 1:1",
+            "text": "Paul, and Silvanus, and Timotheus, unto the church of the Thessalonians in God our Father and the Lord Jesus Christ:"
+        },
+        {
+            "name": "2 Thessalonians 1:2",
+            "text": "Grace unto you, and peace, from God our Father and the Lord Jesus Christ."
+        },
+        {
+            "name": "2 Thessalonians 1:3",
+            "text": "We are bound to thank God always for you, brethren, as it is meet, because that your faith groweth exceedingly, and the charity of every one of you all toward each other aboundeth;"
+        },
+        {
+            "name": "2 Thessalonians 1:4",
+            "text": "So that we ourselves glory in you in the churches of God for your patience and faith in all your persecutions and tribulations that ye endure:"
+        }
+    ],
+    "tone": "hopeful"
+}

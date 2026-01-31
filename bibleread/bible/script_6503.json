@@ -1,0 +1,23 @@
+{
+    "book": "Mark",
+    "chapter": "Chapter 10",
+    "verses": [
+        {
+            "name": "Mark 10:1",
+            "text": "And he arose from thence, and cometh into the coasts of Judea by the farther side of Jordan: and the people resort unto him again; and, as he was wont, he taught them again."
+        },
+        {
+            "name": "Mark 10:2",
+            "text": "And the Pharisees came to him, and asked him, Is it lawful for a man to put away his wife? tempting him."
+        },
+        {
+            "name": "Mark 10:3",
+            "text": "And he answered and said unto them, What did Moses command you?"
+        },
+        {
+            "name": "Mark 10:4",
+            "text": "And they said, Moses suffered to write a bill of divorcement, and to put her away."
+        }
+    ],
+    "tone": "neutral"
+}

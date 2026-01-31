@@ -1,0 +1,19 @@
+{
+    "book": "Mark",
+    "chapter": "Chapter 9",
+    "verses": [
+        {
+            "name": "Mark 9:41",
+            "text": "For whosoever shall give you a cup of water to drink in my name, because ye belong to Christ, verily I say unto you, he shall not lose his reward."
+        },
+        {
+            "name": "Mark 9:42",
+            "text": "And whosoever shall offend one of these little ones that believe in me, it is better for him that a millstone were hanged about his neck, and he were cast into the sea."
+        },
+        {
+            "name": "Mark 9:43",
+            "text": "And if thy hand offend thee, cut it off: it is better for thee to enter into life maimed, than having two hands to go into hell, into the fire that never shall be quenched:"
+        }
+    ],
+    "tone": "lamenting"
+}

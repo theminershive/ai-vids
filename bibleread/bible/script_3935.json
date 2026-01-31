@@ -1,0 +1,31 @@
+{
+    "book": "Psalms",
+    "chapter": "Chapter 38",
+    "verses": [
+        {
+            "name": "Psalms 38:1",
+            "text": "O Lord, rebuke me not in thy wrath: neither chasten me in thy hot displeasure."
+        },
+        {
+            "name": "Psalms 38:2",
+            "text": "For thine arrows stick fast in me, and thy hand presseth me sore."
+        },
+        {
+            "name": "Psalms 38:3",
+            "text": "There is no soundness in my flesh because of thine anger; neither is there any rest in my bones because of my sin."
+        },
+        {
+            "name": "Psalms 38:4",
+            "text": "For mine iniquities are gone over mine head: as an heavy burden they are too heavy for me."
+        },
+        {
+            "name": "Psalms 38:5",
+            "text": "My wounds stink and are corrupt because of my foolishness."
+        },
+        {
+            "name": "Psalms 38:6",
+            "text": "I am troubled; I am bowed down greatly; I go mourning all the day long."
+        }
+    ],
+    "tone": "neutral"
+}

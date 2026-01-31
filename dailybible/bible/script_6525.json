@@ -1,0 +1,19 @@
+{
+    "book": "Mark",
+    "chapter": "Chapter 12",
+    "verses": [
+        {
+            "name": "Mark 12:1",
+            "text": "And he began to speak unto them by parables. A certain man planted a vineyard, and set an hedge about it, and digged a place for the winefat, and built a tower, and let it out to husbandmen, and went into a far country."
+        },
+        {
+            "name": "Mark 12:2",
+            "text": "And at the season he sent to the husbandmen a servant, that he might receive from the husbandmen of the fruit of the vineyard."
+        },
+        {
+            "name": "Mark 12:3",
+            "text": "And they caught him, and beat him, and sent him away empty."
+        }
+    ],
+    "tone": "neutral"
+}

@@ -1,0 +1,27 @@
+{
+    "book": "Genesis",
+    "chapter": "Chapter 21",
+    "verses": [
+        {
+            "name": "Genesis 21:1",
+            "text": "And the Lord visited Sarah as he had said, and the Lord did unto Sarah as he had spoken."
+        },
+        {
+            "name": "Genesis 21:2",
+            "text": "For Sarah conceived, and bare Abraham a son in his old age, at the set time of which God had spoken to him."
+        },
+        {
+            "name": "Genesis 21:3",
+            "text": "And Abraham called the name of his son that was born unto him, whom Sarah bare to him, Isaac."
+        },
+        {
+            "name": "Genesis 21:4",
+            "text": "And Abraham circumcised his son Isaac being eight days old, as God had commanded him."
+        },
+        {
+            "name": "Genesis 21:5",
+            "text": "And Abraham was an hundred years old, when his son Isaac was born unto him."
+        }
+    ],
+    "tone": "hopeful"
+}

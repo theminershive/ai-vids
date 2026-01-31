@@ -1,0 +1,19 @@
+{
+    "book": "1 Thessalonians",
+    "chapter": "Chapter 4",
+    "verses": [
+        {
+            "name": "1 Thessalonians 4:14",
+            "text": "For if we believe that Jesus died and rose again, even so them also which sleep in Jesus will God bring with him."
+        },
+        {
+            "name": "1 Thessalonians 4:15",
+            "text": "For this we say unto you by the word of the Lord, that we which are alive and remain unto the coming of the Lord shall not prevent them which are asleep."
+        },
+        {
+            "name": "1 Thessalonians 4:16",
+            "text": "For the Lord himself shall descend from heaven with a shout, with the voice of the archangel, and with the trump of God: and the dead in Christ shall rise first:"
+        }
+    ],
+    "tone": "neutral"
+}

@@ -1,0 +1,27 @@
+{
+    "book": "Job",
+    "chapter": "Chapter 4",
+    "verses": [
+        {
+            "name": "Job 4:14",
+            "text": "Fear came upon me, and trembling, which made all my bones to shake."
+        },
+        {
+            "name": "Job 4:15",
+            "text": "Then a spirit passed before my face; the hair of my flesh stood up:"
+        },
+        {
+            "name": "Job 4:16",
+            "text": "It stood still, but I could not discern the form thereof: an image was before mine eyes, there was silence, and I heard a voice, saying,"
+        },
+        {
+            "name": "Job 4:17",
+            "text": "Shall mortal man be more just than God? shall a man be more pure than his maker?"
+        },
+        {
+            "name": "Job 4:18",
+            "text": "Behold, he put no trust in his servants; and his angels he charged with folly:"
+        }
+    ],
+    "tone": "hopeful"
+}

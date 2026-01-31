@@ -1,0 +1,19 @@
+{
+    "book": "Jeremiah",
+    "chapter": "Chapter 2",
+    "verses": [
+        {
+            "name": "Jeremiah 2:7",
+            "text": "And I brought you into a plentiful country, to eat the fruit thereof and the goodness thereof; but when ye entered, ye defiled my land, and made mine heritage an abomination."
+        },
+        {
+            "name": "Jeremiah 2:8",
+            "text": "The priests said not, Where is the Lord? and they that handle the law knew me not: the pastors also transgressed against me, and the prophets prophesied by Baal, and walked after things that do not profit."
+        },
+        {
+            "name": "Jeremiah 2:9",
+            "text": "Wherefore I will yet plead with you, saith the Lord, and with your children\u2019s children will I plead."
+        }
+    ],
+    "tone": "instructional"
+}

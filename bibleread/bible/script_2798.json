@@ -1,0 +1,19 @@
+{
+    "book": "2 Kings",
+    "chapter": "Chapter 8",
+    "verses": [
+        {
+            "name": "2 Kings 8:23",
+            "text": "And the rest of the acts of Joram, and all that he did, are they not written in the book of the chronicles of the kings of Judah?"
+        },
+        {
+            "name": "2 Kings 8:24",
+            "text": "And Joram slept with his fathers, and was buried with his fathers in the city of David: and Ahaziah his son reigned in his stead."
+        },
+        {
+            "name": "2 Kings 8:25",
+            "text": "In the twelfth year of Joram the son of Ahab king of Israel did Ahaziah the son of Jehoram king of Judah begin to reign."
+        }
+    ],
+    "tone": "neutral"
+}

@@ -1,0 +1,15 @@
+{
+    "book": "Daniel",
+    "chapter": "Chapter 9",
+    "verses": [
+        {
+            "name": "Daniel 9:14",
+            "text": "Therefore hath the Lord watched upon the evil, and brought it upon us: for the Lord our God is righteous in all his works which he doeth: for we obeyed not his voice."
+        },
+        {
+            "name": "Daniel 9:15",
+            "text": "And now, O Lord our God, that hast brought thy people forth out of the land of Egypt with a mighty hand, and hast gotten thee renown, as at this day; we have sinned, we have done wickedly."
+        }
+    ],
+    "tone": "neutral"
+}

@@ -1,0 +1,27 @@
+{
+    "book": "1 John",
+    "chapter": "Chapter 3",
+    "verses": [
+        {
+            "name": "1 John 3:4",
+            "text": "Whosoever committeth sin transgresseth also the law: for sin is the transgression of the law."
+        },
+        {
+            "name": "1 John 3:5",
+            "text": "And ye know that he was manifested to take away our sins; and in him is no sin."
+        },
+        {
+            "name": "1 John 3:6",
+            "text": "Whosoever abideth in him sinneth not: whosoever sinneth hath not seen him, neither known him."
+        },
+        {
+            "name": "1 John 3:7",
+            "text": "Little children, let no man deceive you: he that doeth righteousness is righteous, even as he is righteous."
+        },
+        {
+            "name": "1 John 3:8",
+            "text": "He that committeth sin is of the devil; for the devil sinneth from the beginning. For this purpose the Son of God was manifested, that he might destroy the works of the devil."
+        }
+    ],
+    "tone": "lamenting"
+}

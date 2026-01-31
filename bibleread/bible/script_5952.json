@@ -1,0 +1,19 @@
+{
+    "book": "Amos",
+    "chapter": "Chapter 5",
+    "verses": [
+        {
+            "name": "Amos 5:11",
+            "text": "Forasmuch therefore as your treading is upon the poor, and ye take from him burdens of wheat: ye have built houses of hewn stone, but ye shall not dwell in them; ye have planted pleasant vineyards, but ye shall not drink wine of them."
+        },
+        {
+            "name": "Amos 5:12",
+            "text": "For I know your manifold transgressions and your mighty sins: they afflict the just, they take a bribe, and they turn aside the poor in the gate from their right."
+        },
+        {
+            "name": "Amos 5:13",
+            "text": "Therefore the prudent shall keep silence in that time; for it is an evil time."
+        }
+    ],
+    "tone": "instructional"
+}

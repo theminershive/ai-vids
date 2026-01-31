@@ -1,0 +1,23 @@
+{
+    "book": "Genesis",
+    "chapter": "Chapter 8",
+    "verses": [
+        {
+            "name": "Genesis 8:1",
+            "text": "And God remembered Noah, and every living thing, and all the cattle that was with him in the ark: and God made a wind to pass over the earth, and the waters asswaged;"
+        },
+        {
+            "name": "Genesis 8:2",
+            "text": "The fountains also of the deep and the windows of heaven were stopped, and the rain from heaven was restrained;"
+        },
+        {
+            "name": "Genesis 8:3",
+            "text": "And the waters returned from off the earth continually: and after the end of the hundred and fifty days the waters were abated."
+        },
+        {
+            "name": "Genesis 8:4",
+            "text": "And the ark rested in the seventh month, on the seventeenth day of the month, upon the mountains of Ararat."
+        }
+    ],
+    "tone": "neutral"
+}

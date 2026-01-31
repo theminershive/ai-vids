@@ -1,0 +1,19 @@
+{
+    "book": "Joshua",
+    "chapter": "Chapter 10",
+    "verses": [
+        {
+            "name": "Joshua 10:32",
+            "text": "And the Lord delivered Lachish into the hand of Israel, which took it on the second day, and smote it with the edge of the sword, and all the souls that were therein, according to all that he had done to Libnah."
+        },
+        {
+            "name": "Joshua 10:33",
+            "text": "Then Horam king of Gezer came up to help Lachish; and Joshua smote him and his people, until he had left him none remaining."
+        },
+        {
+            "name": "Joshua 10:34",
+            "text": "And from Lachish Joshua passed unto Eglon, and all Israel with him; and they encamped against it, and fought against it:"
+        }
+    ],
+    "tone": "neutral"
+}

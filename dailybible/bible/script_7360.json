@@ -1,0 +1,23 @@
+{
+    "book": "Romans",
+    "chapter": "Chapter 7",
+    "verses": [
+        {
+            "name": "Romans 7:17",
+            "text": "Now then it is no more I that do it, but sin that dwelleth in me."
+        },
+        {
+            "name": "Romans 7:18",
+            "text": "For I know that in me (that is, in my flesh,) dwelleth no good thing: for to will is present with me; but how to perform that which is good I find not."
+        },
+        {
+            "name": "Romans 7:19",
+            "text": "For the good that I would I do not: but the evil which I would not, that I do."
+        },
+        {
+            "name": "Romans 7:20",
+            "text": "Now if I do that I would not, it is no more I that do it, but sin that dwelleth in me."
+        }
+    ],
+    "tone": "lamenting"
+}

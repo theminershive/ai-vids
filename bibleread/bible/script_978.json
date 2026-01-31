@@ -1,0 +1,19 @@
+{
+    "book": "Leviticus",
+    "chapter": "Chapter 26",
+    "verses": [
+        {
+            "name": "Leviticus 26:25",
+            "text": "And I will bring a sword upon you, that shall avenge the quarrel of my covenant: and when ye are gathered together within your cities, I will send the pestilence among you; and ye shall be delivered into the hand of the enemy."
+        },
+        {
+            "name": "Leviticus 26:26",
+            "text": "And when I have broken the staff of your bread, ten women shall bake your bread in one oven, and they shall deliver you your bread again by weight: and ye shall eat, and not be satisfied."
+        },
+        {
+            "name": "Leviticus 26:27",
+            "text": "And if ye will not for all this hearken unto me, but walk contrary unto me;"
+        }
+    ],
+    "tone": "lamenting"
+}

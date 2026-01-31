@@ -1,0 +1,23 @@
+{
+    "book": "John",
+    "chapter": "Chapter 13",
+    "verses": [
+        {
+            "name": "John 13:9",
+            "text": "Simon Peter saith unto him, Lord, not my feet only, but also my hands and my head."
+        },
+        {
+            "name": "John 13:10",
+            "text": "Jesus saith to him, He that is washed needeth not save to wash his feet, but is clean every whit: and ye are clean, but not all."
+        },
+        {
+            "name": "John 13:11",
+            "text": "For he knew who should betray him; therefore said he, Ye are not all clean."
+        },
+        {
+            "name": "John 13:12",
+            "text": "So after he had washed their feet, and had taken his garments, and was set down again, he said unto them, Know ye what I have done to you?"
+        }
+    ],
+    "tone": "neutral"
+}

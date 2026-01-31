@@ -1,0 +1,23 @@
+{
+    "book": "John",
+    "chapter": "Chapter 12",
+    "verses": [
+        {
+            "name": "John 12:9",
+            "text": "Much people of the Jews therefore knew that he was there: and they came not for Jesus\u2019 sake only, but that they might see Lazarus also, whom he had raised from the dead."
+        },
+        {
+            "name": "John 12:10",
+            "text": "But the chief priests consulted that they might put Lazarus also to death;"
+        },
+        {
+            "name": "John 12:11",
+            "text": "Because that by reason of him many of the Jews went away, and believed on Jesus."
+        },
+        {
+            "name": "John 12:12",
+            "text": "On the next day much people that were come to the feast, when they heard that Jesus was coming to Jerusalem,"
+        }
+    ],
+    "tone": "neutral"
+}

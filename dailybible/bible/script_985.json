@@ -1,0 +1,23 @@
+{
+    "book": "Leviticus",
+    "chapter": "Chapter 27",
+    "verses": [
+        {
+            "name": "Leviticus 27:1",
+            "text": "And the Lord spake unto Moses, saying,"
+        },
+        {
+            "name": "Leviticus 27:2",
+            "text": "Speak unto the children of Israel, and say unto them, When a man shall make a singular vow, the persons shall be for the Lord by thy estimation."
+        },
+        {
+            "name": "Leviticus 27:3",
+            "text": "And thy estimation shall be of the male from twenty years old even unto sixty years old, even thy estimation shall be fifty shekels of silver, after the shekel of the sanctuary."
+        },
+        {
+            "name": "Leviticus 27:4",
+            "text": "And if it be a female, then thy estimation shall be thirty shekels."
+        }
+    ],
+    "tone": "neutral"
+}

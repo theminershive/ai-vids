@@ -1,0 +1,23 @@
+{
+    "book": "Exodus",
+    "chapter": "Chapter 6",
+    "verses": [
+        {
+            "name": "Exodus 6:9",
+            "text": "And Moses spake so unto the children of Israel: but they hearkened not unto Moses for anguish of spirit, and for cruel bondage."
+        },
+        {
+            "name": "Exodus 6:10",
+            "text": "And the Lord spake unto Moses, saying,"
+        },
+        {
+            "name": "Exodus 6:11",
+            "text": "Go in, speak unto Pharaoh king of Egypt, that he let the children of Israel go out of his land."
+        },
+        {
+            "name": "Exodus 6:12",
+            "text": "And Moses spake before the Lord, saying, Behold, the children of Israel have not hearkened unto me; how then shall Pharaoh hear me, who am of uncircumcised lips?"
+        }
+    ],
+    "tone": "neutral"
+}

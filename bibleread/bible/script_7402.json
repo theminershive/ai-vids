@@ -1,0 +1,19 @@
+{
+    "book": "Romans",
+    "chapter": "Chapter 14",
+    "verses": [
+        {
+            "name": "Romans 14:5",
+            "text": "One man esteemeth one day above another: another esteemeth every day alike. Let every man be fully persuaded in his own mind."
+        },
+        {
+            "name": "Romans 14:6",
+            "text": "He that regardeth the day, regardeth it unto the Lord; and he that regardeth not the day, to the Lord he doth not regard it. He that eateth, eateth to the Lord, for he giveth God thanks; and he that eateth not, to the Lord he eateth not, and giveth God thanks."
+        },
+        {
+            "name": "Romans 14:7",
+            "text": "For none of us liveth to himself, and no man dieth to himself."
+        }
+    ],
+    "tone": "neutral"
+}

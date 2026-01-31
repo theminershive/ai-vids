@@ -1,0 +1,23 @@
+{
+    "book": "Matthew",
+    "chapter": "Chapter 24",
+    "verses": [
+        {
+            "name": "Matthew 24:35",
+            "text": "Heaven and earth shall pass away, but my words shall not pass away."
+        },
+        {
+            "name": "Matthew 24:36",
+            "text": "But of that day and hour knoweth no man, no, not the angels of heaven, but my Father only."
+        },
+        {
+            "name": "Matthew 24:37",
+            "text": "But as the days of Noe were, so shall also the coming of the Son of man be."
+        },
+        {
+            "name": "Matthew 24:38",
+            "text": "For as in the days that were before the flood they were eating and drinking, marrying and giving in marriage, until the day that Noe entered into the ark,"
+        }
+    ],
+    "tone": "neutral"
+}

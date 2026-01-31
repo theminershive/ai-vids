@@ -1,0 +1,19 @@
+{
+    "book": "John",
+    "chapter": "Chapter 1",
+    "verses": [
+        {
+            "name": "John 1:49",
+            "text": "Nathanael answered and saith unto him, Rabbi, thou art the Son of God; thou art the King of Israel."
+        },
+        {
+            "name": "John 1:50",
+            "text": "Jesus answered and said unto him, Because I said unto thee, I saw thee under the fig tree, believest thou? thou shalt see greater things than these."
+        },
+        {
+            "name": "John 1:51",
+            "text": "And he saith unto him, Verily, verily, I say unto you, Hereafter ye shall see heaven open, and the angels of God ascending and descending upon the Son of man. "
+        }
+    ],
+    "tone": "neutral"
+}

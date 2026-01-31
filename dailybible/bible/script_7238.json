@@ -1,0 +1,23 @@
+{
+    "book": "Acts",
+    "chapter": "Chapter 20",
+    "verses": [
+        {
+            "name": "Acts 20:1",
+            "text": "And after the uproar was ceased, Paul called unto him the disciples, and embraced them, and departed for to go into Macedonia."
+        },
+        {
+            "name": "Acts 20:2",
+            "text": "And when he had gone over those parts, and had given them much exhortation, he came into Greece,"
+        },
+        {
+            "name": "Acts 20:3",
+            "text": "And there abode three months. And when the Jews laid wait for him, as he was about to sail into Syria, he purposed to return through Macedonia."
+        },
+        {
+            "name": "Acts 20:4",
+            "text": "And there accompanied him into Asia Sopater of Berea; and of the Thessalonians, Aristarchus and Secundus; and Gaius of Derbe, and Timotheus; and of Asia, Tychicus and Trophimus."
+        }
+    ],
+    "tone": "neutral"
+}

@@ -1,0 +1,19 @@
+{
+    "book": "Nahum",
+    "chapter": "Chapter 3",
+    "verses": [
+        {
+            "name": "Nahum 3:1",
+            "text": "Woe to the bloody city! it is all full of lies and robbery; the prey departeth not;"
+        },
+        {
+            "name": "Nahum 3:2",
+            "text": "The noise of a whip, and the noise of the rattling of the wheels, and of the pransing horses, and of the jumping chariots."
+        },
+        {
+            "name": "Nahum 3:3",
+            "text": "The horseman lifteth up both the bright sword and the glittering spear: and there is a multitude of slain, and a great number of carcases; and there is none end of their corpses; they stumble upon their corpses:"
+        }
+    ],
+    "tone": "lamenting"
+}

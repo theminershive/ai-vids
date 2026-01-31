@@ -1,0 +1,19 @@
+{
+    "book": "Isaiah",
+    "chapter": "Chapter 10",
+    "verses": [
+        {
+            "name": "Isaiah 10:22",
+            "text": "For though thy people Israel be as the sand of the sea, yet a remnant of them shall return: the consumption decreed shall overflow with righteousness."
+        },
+        {
+            "name": "Isaiah 10:23",
+            "text": "For the Lord God of hosts shall make a consumption, even determined, in the midst of all the land."
+        },
+        {
+            "name": "Isaiah 10:24",
+            "text": "Therefore thus saith the Lord God of hosts, O my people that dwellest in Zion, be not afraid of the Assyrian: he shall smite thee with a rod, and shall lift up his staff against thee, after the manner of Egypt."
+        }
+    ],
+    "tone": "neutral"
+}

@@ -1,0 +1,19 @@
+{
+    "book": "Daniel",
+    "chapter": "Chapter 2",
+    "verses": [
+        {
+            "name": "Daniel 2:35",
+            "text": "Then was the iron, the clay, the brass, the silver, and the gold, broken to pieces together, and became like the chaff of the summer threshingfloors; and the wind carried them away, that no place was found for them: and the stone that smote the image became a great mountain, and filled the whole earth."
+        },
+        {
+            "name": "Daniel 2:36",
+            "text": "This is the dream; and we will tell the interpretation thereof before the king."
+        },
+        {
+            "name": "Daniel 2:37",
+            "text": "Thou, O king, art a king of kings: for the God of heaven hath given thee a kingdom, power, and strength, and glory."
+        }
+    ],
+    "tone": "neutral"
+}

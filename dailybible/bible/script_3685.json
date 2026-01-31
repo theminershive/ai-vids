@@ -1,0 +1,31 @@
+{
+    "book": "Job",
+    "chapter": "Chapter 9",
+    "verses": [
+        {
+            "name": "Job 9:24",
+            "text": "The earth is given into the hand of the wicked: he covereth the faces of the judges thereof; if not, where, and who is he?"
+        },
+        {
+            "name": "Job 9:25",
+            "text": "Now my days are swifter than a post: they flee away, they see no good."
+        },
+        {
+            "name": "Job 9:26",
+            "text": "They are passed away as the swift ships: as the eagle that hasteth to the prey."
+        },
+        {
+            "name": "Job 9:27",
+            "text": "If I say, I will forget my complaint, I will leave off my heaviness, and comfort myself:"
+        },
+        {
+            "name": "Job 9:28",
+            "text": "I am afraid of all my sorrows, I know that thou wilt not hold me innocent."
+        },
+        {
+            "name": "Job 9:29",
+            "text": "If I be wicked, why then labour I in vain?"
+        }
+    ],
+    "tone": "hopeful"
+}

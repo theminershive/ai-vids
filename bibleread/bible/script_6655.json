@@ -1,0 +1,19 @@
+{
+    "book": "Luke",
+    "chapter": "Chapter 7",
+    "verses": [
+        {
+            "name": "Luke 7:9",
+            "text": "When Jesus heard these things, he marvelled at him, and turned him about, and said unto the people that followed him, I say unto you, I have not found so great faith, no, not in Israel."
+        },
+        {
+            "name": "Luke 7:10",
+            "text": "And they that were sent, returning to the house, found the servant whole that had been sick."
+        },
+        {
+            "name": "Luke 7:11",
+            "text": "And it came to pass the day after, that he went into a city called Nain; and many of his disciples went with him, and much people."
+        }
+    ],
+    "tone": "neutral"
+}

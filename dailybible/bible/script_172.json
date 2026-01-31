@@ -1,0 +1,27 @@
+{
+    "book": "Genesis",
+    "chapter": "Chapter 25",
+    "verses": [
+        {
+            "name": "Genesis 25:1",
+            "text": "Then again Abraham took a wife, and her name was Keturah."
+        },
+        {
+            "name": "Genesis 25:2",
+            "text": "And she bare him Zimran, and Jokshan, and Medan, and Midian, and Ishbak, and Shuah."
+        },
+        {
+            "name": "Genesis 25:3",
+            "text": "And Jokshan begat Sheba, and Dedan. And the sons of Dedan were Asshurim, and Letushim, and Leummim."
+        },
+        {
+            "name": "Genesis 25:4",
+            "text": "And the sons of Midian; Ephah, and Epher, and Hanoch, and Abida, and Eldaah. All these were the children of Keturah."
+        },
+        {
+            "name": "Genesis 25:5",
+            "text": "And Abraham gave all that he had unto Isaac."
+        }
+    ],
+    "tone": "neutral"
+}

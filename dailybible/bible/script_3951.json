@@ -1,0 +1,23 @@
+{
+    "book": "Psalms",
+    "chapter": "Chapter 44",
+    "verses": [
+        {
+            "name": "Psalms 44:1",
+            "text": "We have heard with our ears, O God, our fathers have told us, what work thou didst in their days, in the times of old."
+        },
+        {
+            "name": "Psalms 44:2",
+            "text": "How thou didst drive out the heathen with thy hand, and plantedst them; how thou didst afflict the people, and cast them out."
+        },
+        {
+            "name": "Psalms 44:3",
+            "text": "For they got not the land in possession by their own sword, neither did their own arm save them: but thy right hand, and thine arm, and the light of thy countenance, because thou hadst a favour unto them."
+        },
+        {
+            "name": "Psalms 44:4",
+            "text": "Thou art my King, O God: command deliverances for Jacob."
+        }
+    ],
+    "tone": "instructional"
+}

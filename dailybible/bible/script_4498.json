@@ -1,0 +1,19 @@
+{
+    "book": "Song of Solomon",
+    "chapter": "Chapter 8",
+    "verses": [
+        {
+            "name": "Song of Songs 8:7",
+            "text": "Many waters cannot quench love, neither can the floods drown it: if a man would give all the substance of his house for love, it would utterly be contemned."
+        },
+        {
+            "name": "Song of Songs 8:8",
+            "text": "We have a little sister, and she hath no breasts: what shall we do for our sister in the day when she shall be spoken for?"
+        },
+        {
+            "name": "Song of Songs 8:9",
+            "text": "If she be a wall, we will build upon her a palace of silver: and if she be a door, we will inclose her with boards of cedar."
+        }
+    ],
+    "tone": "neutral"
+}

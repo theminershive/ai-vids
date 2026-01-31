@@ -1,0 +1,19 @@
+{
+    "book": "Psalms",
+    "chapter": "Chapter 32",
+    "verses": [
+        {
+            "name": "Psalms 32:6",
+            "text": "For this shall every one that is godly pray unto thee in a time when thou mayest be found: surely in the floods of great waters they shall not come nigh unto him."
+        },
+        {
+            "name": "Psalms 32:7",
+            "text": "Thou art my hiding place; thou shalt preserve me from trouble; thou shalt compass me about with songs of deliverance. Selah."
+        },
+        {
+            "name": "Psalms 32:8",
+            "text": "I will instruct thee and teach thee in the way which thou shalt go: I will guide thee with mine eye."
+        }
+    ],
+    "tone": "instructional"
+}

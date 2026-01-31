@@ -1,0 +1,23 @@
+{
+    "book": "1 Thessalonians",
+    "chapter": "Chapter 1",
+    "verses": [
+        {
+            "name": "1 Thessalonians 1:1",
+            "text": "Paul, and Silvanus, and Timotheus, unto the church of the Thessalonians which is in God the Father and in the Lord Jesus Christ: Grace be unto you, and peace, from God our Father, and the Lord Jesus Christ."
+        },
+        {
+            "name": "1 Thessalonians 1:2",
+            "text": "We give thanks to God always for you all, making mention of you in our prayers;"
+        },
+        {
+            "name": "1 Thessalonians 1:3",
+            "text": "Remembering without ceasing your work of faith, and labour of love, and patience of hope in our Lord Jesus Christ, in the sight of God and our Father;"
+        },
+        {
+            "name": "1 Thessalonians 1:4",
+            "text": "Knowing, brethren beloved, your election of God."
+        }
+    ],
+    "tone": "hopeful"
+}

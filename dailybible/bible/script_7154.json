@@ -1,0 +1,23 @@
+{
+    "book": "Acts",
+    "chapter": "Chapter 10",
+    "verses": [
+        {
+            "name": "Acts 10:37",
+            "text": "That word, I say, ye know, which was published throughout all Judea, and began from Galilee, after the baptism which John preached;"
+        },
+        {
+            "name": "Acts 10:38",
+            "text": "How God anointed Jesus of Nazareth with the Holy Ghost and with power: who went about doing good, and healing all that were oppressed of the devil; for God was with him."
+        },
+        {
+            "name": "Acts 10:39",
+            "text": "And we are witnesses of all things which he did both in the land of the Jews, and in Jerusalem; whom they slew and hanged on a tree:"
+        },
+        {
+            "name": "Acts 10:40",
+            "text": "Him God raised up the third day, and shewed him openly;"
+        }
+    ],
+    "tone": "neutral"
+}

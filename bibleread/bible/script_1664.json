@@ -1,0 +1,23 @@
+{
+    "book": "Joshua",
+    "chapter": "Chapter 6",
+    "verses": [
+        {
+            "name": "Joshua 6:1",
+            "text": "Now Jericho was straitly shut up because of the children of Israel: none went out, and none came in."
+        },
+        {
+            "name": "Joshua 6:2",
+            "text": "And the Lord said unto Joshua, See, I have given into thine hand Jericho, and the king thereof, and the mighty men of valour."
+        },
+        {
+            "name": "Joshua 6:3",
+            "text": "And ye shall compass the city, all ye men of war, and go round about the city once. Thus shalt thou do six days."
+        },
+        {
+            "name": "Joshua 6:4",
+            "text": "And seven priests shall bear before the ark seven trumpets of rams\u2019 horns: and the seventh day ye shall compass the city seven times, and the priests shall blow with the trumpets."
+        }
+    ],
+    "tone": "neutral"
+}

@@ -1,0 +1,27 @@
+{
+    "book": "Psalms",
+    "chapter": "Chapter 16",
+    "verses": [
+        {
+            "name": "Psalms 16:1",
+            "text": "Preserve me, O God: for in thee do I put my trust."
+        },
+        {
+            "name": "Psalms 16:2",
+            "text": "O my soul, thou hast said unto the Lord, Thou art my Lord: my goodness extendeth not to thee;"
+        },
+        {
+            "name": "Psalms 16:3",
+            "text": "But to the saints that are in the earth, and to the excellent, in whom is all my delight."
+        },
+        {
+            "name": "Psalms 16:4",
+            "text": "Their sorrows shall be multiplied that hasten after another god: their drink offerings of blood will I not offer, nor take up their names into my lips."
+        },
+        {
+            "name": "Psalms 16:5",
+            "text": "The Lord is the portion of mine inheritance and of my cup: thou maintainest my lot."
+        }
+    ],
+    "tone": "neutral"
+}

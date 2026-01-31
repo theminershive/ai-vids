@@ -1,0 +1,23 @@
+{
+    "book": "Hebrews",
+    "chapter": "Chapter 4",
+    "verses": [
+        {
+            "name": "Hebrews 4:4",
+            "text": "For he spake in a certain place of the seventh day on this wise, And God did rest the seventh day from all his works."
+        },
+        {
+            "name": "Hebrews 4:5",
+            "text": "And in this place again, If they shall enter into my rest."
+        },
+        {
+            "name": "Hebrews 4:6",
+            "text": "Seeing therefore it remaineth that some must enter therein, and they to whom it was first preached entered not in because of unbelief:"
+        },
+        {
+            "name": "Hebrews 4:7",
+            "text": "Again, he limiteth a certain day, saying in David, To day, after so long a time; as it is said, To day if ye will hear his voice, harden not your hearts."
+        }
+    ],
+    "tone": "neutral"
+}

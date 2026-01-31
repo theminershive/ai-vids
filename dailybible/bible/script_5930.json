@@ -1,0 +1,23 @@
+{
+    "book": "Joel",
+    "chapter": "Chapter 3",
+    "verses": [
+        {
+            "name": "Joel 3:10",
+            "text": "Beat your plowshares into swords, and your pruninghooks into spears: let the weak say, I am strong."
+        },
+        {
+            "name": "Joel 3:11",
+            "text": "Assemble yourselves, and come, all ye heathen, and gather yourselves together round about: thither cause thy mighty ones to come down, O Lord."
+        },
+        {
+            "name": "Joel 3:12",
+            "text": "Let the heathen be wakened, and come up to the valley of Jehoshaphat: for there will I sit to judge all the heathen round about."
+        },
+        {
+            "name": "Joel 3:13",
+            "text": "Put ye in the sickle, for the harvest is ripe: come, get you down; for the press is full, the fats overflow; for their wickedness is great."
+        }
+    ],
+    "tone": "hopeful"
+}

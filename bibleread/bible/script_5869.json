@@ -1,0 +1,19 @@
+{
+    "book": "Hosea",
+    "chapter": "Chapter 2",
+    "verses": [
+        {
+            "name": "Hosea 2:21",
+            "text": "And it shall come to pass in that day, I will hear, saith the Lord, I will hear the heavens, and they shall hear the earth;"
+        },
+        {
+            "name": "Hosea 2:22",
+            "text": "And the earth shall hear the corn, and the wine, and the oil; and they shall hear Jezreel."
+        },
+        {
+            "name": "Hosea 2:23",
+            "text": "And I will sow her unto me in the earth; and I will have mercy upon her that had not obtained mercy; and I will say to them which were not my people, Thou art my people; and they shall say, Thou art my God. "
+        }
+    ],
+    "tone": "hopeful"
+}

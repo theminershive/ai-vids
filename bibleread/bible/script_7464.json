@@ -1,0 +1,23 @@
+{
+    "book": "1 Corinthians",
+    "chapter": "Chapter 9",
+    "verses": [
+        {
+            "name": "1 Corinthians 9:6",
+            "text": "Or I only and Barnabas, have not we power to forbear working?"
+        },
+        {
+            "name": "1 Corinthians 9:7",
+            "text": "Who goeth a warfare any time at his own charges? who planteth a vineyard, and eateth not of the fruit thereof? or who feedeth a flock, and eateth not of the milk of the flock?"
+        },
+        {
+            "name": "1 Corinthians 9:8",
+            "text": "Say I these things as a man? or saith not the law the same also?"
+        },
+        {
+            "name": "1 Corinthians 9:9",
+            "text": "For it is written in the law of Moses, Thou shalt not muzzle the mouth of the ox that treadeth out the corn. Doth God take care for oxen?"
+        }
+    ],
+    "tone": "instructional"
+}

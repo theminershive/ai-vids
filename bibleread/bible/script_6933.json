@@ -1,0 +1,27 @@
+{
+    "book": "John",
+    "chapter": "Chapter 8",
+    "verses": [
+        {
+            "name": "John 8:1",
+            "text": "Jesus went unto the mount of Olives."
+        },
+        {
+            "name": "John 8:2",
+            "text": "And early in the morning he came again into the temple, and all the people came unto him; and he sat down, and taught them."
+        },
+        {
+            "name": "John 8:3",
+            "text": "And the scribes and Pharisees brought unto him a woman taken in adultery; and when they had set her in the midst,"
+        },
+        {
+            "name": "John 8:4",
+            "text": "They say unto him, Master, this woman was taken in adultery, in the very act."
+        },
+        {
+            "name": "John 8:5",
+            "text": "Now Moses in the law commanded us, that such should be stoned: but what sayest thou?"
+        }
+    ],
+    "tone": "neutral"
+}

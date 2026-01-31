@@ -1,0 +1,19 @@
+{
+    "book": "2 Corinthians",
+    "chapter": "Chapter 13",
+    "verses": [
+        {
+            "name": "2 Corinthians 13:4",
+            "text": "For though he was crucified through weakness, yet he liveth by the power of God. For we also are weak in him, but we shall live with him by the power of God toward you."
+        },
+        {
+            "name": "2 Corinthians 13:5",
+            "text": "Examine yourselves, whether ye be in the faith; prove your own selves. Know ye not your own selves, how that Jesus Christ is in you, except ye be reprobates?"
+        },
+        {
+            "name": "2 Corinthians 13:6",
+            "text": "But I trust that ye shall know that we are not reprobates."
+        }
+    ],
+    "tone": "hopeful"
+}

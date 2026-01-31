@@ -1,0 +1,23 @@
+{
+    "book": "Leviticus",
+    "chapter": "Chapter 19",
+    "verses": [
+        {
+            "name": "Leviticus 19:31",
+            "text": "Regard not them that have familiar spirits, neither seek after wizards, to be defiled by them: I am the Lord your God."
+        },
+        {
+            "name": "Leviticus 19:32",
+            "text": "Thou shalt rise up before the hoary head, and honour the face of the old man, and fear thy God: I am the Lord."
+        },
+        {
+            "name": "Leviticus 19:33",
+            "text": "And if a stranger sojourn with thee in your land, ye shall not vex him."
+        },
+        {
+            "name": "Leviticus 19:34",
+            "text": "But the stranger that dwelleth with you shall be unto you as one born among you, and thou shalt love him as thyself; for ye were strangers in the land of Egypt: I am the Lord your God."
+        }
+    ],
+    "tone": "hopeful"
+}

@@ -1,0 +1,23 @@
+{
+    "book": "Ecclesiastes",
+    "chapter": "Chapter 10",
+    "verses": [
+        {
+            "name": "Ecclesiastes 10:1",
+            "text": "Dead flies cause the ointment of the apothecary to send forth a stinking savour: so doth a little folly him that is in reputation for wisdom and honour."
+        },
+        {
+            "name": "Ecclesiastes 10:2",
+            "text": "A wise man\u2019s heart is at his right hand; but a fool\u2019s heart at his left."
+        },
+        {
+            "name": "Ecclesiastes 10:3",
+            "text": "Yea also, when he that is a fool walketh by the way, his wisdom faileth him, and he saith to every one that he is a fool."
+        },
+        {
+            "name": "Ecclesiastes 10:4",
+            "text": "If the spirit of the ruler rise up against thee, leave not thy place; for yielding pacifieth great offences."
+        }
+    ],
+    "tone": "instructional"
+}

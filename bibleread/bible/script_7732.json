@@ -1,0 +1,27 @@
+{
+    "book": "1 Timothy",
+    "chapter": "Chapter 3",
+    "verses": [
+        {
+            "name": "1 Timothy 3:6",
+            "text": "Not a novice, lest being lifted up with pride he fall into the condemnation of the devil."
+        },
+        {
+            "name": "1 Timothy 3:7",
+            "text": "Moreover he must have a good report of them which are without; lest he fall into reproach and the snare of the devil."
+        },
+        {
+            "name": "1 Timothy 3:8",
+            "text": "Likewise must the deacons be grave, not doubletongued, not given to much wine, not greedy of filthy lucre;"
+        },
+        {
+            "name": "1 Timothy 3:9",
+            "text": "Holding the mystery of the faith in a pure conscience."
+        },
+        {
+            "name": "1 Timothy 3:10",
+            "text": "And let these also first be proved; then let them use the office of a deacon, being found blameless."
+        }
+    ],
+    "tone": "hopeful"
+}

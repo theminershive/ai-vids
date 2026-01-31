@@ -1,0 +1,27 @@
+{
+    "book": "John",
+    "chapter": "Chapter 2",
+    "verses": [
+        {
+            "name": "John 2:1",
+            "text": "And the third day there was a marriage in Cana of Galilee; and the mother of Jesus was there:"
+        },
+        {
+            "name": "John 2:2",
+            "text": "And both Jesus was called, and his disciples, to the marriage."
+        },
+        {
+            "name": "John 2:3",
+            "text": "And when they wanted wine, the mother of Jesus saith unto him, They have no wine."
+        },
+        {
+            "name": "John 2:4",
+            "text": "Jesus saith unto her, Woman, what have I to do with thee? mine hour is not yet come."
+        },
+        {
+            "name": "John 2:5",
+            "text": "His mother saith unto the servants, Whatsoever he saith unto you, do it. "
+        }
+    ],
+    "tone": "neutral"
+}

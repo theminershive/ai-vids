@@ -1,0 +1,23 @@
+{
+    "book": "Luke",
+    "chapter": "Chapter 7",
+    "verses": [
+        {
+            "name": "Luke 7:12",
+            "text": "Now when he came nigh to the gate of the city, behold, there was a dead man carried out, the only son of his mother, and she was a widow: and much people of the city was with her."
+        },
+        {
+            "name": "Luke 7:13",
+            "text": "And when the Lord saw her, he had compassion on her, and said unto her, Weep not."
+        },
+        {
+            "name": "Luke 7:14",
+            "text": "And he came and touched the bier: and they that bare him stood still. And he said, Young man, I say unto thee, Arise."
+        },
+        {
+            "name": "Luke 7:15",
+            "text": "And he that was dead sat up, and began to speak. And he delivered him to his mother."
+        }
+    ],
+    "tone": "neutral"
+}

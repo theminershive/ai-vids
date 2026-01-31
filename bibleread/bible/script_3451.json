@@ -1,0 +1,19 @@
+{
+    "book": "Ezra",
+    "chapter": "Chapter 6",
+    "verses": [
+        {
+            "name": "Ezra 6:18",
+            "text": "And they set the priests in their divisions, and the Levites in their courses, for the service of God, which is at Jerusalem; as it is written in the book of Moses."
+        },
+        {
+            "name": "Ezra 6:19",
+            "text": "And the children of the captivity kept the passover upon the fourteenth day of the first month."
+        },
+        {
+            "name": "Ezra 6:20",
+            "text": "For the priests and the Levites were purified together, all of them were pure, and killed the passover for all the children of the captivity, and for their brethren the priests, and for themselves."
+        }
+    ],
+    "tone": "neutral"
+}

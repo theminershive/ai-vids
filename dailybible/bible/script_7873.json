@@ -1,0 +1,19 @@
+{
+    "book": "James",
+    "chapter": "Chapter 5",
+    "verses": [
+        {
+            "name": "James 5:9",
+            "text": "Grudge not one against another, brethren, lest ye be condemned: behold, the judge standeth before the door."
+        },
+        {
+            "name": "James 5:10",
+            "text": "Take, my brethren, the prophets, who have spoken in the name of the Lord, for an example of suffering affliction, and of patience."
+        },
+        {
+            "name": "James 5:11",
+            "text": "Behold, we count them happy which endure. Ye have heard of the patience of Job, and have seen the end of the Lord; that the Lord is very pitiful, and of tender mercy."
+        }
+    ],
+    "tone": "lamenting"
+}

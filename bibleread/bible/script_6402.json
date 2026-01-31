@@ -1,0 +1,23 @@
+{
+    "book": "Matthew",
+    "chapter": "Chapter 27",
+    "verses": [
+        {
+            "name": "Matthew 27:27",
+            "text": "Then the soldiers of the governor took Jesus into the common hall, and gathered unto him the whole band of soldiers. "
+        },
+        {
+            "name": "Matthew 27:28",
+            "text": "And they stripped him, and put on him a scarlet robe."
+        },
+        {
+            "name": "Matthew 27:29",
+            "text": "And when they had platted a crown of thorns, they put it upon his head, and a reed in his right hand: and they bowed the knee before him, and mocked him, saying, Hail, King of the Jews!"
+        },
+        {
+            "name": "Matthew 27:30",
+            "text": "And they spit upon him, and took the reed, and smote him on the head."
+        }
+    ],
+    "tone": "neutral"
+}
