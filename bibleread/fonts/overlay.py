@@ -1,0 +1,207 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+overlay_verses.py
+
+Overlay Bible verses and references onto a video using assembler JSON.
+Now supports dynamic stroke toggling and mobile-optimized font setup.
+"""
+
+import sys
+import json
+import argparse
+from pathlib import Path
+from moviepy.editor import VideoFileClip, TextClip, CompositeVideoClip
+
+# === CONFIGURABLE SETTINGS ===
+DEFAULT_OPACITY = 0.5             # Background box opacity (0 to 1)
+MAX_TEXT_WIDTH_RATIO = 0.80       # Text width as % of video width
+TEXT_STROKE_COLOR = 'black'       # Text outline color
+TEXT_STROKE_WIDTH = 3             # Text outline thickness
+
+def make_text_clip(text, font, fontsize, color, max_width, padding, bg_color, opacity, duration, position, use_stroke=False):
+    clip_kwargs = {
+        'txt': text,
+        'fontsize': fontsize,
+        'font': font,
+        'color': color,
+        'method': 'caption',
+        'size': (max_width, None),
+        'align': 'center'
+    }
+
+    if use_stroke:
+        clip_kwargs['stroke_color'] = TEXT_STROKE_COLOR
+        clip_kwargs['stroke_width'] = TEXT_STROKE_WIDTH
+
+    clip = TextClip(**clip_kwargs)
+
+    bg = clip.on_color(
+        size=(clip.w + 2 * padding, clip.h + 2 * padding),
+        color=bg_color,
+        col_opacity=opacity,
+        pos=('center', 'center')
+    ).set_duration(duration).set_position(position)
+
+    return bg
+
+def overlay_verses(
+    video_path: Path,
+    json_path: Path,
+    output_path: Path,
+    name_font: str,
+    verse_font: str,
+    name_fontsize: int,
+    verse_fontsize: int,
+    text_color: str,
+    bg_color: tuple,
+    opacity: float,
+    name_pos,
+    verse_pos,
+    padding: int,
+    show_cta: bool,
+    cta_text: str,
+    cta_fontsize: int,
+    use_stroke: bool
+):
+    try:
+        config = json.loads(json_path.read_text(encoding='utf-8'))
+    except Exception as e:
+        print(f"Error reading JSON '{json_path}': {e}")
+        sys.exit(1)
+
+    section = config.get('sections', [])[0]
+    original_name = section.get('original_name', '')
+    verse_text = section.get('segments', [])[0].get('narration', {}).get('text', '')
+
+    try:
+        video = VideoFileClip(str(video_path))
+    except Exception as e:
+        print(f"Error loading video '{video_path}': {e}")
+        sys.exit(1)
+
+    video_w, video_h = video.size
+    duration = video.duration
+    max_width = int(video_w * MAX_TEXT_WIDTH_RATIO)
+
+    name_clip = make_text_clip(
+        text=original_name,
+        font=name_font,
+        fontsize=name_fontsize,
+        color=text_color,
+        max_width=max_width,
+        padding=padding,
+        bg_color=bg_color,
+        opacity=opacity,
+        duration=duration,
+        position=name_pos,
+        use_stroke=use_stroke
+    )
+
+    formatted_verse_text = verse_text.replace("  ", "\n\n")
+    verse_clip = make_text_clip(
+        text=formatted_verse_text,
+        font=verse_font,
+        fontsize=verse_fontsize,
+        color=text_color,
+        max_width=max_width,
+        padding=padding,
+        bg_color=bg_color,
+        opacity=opacity,
+        duration=duration,
+        position=verse_pos,
+        use_stroke=use_stroke
+    )
+
+    clips = [video, name_clip, verse_clip]
+
+    if show_cta:
+        cta_position = ('center', video_h - 120)
+        cta_clip = make_text_clip(
+            text=cta_text,
+            font=verse_font,
+            fontsize=cta_fontsize,
+            color=text_color,
+            max_width=max_width,
+            padding=padding,
+            bg_color=bg_color,
+            opacity=opacity,
+            duration=duration,
+            position=cta_position,
+            use_stroke=use_stroke
+        )
+        clips.append(cta_clip)
+
+    composite = CompositeVideoClip(clips)
+    composite.write_videofile(str(output_path), codec='libx264', audio_codec='aac')
+
+    config['final_video'] = str(output_path)
+    try:
+        json_path.write_text(json.dumps(config, indent=2), encoding='utf-8')
+        print(f"[INFO] JSON updated with final video path: {output_path}")
+    except Exception as e:
+        print(f"[WARN] Could not update JSON: {e}")
+
+def parse_position(pos_args, default):
+    if pos_args:
+        x, y = pos_args
+        try:
+            x_val = int(x)
+        except ValueError:
+            x_val = x
+        try:
+            y_val = int(y)
+        except ValueError:
+            y_val = y
+        return (x_val, y_val)
+    return default
+
+def main():
+    parser = argparse.ArgumentParser(description='Overlay verse text from assembler JSON.')
+    parser.add_argument('--json',   '-j', required=True, help='Assembler JSON path')
+    parser.add_argument('--video',  '-v', required=True, help='Input video path')
+    parser.add_argument('--output', '-o', required=True, help='Output video path')
+    parser.add_argument('--name_font',     default='./fonts/Anton-Regular.ttf', help='Font file for name')
+    parser.add_argument('--verse_font',    default='./fonts/Anton-Regular.ttf', help='Font file for verse')
+    parser.add_argument('--name_fontsize', type=int, default=100, help='Font size for name')
+    parser.add_argument('--verse_fontsize',type=int, default=60, help='Font size for verse')
+    parser.add_argument('--cta_fontsize',  type=int, default=65, help='Font size for CTA')
+    parser.add_argument('--text_color',    default='white', help='Text color')
+    parser.add_argument('--bg_color',      nargs=3, type=int, default=[0,0,0], help='BG box RGB')
+    parser.add_argument('--opacity',       type=float, default=DEFAULT_OPACITY, help='BG opacity (0–1)')
+    parser.add_argument('--padding',       type=int, default=30, help='Padding around text')
+    parser.add_argument('--name_pos',  nargs=2, metavar=('X','Y'), default=['center','120'], help='Name position X Y')
+    parser.add_argument('--verse_pos', nargs=2, metavar=('X','Y'), default=['center','540'], help='Verse position X Y')
+    parser.add_argument('--cta_text',  default='Subscribe for Daily Verses', help='CTA text')
+    parser.add_argument('--no_cta',    action='store_true', help='Disable CTA overlay')
+    parser.add_argument('--use_stroke', action='store_true', help='Enable text stroke outline')
+
+    args = parser.parse_args()
+
+    if not Path(args.name_font).is_file():
+        print(f"[WARN] Name font not found at {args.name_font}")
+    if not Path(args.verse_font).is_file():
+        print(f"[WARN] Verse font not found at {args.verse_font}")
+
+    overlay_verses(
+        video_path= Path(args.video),
+        json_path=  Path(args.json),
+        output_path=Path(args.output),
+        name_font= args.name_font,
+        verse_font=args.verse_font,
+        name_fontsize=args.name_fontsize,
+        verse_fontsize=args.verse_fontsize,
+        text_color=args.text_color,
+        bg_color=tuple(args.bg_color),
+        opacity=args.opacity,
+        name_pos=parse_position(args.name_pos, ('center', 120)),
+        verse_pos=parse_position(args.verse_pos, ('center', 540)),
+        padding=args.padding,
+        show_cta=not args.no_cta,
+        cta_text=args.cta_text,
+        cta_fontsize=args.cta_fontsize,
+        use_stroke=args.use_stroke
+    )
+
+if __name__ == '__main__':
+    main()

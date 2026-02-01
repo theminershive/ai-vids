@@ -1,0 +1,7 @@
+openai
+httpx
+requests
+python-dotenv
+moviepy
+pillow
+numpy

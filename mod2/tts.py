@@ -5,32 +5,32 @@ import requests
 from pathlib import Path
 from dotenv import load_dotenv
 
+from config import load_config
+
 load_dotenv()
+config = load_config()
 
 # ------------------- CONFIG -------------------
 TTS_BACKEND = os.getenv("TTS_BACKEND", "elevenlabs").strip().lower()  # elevenlabs | qwen
 QWEN_TTS_API_BASE = os.getenv("QWEN_TTS_API_BASE", "http://192.168.1.94:9910").rstrip("/")
 
-# Qwen compat API has fixed paths:
 QWEN_VOICES_PATH = os.getenv("QWEN_VOICES_PATH", "/v1/voices").strip()
 QWEN_TTS_PATH_TMPL = os.getenv("QWEN_TTS_PATH_TMPL", "/v1/text-to-speech/{voice_id}").strip()
 
 TTS_FALLBACK_VOICE = os.getenv("TTS_FALLBACK_VOICE", "Bible Reader").strip()
-TTS_FORMAT = os.getenv("TTS_FORMAT", "mp3").strip().lower()  # mp3|wav
-TTS_LANGUAGE = os.getenv("TTS_LANGUAGE", "Auto").strip()  # kept for backwards compat (not used by compat API)
+TTS_FORMAT = os.getenv("TTS_FORMAT", "mp3").strip().lower()
+TTS_LANGUAGE = os.getenv("TTS_LANGUAGE", "Auto").strip()
 TTS_STABILITY = float(os.getenv("TTS_STABILITY", "0.3"))
 TTS_SIMILARITY = float(os.getenv("TTS_SIMILARITY", "0.7"))
 
-# IMPORTANT: what should "default/blank" tone map to?
 DEFAULT_TONE_NAME = os.getenv("DEFAULT_TONE_NAME", "Valentino").strip()
 
-# Optional: if your compat server enforces xi-api-key (it supports the header)
 QWEN_XI_API_KEY = os.getenv("QWEN_XI_API_KEY", "").strip()
 
 ELEVENLABS_API_KEY = os.getenv("ELEVENLABS_API_KEY")
 
 CHUNK_SIZE = 1024
-AUDIO_DIR = Path(os.getenv("AUDIO_DIR", "audio"))
+AUDIO_DIR = Path(os.getenv("AUDIO_DIR", str(config.paths.audio_dir)))
 AUDIO_DIR.mkdir(parents=True, exist_ok=True)
 
 DEBUG_TTS = os.getenv("DEBUG_TTS", "1").strip().lower() in ("1", "true", "yes", "y")
@@ -41,13 +41,10 @@ def log(msg: str):
         print(msg, flush=True)
 
 
-# ------------------- VOICES -------------------
 VOICE_OPTIONS = {
     "Valentino": {"id": "Nv8Euon5i3G2sBJM47fo", "description": "Deep narrator"},
     "David - American Narrator": {"id": "v9LgF91V36LGgbLX3iHW", "description": "American narrator"},
     "Christopher": {"id": "G17SuINrv2H9FC6nvetn", "description": "British narrator"},
-
-    # Logical “channel” names:
     "Bible Reader": {"id": "bible_reading", "description": "Warm, reverent reading voice"},
     "Science Channel": {"id": "science_channel", "description": "Clear, upbeat educational voice"},
 }
@@ -58,7 +55,6 @@ DEFAULT_TONE_ALIASES = {
     "", "default", "default voice", "standard", "main", "primary", "narrator"
 }
 
-# ------------------- Valentino override (Option #15) -------------------
 VALENTINO_FORCE_STABILITY = float(os.getenv("VALENTINO_FORCE_STABILITY", "0.95"))
 VALENTINO_FORCE_SIMILARITY = float(os.getenv("VALENTINO_FORCE_SIMILARITY", "0.85"))
 VALENTINO_FORCE_MODEL_ID = os.getenv(
@@ -68,12 +64,6 @@ VALENTINO_FORCE_MODEL_ID = os.getenv(
 
 
 def _canonical_voice_name(requested: str) -> str:
-    """
-    Backward compatible but smarter:
-      - case-insensitive matching
-      - blank / "default" resolves to DEFAULT_TONE_NAME (default: Valentino)
-      - otherwise fallback to TTS_FALLBACK_VOICE
-    """
     req = (requested or "").strip()
 
     if req.lower() in DEFAULT_TONE_ALIASES:
@@ -93,21 +83,16 @@ def _is_valentino(voice_name: str) -> bool:
 
 
 def _apply_valentino_defaults(voice_name: str, stability: float, similarity_boost: float, model_id):
-    """
-    If voice is Valentino, force your consistent Option #15 settings.
-    """
     if _is_valentino(voice_name):
         return VALENTINO_FORCE_STABILITY, VALENTINO_FORCE_SIMILARITY, (VALENTINO_FORCE_MODEL_ID or model_id)
     return stability, similarity_boost, model_id
 
 
-# ------------------- BACKWARDS COMPAT: old helper -------------------
 def get_voice_id(tone: str):
     voice_name = _canonical_voice_name(tone)
     return VOICE_OPTIONS[voice_name]["id"]
 
 
-# ------------------- ELEVENLABS -------------------
 def generate_tts_elevenlabs(
     narration_text: str,
     audio_path: Path,
@@ -141,7 +126,6 @@ def generate_tts_elevenlabs(
                 f.write(chunk)
 
 
-# ------------------- QWEN ELEVENLABS-COMPAT -------------------
 _qwen_voice_cache = None
 _qwen_voice_cache_at = 0
 QWEN_VOICE_CACHE_TTL = int(os.getenv("QWEN_VOICE_CACHE_TTL", "300"))
@@ -180,24 +164,20 @@ def _resolve_qwen_voice_id(tone_name: str) -> str:
     voice_name = _canonical_voice_name(tone_name)
     preferred_id = (VOICE_OPTIONS.get(voice_name, {}) or {}).get("id", "")
 
-    # 1) exact id (best effort)
     if preferred_id:
         for v in voices:
             if (v.get("voice_id") or "") == preferred_id:
                 return preferred_id
 
-    # 2) exact name
     for v in voices:
         if (v.get("name") or "") == voice_name:
             return v["voice_id"]
 
-    # 3) contains match (how "Valentino" maps to "Valentino (Premium Narrator)")
     vn = voice_name.lower()
     for v in voices:
         if vn and vn in (v.get("name") or "").lower():
             return v["voice_id"]
 
-    # 4) fallback
     for v in voices:
         if (v.get("voice_id") or "") == "bible_reading":
             return "bible_reading"
@@ -246,7 +226,6 @@ def generate_tts_qwen_compat(
         f.write(r.content)
 
 
-# ------------------- Unified entry -------------------
 def generate_tts(narration_text: str, audio_path: Path, tone: str, **kwargs) -> bool:
     voice_name = _canonical_voice_name(tone)
 
@@ -280,9 +259,7 @@ def generate_tts(narration_text: str, audio_path: Path, tone: str, **kwargs) -> 
         return False
 
 
-# ------------------- Backwards compatible processor -------------------
 def process_tts(script_data: dict, audio_dir: Path = AUDIO_DIR) -> dict:
-    # Respect explicit tone in JSON; if missing/blank/default -> DEFAULT_TONE_NAME (Valentino)
     tone = _canonical_voice_name(script_data.get("tone", DEFAULT_TONE_NAME))
 
     sections = script_data.get("sections", [])
@@ -314,36 +291,3 @@ def process_tts(script_data: dict, audio_dir: Path = AUDIO_DIR) -> dict:
             segment["narration"]["audio_path"] = str(audio_path) if ok else None
 
     return script_data
-
-
-def save_audio_paths(updated_script: dict, filename: str = "video_script_with_audio.json") -> Path:
-    script_path = AUDIO_DIR.parent / filename
-    with open(script_path, "w", encoding="utf-8") as f:
-        json.dump(updated_script, f, indent=4, ensure_ascii=False)
-    return script_path
-
-
-def load_script_from_json(json_path: str) -> dict:
-    with open(json_path, "r", encoding="utf-8") as f:
-        return json.load(f)
-
-
-if __name__ == "__main__":
-    json_path = input("Enter the path to the JSON file to use: ").strip()
-    if not os.path.exists(json_path):
-        print(f"The specified JSON file does not exist: {json_path}")
-        raise SystemExit(1)
-
-    log(f"[CFG] TTS_BACKEND={TTS_BACKEND}")
-    log(f"[CFG] QWEN_TTS_API_BASE={QWEN_TTS_API_BASE}")
-    log(f"[CFG] QWEN_VOICES_PATH={QWEN_VOICES_PATH}")
-    log(f"[CFG] QWEN_TTS_PATH_TMPL={QWEN_TTS_PATH_TMPL}")
-    log(f"[CFG] TTS_FORMAT={TTS_FORMAT} stability={TTS_STABILITY} similarity={TTS_SIMILARITY}")
-    log(f"[CFG] fallback={TTS_FALLBACK_VOICE}")
-    log(f"[CFG] DEFAULT_TONE_NAME={DEFAULT_TONE_NAME}")
-    log(f"[CFG] VALENTINO defaults: stability={VALENTINO_FORCE_STABILITY} similarity={VALENTINO_FORCE_SIMILARITY} model_id={VALENTINO_FORCE_MODEL_ID}")
-
-    data = load_script_from_json(json_path)
-    updated = process_tts(data, audio_dir=AUDIO_DIR)
-    out = save_audio_paths(updated)
-    print(f"Saved: {out}")

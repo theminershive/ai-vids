@@ -10,6 +10,8 @@ from urllib.parse import urlparse
 
 from dotenv import load_dotenv
 
+from config import load_config
+
 # Optional: only required for legacy OpenAI moderation rewrite
 try:
     import openai
@@ -18,26 +20,33 @@ except Exception:
 
 # ------------------- CONFIG -------------------
 load_dotenv()
+config = load_config()
 
-VISUAL_BACKEND = os.getenv("VISUAL_BACKEND", "comfyui").strip().lower()  # comfyui | leonardo
+VISUAL_BACKEND = (config.image_backend.visual_backend or os.getenv("VISUAL_BACKEND", "comfyui")).strip().lower()
 
 # Leonardo vars
 LEONARDO_API_KEY = os.getenv("LEONARDO_API_KEY")
 OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
-LOCAL_PROMPT_REWRITE_URL = os.getenv("LOCAL_PROMPT_REWRITE_URL", "http://192.168.1.176:11434/api/generate").strip()
-LOCAL_PROMPT_REWRITE_MODEL = os.getenv("LOCAL_PROMPT_REWRITE_MODEL", "qwen2.5:14b-instruct-q4_K_M").strip()
-LEONARDO_API_ENDPOINT = "https://cloud.leonardo.ai/api/rest/v1"
+LOCAL_PROMPT_REWRITE_URL = (
+    config.image_backend.local_prompt_rewrite_url
+    or os.getenv("LOCAL_PROMPT_REWRITE_URL", "").strip()
+)
+LOCAL_PROMPT_REWRITE_MODEL = (
+    config.image_backend.local_prompt_rewrite_model
+    or os.getenv("LOCAL_PROMPT_REWRITE_MODEL", "qwen2.5:14b-instruct-q4_K_M").strip()
+)
+LEONARDO_API_ENDPOINT = config.image_backend.leonardo_api_endpoint or "https://cloud.leonardo.ai/api/rest/v1"
 
 # ComfyUI vars
-COMFYUI_BASE_URL = os.getenv("COMFYUI_BASE_URL", "http://192.168.1.176:8188").rstrip("/")
-COMFYUI_TIMEOUT_S = int(os.getenv("COMFYUI_TIMEOUT_S", "1800"))
-COMFYUI_POLL_S = float(os.getenv("COMFYUI_POLL_S", "2.0"))
-COMFYUI_WIDTH = os.getenv("COMFYUI_WIDTH", "").strip()
-COMFYUI_HEIGHT = os.getenv("COMFYUI_HEIGHT", "").strip()
-COMFYUI_LORA_NAME = os.getenv("COMFYUI_LORA_NAME", "Flux_2-Turbo-LoRA_comfyui.safetensors").strip()
+COMFYUI_BASE_URL = (config.image_backend.comfyui_base_url or os.getenv("COMFYUI_BASE_URL", "")).rstrip("/")
+COMFYUI_TIMEOUT_S = int(config.image_backend.comfyui_timeout_s or os.getenv("COMFYUI_TIMEOUT_S", "1800"))
+COMFYUI_POLL_S = float(config.image_backend.comfyui_poll_s or os.getenv("COMFYUI_POLL_S", "2.0"))
+COMFYUI_WIDTH = str(config.image_backend.comfyui_width or os.getenv("COMFYUI_WIDTH", "")).strip()
+COMFYUI_HEIGHT = str(config.image_backend.comfyui_height or os.getenv("COMFYUI_HEIGHT", "")).strip()
+COMFYUI_LORA_NAME = (config.image_backend.comfyui_lora_name or os.getenv("COMFYUI_LORA_NAME", "Flux_2-Turbo-LoRA_comfyui.safetensors")).strip()
 
 # Output
-OUTPUT_DIR = os.getenv("VISUAL_OUTPUT_DIR", "downloaded_content")
+OUTPUT_DIR = str(config.paths.visuals_dir)
 os.makedirs(OUTPUT_DIR, exist_ok=True)
 
 # Retry configuration
@@ -78,6 +87,7 @@ HEADERS = {
 # ---------------------------------------------------------------------------- #
 # Leonardo Model Configuration                                                  #
 # ---------------------------------------------------------------------------- #
+
 def get_model_config():
     return {
         "id": "de7d3faf-762f-48e0-b3b7-9d0ac3a3fcf3",
@@ -92,42 +102,40 @@ def get_model_config():
         "negative_prompt": NEGATIVE_PROMPT_DEFAULT,
     }
 
+
 def get_model_config_by_style(style_name=None):
     return get_model_config()
 
 # ---------------------------------------------------------------------------- #
 # Prompt rewriting (Leonardo moderation helper)                                 #
 # ---------------------------------------------------------------------------- #
+
 def rewrite_prompt(original_prompt: str) -> str:
-    """
-    Prefer local Ollama-style prompt rewrite endpoint. Falls back to legacy OpenAI rewrite if configured.
-    """
     if not original_prompt:
         return original_prompt
 
-    # Local rewrite (preferred)
-    try:
-        payload = {
-            "model": LOCAL_PROMPT_REWRITE_MODEL,
-            "prompt": (
-                "Rewrite this image prompt to be safe for moderation while preserving the scene and details. "
-                "Return only the rewritten prompt text.\n\n"
-                f"{original_prompt}"
-            ),
-            "stream": False,
-        }
-        resp = requests.post(LOCAL_PROMPT_REWRITE_URL, json=payload, timeout=120)
-        resp.raise_for_status()
-        data = resp.json() if resp.content else {}
-        new_prompt = (data.get("response") or data.get("text") or data.get("message") or "").strip()
-        if new_prompt:
-            logging.info(f"Rewritten prompt (local): {new_prompt}")
-            return new_prompt
-        logging.warning("Local prompt rewrite returned empty response; using original.")
-    except Exception as e:
-        logging.warning(f"Local prompt rewrite failed, using original. Error: {e}")
+    if LOCAL_PROMPT_REWRITE_URL:
+        try:
+            payload = {
+                "model": LOCAL_PROMPT_REWRITE_MODEL,
+                "prompt": (
+                    "Rewrite this image prompt to be safe for moderation while preserving the scene and details. "
+                    "Return only the rewritten prompt text.\n\n"
+                    f"{original_prompt}"
+                ),
+                "stream": False,
+            }
+            resp = requests.post(LOCAL_PROMPT_REWRITE_URL, json=payload, timeout=120)
+            resp.raise_for_status()
+            data = resp.json() if resp.content else {}
+            new_prompt = (data.get("response") or data.get("text") or data.get("message") or "").strip()
+            if new_prompt:
+                logging.info(f"Rewritten prompt (local): {new_prompt}")
+                return new_prompt
+            logging.warning("Local prompt rewrite returned empty response; using original.")
+        except Exception as e:
+            logging.warning(f"Local prompt rewrite failed, using original. Error: {e}")
 
-    # Legacy OpenAI fallback (if configured)
     if openai and OPENAI_API_KEY:
         try:
             openai.api_key = OPENAI_API_KEY
@@ -156,12 +164,8 @@ def rewrite_prompt(original_prompt: str) -> str:
 # ---------------------------------------------------------------------------- #
 # Prompt cleanup / augmentation for Flux2                                       #
 # ---------------------------------------------------------------------------- #
+
 def normalize_flux2_prompt(prompt: str) -> str:
-    """
-    Requirements:
-      - Remove leading 'Vivid scene for:' if present.
-      - Add a 'No Text' part to the prompt.
-    """
     if not prompt:
         return prompt
 
@@ -179,7 +183,6 @@ def normalize_flux2_prompt(prompt: str) -> str:
             p = p[len(pref):].strip()
             break
 
-    # Append no-text guidance (kept as a separate paragraph)
     if "no text" not in p.lower():
         p = f"{p}\n\n{NO_TEXT_POSITIVE_GUIDANCE}"
 
@@ -188,10 +191,10 @@ def normalize_flux2_prompt(prompt: str) -> str:
 # ---------------------------------------------------------------------------- #
 # SMART download helper: URL OR LOCAL PATH                                      #
 # ---------------------------------------------------------------------------- #
+
 def download_content(url_or_path: str, filename: str):
     parsed = urlparse(url_or_path)
 
-    # Real URL (http/https)
     if parsed.scheme in ("http", "https"):
         resp = requests.get(url_or_path, stream=True, timeout=300)
         resp.raise_for_status()
@@ -202,7 +205,6 @@ def download_content(url_or_path: str, filename: str):
         logging.info(f"Downloaded remote image -> {filename}")
         return filename
 
-    # Local path
     src = Path(url_or_path)
     dst = Path(filename)
     if not src.exists():
@@ -216,6 +218,7 @@ def download_content(url_or_path: str, filename: str):
 # ---------------------------------------------------------------------------- #
 # Leonardo pipeline                                                             #
 # ---------------------------------------------------------------------------- #
+
 def generate_image_leonardo(prompt: str, model_config: dict = None) -> str:
     if not LEONARDO_API_KEY:
         raise RuntimeError("LEONARDO_API_KEY missing but VISUAL_BACKEND=leonardo")
@@ -239,7 +242,7 @@ def generate_image_leonardo(prompt: str, model_config: dict = None) -> str:
         f"{LEONARDO_API_ENDPOINT}/generations",
         json=payload,
         headers=HEADERS,
-        timeout=120
+        timeout=120,
     )
     resp.raise_for_status()
     data = resp.json()
@@ -250,13 +253,14 @@ def generate_image_leonardo(prompt: str, model_config: dict = None) -> str:
     logging.info(f"Leonardo generation initiated: {generation_id}")
     return generation_id
 
+
 def poll_generation_status_leonardo(generation_id: str, wait_time: float = 10) -> dict:
     for attempt in range(1, 31):
         try:
             resp = requests.get(
                 f"{LEONARDO_API_ENDPOINT}/generations/{generation_id}",
                 headers=HEADERS,
-                timeout=120
+                timeout=120,
             )
             resp.raise_for_status()
             data = resp.json() if resp.content else {}
@@ -281,12 +285,14 @@ def poll_generation_status_leonardo(generation_id: str, wait_time: float = 10) -
 
     raise RuntimeError("Leonardo generation timed out after 30 polling attempts.")
 
+
 def extract_image_url_leonardo(generation_data: dict) -> str:
     img_list = generation_data.get("generations_by_pk", {}).get("generated_images", []) or \
                generation_data.get("sdGenerationJob", {}).get("generated_images", [])
     if img_list:
         return img_list[0].get("url")
     return None
+
 
 def generate_image_with_retry_leonardo(prompt: str, model_config: dict = None) -> (str, str):
     attempt_prompt = prompt
@@ -309,6 +315,7 @@ def generate_image_with_retry_leonardo(prompt: str, model_config: dict = None) -
 # ---------------------------------------------------------------------------- #
 # ComfyUI workflow (Flux2 Turbo LoRA)                                           #
 # ---------------------------------------------------------------------------- #
+
 COMFYUI_WORKFLOW_TEMPLATE = {
   "9": {
     "inputs": {
@@ -400,14 +407,8 @@ COMFYUI_WORKFLOW_TEMPLATE = {
   }
 }
 
+
 def _remap_node_ids_for_comfyui_api(workflow: dict) -> dict:
-    """
-    ComfyUI /prompt typically expects node ids to be simple numeric strings.
-    Your workflow uses ids like "68:10". This function remaps:
-      - keys "68:10" -> "10"
-      - any references ["68:10", 0] -> ["10", 0]
-    If a key has no ":" it is kept as-is.
-    """
     mapping = {}
     for k in workflow.keys():
         if isinstance(k, str) and ":" in k:
@@ -432,19 +433,18 @@ def _remap_node_ids_for_comfyui_api(workflow: dict) -> dict:
 
     return rewrite_value(new_wf)
 
+
 def comfyui_build_workflow(prompt: str, section_idx: int) -> dict:
-    wf = json.loads(json.dumps(COMFYUI_WORKFLOW_TEMPLATE))  # deep copy
+    wf = json.loads(json.dumps(COMFYUI_WORKFLOW_TEMPLATE))
 
     normalized = normalize_flux2_prompt(prompt)
     wf["68:6"]["inputs"]["text"] = normalized
 
-    # Force the lora name to one ComfyUI actually has
     wf["68:70"]["inputs"]["lora_name"] = COMFYUI_LORA_NAME
 
     wf["9"]["inputs"]["filename_prefix"] = f"Flux2_Turbo_section_{section_idx}"
     wf["68:25"]["inputs"]["noise_seed"] = random.randint(1, 2_000_000_000)
 
-    # Optional size overrides from .env
     if COMFYUI_WIDTH.isdigit():
         w = int(COMFYUI_WIDTH)
         wf["68:47"]["inputs"]["width"] = w
@@ -454,9 +454,9 @@ def comfyui_build_workflow(prompt: str, section_idx: int) -> dict:
         wf["68:47"]["inputs"]["height"] = h
         wf["68:48"]["inputs"]["height"] = h
 
-    # Remap ids like "68:10" -> "10" so /prompt accepts it
     wf = _remap_node_ids_for_comfyui_api(wf)
     return wf
+
 
 def comfyui_queue_prompt(workflow: dict) -> str:
     url = f"{COMFYUI_BASE_URL}/prompt"
@@ -472,6 +472,7 @@ def comfyui_queue_prompt(workflow: dict) -> str:
     if not prompt_id:
         raise RuntimeError(f"No prompt_id returned from ComfyUI: {data}")
     return prompt_id
+
 
 def comfyui_poll_history(prompt_id: str) -> dict:
     url = f"{COMFYUI_BASE_URL}/history/{prompt_id}"
@@ -489,6 +490,7 @@ def comfyui_poll_history(prompt_id: str) -> dict:
 
     raise RuntimeError(f"ComfyUI job timed out (prompt_id={prompt_id})")
 
+
 def comfyui_extract_first_image_file(history_job: dict) -> dict:
     outputs = history_job.get("outputs") or {}
     for _, node_out in outputs.items():
@@ -496,6 +498,7 @@ def comfyui_extract_first_image_file(history_job: dict) -> dict:
         if imgs:
             return imgs[0]
     return {}
+
 
 def comfyui_download_view(file_info: dict, out_path: str):
     filename = file_info.get("filename")
@@ -516,6 +519,7 @@ def comfyui_download_view(file_info: dict, out_path: str):
                 f.write(chunk)
 
     logging.info(f"Downloaded ComfyUI image -> {out_path}")
+
 
 def generate_image_with_retry_comfyui(prompt: str, section_idx: int = 1) -> str:
     for attempt in range(1, MAX_RETRIES + 1):
@@ -541,54 +545,11 @@ def generate_image_with_retry_comfyui(prompt: str, section_idx: int = 1) -> str:
     return None
 
 # ---------------------------------------------------------------------------- #
-# BACKWARDS COMPATIBILITY SHIMS                                                 #
+# MODERN helper                                                                #
 # ---------------------------------------------------------------------------- #
-def generate_image_with_retry(prompt: str, model_config: dict = None):
-    """
-    Old code expects:
-      gen_id, used_prompt = generate_image_with_retry(prompt, config)
 
-    Leonardo mode:
-      returns (generation_id, used_prompt)
-
-    ComfyUI mode:
-      returns (local_path, prompt) so old code won't crash.
-    """
-    backend = os.getenv("VISUAL_BACKEND", VISUAL_BACKEND).strip().lower()
-
-    if backend == "comfyui":
-        img_path = generate_image_with_retry_comfyui(prompt, section_idx=1)
-        return img_path, prompt
-
-    return generate_image_with_retry_leonardo(prompt, model_config)
-
-def poll_generation_status(generation_id: str, wait_time: float = 10) -> dict:
-    """
-    Old code calls poll_generation_status(gen_id).
-    If gen_id is a local file path, return a compatible dict.
-    """
-    if generation_id and isinstance(generation_id, str) and os.path.exists(generation_id):
-        return {"status": "complete", "local_image_path": generation_id}
-
-    return poll_generation_status_leonardo(generation_id, wait_time=wait_time)
-
-def extract_image_url(generation_data: dict) -> str:
-    """
-    Old code calls extract_image_url(result) and expects a URL.
-    For ComfyUI, we return the local file path.
-    """
-    if isinstance(generation_data, dict) and generation_data.get("local_image_path"):
-        return generation_data["local_image_path"]
-    return extract_image_url_leonardo(generation_data)
-
-# ---------------------------------------------------------------------------- #
-# MODERN helper (recommended for new code)                                      #
-# ---------------------------------------------------------------------------- #
 def generate_visual(prompt: str, section_idx: int = 1, style_name: str = None) -> str:
-    """
-    Returns a local file path in both modes.
-    """
-    backend = os.getenv("VISUAL_BACKEND", VISUAL_BACKEND).strip().lower()
+    backend = VISUAL_BACKEND
 
     if backend == "comfyui":
         return generate_image_with_retry_comfyui(prompt, section_idx=section_idx)

@@ -1,147 +1,209 @@
 #!/usr/bin/env python3
+
 """
-app.py (FIXED)
-✅ Backwards compatible with BOTH old + new visuals.py behavior.
-
-What this fixes:
-- Old app logic assumed Leonardo: gen_id -> poll -> image_url -> requests.get(url)
-- With ComfyUI, your "gen_id" is actually a LOCAL PATH (downloaded_content/section_1.png)
-  and requests.get() explodes with MissingSchema.
-- This version ALWAYS routes downloads through visuals.download_content(), which is
-  "smart" (URL OR local path) in your visuals.py.
-
-It also:
-- Uses section_idx correctly (not always 1)
-- Uses Flux prompt normalization via visuals.normalize_flux2_prompt() implicitly (ComfyUI workflow builder does it)
-- Still works if VISUAL_BACKEND=leonardo (same old flow)
+Full video-production pipeline (adapted to load content filters from an external file)
 """
 
 import json
 import logging
+import os
+import subprocess
+import re
+import time
 from pathlib import Path
+from typing import Optional
 
-from dotenv import load_dotenv
+# ——— Logging configuration —————————————————————————————————————
+LOG_LEVEL = os.getenv("BIBLEREAD_LOG_LEVEL", "INFO").upper()
+logging.basicConfig(
+    level=getattr(logging, LOG_LEVEL, logging.INFO),
+    format="%(asctime)s [%(levelname)s] %(message)s",
+)
 
-# Your visuals.py (the one you pasted)
-import visuals
+# Suppress PIL debug logs
+logging.getLogger("PIL").setLevel(logging.WARNING)
 
+# ——— Load moderation rules from external file —————————————————————————————
+try:
+    with open("content_filters.txt", "r", encoding="utf-8") as f:
+        FILTER_KEYWORDS = json.load(f)
+    logging.info("Loaded content filters from content_filters.txt")
+except Exception as e:
+    logging.error(f"Failed to load content filters: {e}")
+    FILTER_KEYWORDS = {}
 
-load_dotenv()
+# Import adapted visuals functions
+from visuals import get_model_by_name, generate_image_once, download_file
+from ytuploader import upload as upload_youtube
+from fbupload import upload as upload_facebook
+from igupload import upload as upload_instagram
 
-logging.basicConfig(level=logging.INFO, format="%(asctime)s [%(levelname)s] %(message)s")
+try:
+    import captions
+except Exception:
+    captions = None
 
+# ——— Directories —————————————————————————————————————————————
+READY_DIR       = Path("ready")
+VISUALS_DIR     = Path("visuals")
+FINAL_VIDEO_DIR = Path("final")
+for d in (READY_DIR, VISUALS_DIR, FINAL_VIDEO_DIR):
+    d.mkdir(parents=True, exist_ok=True)
 
-READY_DIR = Path("ready")
-OUT_JSON_DEFAULT = Path("video_script_with_visuals.json")
+# ——— Helper: sanitize visual prompts ——————————————————————————————————
+def sanitize_visual_prompt(prompt: str) -> str:
+    sanitized = prompt
+    for pattern, replacement in FILTER_KEYWORDS.items():
+        sanitized = re.sub(pattern, replacement, sanitized, flags=re.IGNORECASE)
+    return sanitized
 
-# Where you want final images referenced from the script
-# (keep "downloaded_content" if that's your convention)
-IMAGES_DIR = Path("downloaded_content")
-IMAGES_DIR.mkdir(parents=True, exist_ok=True)
-
-
-def _latest_json(ready_dir: Path) -> Path:
-    files = sorted(ready_dir.glob("*.json"), key=lambda p: p.stat().st_mtime)
-    if not files:
-        raise FileNotFoundError(f"No JSON files found in {ready_dir.resolve()}")
-    return files[-1]
-
-
-def _safe_section_idx(section: dict, fallback: int) -> int:
-    # supports section_number, sectionIndex, etc.
-    for k in ("section_number", "sectionIndex", "section_idx", "index"):
-        if k in section and str(section[k]).isdigit():
-            return int(section[k])
-    return fallback
-
-
-def _safe_segment_idx(seg: dict, fallback: int) -> int:
-    for k in ("segment_number", "segmentIndex", "segment_idx", "index"):
-        if k in seg and str(seg[k]).isdigit():
-            return int(seg[k])
-    return fallback
-
-
+# ——— Generate and download images using visuals.py —————————————————————————
 def generate_and_download_images(script: dict) -> dict:
-    """
-    Backwards compatible visual generation:
-    - Leonardo: gen_id -> poll -> url -> download_content(url, out_path)
-    - ComfyUI: local_path returned -> download_content(local_path, out_path) (copies)
-    """
-    settings = script.get("settings") or {}
-    style_name = settings.get("image_generation_style") or None
-
-    sections = script.get("sections") or []
-    if not sections:
-        logging.warning("No sections found in script JSON.")
-        return script
-
-    for s_i, section in enumerate(sections, start=1):
-        section_idx = _safe_section_idx(section, s_i)
-        segments = section.get("segments") or []
-        if not segments:
-            continue
-
-        for g_i, seg in enumerate(segments, start=1):
-            seg_idx = _safe_segment_idx(seg, g_i)
-
-            visual = seg.get("visual") or {}
-            prompt = (visual.get("prompt") or "").strip()
-            if not prompt:
+    model = get_model_by_name(
+        script.get("settings", {}).get("image_generation_style", "")
+    )
+    logging.info(
+        "STATUS visuals: model=%s size=%sx%s backend=%s",
+        model.get("name"),
+        model.get("width"),
+        model.get("height"),
+        os.getenv("VISUAL_BACKEND", "leonardo").strip().lower(),
+    )
+    total_segments = sum(len(s.get("segments", [])) for s in script.get("sections", []))
+    logging.info("STATUS visuals: total_segments=%s", total_segments)
+    for section in script.get("sections", []):
+        for seg in section.get("segments", []):
+            seg_id = f"sec{section.get('section_number', 0)}_seg{seg.get('segment_number', 0)}"
+            raw_prompt = seg.get("visual", {}).get("prompt", "")
+            if not raw_prompt:
+                logging.info("STATUS visuals: skip segment %s (no prompt)", seg_id)
                 continue
-
-            # ---- Preferred modern API: visuals.generate_visual() always returns a LOCAL PATH
-            if hasattr(visuals, "generate_visual"):
-                local_path = visuals.generate_visual(prompt, section_idx=section_idx, style_name=style_name)
-                if not local_path:
-                    logging.error(f"Visual generation failed (section {section_idx} seg {seg_idx}).")
-                    continue
-
-                out_path = IMAGES_DIR / f"sec{section_idx}_seg{seg_idx}.png"
-                visuals.download_content(local_path, str(out_path))  # smart: url OR local path
-                seg.setdefault("visual", {})
-                seg["visual"]["image_path"] = str(out_path)
-                continue
-
-            # ---- Old API: generate_image_with_retry() returns (gen_id_or_local_path, used_prompt)
-            gen_id_or_path, used_prompt = visuals.generate_image_with_retry(prompt, visuals.get_model_config_by_style(style_name))
-
-            if not gen_id_or_path:
-                logging.error(f"Visual generation failed (section {section_idx} seg {seg_idx}).")
-                continue
-
-            # Poll (Leonardo) OR local-path passthrough (ComfyUI shim returns complete dict)
-            result = visuals.poll_generation_status(gen_id_or_path)
-
-            # Extract URL (Leonardo) OR local path (ComfyUI shim returns local path)
-            url_or_path = visuals.extract_image_url(result)
-            if not url_or_path:
-                logging.error(f"No image URL/path returned (section {section_idx} seg {seg_idx}).")
-                continue
-
-            out_path = IMAGES_DIR / f"sec{section_idx}_seg{seg_idx}.png"
-            visuals.download_content(url_or_path, str(out_path))
-            seg.setdefault("visual", {})
-            seg["visual"]["image_path"] = str(out_path)
-
+            prompt = sanitize_visual_prompt(raw_prompt)
+            logging.debug("PROMPT raw %s: %s", seg_id, raw_prompt.replace("\n", " \\n "))
+            logging.info("PROMPT %s: %s", seg_id, prompt.replace("\n", " \\n "))
+            start = time.perf_counter()
+            url = generate_image_once(prompt, model)
+            elapsed = time.perf_counter() - start
+            logging.info("STATUS visuals: generated %s in %.1fs url=%s", seg_id, elapsed, url)
+            img_file = VISUALS_DIR / f"sec{section.get('section_number',0)}_seg{seg['segment_number']}.png"
+            download_file(url, img_file)
+            logging.info("STATUS visuals: saved %s -> %s", seg_id, img_file)
+            seg["visual"]["image_path"] = str(img_file)
     return script
 
+# ——— Create captions via Whisper —————————————————————————————————————
+def create_captions(video_path: str) -> Optional[list]:
+    if captions is None:
+        logging.info("Captions module not available; skipping captioning.")
+        return None
+    try:
+        logging.info("STATUS captions: extracting audio from %s", video_path)
+        audio_temp = captions.extract_audio(video_path)
+        logging.info("STATUS captions: transcribing %s", audio_temp)
+        transcription = captions.transcribe_audio_whisper(audio_temp)
+        caps = captions.generate_captions_from_whisper(transcription)
+        Path(audio_temp).unlink(missing_ok=True)
+        logging.info("STATUS captions: generated %s caption entries", len(caps))
+        return caps
+    except Exception as exc:
+        logging.warning(f"Captioning failed: {exc}")
+        return None
 
+# ——— Main pipeline —————————————————————————————————————————————
 def main():
-    # Load latest ready JSON
-    src = _latest_json(READY_DIR)
-    logging.info(f"Using: {src}")
+    logging.info("STATUS pipeline=start")
+    # 1. Generate assembler JSON
+    logging.info("=== 1. Generating assembler JSON (readasmb) ===")
+    logging.info("STATUS step=readasmb start")
+    start = time.perf_counter()
+    subprocess.run(["python3", "readasmb.py"], check=True)
+    logging.info("STATUS step=readasmb done elapsed=%.1fs", time.perf_counter() - start)
 
-    script = json.loads(src.read_text(encoding="utf-8"))
+    # 2. Pick latest ready JSON
+    ready_files = sorted(READY_DIR.glob("*.json"), key=lambda p: p.stat().st_mtime)
+    if not ready_files:
+        logging.error("No assembler JSON found in ./ready")
+        return
+    script_path = ready_files[-1]
+    logging.info(f"Using assembler JSON ➜ {script_path.name}")
+    logging.info("STATUS assembler_json=%s", script_path)
+    script = json.loads(script_path.read_text(encoding="utf-8"))
 
-    # Generate visuals
-    logging.info("Generating visuals...")
+    # 3. Visual generation
+    logging.info("=== 2. Visual generation ===")
+    logging.info("STATUS step=visuals start")
+    start = time.perf_counter()
     script = generate_and_download_images(script)
+    script_path.write_text(json.dumps(script, indent=4), encoding="utf-8")
+    logging.info("STATUS step=visuals done elapsed=%.1fs", time.perf_counter() - start)
 
-    # Save back to the same file (or change to OUT_JSON_DEFAULT if you prefer)
-    src.write_text(json.dumps(script, indent=4), encoding="utf-8")
-    logging.info(f"Updated JSON written: {src}")
+    # 4. Video assembly
+    logging.info("=== 3. Video assembly ===")
+    logging.info("STATUS step=assemble start")
+    start = time.perf_counter()
+    subprocess.run(["python3", "video_assemble.py", str(script_path)], check=True)
+    logging.info("STATUS step=assemble done elapsed=%.1fs", time.perf_counter() - start)
+    assembled = json.loads(script_path.read_text(encoding="utf-8"))
+    final_vid = Path(assembled.get("final_video", ""))
+    if not final_vid.exists():
+        logging.error(f"video_assemble did not produce expected file: {final_vid}")
+        return
+    logging.info("STATUS assembled_video=%s", final_vid)
 
+    # 5. Whisper captioning
+    logging.info("=== 4. Whisper captioning ===")
+    logging.info("STATUS step=captions start")
+    start = time.perf_counter()
+    cap_vid = final_vid.with_name(final_vid.stem + "_cap.mp4")
+    caps = create_captions(str(final_vid))
+    if caps:
+        try:
+            captions.add_captions_to_video(
+                input_video_path=str(final_vid),
+                transcription=caps,
+                output_video_path=str(cap_vid),
+            )
+        except Exception as exc:
+            logging.warning(f"Caption overlay failed: {exc}")
+    if not cap_vid.exists():
+        cap_vid = final_vid
+    logging.info("STATUS step=captions done elapsed=%.1fs output=%s", time.perf_counter() - start, cap_vid)
+
+    # 6. Overlay text
+    logging.info("=== 5. Overlay text ===")
+    logging.info("STATUS step=overlay start")
+    start = time.perf_counter()
+    out_path = FINAL_VIDEO_DIR / f"{script_path.stem}_final.mp4"
+    status = subprocess.run([
+        "python3", "overlay.py",
+        "--json", str(script_path),
+        "--video", str(cap_vid),
+        "--output", str(out_path),
+    ])
+    if status.returncode != 0:
+        logging.error("overlay.py failed")
+        return
+    logging.info("STATUS step=overlay done elapsed=%.1fs", time.perf_counter() - start)
+    logging.info(f"Overlay complete ➜ {out_path}")
+
+    # 7. Upload sequence
+    #logging.info("=== 6. Uploading ===")
+    #try:
+    #    from oauth_get2 import refresh_token
+    #    refresh_token()
+    #    logging.info("OAuth refresh: SUCCESS")
+    #except Exception as e:
+    #    logging.error(f"OAuth refresh failed: {e}")
+
+    #for uploader, name in [(upload_youtube, "YouTube"), (upload_facebook, "Facebook"), (upload_instagram, "Instagram")]:
+    #    try:
+    #        result = uploader(str(script_path))
+    #        logging.info(f"{name} upload ✓ {result}")
+    #    except Exception as exc:
+    #        logging.error(f"{name} upload failed: {exc}")
+
+    logging.info("=== Pipeline finished successfully ===")
+    logging.info("STATUS pipeline=success")
 
 if __name__ == "__main__":
     main()

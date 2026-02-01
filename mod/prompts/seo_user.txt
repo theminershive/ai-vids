@@ -1,0 +1,10 @@
+Write an SEO-optimized YouTube description and a list of viral hashtags.
+Rules:
+- 3-4 sentence paragraph, high-search keywords.
+- Summarize why the story is bizarre or fascinating.
+- Encourage comments and subscriptions.
+- Provide up to 10 hashtags on separate lines.
+Return JSON: {"description": "...", "tags": ["#tag"]}.
+Title: {title}
+Narration:
+{fact_text}

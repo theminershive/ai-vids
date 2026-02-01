@@ -1,0 +1,94 @@
+{
+  "channel": {
+    "name": "Topic Shorts",
+    "cta_text": "Thanks for watching! Subscribe!",
+    "image_generation_style": "Leonardo Phoenix 1.0"
+  },
+  "paths": {
+    "ready_dir": "ready",
+    "visuals_dir": "visuals",
+    "final_dir": "final",
+    "sounds_dir": "sounds",
+    "audio_dir": "audio",
+    "fallback_bg_music": "fallbacks/default_bg_music.mp3",
+    "fallback_transition": "fallbacks/default_transition.mp3",
+    "fonts_dir": "fonts",
+    "memory_dir": "memory"
+  },
+  "prompts": {
+    "script_system": "prompts/script_system.txt",
+    "script_templates": "prompts/script_templates.json",
+    "seo_system": "prompts/seo_system.txt",
+    "seo_user": "prompts/seo_user.txt"
+  },
+  "topics": {
+    "seeds": "prompts/topic_seeds.json",
+    "hooks": "prompts/hooks.json",
+    "structures": "prompts/structures.json",
+    "twists": "prompts/twists.json"
+  },
+  "openai": {
+    "model": "gpt-5.2",
+    "temperature_range": [0.72, 0.95],
+    "request_timeout": 45,
+    "max_retries": 4
+  },
+  "image_backend": {
+    "visual_backend": "comfyui",
+    "comfyui_base_url": "http://192.168.1.176:8188",
+    "comfyui_timeout_s": 1800,
+    "comfyui_poll_s": 2.0,
+    "comfyui_width": "",
+    "comfyui_height": "",
+    "comfyui_lora_name": "Flux_2-Turbo-LoRA_comfyui.safetensors",
+    "leonardo_api_endpoint": "https://cloud.leonardo.ai/api/rest/v1",
+    "local_prompt_rewrite_url": "http://192.168.1.176:11434/api/generate",
+    "local_prompt_rewrite_model": "qwen2.5:14b-instruct-q4_K_M"
+  },
+  "video": {
+    "size": "1080x1920",
+    "fps": 24,
+    "use_transitions": true,
+    "use_background_music": true,
+    "bg_music_volume": 0.15,
+    "transition_volume": 0.05,
+    "bg_music_tag": "cinematic",
+    "freesound_user": "Nancy_Sinclair",
+    "narration_initial_delay": 0.25,
+    "end_extension": 0.5
+  },
+  "captions": {
+    "text_size": 85,
+    "font": "Bangers-Regular.ttf",
+    "color": "white",
+    "stroke_color": "black",
+    "stroke_width": 1,
+    "max_words_per_caption": 8
+  },
+  "overlay": {
+    "start_text": "{reference}",
+    "end_text": "Thanks for watching! Subscribe!",
+    "start_font": "fonts/Bangers-Regular.ttf",
+    "end_font": "fonts/Bangers-Regular.ttf",
+    "start_fontsize": 75,
+    "end_fontsize": 75,
+    "text_color": "white",
+    "bg_color": [0, 0, 0],
+    "bg_opacity": 0.3,
+    "padding": 5,
+    "fade_duration": 1.0,
+    "end_duration": 7.0
+  },
+  "memory": {
+    "topics_file": "memory/recent_topics.json",
+    "styles_file": "memory/recent_styles.json",
+    "hooks_file": "memory/recent_hooks.json",
+    "history_file": "memory/facts_history.json",
+    "history_depth": 12
+  },
+  "segments": {
+    "count": 2,
+    "min_words": 18,
+    "max_words": 55
+  }
+}

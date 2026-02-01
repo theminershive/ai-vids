@@ -1,0 +1,26 @@
+[
+  {
+    "name": "question_lead",
+    "template": "You are crafting a viral short. Start with an unsettling question, then reveal the answer.\nTopic: {topic}\nHook: {hook}\nRequirements:\n- Use #HOOK, #BODY, #OUTRO tags on separate lines.\n- 95-120 words total.\n- Keep sentences punchy; no repeated openers.\n- Avoid clichés and avoid repeating recent structures.\n- Provide a vivid visual prompt.\n"
+  },
+  {
+    "name": "timeline_reveal",
+    "template": "Write a fast timeline-style reveal about the topic below, with a twist at the end.\nTopic: {topic}\nHook: {hook}\nRequirements:\n- #HOOK, #BODY, #OUTRO tags.\n- 90-115 words.\n- Use time markers like 'First', 'Then', 'Finally'.\n- Avoid repeated wording from prior outputs.\n- Provide a cinematic visual prompt.\n"
+  },
+  {
+    "name": "contrast_twist",
+    "template": "Create a contrast-driven short: begin with expectation, then flip it.\nTopic: {topic}\nHook: {hook}\nRequirements:\n- #HOOK, #BODY, #OUTRO tags.\n- 95-120 words.\n- Explicitly contrast 'everyone thought' vs 'what actually happened'.\n- Provide a visual prompt with specific scene details.\n"
+  },
+  {
+    "name": "myth_bust",
+    "template": "Bust a myth in a short-form script about the topic.\nTopic: {topic}\nHook: {hook}\nRequirements:\n- #HOOK, #BODY, #OUTRO tags.\n- 90-115 words.\n- Include one surprising verified detail.\n- Provide a visual prompt in one sentence.\n"
+  },
+  {
+    "name": "mystery_payoff",
+    "template": "Frame this as a mystery that pays off with a revelation.\nTopic: {topic}\nHook: {hook}\nRequirements:\n- #HOOK, #BODY, #OUTRO tags.\n- 95-120 words.\n- Avoid repeating the hook phrasing elsewhere.\n- Provide a visual prompt with mood, lighting, and era.\n"
+  },
+  {
+    "name": "micro_casefile",
+    "template": "Write this like a micro casefile summary with a sharp closing line.\nTopic: {topic}\nHook: {hook}\nRequirements:\n- #HOOK, #BODY, #OUTRO tags.\n- 90-115 words.\n- Keep tone eerie but factual.\n- Provide a detailed visual prompt.\n"
+  }
+]

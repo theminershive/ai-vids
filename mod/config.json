@@ -1,0 +1,72 @@
+{
+  "channel": {
+    "name": "Truth Tellers",
+    "cta_text": "Subscribe for Daily Truths",
+    "image_generation_style": "Leonardo Phoenix 1.0"
+  },
+  "paths": {
+    "ready_dir": "ready",
+    "visuals_dir": "visuals",
+    "final_dir": "final",
+    "sounds_dir": "sounds",
+    "fallback_bg_music": "fallbacks/default_bg_music.mp3",
+    "fonts_dir": "fonts",
+    "memory_dir": "memory"
+  },
+  "prompts": {
+    "script_system": "prompts/script_system.txt",
+    "script_templates": "prompts/script_templates.json",
+    "seo_system": "prompts/seo_system.txt",
+    "seo_user": "prompts/seo_user.txt"
+  },
+  "topics": {
+    "seeds": "prompts/topic_seeds.json",
+    "hooks": "prompts/hooks.json",
+    "structures": "prompts/structures.json",
+    "twists": "prompts/twists.json"
+  },
+  "openai": {
+    "model": "gpt-5.2",
+    "image_model": "gpt-image-1",
+    "temperature_range": [0.72, 0.95],
+    "request_timeout": 45,
+    "max_retries": 4
+  },
+  "image_backend": {
+    "type": "flux",
+    "flux_api_url": "",
+    "flux_workflow_name": "",
+    "flux_timeout": 90
+  },
+  "video": {
+    "duration_s": 15.0,
+    "fps": 30,
+    "fade_in_s": 1.0,
+    "fade_out_s": 1.0,
+    "size": "1080x1920",
+    "bg_music_volume": 0.08,
+    "bg_music_tag": "cinematic",
+    "freesound_user": "Nancy_Sinclair"
+  },
+  "overlay": {
+    "name_font": "fonts/Anton-Regular.ttf",
+    "verse_font": "fonts/Montserrat-Bold.ttf",
+    "name_fontsize": 70,
+    "verse_fontsize": 45,
+    "cta_fontsize": 35,
+    "text_color": "white",
+    "bg_color": [0, 0, 0],
+    "opacity": 0.5,
+    "padding": 30,
+    "name_pos": ["center", 50],
+    "use_stroke": false,
+    "show_cta": true
+  },
+  "memory": {
+    "topics_file": "memory/recent_topics.json",
+    "styles_file": "memory/recent_styles.json",
+    "hooks_file": "memory/recent_hooks.json",
+    "history_file": "memory/facts_history.json",
+    "history_depth": 12
+  }
+}

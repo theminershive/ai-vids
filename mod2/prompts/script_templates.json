@@ -1,0 +1,26 @@
+[
+  {
+    "name": "question_lead",
+    "template": "Create a short, punchy script broken into {segments_count} segments.\nTopic: {topic}\nHook: {hook}\nRequirements:\n- Return ONLY JSON with keys: title, segments.\n- segments is a list of objects with keys: narration, visual_prompt.\n- Each narration is 1-2 sentences, 18-55 words.\n- Each visual_prompt is 1 sentence, cinematic, vertical 9:16, no text.\n- Keep tone curious and vivid.\n- IMPORTANT: output raw JSON only (no quotes, no markdown, no extra text).\n"
+  },
+  {
+    "name": "timeline_reveal",
+    "template": "Write a timeline-style reveal, split into {segments_count} segments.\nTopic: {topic}\nHook: {hook}\nRequirements:\n- Return ONLY JSON with keys: title, segments.\n- segments: narration + visual_prompt.\n- Narration uses time markers (First/Then/Finally).\n- Visual prompts are cinematic, vertical 9:16, no text.\n- IMPORTANT: output raw JSON only (no quotes, no markdown, no extra text).\n"
+  },
+  {
+    "name": "contrast_twist",
+    "template": "Create a contrast-driven script in {segments_count} segments.\nTopic: {topic}\nHook: {hook}\nRequirements:\n- JSON only: {\"title\":..., \"segments\":[{\"narration\":..., \"visual_prompt\":...}]}.\n- Explicitly contrast expectation vs reality.\n- Visual prompts include mood, lighting, era; no text.\n- IMPORTANT: output raw JSON only (no quotes, no markdown, no extra text).\n"
+  },
+  {
+    "name": "myth_bust",
+    "template": "Bust a myth in {segments_count} segments.\nTopic: {topic}\nHook: {hook}\nRequirements:\n- JSON only with title + segments list.\n- Include a surprising verified detail.\n- Visual prompts: 1 sentence, vertical 9:16, no text.\n- IMPORTANT: output raw JSON only (no quotes, no markdown, no extra text).\n"
+  },
+  {
+    "name": "mystery_payoff",
+    "template": "Frame this as a mystery with a payoff, split into {segments_count} segments.\nTopic: {topic}\nHook: {hook}\nRequirements:\n- JSON only with title + segments list.\n- Visual prompts include mood + lighting + era, no text.\n- IMPORTANT: output raw JSON only (no quotes, no markdown, no extra text).\n"
+  },
+  {
+    "name": "micro_casefile",
+    "template": "Write this like a micro casefile in {segments_count} segments.\nTopic: {topic}\nHook: {hook}\nRequirements:\n- JSON only: title + segments list.\n- Tone eerie but factual.\n- Visual prompts are detailed and vertical 9:16, no text.\n- IMPORTANT: output raw JSON only (no quotes, no markdown, no extra text).\n"
+  }
+]

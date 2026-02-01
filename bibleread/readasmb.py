@@ -6,15 +6,27 @@ import json
 import re
 from pathlib import Path
 from dotenv import load_dotenv
-import openai
+import requests
 
 # Load environment variables from .env if present
 dotenv_path = Path(__file__).parent / '.env'
 if dotenv_path.exists():
     load_dotenv(dotenv_path)
 
-openai.api_key = os.getenv("OPENAI_API_KEY")
-MODEL = os.getenv("OPENAI_MODEL", "gpt-4.1")
+VISUAL_PROMPT_BACKEND = os.getenv("VISUAL_PROMPT_BACKEND", "qwen").strip().lower()
+OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
+OPENAI_MODEL = os.getenv("OPENAI_MODEL", "gpt-4.1")
+
+# Local Qwen settings (OpenAI-compatible or Ollama)
+QWEN_BASE_URL = os.getenv("QWEN_BASE_URL", "http://192.168.1.176:11434").rstrip("/")
+QWEN_MODEL = os.getenv(
+    "QWEN_MODEL",
+    os.getenv("OLLAMA_MODEL", "qwen2.5:14b-instruct-q4_K_M")
+).strip()
+QWEN_API_KEY = os.getenv("QWEN_API_KEY", "").strip()
+QWEN_API_MODE = os.getenv("QWEN_API_MODE", "").strip().lower()  # "openai" or "ollama"
+QWEN_TEMPERATURE = float(os.getenv("QWEN_TEMPERATURE", "0.7"))
+QWEN_MAX_TOKENS = int(os.getenv("QWEN_MAX_TOKENS", "150"))
 
 # Tracking processed inputs
 PROCESSED_FILE = 'processed_files.json'
@@ -39,26 +51,81 @@ def save_processed(processed):
     Path(PROCESSED_FILE).write_text(json.dumps(sorted(processed), indent=2))
 
 
+def _qwen_chat(messages):
+    if not QWEN_MODEL:
+        raise RuntimeError("QWEN_MODEL is not set (required for local Qwen).")
+
+    api_mode = QWEN_API_MODE
+    if not api_mode:
+        api_mode = "openai" if QWEN_BASE_URL.endswith("/v1") else "ollama"
+
+    if api_mode == "openai":
+        url = f"{QWEN_BASE_URL}/chat/completions"
+        headers = {"Content-Type": "application/json"}
+        if QWEN_API_KEY:
+            headers["Authorization"] = f"Bearer {QWEN_API_KEY}"
+        payload = {
+            "model": QWEN_MODEL,
+            "messages": messages,
+            "temperature": QWEN_TEMPERATURE,
+            "max_tokens": QWEN_MAX_TOKENS,
+        }
+        resp = requests.post(url, headers=headers, json=payload, timeout=120)
+        resp.raise_for_status()
+        data = resp.json()
+        return data["choices"][0]["message"]["content"].strip()
+
+    # Ollama chat API
+    url = f"{QWEN_BASE_URL}/api/chat"
+    payload = {
+        "model": QWEN_MODEL,
+        "messages": messages,
+        "stream": False,
+        "options": {
+            "temperature": QWEN_TEMPERATURE,
+            "num_predict": QWEN_MAX_TOKENS,
+        },
+    }
+    resp = requests.post(url, json=payload, timeout=120)
+    resp.raise_for_status()
+    data = resp.json()
+    return data["message"]["content"].strip()
+
+
+def _openai_chat(messages):
+    try:
+        import openai  # lazy import
+    except Exception as exc:
+        raise RuntimeError("openai package not available") from exc
+    if not OPENAI_API_KEY:
+        raise RuntimeError("OPENAI_API_KEY is not set.")
+    openai.api_key = OPENAI_API_KEY
+    response = openai.ChatCompletion.create(
+        model=OPENAI_MODEL,
+        messages=messages,
+        temperature=0.7,
+        max_tokens=150,
+    )
+    return response.choices[0].message.content.strip()
+
+
 def generate_similar_visual_prompt(base_prompt, narration_text):
     """
     Generate a new visual prompt similar in style to `base_prompt` but tailored to `narration_text`.
     """
+    messages = [
+        {"role": "system", "content": "You are a visual creative assistant."},
+        {"role": "user", "content": (
+            f"Create a vivid and descriptive image prompt for the following Bible passage, "
+            f"matching the style of this existing prompt: '{base_prompt}'.\n\n"
+            f"Text: '{narration_text}'\n\n"
+            "Be creative but stay thematically consistent."
+        )}
+    ]
     try:
-        response = openai.ChatCompletion.create(
-            model=MODEL,
-            messages=[
-                {"role": "system", "content": "You are a visual creative assistant."},
-                {"role": "user", "content": (
-                    f"Create a vivid and descriptive image prompt for the following Bible passage, "
-                    f"matching the style of this existing prompt: '{base_prompt}'.\n\n"
-                    f"Text: '{narration_text}'\n\n"
-                    "Be creative but stay thematically consistent."
-                )}
-            ],
-            temperature=0.7,
-            max_tokens=150,
-        )
-        return response.choices[0].message.content.strip()
+        if VISUAL_PROMPT_BACKEND == "openai":
+            return _openai_chat(messages)
+        return _qwen_chat(messages)
     except Exception as e:
         print(f"[ERROR] Failed visual prompt generation: {e}")
         return base_prompt + " (continued)"

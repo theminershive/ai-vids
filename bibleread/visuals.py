@@ -1,131 +1,148 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+visuals.py
+
+Backend-agnostic image generation helpers. Supports:
+- Leonardo (legacy)
+- ComfyUI (local)
+"""
 import os
+import sys
 import json
 import time
 import logging
-import random
-import shutil
 import requests
+import shutil
+import random
 from pathlib import Path
+from dotenv import load_dotenv
 from urllib.parse import urlparse
 
-from dotenv import load_dotenv
+# Setup logging
+default_log = logging.StreamHandler()
+logging.basicConfig(level=logging.INFO,
+                    handlers=[default_log],
+                    format='%(asctime)s [%(levelname)s] %(message)s')
 
-# Optional: only required for Leonardo moderation rewrite
-try:
-    import openai
-except Exception:
-    openai = None
+# Load env
+dotenv_path = Path(__file__).parent / '.env'
+if dotenv_path.exists():
+    load_dotenv(dotenv_path)
 
-# ------------------- CONFIG -------------------
-load_dotenv()
+LEO_ENDPOINT = 'https://cloud.leonardo.ai/api/rest/v1'
+VISUAL_BACKEND = os.getenv('VISUAL_BACKEND', 'leonardo').strip().lower()
 
-VISUAL_BACKEND = os.getenv("VISUAL_BACKEND", "comfyui").strip().lower()  # comfyui | leonardo
-
-# Leonardo vars
-LEONARDO_API_KEY = os.getenv("LEONARDO_API_KEY")
-OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
-LEONARDO_API_ENDPOINT = "https://cloud.leonardo.ai/api/rest/v1"
-
-# ComfyUI vars
-COMFYUI_BASE_URL = os.getenv("COMFYUI_BASE_URL", "http://192.168.1.176:8188").rstrip("/")
-COMFYUI_TIMEOUT_S = int(os.getenv("COMFYUI_TIMEOUT_S", "1800"))
-COMFYUI_POLL_S = float(os.getenv("COMFYUI_POLL_S", "2.0"))
-COMFYUI_WIDTH = os.getenv("COMFYUI_WIDTH", "").strip()
-COMFYUI_HEIGHT = os.getenv("COMFYUI_HEIGHT", "").strip()
-COMFYUI_LORA_NAME = os.getenv("COMFYUI_LORA_NAME", "Flux_2-Turbo-LoRA_comfyui.safetensors").strip()
-
-# Output
-OUTPUT_DIR = os.getenv("VISUAL_OUTPUT_DIR", "downloaded_content")
-os.makedirs(OUTPUT_DIR, exist_ok=True)
-
-# Retry configuration
-MAX_RETRIES = int(os.getenv("VISUAL_MAX_RETRIES", "3"))
-RETRY_DELAY = float(os.getenv("VISUAL_RETRY_DELAY", "2"))
-
-# Default negative prompt to avoid unwanted text in generated images (Leonardo only)
-NEGATIVE_PROMPT_DEFAULT = os.getenv("NEGATIVE_PROMPT_DEFAULT", "text")
+# ComfyUI settings
+COMFYUI_BASE_URL = os.getenv('COMFYUI_BASE_URL', 'http://192.168.1.176:8188').rstrip('/')
+COMFYUI_WIDTH = int(os.getenv('COMFYUI_WIDTH', '1080'))
+COMFYUI_HEIGHT = int(os.getenv('COMFYUI_HEIGHT', '1920'))
+COMFYUI_STEPS = int(os.getenv('COMFYUI_STEPS', '20'))
+COMFYUI_CFG = float(os.getenv('COMFYUI_CFG', '7'))
+COMFYUI_SAMPLER = os.getenv('COMFYUI_SAMPLER', 'dpmpp_2m')
+COMFYUI_SCHEDULER = os.getenv('COMFYUI_SCHEDULER', 'karras')
+COMFYUI_SEED = int(os.getenv('COMFYUI_SEED', '-1'))
+COMFYUI_NEGATIVE_PROMPT = os.getenv(
+    'COMFYUI_NEGATIVE_PROMPT',
+    'text, watermark, signature, logo, blurry'
+)
+COMFYUI_FILENAME_PREFIX = os.getenv('COMFYUI_FILENAME_PREFIX', 'bibleread')
+COMFYUI_LORA_NAME = os.getenv('COMFYUI_LORA_NAME', 'Flux_2-Turbo-LoRA_comfyui.safetensors').strip()
+COMFYUI_TIMEOUT_S = int(os.getenv('COMFYUI_TIMEOUT_S', '1800'))
+COMFYUI_POLL_S = float(os.getenv('COMFYUI_POLL_S', '2.0'))
 
 # Strong "no text" guidance appended to the POSITIVE prompt (for workflows without an explicit negative node)
 NO_TEXT_POSITIVE_GUIDANCE = os.getenv(
-    "NO_TEXT_POSITIVE_GUIDANCE",
+    'NO_TEXT_POSITIVE_GUIDANCE',
     (
-        "NO TEXT: no letters, no words, no typography, no logos, no watermarks, no signage, "
-        "no captions, no UI overlays, no labels, no QR codes, no barcodes, no license plates, "
-        "no posters, no newspaper, no book text."
+        'NO TEXT: no letters, no words, no typography, no logos, no watermarks, no signage, '
+        'no captions, no UI overlays, no labels, no QR codes, no barcodes, no license plates, '
+        'no posters, no newspaper, no book text.'
     )
 ).strip()
 
-# Logging setup
-logging.basicConfig(
-    level=logging.INFO,
-    format="%(asctime)s [%(levelname)s] %(message)s",
-    handlers=[logging.StreamHandler(), logging.FileHandler("visuals.log")],
-)
 
-if VISUAL_BACKEND not in ("comfyui", "leonardo"):
-    raise ValueError("VISUAL_BACKEND must be 'comfyui' or 'leonardo'")
-
-# ------------------- Leonardo headers -------------------
-AUTHORIZATION = f"Bearer {LEONARDO_API_KEY}" if LEONARDO_API_KEY else ""
-HEADERS = {
-    "accept": "application/json",
-    "content-type": "application/json",
-    "authorization": AUTHORIZATION,
-}
-
-# ---------------------------------------------------------------------------- #
-# Leonardo Model Configuration                                                  #
-# ---------------------------------------------------------------------------- #
-def get_model_config():
+def _get_headers() -> dict:
+    api_key = os.getenv('LEONARDO_API_KEY')
+    if not api_key:
+        raise RuntimeError("LEONARDO_API_KEY not set in environment")
     return {
-        "id": "de7d3faf-762f-48e0-b3b7-9d0ac3a3fcf3",
-        "width": 576,
-        "height": 1024,
-        "num_images": 1,
-        "alchemy": True,
-        "enhancePrompt": False,
-        "photoReal": False,
-        "photoRealVersion": "",
-        "presetStyle": "CINEMATIC",
-        "negative_prompt": NEGATIVE_PROMPT_DEFAULT,
+        'Authorization': f'Bearer {api_key}',
+        'Content-Type': 'application/json',
+        'accept': 'application/json'
     }
 
-def get_model_config_by_style(style_name=None):
-    return get_model_config()
+# Models (subset of your original list)
+CUSTOM_MODELS = [
+    { 'id': 'b2614463-296c-462a-9586-aafdb8f00e36', 'name': 'Leonardo Phoenix 1.0', 'width': 576, 'height': 1024 },
+    { 'id': 'b2614463-296c-462a-9586-aafdb8f00e36', 'name': 'Flux Dev',         'width': 576, 'height': 1024 },
+]
+STYLE_ALIASES = { 'phoenix': 'Leonardo Phoenix 1.0', 'leonardo phoenix': 'Leonardo Phoenix 1.0' }
 
-# ---------------------------------------------------------------------------- #
-# Prompt rewriting (Leonardo moderation helper)                                 #
-# ---------------------------------------------------------------------------- #
-def rewrite_prompt(original_prompt: str) -> str:
-    if not openai or not OPENAI_API_KEY:
-        return original_prompt
 
-    try:
-        openai.api_key = OPENAI_API_KEY
-        resp = openai.ChatCompletion.create(
-            model="gpt-4o",
-            messages=[
-                {
-                    "role": "system",
-                    "content": (
-                        "You rewrite image prompts to remove or soften any content that might be blocked "
-                        "by moderation, while preserving the core scene and details."
-                    ),
-                },
-                {"role": "user", "content": f"Rewrite this image prompt to be safe:\n{original_prompt}"},
-            ],
-            max_tokens=200,
-        )
-        new_prompt = resp.choices[0].message.content.strip()
-        logging.info(f"Rewritten prompt: {new_prompt}")
-        return new_prompt
-    except Exception as e:
-        logging.warning(f"Prompt rewrite failed, using original. Error: {e}")
-        return original_prompt
+def get_model_by_name(name: str) -> dict:
+    if VISUAL_BACKEND == 'comfyui':
+        return {
+            'id': 'comfyui',
+            'name': 'ComfyUI',
+            'width': COMFYUI_WIDTH,
+            'height': COMFYUI_HEIGHT,
+        }
+    # resolve alias
+    key = name.strip().lower()
+    name = STYLE_ALIASES.get(key, name)
+    for m in CUSTOM_MODELS:
+        if m['name'].lower() == name.lower():
+            return m
+    logging.warning(f"Style '{name}' not found, falling back to first model")
+    return CUSTOM_MODELS[0]
 
-# ---------------------------------------------------------------------------- #
-# Prompt cleanup / augmentation for Flux2                                       #
-# ---------------------------------------------------------------------------- #
+
+def generate_image_once(prompt: str, model: dict) -> str:
+    """Submit one generation, poll until complete, return image URL."""
+    if VISUAL_BACKEND == 'comfyui':
+        return _generate_comfyui_image(prompt, model)
+    payload = {
+        'prompt': prompt,
+        'modelId': model['id'],
+        'width': model['width'],
+        'height': model['height'],
+        'num_images': 1,
+        'negative_prompt': "text, watermark, signature, logo, blurry"
+    }
+    # POST to /generations
+    url = f"{LEO_ENDPOINT}/generations"
+    headers = _get_headers()
+    resp = requests.post(url, headers=headers, json=payload)
+    resp.raise_for_status()
+    data = resp.json()
+    gen_id = data.get('generations_by_pk', {}).get('id') or data.get('sdGenerationJob', {}).get('generationId')
+    if not gen_id:
+        raise RuntimeError("No generation ID in response")
+    logging.info(f"Generation started: {gen_id}")
+
+    # Poll
+    for i in range(30):
+        time.sleep(2)
+        poll = requests.get(f"{LEO_ENDPOINT}/generations/{gen_id}", headers=headers)
+        poll.raise_for_status()
+        st = poll.json()
+        status = (st.get('status') or
+                  st.get('generations_by_pk', {}).get('status') or
+                  st.get('sdGenerationJob', {}).get('status'))
+        if status and status.lower() == 'complete':
+            # extract URL
+            imgs = st.get('generations_by_pk', {}).get('generated_images') or []
+            if imgs:
+                return imgs[0].get('url')
+            # fallback
+            url_fb = st.get('sdGenerationJob', {}).get('imageUrl')
+            if url_fb:
+                return url_fb
+            break
+    raise RuntimeError("Image generation timeout or no URL returned")
+
+
 def normalize_flux2_prompt(prompt: str) -> str:
     """
     Requirements:
@@ -139,146 +156,23 @@ def normalize_flux2_prompt(prompt: str) -> str:
     lower = p.lower()
 
     prefixes = [
-        "vivid scene for:",
-        "vivid scene for :",
-        "vivid scene:",
-        "vivid scene :",
+        'vivid scene for:',
+        'vivid scene for :',
+        'vivid scene:',
+        'vivid scene :',
     ]
     for pref in prefixes:
         if lower.startswith(pref):
             p = p[len(pref):].strip()
             break
 
-    # Append no-text guidance (kept as a separate paragraph)
-    if "no text" not in p.lower():
+    if 'no text' not in p.lower():
         p = f"{p}\n\n{NO_TEXT_POSITIVE_GUIDANCE}"
 
     return p
 
-# ---------------------------------------------------------------------------- #
-# SMART download helper: URL OR LOCAL PATH                                      #
-# ---------------------------------------------------------------------------- #
-def download_content(url_or_path: str, filename: str):
-    parsed = urlparse(url_or_path)
 
-    # Real URL (http/https)
-    if parsed.scheme in ("http", "https"):
-        resp = requests.get(url_or_path, stream=True, timeout=300)
-        resp.raise_for_status()
-        with open(filename, "wb") as f:
-            for chunk in resp.iter_content(1024 * 64):
-                if chunk:
-                    f.write(chunk)
-        logging.info(f"Downloaded remote image -> {filename}")
-        return filename
-
-    # Local path
-    src = Path(url_or_path)
-    dst = Path(filename)
-    if not src.exists():
-        raise FileNotFoundError(f"Local image not found: {src}")
-
-    dst.parent.mkdir(parents=True, exist_ok=True)
-    shutil.copy(src, dst)
-    logging.info(f"Copied local image -> {filename}")
-    return filename
-
-# ---------------------------------------------------------------------------- #
-# Leonardo pipeline                                                             #
-# ---------------------------------------------------------------------------- #
-def generate_image_leonardo(prompt: str, model_config: dict = None) -> str:
-    if not LEONARDO_API_KEY:
-        raise RuntimeError("LEONARDO_API_KEY missing but VISUAL_BACKEND=leonardo")
-
-    config = model_config if model_config is not None else get_model_config()
-    payload = {
-        "modelId": config["id"],
-        "height": config["height"],
-        "width": config["width"],
-        "num_images": config["num_images"],
-        "alchemy": config["alchemy"],
-        "photoReal": config["photoReal"],
-        "photoRealVersion": config["photoRealVersion"],
-        "enhancePrompt": config["enhancePrompt"],
-        "presetStyle": config["presetStyle"],
-        "prompt": prompt,
-        "negative_prompt": config.get("negative_prompt", ""),
-    }
-    logging.info(f"Leonardo requesting generation: {prompt}")
-    resp = requests.post(
-        f"{LEONARDO_API_ENDPOINT}/generations",
-        json=payload,
-        headers=HEADERS,
-        timeout=120
-    )
-    resp.raise_for_status()
-    data = resp.json()
-    gen = data.get("generations_by_pk") or data.get("sdGenerationJob")
-    generation_id = gen.get("id") or gen.get("generationId")
-    if not generation_id:
-        raise RuntimeError(f"No generation ID returned: {data}")
-    logging.info(f"Leonardo generation initiated: {generation_id}")
-    return generation_id
-
-def poll_generation_status_leonardo(generation_id: str, wait_time: float = 10) -> dict:
-    for attempt in range(1, 31):
-        try:
-            resp = requests.get(
-                f"{LEONARDO_API_ENDPOINT}/generations/{generation_id}",
-                headers=HEADERS,
-                timeout=120
-            )
-            resp.raise_for_status()
-            data = resp.json() if resp.content else {}
-
-            status = (
-                data.get("status")
-                or data.get("generations_by_pk", {}).get("status")
-                or data.get("sdGenerationJob", {}).get("status", "")
-            ).lower()
-
-            logging.info(f"Leonardo poll {attempt}/30: {status}")
-
-            if status == "complete":
-                return data
-            if status == "failed":
-                raise RuntimeError("Leonardo generation failed.")
-        except requests.exceptions.RequestException as e:
-            logging.warning(f"Leonardo poll error attempt {attempt}: {e}")
-
-        delay = wait_time + (attempt * 0.5)
-        time.sleep(delay)
-
-    raise RuntimeError("Leonardo generation timed out after 30 polling attempts.")
-
-def extract_image_url_leonardo(generation_data: dict) -> str:
-    img_list = generation_data.get("generations_by_pk", {}).get("generated_images", []) or \
-               generation_data.get("sdGenerationJob", {}).get("generated_images", [])
-    if img_list:
-        return img_list[0].get("url")
-    return None
-
-def generate_image_with_retry_leonardo(prompt: str, model_config: dict = None) -> (str, str):
-    attempt_prompt = prompt
-    for attempt in range(1, MAX_RETRIES + 1):
-        try:
-            gen_id = generate_image_leonardo(attempt_prompt, model_config)
-            return gen_id, attempt_prompt
-        except requests.exceptions.HTTPError as http_err:
-            code = getattr(http_err.response, "status_code", None)
-            logging.warning(f"Leonardo HTTP {code} attempt {attempt}")
-            if code == 403:
-                attempt_prompt = rewrite_prompt(attempt_prompt)
-        except Exception as err:
-            logging.error(f"Leonardo attempt {attempt} error: {err}")
-        time.sleep(RETRY_DELAY * attempt)
-
-    logging.error(f"Leonardo retries exhausted for prompt: {prompt}")
-    return None, prompt
-
-# ---------------------------------------------------------------------------- #
-# ComfyUI workflow (Flux2 Turbo LoRA)                                           #
-# ---------------------------------------------------------------------------- #
+# ComfyUI workflow (Flux2 Turbo LoRA)
 COMFYUI_WORKFLOW_TEMPLATE = {
   "9": {
     "inputs": {
@@ -370,26 +264,18 @@ COMFYUI_WORKFLOW_TEMPLATE = {
   }
 }
 
+
 def _remap_node_ids_for_comfyui_api(workflow: dict) -> dict:
-    """
-    ComfyUI /prompt typically expects node ids to be simple numeric strings.
-    Your workflow uses ids like "68:10". This function remaps:
-      - keys "68:10" -> "10"
-      - any references ["68:10", 0] -> ["10", 0]
-    If a key has no ":" it is kept as-is.
-    """
     mapping = {}
     for k in workflow.keys():
         if isinstance(k, str) and ":" in k:
-            suffix = k.split(":")[-1]
-            mapping[k] = suffix
+            mapping[k] = k.split(":")[-1]
         else:
             mapping[k] = k
 
     new_wf = {}
     for old_k, node in workflow.items():
-        new_k = mapping[old_k]
-        new_wf[new_k] = node
+        new_wf[mapping[old_k]] = node
 
     def rewrite_value(v):
         if isinstance(v, list):
@@ -402,62 +288,49 @@ def _remap_node_ids_for_comfyui_api(workflow: dict) -> dict:
 
     return rewrite_value(new_wf)
 
-def comfyui_build_workflow(prompt: str, section_idx: int) -> dict:
-    wf = json.loads(json.dumps(COMFYUI_WORKFLOW_TEMPLATE))  # deep copy
 
-    normalized = normalize_flux2_prompt(prompt)
-    wf["68:6"]["inputs"]["text"] = normalized
-
-    # Force the lora name to one ComfyUI actually has
+def comfyui_build_workflow(prompt: str) -> dict:
+    wf = json.loads(json.dumps(COMFYUI_WORKFLOW_TEMPLATE))
+    wf["68:6"]["inputs"]["text"] = normalize_flux2_prompt(prompt)
     wf["68:70"]["inputs"]["lora_name"] = COMFYUI_LORA_NAME
-
-    wf["9"]["inputs"]["filename_prefix"] = f"Flux2_Turbo_section_{section_idx}"
+    wf["9"]["inputs"]["filename_prefix"] = COMFYUI_FILENAME_PREFIX
     wf["68:25"]["inputs"]["noise_seed"] = random.randint(1, 2_000_000_000)
 
-    # Optional size overrides from .env
-    if COMFYUI_WIDTH.isdigit():
-        w = int(COMFYUI_WIDTH)
-        wf["68:47"]["inputs"]["width"] = w
-        wf["68:48"]["inputs"]["width"] = w
-    if COMFYUI_HEIGHT.isdigit():
-        h = int(COMFYUI_HEIGHT)
-        wf["68:47"]["inputs"]["height"] = h
-        wf["68:48"]["inputs"]["height"] = h
+    if str(COMFYUI_WIDTH).isdigit():
+        wf["68:47"]["inputs"]["width"] = int(COMFYUI_WIDTH)
+        wf["68:48"]["inputs"]["width"] = int(COMFYUI_WIDTH)
+    if str(COMFYUI_HEIGHT).isdigit():
+        wf["68:47"]["inputs"]["height"] = int(COMFYUI_HEIGHT)
+        wf["68:48"]["inputs"]["height"] = int(COMFYUI_HEIGHT)
 
-    # Remap ids like "68:10" -> "10" so /prompt accepts it
-    wf = _remap_node_ids_for_comfyui_api(wf)
-    return wf
+    return _remap_node_ids_for_comfyui_api(wf)
+
 
 def comfyui_queue_prompt(workflow: dict) -> str:
-    url = f"{COMFYUI_BASE_URL}/prompt"
-    payload = {"prompt": workflow}
-    resp = requests.post(url, json=payload, timeout=120)
-
+    resp = requests.post(f"{COMFYUI_BASE_URL}/prompt", json={"prompt": workflow}, timeout=120)
     if resp.status_code >= 400:
         logging.error(f"ComfyUI /prompt error {resp.status_code}: {resp.text}")
         resp.raise_for_status()
-
     data = resp.json()
     prompt_id = data.get("prompt_id")
     if not prompt_id:
         raise RuntimeError(f"No prompt_id returned from ComfyUI: {data}")
     return prompt_id
 
+
 def comfyui_poll_history(prompt_id: str) -> dict:
     url = f"{COMFYUI_BASE_URL}/history/{prompt_id}"
     deadline = time.time() + COMFYUI_TIMEOUT_S
-
     while time.time() < deadline:
         resp = requests.get(url, timeout=120)
         resp.raise_for_status()
         data = resp.json() or {}
         job = data.get(prompt_id) or {}
-        outputs = job.get("outputs") or {}
-        if outputs:
+        if job.get("outputs"):
             return job
         time.sleep(COMFYUI_POLL_S)
-
     raise RuntimeError(f"ComfyUI job timed out (prompt_id={prompt_id})")
+
 
 def comfyui_extract_first_image_file(history_job: dict) -> dict:
     outputs = history_job.get("outputs") or {}
@@ -467,113 +340,67 @@ def comfyui_extract_first_image_file(history_job: dict) -> dict:
             return imgs[0]
     return {}
 
-def comfyui_download_view(file_info: dict, out_path: str):
-    filename = file_info.get("filename")
-    subfolder = file_info.get("subfolder", "")
-    ftype = file_info.get("type", "output")
 
+def _generate_comfyui_image(prompt: str, model: dict) -> str:
+    workflow = comfyui_build_workflow(prompt)
+    prompt_id = comfyui_queue_prompt(workflow)
+    job = comfyui_poll_history(prompt_id)
+    image = comfyui_extract_first_image_file(job)
+    filename = image.get("filename")
+    subfolder = image.get("subfolder", "")
+    image_type = image.get("type", "output")
     if not filename:
-        raise RuntimeError(f"Missing filename in file_info: {file_info}")
+        raise RuntimeError("ComfyUI generation returned no image filename.")
+    return f"{COMFYUI_BASE_URL}/view?filename={filename}&subfolder={subfolder}&type={image_type}"
 
-    url = f"{COMFYUI_BASE_URL}/view"
-    params = {"filename": filename, "subfolder": subfolder, "type": ftype}
-    resp = requests.get(url, params=params, stream=True, timeout=300)
-    resp.raise_for_status()
 
-    with open(out_path, "wb") as f:
-        for chunk in resp.iter_content(1024 * 64):
-            if chunk:
-                f.write(chunk)
+def download_file(url: str, dest: Path):
+    if url.startswith("file://"):
+        src = Path(url[7:])
+        shutil.copyfile(src, dest)
+        logging.info(f"Saved image to {dest}")
+        return
+    if Path(url).is_file():
+        shutil.copyfile(Path(url), dest)
+        logging.info(f"Saved image to {dest}")
+        return
+    r = requests.get(url, stream=True, timeout=120)
+    r.raise_for_status()
+    with open(dest, 'wb') as f:
+        for chunk in r.iter_content(8192):
+            f.write(chunk)
+    logging.info(f"Saved image to {dest}")
 
-    logging.info(f"Downloaded ComfyUI image -> {out_path}")
 
-def generate_image_with_retry_comfyui(prompt: str, section_idx: int = 1) -> str:
-    for attempt in range(1, MAX_RETRIES + 1):
-        try:
-            wf = comfyui_build_workflow(prompt, section_idx)
-            prompt_id = comfyui_queue_prompt(wf)
-            logging.info(f"ComfyUI queued prompt_id={prompt_id} section={section_idx}")
-            job = comfyui_poll_history(prompt_id)
-            file_info = comfyui_extract_first_image_file(job)
-            if not file_info:
-                raise RuntimeError(f"No images found in ComfyUI history outputs. job={job}")
+def main():
+    if len(sys.argv) < 2:
+        print("Usage: python single_visual_update.py PATH_TO_JSON [OUTPUT_DIR]")
+        sys.exit(1)
+    json_path = Path(sys.argv[1])
+    out_dir = Path(sys.argv[2] if len(sys.argv)>2 else Path('downloaded_content'))
+    out_dir.mkdir(parents=True, exist_ok=True)
 
-            ext = os.path.splitext(file_info.get("filename", ""))[1] or ".png"
-            out_path = os.path.join(OUTPUT_DIR, f"section_{section_idx}{ext}")
-            comfyui_download_view(file_info, out_path)
-            return out_path
+    data = json.loads(json_path.read_text(encoding='utf-8'))
+    section = data['sections'][0]
+    seg = section['segments'][0]
+    prompt = seg['visual']['prompt']
+    style = data.get('settings', {}).get('image_generation_style', CUSTOM_MODELS[0]['name'])
 
-        except Exception as err:
-            logging.error(f"ComfyUI attempt {attempt} error: {err}")
-            time.sleep(RETRY_DELAY * attempt)
+    model = get_model_by_name(style)
+    logging.info(f"Using model {model['name']} ({model['width']}x{model['height']})")
+    img_url = generate_image_once(prompt, model)
+    logging.info(f"Image URL: {img_url}")
 
-    logging.error(f"ComfyUI retries exhausted for section {section_idx}")
-    return None
+    # Build filename
+    ext = os.path.splitext(urlparse(img_url).path)[1] or '.png'
+    fname = out_dir / f"section1_segment1{ext}"
+    download_file(img_url, fname)
 
-# ---------------------------------------------------------------------------- #
-# BACKWARDS COMPATIBILITY SHIMS                                                 #
-# ---------------------------------------------------------------------------- #
-def generate_image_with_retry(prompt: str, model_config: dict = None):
-    """
-    Old code expects:
-      gen_id, used_prompt = generate_image_with_retry(prompt, config)
+    # Update JSON
+    rel = os.path.relpath(fname, json_path.parent)
+    seg['visual']['image_path'] = rel
+    json_path.write_text(json.dumps(data, indent=2))
+    logging.info(f"Updated JSON: {json_path} -> image_path set to {rel}")
 
-    Leonardo mode:
-      returns (generation_id, used_prompt)
-
-    ComfyUI mode:
-      returns (local_path, prompt) so old code won't crash.
-    """
-    backend = os.getenv("VISUAL_BACKEND", VISUAL_BACKEND).strip().lower()
-
-    if backend == "comfyui":
-        img_path = generate_image_with_retry_comfyui(prompt, section_idx=1)
-        return img_path, prompt
-
-    return generate_image_with_retry_leonardo(prompt, model_config)
-
-def poll_generation_status(generation_id: str, wait_time: float = 10) -> dict:
-    """
-    Old code calls poll_generation_status(gen_id).
-    If gen_id is a local file path, return a compatible dict.
-    """
-    if generation_id and isinstance(generation_id, str) and os.path.exists(generation_id):
-        return {"status": "complete", "local_image_path": generation_id}
-
-    return poll_generation_status_leonardo(generation_id, wait_time=wait_time)
-
-def extract_image_url(generation_data: dict) -> str:
-    """
-    Old code calls extract_image_url(result) and expects a URL.
-    For ComfyUI, we return the local file path.
-    """
-    if isinstance(generation_data, dict) and generation_data.get("local_image_path"):
-        return generation_data["local_image_path"]
-    return extract_image_url_leonardo(generation_data)
-
-# ---------------------------------------------------------------------------- #
-# MODERN helper (recommended for new code)                                      #
-# ---------------------------------------------------------------------------- #
-def generate_visual(prompt: str, section_idx: int = 1, style_name: str = None) -> str:
-    """
-    Returns a local file path in both modes.
-    """
-    backend = os.getenv("VISUAL_BACKEND", VISUAL_BACKEND).strip().lower()
-
-    if backend == "comfyui":
-        return generate_image_with_retry_comfyui(prompt, section_idx=section_idx)
-
-    config = get_model_config_by_style(style_name)
-    gen_id, _ = generate_image_with_retry_leonardo(prompt, config)
-    if not gen_id:
-        return None
-
-    result = poll_generation_status_leonardo(gen_id)
-    img_url = extract_image_url_leonardo(result)
-    if not img_url:
-        return None
-
-    ext = os.path.splitext(urlparse(img_url).path)[1] or ".jpg"
-    out_path = os.path.join(OUTPUT_DIR, f"section_{section_idx}{ext}")
-    download_content(img_url, out_path)
-    return out_path
+if __name__ == '__main__':
+    main()
