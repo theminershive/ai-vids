@@ -1,0 +1,135 @@
+{
+  "uid": "pipeline-overview",
+  "title": "Pipeline Monitoring",
+  "schemaVersion": 38,
+  "version": 1,
+  "refresh": "5s",
+  "time": {"from": "now-24h", "to": "now"},
+  "timepicker": {"refresh_intervals": ["5s", "10s", "30s", "1m", "5m"]},
+  "panels": [
+    {
+      "type": "stat",
+      "title": "Runs Total",
+      "gridPos": {"x": 0, "y": 0, "w": 6, "h": 4},
+      "datasource": {"type": "prometheus", "uid": "Prometheus"},
+      "targets": [
+        {"expr": "pipeline_runs_total", "legendFormat": "{{repo}}"}
+      ]
+    },
+    {
+      "type": "stat",
+      "title": "Runs Success",
+      "gridPos": {"x": 6, "y": 0, "w": 6, "h": 4},
+      "datasource": {"type": "prometheus", "uid": "Prometheus"},
+      "targets": [
+        {"expr": "pipeline_runs_success", "legendFormat": "{{repo}}"}
+      ]
+    },
+    {
+      "type": "stat",
+      "title": "Runs Error",
+      "gridPos": {"x": 12, "y": 0, "w": 6, "h": 4},
+      "datasource": {"type": "prometheus", "uid": "Prometheus"},
+      "targets": [
+        {"expr": "pipeline_runs_error", "legendFormat": "{{repo}}"}
+      ]
+    },
+    {
+      "type": "stat",
+      "title": "Current Status",
+      "gridPos": {"x": 18, "y": 0, "w": 6, "h": 4},
+      "datasource": {"type": "prometheus", "uid": "Prometheus"},
+      "targets": [
+        {"expr": "pipeline_run_status == 1", "legendFormat": "{{repo}} {{status}}"}
+      ]
+    },
+    {
+      "type": "stat",
+      "title": "Last Run Number",
+      "gridPos": {"x": 0, "y": 16, "w": 6, "h": 4},
+      "datasource": {"type": "prometheus", "uid": "Prometheus"},
+      "targets": [
+        {"expr": "pipeline_last_run_number", "legendFormat": "{{repo}}"}
+      ]
+    },
+    {
+      "type": "stat",
+      "title": "Scheduler Last Run",
+      "gridPos": {"x": 6, "y": 16, "w": 6, "h": 4},
+      "datasource": {"type": "prometheus", "uid": "Prometheus"},
+      "targets": [
+        {"expr": "pipeline_scheduler_last_run_timestamp_seconds", "legendFormat": "{{repo}}"}
+      ],
+      "fieldConfig": {"defaults": {"unit": "dateTimeAsIso"}}
+    },
+    {
+      "type": "stat",
+      "title": "Scheduler Next Run",
+      "gridPos": {"x": 12, "y": 16, "w": 6, "h": 4},
+      "datasource": {"type": "prometheus", "uid": "Prometheus"},
+      "targets": [
+        {"expr": "pipeline_scheduler_next_run_timestamp_seconds", "legendFormat": "{{repo}}"}
+      ],
+      "fieldConfig": {"defaults": {"unit": "dateTimeAsIso"}}
+    },
+    {
+      "type": "stat",
+      "title": "Scheduler Status",
+      "gridPos": {"x": 18, "y": 16, "w": 6, "h": 4},
+      "datasource": {"type": "prometheus", "uid": "Prometheus"},
+      "targets": [
+        {"expr": "pipeline_scheduler_last_status == 1", "legendFormat": "{{repo}} {{status}}"}
+      ]
+    }
+    {
+      "type": "table",
+      "title": "Last Topic",
+      "gridPos": {"x": 0, "y": 4, "w": 12, "h": 6},
+      "datasource": {"type": "prometheus", "uid": "Prometheus"},
+      "targets": [
+        {"expr": "pipeline_last_topic_info", "legendFormat": "{{repo}}"}
+      ],
+      "options": {"showHeader": true}
+    },
+    {
+      "type": "table",
+      "title": "Last Reference",
+      "gridPos": {"x": 12, "y": 4, "w": 6, "h": 6},
+      "datasource": {"type": "prometheus", "uid": "Prometheus"},
+      "targets": [
+        {"expr": "pipeline_last_reference_info", "legendFormat": "{{repo}}"}
+      ],
+      "options": {"showHeader": true}
+    },
+    {
+      "type": "table",
+      "title": "Last Final Video",
+      "gridPos": {"x": 18, "y": 4, "w": 6, "h": 6},
+      "datasource": {"type": "prometheus", "uid": "Prometheus"},
+      "targets": [
+        {"expr": "pipeline_last_final_info", "legendFormat": "{{repo}}"}
+      ],
+      "options": {"showHeader": true}
+    },
+    {
+      "type": "bargauge",
+      "title": "Stage Elapsed (Last)",
+      "gridPos": {"x": 0, "y": 10, "w": 12, "h": 6},
+      "datasource": {"type": "prometheus", "uid": "Prometheus"},
+      "targets": [
+        {"expr": "pipeline_stage_last_elapsed_seconds", "legendFormat": "{{repo}} {{stage}}"}
+      ],
+      "options": {"displayMode": "basic"}
+    },
+    {
+      "type": "table",
+      "title": "Stage Last End",
+      "gridPos": {"x": 12, "y": 10, "w": 12, "h": 6},
+      "datasource": {"type": "prometheus", "uid": "Prometheus"},
+      "targets": [
+        {"expr": "pipeline_stage_last_end_timestamp_seconds", "legendFormat": "{{repo}} {{stage}}"}
+      ],
+      "options": {"showHeader": true}
+    }
+  ]
+}

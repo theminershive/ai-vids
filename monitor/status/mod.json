@@ -1,0 +1,42 @@
+{
+  "repo": "mod",
+  "last_update": "2026-02-02 01:52:40",
+  "last_update_epoch": 1769997160.5080688,
+  "counters": {
+    "runs_total": 1,
+    "runs_success": 0,
+    "runs_error": 0
+  },
+  "run": {
+    "id": "the_lighthouse_keeper_s_star_map_myth_assembler",
+    "status": "running",
+    "started_at": "2026-02-02 01:52:40",
+    "started_at_epoch": 1769997160.5069575,
+    "last_stage": "visuals",
+    "last_stage_started_at": "2026-02-02 01:52:40",
+    "last_stage_started_at_epoch": 1769997160.5080512
+  },
+  "stages": {
+    "assemble": {
+      "last_start": "2026-02-02 01:52:28",
+      "last_start_epoch": 1769997148.7048285,
+      "last_end": "2026-02-02 01:52:40",
+      "last_end_epoch": 1769997160.504669,
+      "last_elapsed_sec": 11.799840450286865,
+      "last_status": "success"
+    },
+    "visuals": {
+      "last_start": "2026-02-02 01:52:40",
+      "last_start_epoch": 1769997160.5080512
+    }
+  },
+  "last": {
+    "topic": "The Lighthouse Keeper’s “Star Map” Myth",
+    "script_path": "/home/trilobyte/ai/mod/ready/the_lighthouse_keeper_s_star_map_myth_assembler.json",
+    "ready_name": "the_lighthouse_keeper_s_star_map_myth_assembler.json",
+    "section_count": 1,
+    "reference": "The Lighthouse Keeper’s “Star Map” Myth",
+    "run_number": null
+  },
+  "errors": []
+}

@@ -17,6 +17,7 @@ import time
 from pathlib import Path
 
 import requests
+from PIL import Image
 from dotenv import load_dotenv
 
 from moviepy.editor import ImageClip, AudioFileClip
@@ -25,6 +26,12 @@ from moviepy.audio.fx.all import audio_loop, audio_fadein, audio_fadeout
 from config import AppConfig, load_config
 
 load_dotenv()
+
+# Ensure PIL ANTIALIAS compatibility (Pillow>=10 removed Image.ANTIALIAS)
+try:
+    Image.ANTIALIAS
+except AttributeError:
+    Image.ANTIALIAS = Image.Resampling.LANCZOS if hasattr(Image, "Resampling") else Image.LANCZOS
 
 FREESOUND_BASE = "https://freesound.org/apiv2"
 

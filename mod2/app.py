@@ -5,9 +5,11 @@ Full video-production pipeline using topic-driven scripts and dailybible-style v
 
 import json
 import logging
+import os
 import subprocess
 import re
 import shutil
+import sys
 from pathlib import Path
 from typing import Optional
 
@@ -16,9 +18,21 @@ from visuals import generate_visual, rewrite_prompt
 from tts import process_tts
 from video_assembler import assemble_video
 import captions
+from ytuploader import upload as upload_youtube
+from fbupload import upload as upload_facebook
+from igupload import upload as upload_instagram
 
 logging.basicConfig(level=logging.INFO, format="[%(levelname)s] %(message)s")
 BASE_DIR = Path(__file__).parent.resolve()
+
+MONITOR_DIR = BASE_DIR.parent / "monitor"
+if MONITOR_DIR.exists():
+    sys.path.insert(0, str(MONITOR_DIR))
+try:
+    import monitoring  # type: ignore
+    monitor = monitoring.get_monitor("mod2", base_dir=BASE_DIR)
+except Exception:
+    monitor = None
 
 
 def sanitize_visual_prompt(prompt: str) -> str:
@@ -42,6 +56,15 @@ def sanitize_visual_prompt(prompt: str) -> str:
 
 def _save_script(script_path: Path, script: dict) -> None:
     script_path.write_text(json.dumps(script, indent=4, ensure_ascii=False), encoding="utf-8")
+
+def _extract_run_number(stem: str) -> int | None:
+    match = re.match(r"^(\\d+)", stem)
+    if not match:
+        return None
+    try:
+        return int(match.group(1))
+    except Exception:
+        return None
 
 
 def generate_and_download_images(script: dict, visuals_dir: Path) -> dict:
@@ -121,45 +144,112 @@ def main():
     ensure_dirs(config)
 
     logging.info("=== 1. assemble.py ===")
-    subprocess.run(["python3", str(BASE_DIR / "assemble.py")], check=True)
+    if monitor:
+        monitor.stage_start("assemble")
+    try:
+        subprocess.run(["python3", str(BASE_DIR / "assemble.py")], check=True)
+        if monitor:
+            monitor.stage_end("assemble", ok=True)
+    except Exception as exc:
+        if monitor:
+            monitor.stage_end("assemble", ok=False, error=str(exc))
+            monitor.run_error(str(exc))
+        raise
 
     ready_files = sorted(config.paths.ready_dir.glob("*.json"), key=lambda p: p.stat().st_mtime)
     if not ready_files:
         logging.error("No assembler JSON found in ./ready")
+        if monitor:
+            monitor.run_error("no_ready_json")
         return
     script_path = ready_files[-1]
     logging.info("Using assembler JSON -> %s", script_path.name)
     script = json.loads(script_path.read_text(encoding="utf-8"))
+    topic = script.get("topic") or script.get("title") or script.get("reference") or script.get("headline")
+    run_number = _extract_run_number(script_path.stem)
+    if monitor:
+        monitor.run_start(
+            run_id=script_path.stem,
+            topic=topic,
+            script_path=str(script_path.resolve()),
+            meta={
+                "ready_name": script_path.name,
+                "section_count": len(script.get("sections", [])),
+                "reference": script.get("reference"),
+                "run_number": run_number,
+            },
+        )
 
     logging.info("=== 2. Visual generation ===")
-    script = generate_and_download_images(script, config.paths.visuals_dir)
-    _save_script(script_path, script)
+    if monitor:
+        monitor.stage_start("visuals")
+    try:
+        script = generate_and_download_images(script, config.paths.visuals_dir)
+        _save_script(script_path, script)
+        if monitor:
+            monitor.stage_end("visuals", ok=True)
+    except Exception as exc:
+        if monitor:
+            monitor.stage_end("visuals", ok=False, error=str(exc))
+            monitor.run_error(str(exc))
+        raise
 
     logging.info("=== 3. TTS generation ===")
-    script = process_tts(script, audio_dir=config.paths.audio_dir)
-    _save_script(script_path, script)
+    if monitor:
+        monitor.stage_start("tts")
+    try:
+        script = process_tts(script, audio_dir=config.paths.audio_dir)
+        _save_script(script_path, script)
+        if monitor:
+            monitor.stage_end("tts", ok=True)
+    except Exception as exc:
+        if monitor:
+            monitor.stage_end("tts", ok=False, error=str(exc))
+            monitor.run_error(str(exc))
+        raise
 
     logging.info("=== 4. Video assembly ===")
-    assemble_video(str(script_path))
-    assembled = json.loads(script_path.read_text(encoding="utf-8"))
+    if monitor:
+        monitor.stage_start("assemble_video")
+    try:
+        assemble_video(str(script_path))
+        assembled = json.loads(script_path.read_text(encoding="utf-8"))
+        if monitor:
+            monitor.stage_end("assemble_video", ok=True)
+    except Exception as exc:
+        if monitor:
+            monitor.stage_end("assemble_video", ok=False, error=str(exc))
+            monitor.run_error(str(exc))
+        raise
 
     final_vid = Path(assembled.get("final_video", ""))
     if not final_vid.exists():
         logging.error("assemble_video did not produce expected file: %s", final_vid)
+        if monitor:
+            monitor.run_error("missing_final_video")
         return
 
     logging.info("=== 5. Whisper captioning ===")
     cap_vid = final_vid.with_name(final_vid.stem + "_cap.mp4")
-    caps = create_captions(str(final_vid))
-    if caps:
-        try:
-            captions.add_captions_to_video(
-                input_video_path=str(final_vid),
-                transcription=caps,
-                output_video_path=str(cap_vid),
-            )
-        except Exception as exc:
-            logging.warning("Caption overlay failed: %s", exc)
+    if monitor:
+        monitor.stage_start("captions")
+    try:
+        caps = create_captions(str(final_vid))
+        if caps:
+            try:
+                captions.add_captions_to_video(
+                    input_video_path=str(final_vid),
+                    transcription=caps,
+                    output_video_path=str(cap_vid),
+                )
+            except Exception as exc:
+                logging.warning("Caption overlay failed: %s", exc)
+        if monitor:
+            monitor.stage_end("captions", ok=True)
+    except Exception as exc:
+        if monitor:
+            monitor.stage_end("captions", ok=False, error=str(exc))
+        raise
 
     if cap_vid.exists():
         assembled["captions_video"] = str(Path(cap_vid).resolve())
@@ -174,6 +264,8 @@ def main():
     out_path = config.paths.final_dir / f"{script_path.stem}_final.mp4"
     config.paths.final_dir.mkdir(parents=True, exist_ok=True)
 
+    if monitor:
+        monitor.stage_start("overlay")
     status = subprocess.run([
         "python3", str(BASE_DIR / "overlay.py"),
         "--input_video", str(cap_vid),
@@ -183,7 +275,12 @@ def main():
 
     if status.returncode != 0 or not out_path.exists():
         logging.error("overlay.py failed or did not produce output")
+        if monitor:
+            monitor.stage_end("overlay", ok=False, error="overlay_failed")
+            monitor.run_error("overlay_failed")
         return
+    if monitor:
+        monitor.stage_end("overlay", ok=True)
 
     logging.info("Overlay complete -> %s", out_path)
 
@@ -193,6 +290,28 @@ def main():
     _save_script(script_path, assembled)
 
     logging.info("=== Pipeline finished successfully ===")
+    if monitor:
+        monitor.run_success(final_video=str(Path(out_path).resolve()))
+
+    logging.info("=== Uploading ===")
+    if os.getenv("UPLOAD_YOUTUBE", "0").strip() == "1":
+        try:
+            yt_url = upload_youtube(str(script_path))
+            logging.info("YouTube upload ✓ %s", yt_url)
+        except Exception as exc:
+            logging.error("YouTube upload failed: %s", exc)
+    if os.getenv("UPLOAD_FACEBOOK", "0").strip() == "1":
+        try:
+            upload_facebook(str(script_path))
+            logging.info("Facebook upload ✓")
+        except Exception as exc:
+            logging.error("Facebook upload failed: %s", exc)
+    if os.getenv("UPLOAD_INSTAGRAM", "0").strip() == "1":
+        try:
+            upload_instagram(str(script_path))
+            logging.info("Instagram upload ✓")
+        except Exception as exc:
+            logging.error("Instagram upload failed: %s", exc)
 
 
 if __name__ == "__main__":

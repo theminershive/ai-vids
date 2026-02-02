@@ -1,0 +1,190 @@
+{
+  "10": {
+    "_meta": {
+      "title": "Load VAE"
+    },
+    "class_type": "VAELoader",
+    "inputs": {
+      "vae_name": "flux2-vae.safetensors"
+    }
+  },
+  "12": {
+    "_meta": {
+      "title": "Load Diffusion Model"
+    },
+    "class_type": "UNETLoader",
+    "inputs": {
+      "unet_name": "flux2_dev_fp8mixed.safetensors",
+      "weight_dtype": "default"
+    }
+  },
+  "13": {
+    "_meta": {
+      "title": "SamplerCustomAdvanced"
+    },
+    "class_type": "SamplerCustomAdvanced",
+    "inputs": {
+      "guider": [
+        "22",
+        0
+      ],
+      "latent_image": [
+        "47",
+        0
+      ],
+      "noise": [
+        "25",
+        0
+      ],
+      "sampler": [
+        "16",
+        0
+      ],
+      "sigmas": [
+        "48",
+        0
+      ]
+    }
+  },
+  "16": {
+    "_meta": {
+      "title": "KSamplerSelect"
+    },
+    "class_type": "KSamplerSelect",
+    "inputs": {
+      "sampler_name": "euler"
+    }
+  },
+  "22": {
+    "_meta": {
+      "title": "BasicGuider"
+    },
+    "class_type": "BasicGuider",
+    "inputs": {
+      "conditioning": [
+        "26",
+        0
+      ],
+      "model": [
+        "70",
+        0
+      ]
+    }
+  },
+  "25": {
+    "_meta": {
+      "title": "RandomNoise"
+    },
+    "class_type": "RandomNoise",
+    "inputs": {
+      "noise_seed": 1931558322
+    }
+  },
+  "26": {
+    "_meta": {
+      "title": "FluxGuidance"
+    },
+    "class_type": "FluxGuidance",
+    "inputs": {
+      "conditioning": [
+        "6",
+        0
+      ],
+      "guidance": 4
+    }
+  },
+  "38": {
+    "_meta": {
+      "title": "Load CLIP"
+    },
+    "class_type": "CLIPLoader",
+    "inputs": {
+      "clip_name": "mistral_3_small_flux2_bf16.safetensors",
+      "device": "default",
+      "type": "flux2"
+    }
+  },
+  "47": {
+    "_meta": {
+      "title": "Empty Flux 2 Latent"
+    },
+    "class_type": "EmptyFlux2LatentImage",
+    "inputs": {
+      "batch_size": 1,
+      "height": 1024,
+      "width": 1024
+    }
+  },
+  "48": {
+    "_meta": {
+      "title": "Flux2Scheduler"
+    },
+    "class_type": "Flux2Scheduler",
+    "inputs": {
+      "height": 1024,
+      "steps": 8,
+      "width": 1024
+    }
+  },
+  "6": {
+    "_meta": {
+      "title": "CLIP Text Encode (Positive Prompt)"
+    },
+    "class_type": "CLIPTextEncode",
+    "inputs": {
+      "clip": [
+        "70",
+        1
+      ],
+      "text": "A stormy night seascape with a lighthouse on a cliff, ghostly handwritten diary pages drifting over the water, and precise constellation lines sketched across the sky like a navigation chart."
+    }
+  },
+  "70": {
+    "_meta": {
+      "title": "Load LoRA (Turbo)"
+    },
+    "class_type": "LoraLoader",
+    "inputs": {
+      "clip": [
+        "38",
+        0
+      ],
+      "lora_name": "Flux_2-Turbo-LoRA_comfyui.safetensors",
+      "model": [
+        "12",
+        0
+      ],
+      "strength_clip": 1.0,
+      "strength_model": 1.0
+    }
+  },
+  "8": {
+    "_meta": {
+      "title": "VAE Decode"
+    },
+    "class_type": "VAEDecode",
+    "inputs": {
+      "samples": [
+        "13",
+        0
+      ],
+      "vae": [
+        "10",
+        0
+      ]
+    }
+  },
+  "9": {
+    "_meta": {
+      "title": "Save Image"
+    },
+    "class_type": "SaveImage",
+    "inputs": {
+      "filename_prefix": "Flux2_Turbo_section_1",
+      "images": [
+        "8",
+        0
+      ]
+    }
+  }
+}

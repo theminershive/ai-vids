@@ -58,6 +58,8 @@ def load_credentials():
     if creds and creds.expired and creds.refresh_token:
         logging.info("Refreshing expired access token...")
         creds.refresh(Request())
+        with open("token2.json", "w") as token:
+            token.write(creds.to_json())
     if not creds or not creds.valid:
         logging.error("token2.json missing or invalid.")
         raise RuntimeError("Invalid YouTube credentials.")

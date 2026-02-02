@@ -11,6 +11,8 @@ import logging
 from datetime import datetime, timedelta
 from testemail import send_email
 import random  # For jitter in set times
+import sys
+from pathlib import Path
 
 # === CONFIGURATION ===
 SCHEDULE_MODE = "set_time"     # "interval" or "set_time"
@@ -32,6 +34,16 @@ FAILURE_ALERT_THRESHOLD = 3
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 STATUS_PATH = os.path.join(BASE_DIR, STATUS_FILE)
 LOG_PATH = os.path.join(BASE_DIR, LOG_FILE)
+
+# --- Monitoring (optional) ---
+MONITOR_DIR = Path(BASE_DIR).parent / "monitor"
+if MONITOR_DIR.exists():
+    sys.path.insert(0, str(MONITOR_DIR))
+try:
+    import monitoring  # type: ignore
+    _monitor = monitoring.get_monitor("dailybible", base_dir=Path(BASE_DIR))
+except Exception:
+    _monitor = None
 
 # --- Logging setup ---
 logger = logging.getLogger("scheduler")
@@ -91,9 +103,18 @@ def save_status(status):
     with open(STATUS_PATH, "w", encoding="utf-8") as f:
         json.dump(status, f, indent=4)
     logger.info("Saved status to disk.")
+    if _monitor:
+        _monitor.set_last_meta({
+            "scheduler_last_run": status.get("last_run"),
+            "scheduler_next_run": status.get("next_run"),
+            "scheduler_last_status": status.get("last_status"),
+            "scheduler_runs_completed": status.get("runs_completed"),
+        })
 
 def run_program():
     logger.info(f"Launching subprocess: {PROGRAM}")
+    if _monitor:
+        _monitor.stage_start("scheduler")
     try:
         proc = subprocess.Popen(
             ["python3", PROGRAM],
@@ -118,13 +139,19 @@ def run_program():
         ret = proc.wait()
         if ret == 0:
             logger.info(f"{PROGRAM} exited with code 0.")
+            if _monitor:
+                _monitor.stage_end("scheduler", ok=True)
             return True, "Success"
         else:
             logger.error(f"{PROGRAM} exited with code {ret}.")
+            if _monitor:
+                _monitor.stage_end("scheduler", ok=False, error=f"exit_{ret}")
             return False, f"Exit {ret}"
     except Exception as e:
         tb = traceback.format_exc()
         logger.error(f"Error running {PROGRAM}: {tb}")
+        if _monitor:
+            _monitor.stage_end("scheduler", ok=False, error=str(e))
         return False, "Unexpected error"
 
 def get_next_set_time(now):

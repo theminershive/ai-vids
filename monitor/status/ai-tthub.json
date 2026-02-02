@@ -1,0 +1,63 @@
+{
+  "repo": "ai-tthub",
+  "last_update": "2026-02-02 17:30:05",
+  "last_update_epoch": 1770053405.6700919,
+  "counters": {
+    "runs_total": 2,
+    "runs_success": 1,
+    "runs_error": 0
+  },
+  "run": {
+    "id": "the_clock_that_ran_away_with_time_assembler",
+    "status": "success",
+    "started_at": "2026-02-02 17:28:28",
+    "started_at_epoch": 1770053308.4518585,
+    "last_stage": "overlay",
+    "last_stage_started_at": "2026-02-02 17:28:48",
+    "last_stage_started_at_epoch": 1770053328.7785666
+  },
+  "stages": {
+    "assemble": {
+      "last_start": "2026-02-02 17:28:15",
+      "last_start_epoch": 1770053295.3537662,
+      "last_end": "2026-02-02 17:28:28",
+      "last_end_epoch": 1770053308.449336,
+      "last_elapsed_sec": 13.095569849014282,
+      "last_status": "success"
+    },
+    "visuals": {
+      "last_start": "2026-02-02 17:28:28",
+      "last_start_epoch": 1770053308.4528294,
+      "last_end": "2026-02-02 17:28:40",
+      "last_end_epoch": 1770053320.0538344,
+      "last_elapsed_sec": 11.60100507736206,
+      "last_status": "success"
+    },
+    "assemble_video": {
+      "last_start": "2026-02-02 17:28:40",
+      "last_start_epoch": 1770053320.0551298,
+      "last_end": "2026-02-02 17:28:48",
+      "last_end_epoch": 1770053328.7769566,
+      "last_elapsed_sec": 8.721826791763306,
+      "last_status": "success"
+    },
+    "overlay": {
+      "last_start": "2026-02-02 17:28:48",
+      "last_start_epoch": 1770053328.7785666,
+      "last_end": "2026-02-02 17:30:05",
+      "last_end_epoch": 1770053405.6683345,
+      "last_elapsed_sec": 76.88976788520813,
+      "last_status": "success"
+    }
+  },
+  "last": {
+    "topic": "The Clock That Ran Away with Time",
+    "script_path": "/home/trilobyte/ai/ai-tthub/ready/the_clock_that_ran_away_with_time_assembler.json",
+    "ready_name": "the_clock_that_ran_away_with_time_assembler.json",
+    "section_count": 1,
+    "reference": "The Clock That Ran Away with Time",
+    "run_number": null,
+    "final_video": "/home/trilobyte/ai/ai-tthub/final/the_clock_that_ran_away_with_time_assembler_final.mp4"
+  },
+  "errors": []
+}

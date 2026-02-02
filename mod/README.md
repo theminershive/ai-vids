@@ -58,3 +58,27 @@ You can copy the `prompts/` folder, edit text, and run the pipeline to generate 
 ## Notes
 - Fonts live in `fonts/` and are referenced in `config.json`.
 - Background music defaults to `fallbacks/default_bg_music.mp3` if Freesound is not configured.
+
+## Uploaders + Comment Bot
+This repo includes:
+- `ytuploader.py`
+- `fbupload.py`
+- `igupload.py`
+- `comment.py`
+
+Token refresh uses `social_tokens.py` and caches to `fb_token.json`.
+
+### Enable auto uploads
+Uncomment the upload block at the bottom of `pipeline.py`.
+
+### Required env
+- `APP_ID`, `APP_SECRET`, `SHORT_LIVED_TOKEN`
+- `FACEBOOK_PAGE_ID`, `INSTAGRAM_ACCOUNT_ID`, `PUBLIC_IP`
+- `FB_PAGE_ACCESS_TOKEN` (optional; auto-derived)
+- `token2.json` for YouTube (refreshes automatically)
+
+## Upload toggles
+Set these in `.env` to enable uploads:
+- `UPLOAD_YOUTUBE=1`
+- `UPLOAD_FACEBOOK=1`
+- `UPLOAD_INSTAGRAM=1`

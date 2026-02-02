@@ -7,20 +7,19 @@ import json
 import logging
 from dotenv import load_dotenv
 
+from social_tokens import get_page_access_token
+
 load_dotenv()
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 
-USER_ACCESS_TOKEN = os.getenv('USER_ACCESS_TOKEN')
 FACEBOOK_PAGE_ID = os.getenv('FACEBOOK_PAGE_ID')
 GRAPH_API_BASE = 'https://graph.facebook.com'
 
-def get_page_access_token():
-    url = f"{GRAPH_API_BASE}/v21.0/me/accounts"
-    resp = requests.get(url, params={'access_token': USER_ACCESS_TOKEN})
-    for page in resp.json().get('data', []):
-        if str(page.get('id')) == FACEBOOK_PAGE_ID:
-            return page.get('access_token')
-    logging.error("Page ID not found.")
+def _resolve_page_token():
+    token = get_page_access_token(FACEBOOK_PAGE_ID)
+    if token:
+        return token
+    logging.error("Could not resolve page access token. Check APP_ID/APP_SECRET/SHORT_LIVED_TOKEN or USER_ACCESS_TOKEN.")
     sys.exit(1)
 
 def upload(json_path):
@@ -31,7 +30,7 @@ def upload(json_path):
     with open(json_path) as f:
         metadata = json.load(f)
 
-    page_token = get_page_access_token()
+    page_token = _resolve_page_token()
     video_file = metadata.get('final_video')
     if not video_file or not os.path.exists(video_file):
         logging.error(f"Video file not found: {video_file}")

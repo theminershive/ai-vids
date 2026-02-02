@@ -1,0 +1,54 @@
+{
+  "repo": "mod2",
+  "last_update": "2026-02-02 01:52:57",
+  "last_update_epoch": 1769997177.8563669,
+  "counters": {
+    "runs_total": 1,
+    "runs_success": 0,
+    "runs_error": 1
+  },
+  "run": {
+    "id": "the_market_that_went_underground_because_of_mistaken_identity_assembler",
+    "status": "running",
+    "started_at": "2026-02-02 01:52:57",
+    "started_at_epoch": 1769997177.8551877,
+    "last_stage": "visuals",
+    "last_stage_started_at": "2026-02-02 01:52:57",
+    "last_stage_started_at_epoch": 1769997177.8563533
+  },
+  "stages": {
+    "assemble": {
+      "last_start": "2026-02-02 01:52:45",
+      "last_start_epoch": 1769997165.4615211,
+      "last_end": "2026-02-02 01:52:57",
+      "last_end_epoch": 1769997177.8521523,
+      "last_elapsed_sec": 12.390631198883057,
+      "last_status": "success",
+      "last_error": "Command '['python3', '/home/trilobyte/ai/mod2/assemble.py']' returned non-zero exit status 1."
+    },
+    "visuals": {
+      "last_start": "2026-02-02 01:52:57",
+      "last_start_epoch": 1769997177.8563533
+    }
+  },
+  "last": {
+    "error": "Command '['python3', '/home/trilobyte/ai/mod2/assemble.py']' returned non-zero exit status 1.",
+    "topic": "The Market That Went Underground—Because of Mistaken Identity",
+    "script_path": "/home/trilobyte/ai/mod2/ready/the_market_that_went_underground_because_of_mistaken_identity_assembler.json",
+    "ready_name": "the_market_that_went_underground_because_of_mistaken_identity_assembler.json",
+    "section_count": 2,
+    "reference": "The Market That Went Underground—Because of Mistaken Identity",
+    "run_number": null
+  },
+  "errors": [
+    {
+      "stage": "assemble",
+      "error": "Command '['python3', '/home/trilobyte/ai/mod2/assemble.py']' returned non-zero exit status 1.",
+      "ts": "2026-02-02 01:51:56"
+    },
+    {
+      "stage": "assemble",
+      "error": "Command '['python3', '/home/trilobyte/ai/mod2/assemble.py']' returned non-zero exit status 1."
+    }
+  ]
+}

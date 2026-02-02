@@ -9,24 +9,24 @@
     },
     "sections": [
         {
-            "original_name": "Genesis 22:12",
-            "title": "Genesis 22:12 – And he said, Lay not",
-            "section_duration": 9,
+            "original_name": "Genesis 24:42",
+            "title": "Genesis 24:42 – And I came this day",
+            "section_duration": 13,
             "segments": [
                 {
                     "segment_number": 1,
                     "narration": {
-                        "text": "And he said, Lay not thine hand upon the lad, neither do thou any thing unto him: for",
+                        "text": "And I came this day unto the well, and said, O Lord God of my master Abraham, if now thou do prosper my way which I go:",
                         "start": 0,
-                        "duration": 9,
+                        "duration": 13,
                         "audio_path": "audio/section_1_segment_1_Bible_Reader.mp3"
                     },
                     "visual": {
                         "type": "image",
-                        "prompt": "Vivid scene for: And he said, Lay not thine hand upon the lad, neither do thou any thing unto him: for now I know that thou fearest God, seeing thou hast not withheld thy son, thine only son from me.",
+                        "prompt": "A serene desert landscape at sunset with a tranquil oasis in the foreground, where a lone figure dressed in traditional biblical attire kneels by the well. The sky is painted with warm hues of orange and pink, casting long shadows across the sandy dunes. Soft volumetric rays illuminate the scene from behind the kneeling figure, drawing attention to their outstretched hands in prayer towards the setting sun. The shallow depth of field blurs the distant desert landscape, focusing on the detailed textures of the well water rippling gently under the figure’s hands. The mood is reverent and contemplative, with a sense of divine presence enveloping the scene. No text, no writing, no watermark, no logo.",
                         "start": 0,
-                        "duration": 9,
-                        "image_path": "visuals/section_1_segment_1.png"
+                        "duration": 13,
+                        "image_path": "/home/trilobyte/ai/dailybible/visuals/section_1.jpg"
                     },
                     "sound": {
                         "transition_effect": "fade_in"
@@ -36,24 +36,24 @@
             "section_number": 1
         },
         {
-            "original_name": "Genesis 22:12",
-            "title": "Genesis 22:12 – now I know that thou",
-            "section_duration": 9,
+            "original_name": "Genesis 24:43",
+            "title": "Genesis 24:43 – Behold, I stand by the",
+            "section_duration": 10,
             "segments": [
                 {
                     "segment_number": 1,
                     "narration": {
-                        "text": "now I know that thou fearest God, seeing thou hast not withheld thy son, thine only son from me.",
+                        "text": "Behold, I stand by the well of water; and it shall come to pass, that when the virgin cometh forth",
                         "start": 0,
-                        "duration": 9,
+                        "duration": 10,
                         "audio_path": "audio/section_2_segment_1_Bible_Reader.mp3"
                     },
                     "visual": {
                         "type": "image",
-                        "prompt": "Vivid scene for: And he said, Lay not thine hand upon the lad, neither do thou any thing unto him: for now I know that thou fearest God, seeing thou hast not withheld thy son, thine only son from me. (continued)",
+                        "prompt": "A serene desert landscape at dusk, with a well carved into the earth surrounded by large stones. The scene is framed from the perspective of someone looking down at the well, with the sky overhead transitioning from deep blue to vibrant orange and pink hues. In the foreground, an elegant young woman dressed in flowing traditional robes approaches the well with her pitcher on her shoulder. Soft volumetric rays cast gentle light across the scene, highlighting the texture of the stones and the intricate details of the woman’s attire. The shallow depth of field blurs the background subtly, bringing focus to the serene expression on the woman's face as she reaches for her water pitcher. Dramatic lighting creates a sense of reverence and anticipation, with natural color grading that enhances the warmth and tranquility of the setting. No text, no writing, no watermark, no logo.",
                         "start": 0,
-                        "duration": 9,
-                        "image_path": "visuals/section_2_segment_1.png"
+                        "duration": 10,
+                        "image_path": "/home/trilobyte/ai/dailybible/visuals/section_2.jpg"
                     },
                     "sound": {
                         "transition_effect": "fade_in"
@@ -63,24 +63,24 @@
             "section_number": 2
         },
         {
-            "original_name": "Genesis 22:13",
-            "title": "Genesis 22:13 – And Abraham lifted up his",
+            "original_name": "Genesis 24:43",
+            "title": "Genesis 24:43 – to draw water, and I",
             "section_duration": 10,
             "segments": [
                 {
                     "segment_number": 1,
                     "narration": {
-                        "text": "And Abraham lifted up his eyes, and looked, and behold behind him a ram caught in a thicket by his horns:",
+                        "text": "to draw water, and I say to her, Give me, I pray thee, a little water of thy pitcher to drink;",
                         "start": 0,
                         "duration": 10,
                         "audio_path": "audio/section_3_segment_1_Bible_Reader.mp3"
                     },
                     "visual": {
                         "type": "image",
-                        "prompt": "Vivid scene for: And Abraham lifted up his eyes, and looked, and behold behind him a ram caught in a thicket by his horns: and Abraham went and took the ram, and offered him up for a burnt offering in the stead of his son.",
+                        "prompt": "A serene desert landscape at dusk, with a well carved into the earth surrounded by large stones. The scene is framed from the perspective of someone looking down at the well, focusing on an elegant young woman dressed in flowing traditional robes who approaches the well carrying her pitcher on her shoulder. Soft volumetric rays cast gentle light across the scene, highlighting the texture of the stones and the intricate details of the woman’s attire. The shallow depth of field subtly blurs the background, bringing focus to the serene expression on the woman's face as she reaches for her water pitcher. Dramatic lighting creates a sense of reverence and anticipation, enhancing the warmth and tranquility of the setting. No text, no writing, no watermark, no logo.",
                         "start": 0,
                         "duration": 10,
-                        "image_path": "visuals/section_3_segment_1.png"
+                        "image_path": "/home/trilobyte/ai/dailybible/visuals/section_3.jpg"
                     },
                     "sound": {
                         "transition_effect": "fade_in"
@@ -90,24 +90,24 @@
             "section_number": 3
         },
         {
-            "original_name": "Genesis 22:13",
-            "title": "Genesis 22:13 – and Abraham went and took",
-            "section_duration": 10,
+            "original_name": "Genesis 24:44",
+            "title": "Genesis 24:44 – And she say to me",
+            "section_duration": 15,
             "segments": [
                 {
                     "segment_number": 1,
                     "narration": {
-                        "text": "and Abraham went and took the ram, and offered him up for a burnt offering in the stead of his son.",
+                        "text": "And she say to me, Both drink thou, and I will also draw for thy camels: let the same be the woman whom the Lord hath appointed out for my master’s son.",
                         "start": 0,
-                        "duration": 10,
+                        "duration": 15,
                         "audio_path": "audio/section_4_segment_1_Bible_Reader.mp3"
                     },
                     "visual": {
                         "type": "image",
-                        "prompt": "Vivid scene for: And Abraham lifted up his eyes, and looked, and behold behind him a ram caught in a thicket by his horns: and Abraham went and took the ram, and offered him up for a burnt offering in the stead of his son. (continued)",
+                        "prompt": "A serene desert landscape at dawn with a well in the foreground, bathed in soft volumetric rays of light that cast gentle shadows. A young woman is leaning over the well, her hands submerged as she draws water, her eyes looking up towards the camera with a sense of reverence and purpose. In the background, the silhouette of camels can be seen approaching along a sandy path, their figures adding to the narrative depth. The composition focuses tightly on the woman's face and hands, with a shallow depth of field blurring the distant elements, emphasizing her role in this sacred moment. The lighting is dramatic, highlighting the textures of her clothing and the well’s ancient stones, while high contrast and natural color grading enhance the emotional resonance of the scene. No text, no writing, no watermark, no logo.",
                         "start": 0,
-                        "duration": 10,
-                        "image_path": "visuals/section_4_segment_1.png"
+                        "duration": 15,
+                        "image_path": "/home/trilobyte/ai/dailybible/visuals/section_4.jpg"
                     },
                     "sound": {
                         "transition_effect": "fade_in"
@@ -118,8 +118,8 @@
         }
     ],
     "social_media": {
-        "title": "📖 Today's Verses: Genesis 22:12 – Genesis 22:13",
-        "description": "📖 Today's Verses: Genesis 22:12 – Genesis 22:13\n\n✝️ Welcome to Daily Bible Passages! We post 3 short Bible videos daily, featuring 3–5 verses each.\n\nGenesis 22:12 And he said, Lay not thine hand upon the lad, neither do thou any thing unto him: for\n\nGenesis 22:12 now I know that thou fearest God, seeing thou hast not withheld thy son, thine only son from me.\n\nGenesis 22:13 And Abraham lifted up his eyes, and looked, and behold behind him a ram caught in a thicket by his horns:\n\nGenesis 22:13 and Abraham went and took the ram, and offered him up for a burnt offering in the stead of his son.\n\n🙌 Subscribe and join our journey from Genesis to Revelation — one small passage at a time!\n\n📖 Follow Us:\n➡️ Patreon: https://patreon.com/dailybiblepassages\n➡️ Instagram: instagram.com/thebibledailyyt\n➡️ Facebook: www.facebook.com/profile.php?id=61575301427014\n\n#DailyBiblePassages #DailyScripture #BibleReading #FaithJourney #GenesisToRevelation",
+        "title": "📖 Today's Verses: Genesis 24:42 – Genesis 24:44",
+        "description": "📖 Today's Verses: Genesis 24:42 – Genesis 24:44\n\n✝️ Welcome to Daily Bible Passages! We post 3 short Bible videos daily, featuring 3–5 verses each.\n\nGenesis 24:42 And I came this day unto the well, and said, O Lord God of my master Abraham, if now thou do prosper my way which I go:\n\nGenesis 24:43 Behold, I stand by the well of water; and it shall come to pass, that when the virgin cometh forth\n\nGenesis 24:43 to draw water, and I say to her, Give me, I pray thee, a little water of thy pitcher to drink;\n\nGenesis 24:44 And she say to me, Both drink thou, and I will also draw for thy camels: let the same be the woman whom the Lord hath appointed out for my master’s son.\n\n🙌 Subscribe and join our journey from Genesis to Revelation — one small passage at a time!\n\n📖 Follow Us:\n➡️ Patreon: https://patreon.com/dailybiblepassages\n➡️ Instagram: instagram.com/thebibledailyyt\n➡️ Facebook: www.facebook.com/profile.php?id=61575301427014\n\n#DailyBiblePassages #DailyScripture #BibleReading #FaithJourney #GenesisToRevelation",
         "tags": [
             "DailyBiblePassages",
             "DailyScripture",
@@ -136,10 +136,7 @@
     "background_music_type": "uplifting",
     "background_music_name": "uplifting",
     "background_music": "uplifting",
-    "reference": "Genesis 22:12 – Genesis 22:13",
+    "reference": "Genesis 24:42 – Genesis 24:44",
     "tone": "neutral",
-    "image_style": "Leonardo Phoenix 1.0",
-    "raw_video": "/home/trilobyte/ai/dailybible/output/final/144_assembler_raw.mp4",
-    "final_video": "/home/trilobyte/ai/dailybible/final/144_assembler_final.mp4",
-    "overlay_video": "/home/trilobyte/ai/dailybible/final/144_assembler_final.mp4"
+    "image_style": "Leonardo Phoenix 1.0"
 }

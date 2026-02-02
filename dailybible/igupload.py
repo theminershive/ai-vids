@@ -14,28 +14,19 @@ from urllib.parse import quote
 from dotenv import load_dotenv
 from http.server import ThreadingHTTPServer, SimpleHTTPRequestHandler
 
+from social_tokens import get_instagram_token
 load_dotenv()
 logging.basicConfig(level=logging.DEBUG, format='%(asctime)s - %(levelname)s - %(message)s')
 
-APP_ID = os.getenv('APP_ID')
-APP_SECRET = os.getenv('APP_SECRET')
-SHORT_LIVED_TOKEN = os.getenv('SHORT_LIVED_TOKEN')
 INSTAGRAM_ACCOUNT_ID = os.getenv('INSTAGRAM_ACCOUNT_ID')
 PUBLIC_IP = os.getenv('PUBLIC_IP', '127.0.0.1')
 BASE_HTTP_PORT = int(os.getenv('HTTP_PORT', '8301'))
 
 def get_access_token():
-    url = "https://graph.facebook.com/oauth/access_token"
-    params = {
-        "grant_type": "fb_exchange_token",
-        "client_id": APP_ID,
-        "client_secret": APP_SECRET,
-        "fb_exchange_token": SHORT_LIVED_TOKEN
-    }
-    resp = requests.get(url, params=params)
-    if resp.status_code == 200:
-        return resp.json().get("access_token")
-    logging.error(f"Failed to fetch token: {resp.text}")
+    token = get_instagram_token()
+    if token:
+        return token
+    logging.error("Failed to fetch Instagram access token. Check APP_ID/APP_SECRET/SHORT_LIVED_TOKEN or USER_ACCESS_TOKEN.")
     sys.exit(1)
 
 def transcode_for_instagram(input_path):

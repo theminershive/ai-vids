@@ -1,0 +1,15 @@
+HTTP/1.1 200 OK
+date: Mon, 02 Feb 2026 16:11:24 GMT
+server: uvicorn
+x-tts-voice-id: valentino
+x-tts-seed: 
+x-tts-do-sample: true
+x-tts-temperature: 0.76
+x-tts-top-p: 0.81
+x-tts-top-k: 
+x-tts-repetition-penalty: 
+x-tts-lead-in-ms: 80
+x-tts-used-reference-audio: true
+content-type: audio/wav
+Transfer-Encoding: chunked
+

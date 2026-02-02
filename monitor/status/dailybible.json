@@ -1,0 +1,79 @@
+{
+  "repo": "dailybible",
+  "last_update": "2026-02-02 17:30:12",
+  "last_update_epoch": 1770053412.3029733,
+  "counters": {
+    "runs_total": 4,
+    "runs_success": 1,
+    "runs_error": 0
+  },
+  "run": {
+    "id": "194_assembler",
+    "status": "success",
+    "started_at": "2026-02-02 17:22:22",
+    "started_at_epoch": 1770052942.5428226,
+    "last_stage": "overlay",
+    "last_stage_started_at": "2026-02-02 17:29:10",
+    "last_stage_started_at_epoch": 1770053350.3817577
+  },
+  "stages": {
+    "assemble": {
+      "last_start": "2026-02-02 17:21:54",
+      "last_start_epoch": 1770052914.0437899,
+      "last_end": "2026-02-02 17:22:22",
+      "last_end_epoch": 1770052942.5389228,
+      "last_elapsed_sec": 28.49513292312622,
+      "last_status": "success"
+    },
+    "visuals": {
+      "last_start": "2026-02-02 17:22:22",
+      "last_start_epoch": 1770052942.543854,
+      "last_end": "2026-02-02 17:23:28",
+      "last_end_epoch": 1770053008.843075,
+      "last_elapsed_sec": 66.29922103881836,
+      "last_status": "success"
+    },
+    "tts": {
+      "last_start": "2026-02-02 17:23:28",
+      "last_start_epoch": 1770053008.8441994,
+      "last_end": "2026-02-02 17:24:13",
+      "last_end_epoch": 1770053053.325161,
+      "last_elapsed_sec": 44.480961561203,
+      "last_status": "success"
+    },
+    "assemble_video": {
+      "last_start": "2026-02-02 17:24:13",
+      "last_start_epoch": 1770053053.3265145,
+      "last_end": "2026-02-02 17:27:20",
+      "last_end_epoch": 1770053240.6892083,
+      "last_elapsed_sec": 187.3626937866211,
+      "last_status": "success"
+    },
+    "captions": {
+      "last_start": "2026-02-02 17:27:20",
+      "last_start_epoch": 1770053240.690691,
+      "last_end": "2026-02-02 17:29:10",
+      "last_end_epoch": 1770053350.3786697,
+      "last_elapsed_sec": 109.68797874450684,
+      "last_status": "success"
+    },
+    "overlay": {
+      "last_start": "2026-02-02 17:29:10",
+      "last_start_epoch": 1770053350.3817577,
+      "last_end": "2026-02-02 17:30:12",
+      "last_end_epoch": 1770053412.2982,
+      "last_elapsed_sec": 61.91644215583801,
+      "last_status": "success"
+    }
+  },
+  "last": {
+    "topic": "Genesis 27:20 – Genesis 27:22",
+    "script_path": "/home/trilobyte/ai/dailybible/ready/194_assembler.json",
+    "ready_name": "194_assembler.json",
+    "section_count": 4,
+    "reference": "Genesis 27:20 – Genesis 27:22",
+    "run_number": null,
+    "final_video": "/home/trilobyte/ai/dailybible/final/194_assembler_final.mp4"
+  },
+  "errors": []
+}

@@ -1,0 +1,15 @@
+[Unit]
+Description=bibleread comment bot
+After=network-online.target
+Wants=network-online.target
+
+[Service]
+Type=simple
+WorkingDirectory=/home/trilobyte/ai/bibleread
+EnvironmentFile=/home/trilobyte/ai/bibleread/.env
+ExecStart=/usr/bin/env python3 comment.py
+Restart=always
+RestartSec=5
+
+[Install]
+WantedBy=multi-user.target

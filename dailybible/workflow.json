@@ -1,0 +1,190 @@
+{
+  "9": {
+    "inputs": {
+      "filename_prefix": "Flux2_Turbo",
+      "images": [
+        "68:8",
+        0
+      ]
+    },
+    "class_type": "SaveImage",
+    "_meta": {
+      "title": "Save Image"
+    }
+  },
+  "68:10": {
+    "inputs": {
+      "vae_name": "flux2-vae.safetensors"
+    },
+    "class_type": "VAELoader",
+    "_meta": {
+      "title": "Load VAE"
+    }
+  },
+  "68:12": {
+    "inputs": {
+      "unet_name": "flux2_dev_fp8mixed.safetensors",
+      "weight_dtype": "default"
+    },
+    "class_type": "UNETLoader",
+    "_meta": {
+      "title": "Load Diffusion Model"
+    }
+  },
+  "68:16": {
+    "inputs": {
+      "sampler_name": "euler"
+    },
+    "class_type": "KSamplerSelect",
+    "_meta": {
+      "title": "KSamplerSelect"
+    }
+  },
+  "68:25": {
+    "inputs": {
+      "noise_seed": 1017764312001647
+    },
+    "class_type": "RandomNoise",
+    "_meta": {
+      "title": "RandomNoise"
+    }
+  },
+  "68:38": {
+    "inputs": {
+      "clip_name": "mistral_3_small_flux2_bf16.safetensors",
+      "type": "flux2",
+      "device": "default"
+    },
+    "class_type": "CLIPLoader",
+    "_meta": {
+      "title": "Load CLIP"
+    }
+  },
+  "68:47": {
+    "inputs": {
+      "width": 1088,
+      "height": 1920,
+      "batch_size": 1
+    },
+    "class_type": "EmptyFlux2LatentImage",
+    "_meta": {
+      "title": "Empty Flux 2 Latent"
+    }
+  },
+  "68:48": {
+    "inputs": {
+      "steps": 8,
+      "width": 1080,
+      "height": 1920
+    },
+    "class_type": "Flux2Scheduler",
+    "_meta": {
+      "title": "Flux2Scheduler"
+    }
+  },
+  "68:70": {
+    "inputs": {
+      "lora_name": "Flux_2-Turbo-LoRA_comfyui.safetensors",
+      "strength_model": 1,
+      "strength_clip": 1,
+      "model": [
+        "68:12",
+        0
+      ],
+      "clip": [
+        "68:38",
+        0
+      ]
+    },
+    "class_type": "LoraLoader",
+    "_meta": {
+      "title": "Load LoRA (Turbo)"
+    }
+  },
+  "68:6": {
+    "inputs": {
+      "text": "And she went, and sat her down over against him a good way off, as it were a bowshot: for she said, Let me not see the death of the child. And she sat over against him, and lift up her voice, and wept. No Text. ",
+      "clip": [
+        "68:70",
+        1
+      ]
+    },
+    "class_type": "CLIPTextEncode",
+    "_meta": {
+      "title": "CLIP Text Encode (Positive Prompt)"
+    }
+  },
+  "68:26": {
+    "inputs": {
+      "guidance": 4,
+      "conditioning": [
+        "68:6",
+        0
+      ]
+    },
+    "class_type": "FluxGuidance",
+    "_meta": {
+      "title": "FluxGuidance"
+    }
+  },
+  "68:22": {
+    "inputs": {
+      "model": [
+        "68:70",
+        0
+      ],
+      "conditioning": [
+        "68:26",
+        0
+      ]
+    },
+    "class_type": "BasicGuider",
+    "_meta": {
+      "title": "BasicGuider"
+    }
+  },
+  "68:13": {
+    "inputs": {
+      "noise": [
+        "68:25",
+        0
+      ],
+      "guider": [
+        "68:22",
+        0
+      ],
+      "sampler": [
+        "68:16",
+        0
+      ],
+      "sigmas": [
+        "68:48",
+        0
+      ],
+      "latent_image": [
+        "68:47",
+        0
+      ]
+    },
+    "class_type": "SamplerCustomAdvanced",
+    "_meta": {
+      "title": "SamplerCustomAdvanced"
+    }
+  },
+  "68:8": {
+    "inputs": {
+      "samples": [
+        "68:13",
+        0
+      ],
+      "vae": [
+        "68:10",
+        0
+      ]
+    },
+    "class_type": "VAEDecode",
+    "_meta": {
+      "title": "VAE Decode"
+    }
+  }
+}

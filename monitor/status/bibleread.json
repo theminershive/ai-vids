@@ -1,0 +1,42 @@
+{
+  "repo": "bibleread",
+  "last_update": "2026-02-02 01:52:13",
+  "last_update_epoch": 1769997133.3046541,
+  "counters": {
+    "runs_total": 1,
+    "runs_success": 0,
+    "runs_error": 0
+  },
+  "run": {
+    "id": "171_assembler",
+    "status": "running",
+    "started_at": "2026-02-02 01:52:13",
+    "started_at_epoch": 1769997133.3035114,
+    "last_stage": "visuals",
+    "last_stage_started_at": "2026-02-02 01:52:13",
+    "last_stage_started_at_epoch": 1769997133.3046403
+  },
+  "stages": {
+    "assemble": {
+      "last_start": "2026-02-02 01:51:29",
+      "last_start_epoch": 1769997089.722523,
+      "last_end": "2026-02-02 01:52:13",
+      "last_end_epoch": 1769997133.2726085,
+      "last_elapsed_sec": 43.55008554458618,
+      "last_status": "success"
+    },
+    "visuals": {
+      "last_start": "2026-02-02 01:52:13",
+      "last_start_epoch": 1769997133.3046403
+    }
+  },
+  "last": {
+    "topic": "Genesis 24:64 – Genesis 24:67",
+    "script_path": "/home/trilobyte/ai/bibleread/ready/171_assembler.json",
+    "ready_name": "171_assembler.json",
+    "section_count": 1,
+    "reference": "Genesis 24:64 – Genesis 24:67",
+    "run_number": null
+  },
+  "errors": []
+}

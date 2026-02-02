@@ -3,6 +3,7 @@ from __future__ import annotations
 
 import base64
 import logging
+import os
 from dataclasses import dataclass
 from pathlib import Path
 from typing import Optional
@@ -19,6 +20,8 @@ class ImageResult:
     url: Optional[str] = None
     b64: Optional[str] = None
     extension: str = ".png"
+
+IMAGE_DOWNLOAD_TIMEOUT_S = int(os.getenv("IMAGE_DOWNLOAD_TIMEOUT_S", "900"))
 
 
 def generate_openai_image(prompt: str, config: AppConfig) -> ImageResult:
@@ -53,6 +56,11 @@ def generate_image(prompt: str, config: AppConfig) -> ImageResult:
         if not path:
             raise RuntimeError("ComfyUI generation returned no image.")
         return ImageResult(url=str(path), extension=Path(path).suffix or ".png")
+    if backend == "leonardo":
+        path = generate_visual(prompt, section_idx=1, style_name=config.channel.image_generation_style)
+        if not path:
+            raise RuntimeError("Leonardo generation returned no image.")
+        return ImageResult(url=str(path), extension=Path(path).suffix or ".png")
     if backend == "openai":
         return generate_openai_image(prompt, config)
     logging.warning("Unknown IMAGE_BACKEND '%s'; falling back to OpenAI.", backend)
@@ -71,7 +79,7 @@ def save_image(result: ImageResult, dest: Path) -> Path:
         if src.exists():
             dest.write_bytes(src.read_bytes())
             return dest
-        resp = requests.get(result.url, stream=True, timeout=120)
+        resp = requests.get(result.url, stream=True, timeout=IMAGE_DOWNLOAD_TIMEOUT_S)
         resp.raise_for_status()
         with open(dest, "wb") as handle:
             for chunk in resp.iter_content(8192):

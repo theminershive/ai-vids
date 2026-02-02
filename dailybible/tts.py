@@ -2,8 +2,12 @@ import os
 import json
 import time
 import requests
+import shutil
+import subprocess
+import base64
 from pathlib import Path
 from dotenv import load_dotenv
+from tts_voice_resolver import resolve_voice
 
 load_dotenv()
 
@@ -20,6 +24,14 @@ TTS_FORMAT = os.getenv("TTS_FORMAT", "mp3").strip().lower()  # mp3|wav
 TTS_LANGUAGE = os.getenv("TTS_LANGUAGE", "Auto").strip()  # kept for backwards compat (not used by compat API)
 TTS_STABILITY = float(os.getenv("TTS_STABILITY", "0.3"))
 TTS_SIMILARITY = float(os.getenv("TTS_SIMILARITY", "0.7"))
+TTS_PREPEND_SILENCE_MS = int(os.getenv("TTS_PREPEND_SILENCE_MS", "150"))
+TTS_APPEND_SILENCE_MS = int(os.getenv("TTS_APPEND_SILENCE_MS", "200"))
+TTS_SOURCE_WAV = os.getenv("TTS_SOURCE_WAV", "1").strip().lower() in ("1", "true", "yes", "y")
+
+QWEN_USE_CLONE = os.getenv("QWEN_USE_CLONE", "1").strip().lower() in ("1", "true", "yes", "y")
+QWEN_CLONE_VOICE_PATH = os.getenv("QWEN_CLONE_VOICE_PATH", "").strip()
+QWEN_CLONE_FIELD = os.getenv("QWEN_CLONE_FIELD", "reference_audio").strip()
+QWEN_CLONE_MIME = os.getenv("QWEN_CLONE_MIME", "audio/mpeg").strip()
 
 # IMPORTANT: what should "default/blank" tone map to?
 DEFAULT_TONE_NAME = os.getenv("DEFAULT_TONE_NAME", "Valentino").strip()
@@ -34,11 +46,38 @@ AUDIO_DIR = Path(os.getenv("AUDIO_DIR", "audio"))
 AUDIO_DIR.mkdir(parents=True, exist_ok=True)
 
 DEBUG_TTS = os.getenv("DEBUG_TTS", "1").strip().lower() in ("1", "true", "yes", "y")
+TTS_DRY_RUN = os.getenv("TTS_DRY_RUN", "0").strip().lower() in ("1", "true", "yes", "y")
 
 
 def log(msg: str):
     if DEBUG_TTS:
         print(msg, flush=True)
+
+
+def _find_ffmpeg() -> str:
+    return os.getenv("FFMPEG_PATH") or shutil.which("ffmpeg") or "ffmpeg"
+
+
+def _convert_wav_to_mp3_with_delay(wav_path: Path, mp3_path: Path, delay_ms: int, append_ms: int) -> None:
+    ffmpeg = _find_ffmpeg()
+    delay = max(delay_ms, 0)
+    pad = max(append_ms, 0) / 1000.0
+    filter_arg = f"adelay={delay}|{delay},apad=pad_dur={pad}"
+    cmd = [
+        ffmpeg,
+        "-y",
+        "-i",
+        str(wav_path),
+        "-filter_complex",
+        filter_arg,
+        "-codec:a",
+        "libmp3lame",
+        "-q:a",
+        "2",
+        str(mp3_path),
+    ]
+    log(f"[TTS] ffmpeg convert wav->mp3 with delay {delay}ms + tail {append_ms}ms")
+    subprocess.run(cmd, check=True, stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
 
 
 # ------------------- VOICES -------------------
@@ -65,6 +104,12 @@ VALENTINO_FORCE_MODEL_ID = os.getenv(
     "VALENTINO_FORCE_MODEL_ID",
     "style:warm, steady, reverent, calm pacing"
 ).strip()
+
+# Force these settings for Qwen backend (per request)
+QWEN_FORCE_VOICE_ID = "valentino"
+QWEN_FORCE_STABILITY = 0.95
+QWEN_FORCE_SIMILARITY = 0.85
+QWEN_FORCE_MODEL_ID = "style:warm, steady, reverent, calm pacing"
 
 
 def _canonical_voice_name(requested: str) -> str:
@@ -212,11 +257,13 @@ def generate_tts_qwen_compat(
     stability: float = 0.3,
     similarity_boost: float = 0.7,
     model_id=None,
+    clone_extras: dict | None = None,
 ) -> None:
     audio_path.parent.mkdir(parents=True, exist_ok=True)
 
     voice_id = _resolve_qwen_voice_id(tone_name)
-    accept = "audio/mpeg" if TTS_FORMAT == "mp3" else "audio/wav"
+    want_mp3 = TTS_FORMAT == "mp3"
+    accept = "audio/wav" if (want_mp3 and TTS_SOURCE_WAV) else ("audio/mpeg" if want_mp3 else "audio/wav")
     url = f"{QWEN_TTS_API_BASE}{QWEN_TTS_PATH_TMPL}".format(voice_id=voice_id)
 
     headers = {"Content-Type": "application/json", "Accept": accept}
@@ -226,8 +273,32 @@ def generate_tts_qwen_compat(
     payload = {
         "text": narration_text,
         "model_id": model_id,
+        "language": (TTS_LANGUAGE or "English"),
         "voice_settings": {"stability": float(stability), "similarity_boost": float(similarity_boost)},
     }
+    use_clone = QWEN_USE_CLONE or _is_valentino(tone_name)
+    clone_path = None
+    if QWEN_CLONE_VOICE_PATH and os.path.isfile(QWEN_CLONE_VOICE_PATH):
+        clone_path = QWEN_CLONE_VOICE_PATH
+    else:
+        local_clone = Path(__file__).parent / "voiceclone.mp3"
+        if local_clone.exists():
+            clone_path = str(local_clone)
+    if clone_extras:
+        for k, v in clone_extras.items():
+            payload[k] = v
+    elif use_clone and clone_path:
+        with open(clone_path, "rb") as f:
+            b64 = base64.b64encode(f.read()).decode("utf-8")
+        payload[QWEN_CLONE_FIELD or "reference_audio"] = b64
+        payload["reference_audio"] = b64
+        payload["ref_audio"] = b64
+        payload["reference_audio_type"] = QWEN_CLONE_MIME
+
+    if TTS_DRY_RUN:
+        log(f"[TTS] DRY_RUN payload voice={tone_name} extras={list((clone_extras or {}).keys())}")
+        audio_path.write_bytes(b"")
+        return
 
     r = requests.post(url, json=payload, headers=headers, timeout=600)
     ctype = (r.headers.get("content-type") or "").lower()
@@ -242,13 +313,29 @@ def generate_tts_qwen_compat(
     if r.status_code != 200:
         raise RuntimeError(f"Qwen TTS HTTP {r.status_code}: {r.text[:600]}")
 
-    with open(audio_path, "wb") as f:
-        f.write(r.content)
+    if want_mp3 and TTS_SOURCE_WAV:
+        wav_path = audio_path.with_suffix(".wav")
+        with open(wav_path, "wb") as f:
+            f.write(r.content)
+        _convert_wav_to_mp3_with_delay(wav_path, audio_path, TTS_PREPEND_SILENCE_MS, TTS_APPEND_SILENCE_MS)
+        try:
+            wav_path.unlink(missing_ok=True)
+        except Exception:
+            pass
+    else:
+        with open(audio_path, "wb") as f:
+            f.write(r.content)
 
 
 # ------------------- Unified entry -------------------
 def generate_tts(narration_text: str, audio_path: Path, tone: str, **kwargs) -> bool:
-    voice_name = _canonical_voice_name(tone)
+    final_voice, clone_extras, reason = resolve_voice(
+        requested_voice=tone,
+        default_voice=DEFAULT_TONE_NAME,
+        fallback_voice=TTS_FALLBACK_VOICE,
+        clone_path=QWEN_CLONE_VOICE_PATH,
+    )
+    voice_name = _canonical_voice_name(final_voice)
 
     stability = float(kwargs.get("stability", TTS_STABILITY))
     similarity = float(kwargs.get("similarity_boost", TTS_SIMILARITY))
@@ -265,6 +352,12 @@ def generate_tts(narration_text: str, audio_path: Path, tone: str, **kwargs) -> 
             log(f"[ERR] ElevenLabs failed for voice='{voice_name}': {e}")
             return False
 
+    # Force Qwen compat settings only when using Valentino
+    if voice_name.lower() == "valentino":
+        stability = QWEN_FORCE_STABILITY
+        similarity = QWEN_FORCE_SIMILARITY
+        model_id = QWEN_FORCE_MODEL_ID
+
     try:
         generate_tts_qwen_compat(
             narration_text=narration_text,
@@ -273,6 +366,7 @@ def generate_tts(narration_text: str, audio_path: Path, tone: str, **kwargs) -> 
             stability=stability,
             similarity_boost=similarity,
             model_id=model_id,
+            clone_extras=clone_extras,
         )
         return True
     except Exception as e:

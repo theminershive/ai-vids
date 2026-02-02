@@ -1,0 +1,15 @@
+[Unit]
+Description=dailybible internal scheduler
+After=network-online.target
+Wants=network-online.target
+
+[Service]
+Type=simple
+WorkingDirectory=/home/trilobyte/ai/dailybible
+EnvironmentFile=/home/trilobyte/ai/dailybible/.env
+ExecStart=/usr/bin/env python3 scheduler.py
+Restart=always
+RestartSec=5
+
+[Install]
+WantedBy=multi-user.target

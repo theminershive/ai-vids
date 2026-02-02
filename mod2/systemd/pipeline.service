@@ -1,0 +1,14 @@
+[Unit]
+Description=mod2 pipeline
+After=network-online.target
+Wants=network-online.target
+
+[Service]
+Type=oneshot
+WorkingDirectory=/home/trilobyte/ai/mod2
+EnvironmentFile=/home/trilobyte/ai/mod2/.env
+ExecStart=/usr/bin/env python3 app.py
+TimeoutStartSec=0
+
+[Install]
+WantedBy=multi-user.target

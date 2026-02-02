@@ -31,7 +31,14 @@ if dotenv_path.exists():
     load_dotenv(dotenv_path)
 
 LEO_ENDPOINT = 'https://cloud.leonardo.ai/api/rest/v1'
-VISUAL_BACKEND = os.getenv('VISUAL_BACKEND', 'leonardo').strip().lower()
+_image_backend_env = os.getenv('IMAGE_BACKEND', '').strip().lower()
+_visual_backend_env = os.getenv('VISUAL_BACKEND', 'leonardo').strip().lower()
+if _image_backend_env in ('flux', 'comfyui'):
+    VISUAL_BACKEND = 'comfyui'
+elif _image_backend_env == 'leonardo':
+    VISUAL_BACKEND = 'leonardo'
+else:
+    VISUAL_BACKEND = _visual_backend_env
 
 # ComfyUI settings
 COMFYUI_BASE_URL = os.getenv('COMFYUI_BASE_URL', 'http://192.168.1.176:8188').rstrip('/')
@@ -50,6 +57,12 @@ COMFYUI_FILENAME_PREFIX = os.getenv('COMFYUI_FILENAME_PREFIX', 'bibleread')
 COMFYUI_LORA_NAME = os.getenv('COMFYUI_LORA_NAME', 'Flux_2-Turbo-LoRA_comfyui.safetensors').strip()
 COMFYUI_TIMEOUT_S = int(os.getenv('COMFYUI_TIMEOUT_S', '1800'))
 COMFYUI_POLL_S = float(os.getenv('COMFYUI_POLL_S', '2.0'))
+COMFYUI_REQUEST_TIMEOUT_S = int(os.getenv('COMFYUI_REQUEST_TIMEOUT_S', os.getenv('IMAGE_REQUEST_TIMEOUT_S', '900')))
+IMAGE_REQUEST_TIMEOUT_S = int(os.getenv('IMAGE_REQUEST_TIMEOUT_S', '900'))
+IMAGE_DOWNLOAD_TIMEOUT_S = int(os.getenv('IMAGE_DOWNLOAD_TIMEOUT_S', '900'))
+LEONARDO_REQUEST_TIMEOUT_S = int(os.getenv('LEONARDO_REQUEST_TIMEOUT_S', str(IMAGE_REQUEST_TIMEOUT_S)))
+LEONARDO_POLL_ATTEMPTS = int(os.getenv('LEONARDO_POLL_ATTEMPTS', '90'))
+LEONARDO_POLL_INTERVAL_S = float(os.getenv('LEONARDO_POLL_INTERVAL_S', '10'))
 
 # Strong "no text" guidance appended to the POSITIVE prompt (for workflows without an explicit negative node)
 NO_TEXT_POSITIVE_GUIDANCE = os.getenv(
@@ -113,7 +126,7 @@ def generate_image_once(prompt: str, model: dict) -> str:
     # POST to /generations
     url = f"{LEO_ENDPOINT}/generations"
     headers = _get_headers()
-    resp = requests.post(url, headers=headers, json=payload)
+    resp = requests.post(url, headers=headers, json=payload, timeout=LEONARDO_REQUEST_TIMEOUT_S)
     resp.raise_for_status()
     data = resp.json()
     gen_id = data.get('generations_by_pk', {}).get('id') or data.get('sdGenerationJob', {}).get('generationId')
@@ -122,9 +135,13 @@ def generate_image_once(prompt: str, model: dict) -> str:
     logging.info(f"Generation started: {gen_id}")
 
     # Poll
-    for i in range(30):
-        time.sleep(2)
-        poll = requests.get(f"{LEO_ENDPOINT}/generations/{gen_id}", headers=headers)
+    for i in range(LEONARDO_POLL_ATTEMPTS):
+        time.sleep(LEONARDO_POLL_INTERVAL_S)
+        poll = requests.get(
+            f"{LEO_ENDPOINT}/generations/{gen_id}",
+            headers=headers,
+            timeout=LEONARDO_REQUEST_TIMEOUT_S,
+        )
         poll.raise_for_status()
         st = poll.json()
         status = (st.get('status') or
@@ -307,7 +324,11 @@ def comfyui_build_workflow(prompt: str) -> dict:
 
 
 def comfyui_queue_prompt(workflow: dict) -> str:
-    resp = requests.post(f"{COMFYUI_BASE_URL}/prompt", json={"prompt": workflow}, timeout=120)
+    resp = requests.post(
+        f"{COMFYUI_BASE_URL}/prompt",
+        json={"prompt": workflow},
+        timeout=COMFYUI_REQUEST_TIMEOUT_S,
+    )
     if resp.status_code >= 400:
         logging.error(f"ComfyUI /prompt error {resp.status_code}: {resp.text}")
         resp.raise_for_status()
@@ -322,7 +343,7 @@ def comfyui_poll_history(prompt_id: str) -> dict:
     url = f"{COMFYUI_BASE_URL}/history/{prompt_id}"
     deadline = time.time() + COMFYUI_TIMEOUT_S
     while time.time() < deadline:
-        resp = requests.get(url, timeout=120)
+        resp = requests.get(url, timeout=COMFYUI_REQUEST_TIMEOUT_S)
         resp.raise_for_status()
         data = resp.json() or {}
         job = data.get(prompt_id) or {}
@@ -364,7 +385,7 @@ def download_file(url: str, dest: Path):
         shutil.copyfile(Path(url), dest)
         logging.info(f"Saved image to {dest}")
         return
-    r = requests.get(url, stream=True, timeout=120)
+    r = requests.get(url, stream=True, timeout=IMAGE_DOWNLOAD_TIMEOUT_S)
     r.raise_for_status()
     with open(dest, 'wb') as f:
         for chunk in r.iter_content(8192):
